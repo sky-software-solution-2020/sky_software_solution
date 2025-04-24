@@ -1,6 +1,10 @@
-export default function Events
-() {
+
+
+
+export default function Events() {
   return (
-    <h1>Hello</h1>
+    <>
+      <div>Hello</div>
+    </>
   );
 }

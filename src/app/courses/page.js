@@ -1,3 +1,10 @@
+
+
+
 export default function Courses() {
-  return <h1>Hello</h1>;
+  return (
+    <>
+      <div>Hello</div>
+    </>
+  );
 }
