@@ -47,7 +47,7 @@ export const TextGenerateEffect = ({
 
   return (
     <div className={cn("font-bold", className)}>
-      <div className="md:text-7xl uppercase text-3xl lg:text-7xl font-bold text-center text-white relative z-20" style={{fontFamily: 'algerian'}}>
+      <div className="md:text-5xl uppercase text-2xl lg:text-7xl font-bold text-center text-white relative z-20" style={{fontFamily: 'algerian'}}>
         {renderWords()}
       </div>
     </div>

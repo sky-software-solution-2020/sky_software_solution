@@ -2,6 +2,7 @@
 
 import { useAppContext } from "@/components/context/AppContext";
 import { ProductCard } from "@/components/homepagecard/cards";
+import ImageCarousel from "@/components/homepagecard/carousel";
 import {
   Carousel,
   CarouselContent,
@@ -17,6 +18,21 @@ import { TextGenerateEffect2 } from "@/components/ui/text-generate-effect2";
 import { Button } from "@mui/material";
 import Link from "next/link";
 import { useEffect, useRef, useState } from "react";
+
+const items = [
+  {
+    id: 1,
+    src: "https://res.cloudinary.com/dhelke9k1/image/upload/v1746904134/Advantages-of-Python-Top-Reasons-to-Choose-It-Now_pluiwr.jpg",
+  },
+  {
+    id: 2,
+    src: "https://res.cloudinary.com/dhelke9k1/image/upload/v1746904136/17135301789180.6486626918564493_m4mwgw.jpg",
+  },
+  {
+    id: 3,
+    src: "https://res.cloudinary.com/dhelke9k1/image/upload/v1746904129/Discover-the-Future-of-C-Programming-and-its-Unparalleled-Role_lmr8my.jpg",
+  },
+];
 
 const testimonials = [
   {
@@ -133,7 +149,7 @@ export default function Home() {
   return (
     <div className="scrollBar w-screen overflow-x-hidden">
       <div className=" w-screen bg-gradient-to-b from-[#155DFC] to-white">
-        <div className="h-[40rem] relative w-full flex flex-col items-center justify-center overflow-hidden rounded-md">
+        <div className="xl:pt-30 pt-20 relative w-full flex flex-col items-center justify-center overflow-hidden rounded-md">
           <div className="w-full absolute inset-0 h-screen">
             <SparklesCore
               id="tsparticlesfullpage"
@@ -145,12 +161,9 @@ export default function Home() {
               particleColor="#FFFFFF"
             />
           </div>
-          <TextGenerateEffect words={"Sky Software Solution"} />
-          <TextGenerateEffect2
-            words={
-              "Sky Software Solution delivers innovative, scalable, and user-friendly digital solutions to empower businesses with modern web and mobile technologies."
-            }
-          />
+
+
+          <ImageCarousel images={items} />
         </div>
 
         <div>
@@ -205,7 +218,6 @@ export default function Home() {
 
           <InfiniteMovingCards
             items={placements}
-            direction="right"
             speed="normal"
           />
         </div>
