@@ -1,11 +1,9 @@
 'use client';
 
-<<<<<<< HEAD
+
 import axios from "axios";
 import { useState } from "react";
-=======
-import { useState } from 'react';
->>>>>>> 3f2d335229687224eefe05d6cfd601e3dc1a4bcb
+
 
 const ResumeForm = () => {
   const [formData, setFormData] = useState({
@@ -27,6 +25,7 @@ const ResumeForm = () => {
     projects: '',
     volunteerExperience: '',
     awards: '',
+    profileImage: ''
   });
 
   const handleChange = (e) => {
@@ -47,6 +46,8 @@ const ResumeForm = () => {
       }));
     }
   };
+
+
 
   const handleAddWorkExperience = () => {
     setFormData((prevData) => ({
@@ -82,22 +83,47 @@ const ResumeForm = () => {
     }));
   };
 
+  const handleImageChange = async (e) => {
+    const file = e.target.files[0];
+    if (file) {
+
+      const formData = new FormData();
+      formData.append("file", file);
+      formData.append("upload_preset", "ml_default");
+
+      const response = await axios.post(
+        `https://api.cloudinary.com/v1_1/dm4yt4r0k/image/upload`,
+        formData
+      );
+
+
+
+      if (response.status === 200) {
+        alert("Image uploaded successfully.")
+        const url = response.data.secure_url;
+
+        setFormData((prevData) => ({
+          ...prevData,
+          [e.target.name]: url,
+        }));
+      }
+
+    }
+  }
+
   const handleSubmit = async (e) => {
     e.preventDefault();
-<<<<<<< HEAD
-    const response = await axios.post("/api/v1/create-resume", {formData}, {
+
+    const response = await axios.post("/api/v1/create-resume", { formData }, {
       headers: {
-         'Content-Type': 'application/json',
+        'Content-Type': 'application/json',
       }
     })
 
-    console.log(response);
-    
+    console.log(response.data.data);
     alert("Resume submitted successfully!");
-=======
-    console.log(formData);
-    alert('Resume submitted successfully!');
->>>>>>> 3f2d335229687224eefe05d6cfd601e3dc1a4bcb
+
+
   };
 
   return (
@@ -241,14 +267,14 @@ const ResumeForm = () => {
               />
               {
                 index > 0 && <div className='w-full flex justify-end'>
-                <button
-                  type="button"
-                  onClick={() => handleRemoveWorkExperience(index)}
-                  className="bg-red-500 text-white px-3 py-1 rounded cursor-pointer"
-                >
-                  Remove
-                </button>
-              </div>
+                  <button
+                    type="button"
+                    onClick={() => handleRemoveWorkExperience(index)}
+                    className="bg-red-500 text-white px-3 py-1 rounded cursor-pointer"
+                  >
+                    Remove
+                  </button>
+                </div>
               }
             </div>
           ))}
@@ -428,6 +454,24 @@ const ResumeForm = () => {
             onChange={handleChange}
           />
         </section>
+
+
+        {/* Optional Sections */}
+        <section>
+          <h2 className="text-xl font-semibold mb-2">Profile Image</h2>
+          <input
+            name="profileImage"
+            id="profile-image"
+            type="file"
+            accept="image/*"
+            required
+            className="border-2 border-gray-500 rounded-lg p-2"
+            onChange={handleImageChange}
+
+          />
+        </section>
+
+
 
         <button type="submit" className="w-full p-3 bg-green-500 text-white rounded mt-4 cursor-pointer">
           Submit Resume
