@@ -18,39 +18,41 @@ const ImageCarousel = ({images}) => {
   useEffect(() => {
     const interval = setInterval(scrollNext, 3000);
     return () => clearInterval(interval);
-  }, [scrollNext]);
+  }, []);
 
   useEffect(() => {
     const handleTransitionEnd = () => {
       setIsTransitioning(false);
 
+      let cref = carouselRef.current
+
       if (currentIndex >= totalItems) {
         setCurrentIndex(0);
-        if (carouselRef.current) {
-          carouselRef.current.style.transition = "none";
-          carouselRef.current.style.transform = `translateX(0)`;
+        if (cref) {
+          cref.style.transition = "none";
+          cref.style.transform = `translateX(0)`;
         }
       } else if (currentIndex < 0) {
         setCurrentIndex(totalItems - 1);
-        if (carouselRef.current) {
-          carouselRef.current.style.transition = "none";
-          carouselRef.current.style.transform = `translateX(-${
+        if (cref) {
+          cref.style.transition = "none";
+          cref.style.transform = `translateX(-${
             (totalItems - 1) * 100
           }%)`;
         }
       }
     };
 
-    if (carouselRef.current) {
-      carouselRef.current.addEventListener(
+    if (cref) {
+      cref.addEventListener(
         "transitionend",
         handleTransitionEnd
       );
     }
 
     return () => {
-      if (carouselRef.current) {
-        carouselRef.current.removeEventListener(
+      if (cref) {
+        cref.removeEventListener(
           "transitionend",
           handleTransitionEnd
         );
@@ -59,9 +61,12 @@ const ImageCarousel = ({images}) => {
   }, [currentIndex, totalItems]);
 
   useEffect(() => {
-    if (carouselRef.current) {
-      carouselRef.current.style.transition = "transform 0.5s ease-in-out";
-      carouselRef.current.style.transform = `translateX(-${
+
+    let cref = carouselRef.current
+
+    if (cref) {
+      cref.style.transition = "transform 0.5s ease-in-out";
+      cref.style.transform = `translateX(-${
         currentIndex * 100
       }%)`;
     }

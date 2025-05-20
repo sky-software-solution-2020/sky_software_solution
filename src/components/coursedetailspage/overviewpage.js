@@ -29,6 +29,7 @@ export default function CourseOverview({ course }) {
                         style={{ userSelect: "none" }}
                         className="w-full rounded-3xl"
                         src={image}
+                        alt={`image-${index}`}
                       />
                     </CarouselItem>
                   ))}

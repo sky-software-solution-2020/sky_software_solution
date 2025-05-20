@@ -254,6 +254,7 @@ export default function Home() {
           <Image
             width="45px"
             src="https://img.icons8.com/?size=100&id=16713&format=png&color=000000"
+            alt="whatsappicon"
           />
         </Link>
         <Link
@@ -263,6 +264,7 @@ export default function Home() {
           <Image
             width="40px"
             src="https://img.icons8.com/?size=100&id=uLWV5A9vXIPu&format=png&color=000000"
+            alt="facebookicon"
           />
         </Link>
         <Link
@@ -272,12 +274,14 @@ export default function Home() {
           <Image
             width="40px"
             src="https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000"
+            alt="instagramicon"
           />
         </Link>
         <Link href="mailto:skysoftware2020@gmail.com">
           <Image
             width="35px"
             src="https://img.icons8.com/?size=100&id=8126&format=png&color=000000"
+            alt="gmailicon"
           />
         </Link>
       </div>

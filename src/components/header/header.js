@@ -65,6 +65,7 @@ export default function Header({ home }) {
                 <Image
                   className="w-15 "
                   src="https://res.cloudinary.com/dhelke9k1/image/upload/v1745390515/Screenshot_2022-06-20_100555_1_unxj7n.png"
+                  alt="logo"
                 />
                 <div className="flex flex-col items-center text-white">
                   <p className="text-xl font-bold">Sky Software Solution</p>
@@ -84,6 +85,7 @@ export default function Header({ home }) {
               : "-translate-x-full -translate-y-full opacity-0"
           }`}
                     src="https://res.cloudinary.com/dhelke9k1/image/upload/v1745390515/Screenshot_2022-06-20_100555_1_unxj7n.png"
+                     alt="logo"
                   />
                 )}
 
@@ -210,6 +212,7 @@ export default function Header({ home }) {
               <Image
                 className="w-15 "
                 src="https://res.cloudinary.com/dhelke9k1/image/upload/v1745390515/Screenshot_2022-06-20_100555_1_unxj7n.png"
+                 alt="logo"
               />
               <div className="flex flex-col items-center text-white">
                 <p className="text-xl font-bold">Sky Software Solution</p>
@@ -331,6 +334,7 @@ export default function Header({ home }) {
                     <Image
                       className="w-15"
                       src="https://res.cloudinary.com/dhelke9k1/image/upload/v1745390515/Screenshot_2022-06-20_100555_1_unxj7n.png"
+                       alt="logo"
                     />
                     <div className="flex flex-col items-center text-blue-600">
                       <p className="text-xl font-bold">Sky Software Solution</p>

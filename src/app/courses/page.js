@@ -53,6 +53,7 @@ export default function Courses() {
                           <Image 
                             className="rounded-2xl w-full"
                             src={course.avatarImage}
+                            alt={course.courseName}
                           />
                           <Button
                             className="bg-blue-600! rounded-2xl! text-white! font-bold! capitalize!"
