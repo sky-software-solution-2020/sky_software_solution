@@ -56,7 +56,6 @@ export async function POST(req, res) {
 
   return Response.json({
     message: "Resume generated Successfully.",
-    data: formData
   })
   } catch (err) {
     return Response.json({

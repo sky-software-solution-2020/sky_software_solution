@@ -114,17 +114,22 @@ const ResumeForm = () => {
   const handleSubmit = async (e) => {
     e.preventDefault();
 
-    try{
+    try {
       const response = await axios.post("/api/v1/create-resume", { formData }, {
-      headers: {
-        'Content-Type': 'application/json',
-      }
-    })
+        headers: {
+          'Content-Type': 'application/json',
+        }
+      })
 
-    console.log(response.data);
-    alert("Resume submitted successfully!");
+      const filename = formData.fullName.split(" ").join("-").toLowerCase()
 
-    }catch(err){
+      const a = document.createElement('a')
+      a.href = `/resume/${filename}.pdf`
+      a.click()
+
+
+
+    } catch (err) {
       console.error(err)
     }
 
