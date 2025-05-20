@@ -26,7 +26,7 @@ const items = [
   },
   {
     id: 2,
-    src: "https://res.cloudinary.com/dhelke9k1/image/upload/v1746904136/17135301789180.6486626918564493_m4mwgw.jpg",
+    src: "https://res.cloudinary.com/dhelke9k1/image/upload/v1747740199/3665736-business-man-push-on-a-touch-screen-interface-java-programming-concept-virtual-machine-foto_jyhots.jpg",
   },
   {
     id: 3,

@@ -5,7 +5,6 @@ import CourseContent from "@/components/coursedetailspage/coursecontentpage";
 import CourseTutorials from "@/components/coursedetailspage/coursetutorials";
 import CourseOverview from "@/components/coursedetailspage/overviewpage";
 import CoursePracticeQuestion from "@/components/coursedetailspage/practicequestionpage";
-import CourseQuizTest from "@/components/coursedetailspage/quiztestpage";
 import { Button } from "@mui/material";
 import { usePathname, useRouter, useSearchParams } from "next/navigation";
 
@@ -21,8 +20,6 @@ export default function CoursesDetails() {
     router.push(`/courses/course-details/${path}?coursename=${courseName}`);
   };
 
-  console.log(courses);
-
   return (
     <>
       <div className="w-screen pt-15">
@@ -32,19 +29,17 @@ export default function CoursesDetails() {
               "Overview",
               "Course Content",
               "Tutorials",
-              "Practice Question",
-              "Quiz Test",
+              "Practice Question"
             ].map((item, index) => (
               <Button
                 key={index}
                 onClick={() =>
                   handleButtonClick(item.toLowerCase().replace(" ", "-"))
                 }
-                className={`${
-                  pathName.includes(item.toLowerCase().replace(" ", "-"))
+                className={`${pathName.includes(item.toLowerCase().replace(" ", "-"))
                     ? "bg-blue-600! text-white!"
                     : "bg-white! text-blue-600!"
-                } border-3! rounded-2xl! border-blue-600!  font-bold! capitalize!`}
+                  } border-3! rounded-2xl! border-blue-600!  font-bold! capitalize!`}
               >
                 {item}
               </Button>
@@ -64,9 +59,6 @@ export default function CoursesDetails() {
             <CoursePracticeQuestion
               course={courses.find((c) => c.courseName)}
             />
-          )}
-          {pathName.includes("quiz-test") && (
-            <CourseQuizTest course={courses.find((c) => c.courseName)} />
           )}
         </div>
       </div>

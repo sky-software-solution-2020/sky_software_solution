@@ -11,7 +11,7 @@ export default function Courses() {
   function filterCategory(array) {
     let category = [];
 
-    for (let course of courses) {
+    for (let course of array) {
       if (!category.includes(course.category)) {
         category.push(course.category);
       }
@@ -66,74 +66,6 @@ export default function Courses() {
                 </div>
               </div>
             ))}
-
-            {/* <div className="flex flex-col gap-8 border-b-3 border-gray-300 pb-10 ">
-              <p className="text-xl sm:text-2xl lg:text-3xl font-bold text-gray-600">
-                Structured and Styling Language
-              </p>
-              <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 gap-x-5 sm:gap-x-15 lg:gap-x-20 gap-y-10">
-                <div className="flex flex-col gap-3">
-                  <img
-                    className="rounded-2xl"
-                    src="https://appmaster.io/api/_files/hRaLG2N4DVjRZJQzCpN2zJ/download/"
-                  />
-                  <Button className="bg-blue-600! rounded-2xl! text-white! font-bold! capitalize!">
-                    HTML5
-                  </Button>
-                </div>
-              </div>
-            </div>
-
-            <div className="flex flex-col gap-8 border-b-3 border-gray-300 pb-10 ">
-              <p className="text-xl sm:text-2xl lg:text-3xl font-bold text-gray-600">
-                Fullstack Development
-              </p>
-              <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 gap-x-5 sm:gap-x-15 lg:gap-x-20 gap-y-10">
-                <div className="flex flex-col gap-3">
-                  <img
-                    className="rounded-2xl"
-                    src="https://appmaster.io/api/_files/hRaLG2N4DVjRZJQzCpN2zJ/download/"
-                  />
-                  <Button className="bg-blue-600! rounded-2xl! text-white! font-bold! capitalize!">
-                    Django with React
-                  </Button>
-                </div>
-              </div>
-            </div>
-
-            <div className="flex flex-col gap-8 border-b-3 border-gray-300 pb-10 ">
-              <p className="text-xl sm:text-2xl lg:text-3xl font-bold text-gray-600">
-                Data Structure, Data Science & Analytics with AI & ML
-              </p>
-              <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 gap-x-5 sm:gap-x-15 lg:gap-x-20 gap-y-10">
-                <div className="flex flex-col gap-3">
-                  <img
-                    className="rounded-2xl"
-                    src="https://appmaster.io/api/_files/hRaLG2N4DVjRZJQzCpN2zJ/download/"
-                  />
-                  <Button className="bg-blue-600! rounded-2xl! text-white! font-bold! capitalize!">
-                    DSA in Java
-                  </Button>
-                </div>
-              </div>
-            </div>
-
-            <div className="flex flex-col gap-8">
-              <p className="text-xl sm:text-2xl lg:text-3xl font-bold text-gray-600">
-                Other Courses
-              </p>
-              <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 gap-x-5 sm:gap-x-15 lg:gap-x-20 gap-y-10">
-                <div className="flex flex-col gap-3">
-                  <img
-                    className="rounded-2xl"
-                    src="https://appmaster.io/api/_files/hRaLG2N4DVjRZJQzCpN2zJ/download/"
-                  />
-                  <Button className="bg-blue-600! rounded-2xl! text-white! font-bold! capitalize!">
-                    RDBMS with Excel
-                  </Button>
-                </div>
-              </div>
-            </div> */}
           </div>
         </div>
       </div>

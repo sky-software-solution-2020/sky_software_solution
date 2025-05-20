@@ -1,12 +1,21 @@
 import path from 'path'
 import puppeteer from 'puppeteer';
 import fs from 'fs'
+import { sequelize } from '@/lib/db';
+import UserResume from '@/models/resume';
 
 export async function POST(req, res) {
 
   const { formData } = await req.json()
 
-  const folderPath = path.resolve(process.cwd(), "public", "resume")
+
+  try {
+    await sequelize.authenticate()
+    await UserResume.sync()
+
+    await UserResume.create({ ...formData })
+
+    const folderPath = path.resolve(process.cwd(), "public", "resume")
 
   if (!fs.existsSync(folderPath)) {
     fs.mkdirSync(folderPath, { recursive: true });
@@ -49,6 +58,13 @@ export async function POST(req, res) {
     message: "Resume generated Successfully.",
     data: formData
   })
+  } catch (err) {
+    return Response.json({
+    message: err.message,
+  })
+  }
+
+  
 }
 
 

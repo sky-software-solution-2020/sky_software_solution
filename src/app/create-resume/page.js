@@ -114,15 +114,19 @@ const ResumeForm = () => {
   const handleSubmit = async (e) => {
     e.preventDefault();
 
-    const response = await axios.post("/api/v1/create-resume", { formData }, {
+    try{
+      const response = await axios.post("/api/v1/create-resume", { formData }, {
       headers: {
         'Content-Type': 'application/json',
       }
     })
 
-    console.log(response.data.data);
+    console.log(response.data);
     alert("Resume submitted successfully!");
 
+    }catch(err){
+      console.error(err)
+    }
 
   };
 

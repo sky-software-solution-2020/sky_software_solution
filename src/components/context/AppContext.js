@@ -38,7 +38,7 @@ export function AppProvider({ children }) {
     async function fetchCourse() {
       try {
         const response = await axios.get(
-          `${process.env.NEXT_PUBLIC_BACKEND_URL}/api/v1/courses/all-courses`
+          `/api/v1/courses`
         );
 
         setCourses(response.data);
