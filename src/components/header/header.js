@@ -30,7 +30,7 @@ export default function Header({ home }) {
     e.preventDefault();
     setStatus(true);
 
-    const res = await fetch("/api/form-submit", {
+    const res = await fetch("/api/v1/form-submit", {
       method: "POST",
       headers: {
         "Content-Type": "application/json",

@@ -38,7 +38,7 @@ export function AppProvider({ children }) {
     async function fetchCourse() {
       try {
         const response = await axios.get(
-          `https://sky-backend-seven.vercel.app/api/v1/courses/all-courses`
+          `${process.env.NEXT_PUBLIC_BACKEND_URL}/api/v1/courses/all-courses`
         );
 
         setCourses(response.data);

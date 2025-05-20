@@ -1,22 +1,24 @@
 import { Button } from "@mui/material";
 
-export function ProductCard() {
+export function ProductCard({ course }) {
+
   return (
-    <div className="w-full p-2.5 bg-white rounded-4xl">
+    <div className=" relative w-full h-full p-2.5 bg-white rounded-4xl">
       <img
         className="w-full rounded-4xl"
-        src="https://canadian.agency/wp-content/uploads/2024/04/NativeBase-75.png"
+        src={course.avatarImage}
       />
-      <div>
-        <h1 className="text-sm font-bold p-1.5 md:text-xl">Python</h1>
-
-        <p className="flex items-center text-[18px] p-1.5 text-justify">Python is a high-level, general-purpose programming language known for its readability and versatility.</p>
-
-        <div className="flex items-center w-full justify-end p-1.5">
-          <Button className="bg-blue-600! text-white! font-bold! p-2! text-sm! md:text-xl">
-            Learn More
-          </Button>
+      <div className="flex flex-col">
+        <div className="pb-8!">
+          <h1 className="text-sm font-bold p-1.5 md:text-xl capitalize">{course.courseName}</h1>
+          <p className="flex items-center text-[18px] p-1.5 text-justify">{course.title}</p>
         </div>
+
+
+        <Button className="bg-blue-600! absolute! bottom-2! right-5! text-white! font-bold! p-2! text-sm! md:text-xl">
+          Learn More
+        </Button>
+
       </div>
     </div>
   );

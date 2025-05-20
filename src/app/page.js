@@ -113,9 +113,25 @@ const placements = [
 ];
 
 export default function Home() {
-  const { setIsScroll } = useAppContext();
+  const { setIsScroll, courses } = useAppContext();
   const [isSocialOpen, setIsSocialOpen] = useState(false);
   const socialRef = useRef(null);
+
+  const getRandomItem = (array, count) => {
+    const arr = [...array];
+    for (let i = arr.length - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1));
+
+      [arr[i], arr[j]] = [arr[j], arr[i]];
+    }
+
+    return arr.slice(0, count);
+  };
+
+  const randomCourse = getRandomItem(courses, 10)
+
+  console.log(randomCourse);
+  
 
   useEffect(() => {
     function handleClickOutside(event) {
@@ -181,12 +197,12 @@ export default function Home() {
                 className="w-full"
               >
                 <CarouselContent>
-                  {Array.from({ length: 10 }).map((_, index) => (
+                  {randomCourse.map((course, index) => (
                     <CarouselItem
                       key={index}
                       className="sm:basis-1/2 md:basis-1/2 lg:basis-1/3 xl:basis-1/4"
                     >
-                      <ProductCard />
+                      <ProductCard course={course} />
                     </CarouselItem>
                   ))}
                 </CarouselContent>

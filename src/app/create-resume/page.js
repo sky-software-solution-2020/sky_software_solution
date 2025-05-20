@@ -1,5 +1,6 @@
 'use client' 
 
+import axios from "axios";
 import { useState } from "react";
 
 const ResumeForm = () => {
@@ -50,9 +51,16 @@ const ResumeForm = () => {
     }));
   };
 
-  const handleSubmit = (e) => {
+  const handleSubmit = async (e) => {
     e.preventDefault();
-    console.log(formData);
+    const response = await axios.post("/api/v1/create-resume", {formData}, {
+      headers: {
+         'Content-Type': 'application/json',
+      }
+    })
+
+    console.log(response);
+    
     alert("Resume submitted successfully!");
   };
 
