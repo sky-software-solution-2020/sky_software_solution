@@ -2,13 +2,14 @@ import Link from "next/link";
 import { FaMapMarkedAlt } from "react-icons/fa";
 import { BiSolidPhoneCall } from "react-icons/bi";
 import { MdAlternateEmail } from "react-icons/md";
+import Image from "next/image"
 
 export default function Footer() {
   return (
     <div className="p-5 grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-5 w-screen bg-blue-600">
       <div className="flex flex-col gap-10 items-center">
         <div className="flex items-center justify-center w-full">
-          <img
+          <Image
             className="w-25"
             src="https://res.cloudinary.com/dhelke9k1/image/upload/v1745390515/Screenshot_2022-06-20_100555_1_unxj7n.png"
           />
@@ -117,7 +118,7 @@ export default function Footer() {
 
         <div className=" w-full flex justify-evenly items-center pt-3">
           <Link href="https://wa.me/919575113506" target="_black">
-            <img
+            <Image
               width="50px"
               src="https://img.icons8.com/?size=100&id=16713&format=png&color=000000"
             />
@@ -126,7 +127,7 @@ export default function Footer() {
             href="https://www.facebook.com/SkySoftwareSolution1"
             target="_black"
           >
-            <img
+            <Image
               width="45px"
               src="https://img.icons8.com/?size=100&id=uLWV5A9vXIPu&format=png&color=000000"
             />
@@ -135,7 +136,7 @@ export default function Footer() {
             href="https://www.instagram.com/skysoftwaresolution"
             target="_blank"
           >
-            <img
+            <Image
               width="45px"
               src="https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000"
             />

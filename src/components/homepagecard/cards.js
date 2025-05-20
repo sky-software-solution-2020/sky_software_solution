@@ -1,10 +1,12 @@
 import { Button } from "@mui/material";
+import Image from "next/image"
+
 
 export function ProductCard({ course }) {
 
   return (
     <div className=" relative w-full h-full p-2.5 bg-white rounded-4xl">
-      <img
+      <Image
         className="w-full rounded-4xl"
         src={course.avatarImage}
       />

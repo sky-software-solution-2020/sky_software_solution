@@ -18,6 +18,8 @@ import { TextGenerateEffect2 } from "@/components/ui/text-generate-effect2";
 import { Button } from "@mui/material";
 import Link from "next/link";
 import { useEffect, useRef, useState } from "react";
+import Image from "next/image"
+
 
 const items = [
   {
@@ -249,7 +251,7 @@ export default function Home() {
         }  hover:right-0`}
       >
         <Link href="https://wa.me/919575113506" target="_black">
-          <img
+          <Image
             width="45px"
             src="https://img.icons8.com/?size=100&id=16713&format=png&color=000000"
           />
@@ -258,7 +260,7 @@ export default function Home() {
           href="https://www.facebook.com/SkySoftwareSolution1"
           target="_black"
         >
-          <img
+          <Image
             width="40px"
             src="https://img.icons8.com/?size=100&id=uLWV5A9vXIPu&format=png&color=000000"
           />
@@ -267,13 +269,13 @@ export default function Home() {
           href="https://www.instagram.com/skysoftwaresolution"
           target="_blank"
         >
-          <img
+          <Image
             width="40px"
             src="https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000"
           />
         </Link>
         <Link href="mailto:skysoftware2020@gmail.com">
-          <img
+          <Image
             width="35px"
             src="https://img.icons8.com/?size=100&id=8126&format=png&color=000000"
           />

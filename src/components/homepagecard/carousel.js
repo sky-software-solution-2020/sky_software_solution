@@ -1,4 +1,5 @@
 import { useState, useEffect, useRef } from "react";
+import Image from "next/image"
 
 const ImageCarousel = ({images}) => {
   const [currentIndex, setCurrentIndex] = useState(0);
@@ -17,7 +18,7 @@ const ImageCarousel = ({images}) => {
   useEffect(() => {
     const interval = setInterval(scrollNext, 3000);
     return () => clearInterval(interval);
-  }, []);
+  }, [scrollNext]);
 
   useEffect(() => {
     const handleTransitionEnd = () => {

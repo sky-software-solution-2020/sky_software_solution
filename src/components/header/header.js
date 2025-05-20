@@ -10,6 +10,8 @@ import {
 } from "../ui/sheet";
 import { useEffect, useState } from "react";
 import { MdOutlineMenuOpen } from "react-icons/md";
+import Image from "next/image"
+
 
 export default function Header({ home }) {
   const { isScroll } = useAppContext();
@@ -60,7 +62,7 @@ export default function Header({ home }) {
           >
             {isScroll ? (
               <div className="flex items-center gap-3">
-                <img
+                <Image
                   className="w-15 "
                   src="https://res.cloudinary.com/dhelke9k1/image/upload/v1745390515/Screenshot_2022-06-20_100555_1_unxj7n.png"
                 />
@@ -74,7 +76,7 @@ export default function Header({ home }) {
             ) : (
               <div className="flex items-center gap-3">
                 {isShow && (
-                  <img
+                  <Image
                     className={`w-30 translate-y-5 transition-all duration-500 ease-in-out
           ${
             !isScroll
@@ -205,7 +207,7 @@ export default function Header({ home }) {
             className={`h-17 relative flex items-center justify-between py-4 px-5 bg-gradient-to-b from-[#155DFC] to-[#1E64FD] shadow-2xl" mx-4 w-auto rounded-4xl`}
           >
             <div className="flex items-center gap-3">
-              <img
+              <Image
                 className="w-15 "
                 src="https://res.cloudinary.com/dhelke9k1/image/upload/v1745390515/Screenshot_2022-06-20_100555_1_unxj7n.png"
               />
@@ -326,7 +328,7 @@ export default function Header({ home }) {
               <SheetHeader>
                 <SheetTitle>
                   <div className="flex justify-center items-center gap-3 border-b-2 border-blue-600 pb-5">
-                    <img
+                    <Image
                       className="w-15"
                       src="https://res.cloudinary.com/dhelke9k1/image/upload/v1745390515/Screenshot_2022-06-20_100555_1_unxj7n.png"
                     />
