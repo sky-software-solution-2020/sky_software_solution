@@ -6,8 +6,7 @@ export async function POST(req, res) {
   const { form } = await req.json();
 
   const transporter = nodemailer.createTransport({
-    host: process.env.HOST,
-    port: process.env.PORT,
+    service: "Gmail",
     auth: {
       user: process.env.EMAIL,
       pass: process.env.PASSWORD,
@@ -20,7 +19,7 @@ export async function POST(req, res) {
     await FormData.sync()
 
     await transporter.sendMail({
-      from: `${form.name} <${form.email}>`,
+      from: `${form.name} (${form.email})`,
       to: process.env.EMAIL,
       subject: "User Contact Form",
       text: `
