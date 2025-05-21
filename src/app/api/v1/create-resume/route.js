@@ -77,7 +77,7 @@ function generateResumeHTML(formData) {
     >
       <div
         style="
-          background-color: rgb(218, 217, 217);
+          background: rgb(218, 217, 217);
           padding: 20px;
           display: flex;
           flex-direction: column;

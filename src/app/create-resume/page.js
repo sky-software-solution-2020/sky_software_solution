@@ -120,10 +120,12 @@ const ResumeForm = () => {
         }
       })
 
-      const filename = formData.fullName.split(" ").join("-").toLowerCase()
+
+      console.log(response.data.url);
+      
 
       const a = document.createElement('a')
-      a.href = `/resume/${filename}.pdf`
+      a.href = `${response.data.url}`
       a.target= "_blank"
       a.click()
 
