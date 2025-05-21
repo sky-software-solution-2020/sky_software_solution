@@ -63,7 +63,7 @@ export default function Header({ home }) {
                 <div className="flex flex-col items-center text-white">
                   <p className="text-xl font-bold">Sky Software Solution</p>
                   <p className="text-[11px] font-semibold">
-                    "Elevating Ideas with Smart Technology"
+                    &quot;Elevating Ideas with Smart Technology&quot;
                   </p>
                 </div>
               </div>
@@ -213,7 +213,7 @@ export default function Header({ home }) {
               <div className="flex flex-col items-center text-white">
                 <p className="text-xl font-bold">Sky Software Solution</p>
                 <p className="text-[11px] font-semibold">
-                  "Elevating Ideas with Smart Technology"
+                  &quot;Elevating Ideas with Smart Technology&quot;
                 </p>
               </div>
             </div>
@@ -349,7 +349,7 @@ export default function Header({ home }) {
                     <div className="flex flex-col items-center text-blue-600">
                       <p className="text-xl font-bold">Sky Software Solution</p>
                       <p className="text-[11px] font-semibold">
-                        "Elevating Ideas with Smart Technology"
+                        &quot;Elevating Ideas with Smart Technology&quot;
                       </p>
                     </div>
                   </div>
