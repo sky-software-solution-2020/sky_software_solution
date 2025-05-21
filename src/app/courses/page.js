@@ -50,7 +50,7 @@ export default function Courses() {
                       .filter((course) => course.category === cete)
                       .map((course, idx) => (
                         <div className="flex flex-col gap-3" key={idx}>
-                          <Image 
+                          <img 
                             className="rounded-2xl w-full"
                             src={course.avatarImage}
                             alt={course.courseName}

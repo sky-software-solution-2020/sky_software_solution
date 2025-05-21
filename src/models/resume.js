@@ -19,7 +19,6 @@ const UserResume = sequelize.define("UserResume", {
     phone: {
         type: DataTypes.STRING,
         allowNull: false,
-        unique: true,
         validate: {
             notEmpty: true,
         },
@@ -27,7 +26,6 @@ const UserResume = sequelize.define("UserResume", {
     email: {
         type: DataTypes.STRING,
         allowNull: false,
-        unique: true,
         validate: {
             isEmail: true,
             notEmpty: true,

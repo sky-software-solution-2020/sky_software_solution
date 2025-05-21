@@ -6,10 +6,11 @@ export function ProductCard({ course }) {
 
   return (
     <div className=" relative w-full h-full p-2.5 bg-white rounded-4xl">
-      <Image
-        className="w-full rounded-4xl"
+      <img
+        className="rounded-4xl"
         src={course.avatarImage}
         alt={course.courseName}
+        
       />
       <div className="flex flex-col">
         <div className="pb-8!">

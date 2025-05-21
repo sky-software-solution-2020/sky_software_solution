@@ -8,6 +8,7 @@ export async function POST(req, res) {
 
   const { formData } = await req.json()
 
+  
 
   try {
     await sequelize.authenticate()
@@ -58,6 +59,8 @@ export async function POST(req, res) {
     message: "Resume generated Successfully.",
   })
   } catch (err) {
+    console.log(err);
+    
     return Response.json({
     message: err.message,
   })
@@ -88,8 +91,7 @@ function generateResumeHTML(formData) {
   </head>
   <body
     style="
-      font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS',
-        sans-serif;
+      font-family: 'Roboto', sans-serif;
     "
   >
     <div

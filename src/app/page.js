@@ -13,8 +13,6 @@ import {
 import { FocusCards } from "@/components/ui/focus-cards";
 import { InfiniteMovingCards } from "@/components/ui/infinite-moving-cards";
 import { SparklesCore } from "@/components/ui/sparkles";
-import { TextGenerateEffect } from "@/components/ui/text-generate-effect";
-import { TextGenerateEffect2 } from "@/components/ui/text-generate-effect2";
 import { Button } from "@mui/material";
 import Link from "next/link";
 import { useEffect, useRef, useState } from "react";
@@ -251,8 +249,8 @@ export default function Home() {
         }  hover:right-0`}
       >
         <Link href="https://wa.me/919575113506" target="_black">
-          <Image
-            width="45px"
+          <img
+            width={45}
             src="https://img.icons8.com/?size=100&id=16713&format=png&color=000000"
             alt="whatsappicon"
           />
@@ -261,8 +259,8 @@ export default function Home() {
           href="https://www.facebook.com/SkySoftwareSolution1"
           target="_black"
         >
-          <Image
-            width="40px"
+          <img
+            width={45}
             src="https://img.icons8.com/?size=100&id=uLWV5A9vXIPu&format=png&color=000000"
             alt="facebookicon"
           />
@@ -271,15 +269,15 @@ export default function Home() {
           href="https://www.instagram.com/skysoftwaresolution"
           target="_blank"
         >
-          <Image
-            width="40px"
+          <img
+            width={40}
             src="https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000"
             alt="instagramicon"
           />
         </Link>
         <Link href="mailto:skysoftware2020@gmail.com">
-          <Image
-            width="35px"
+          <img
+            width={35}
             src="https://img.icons8.com/?size=100&id=8126&format=png&color=000000"
             alt="gmailicon"
           />

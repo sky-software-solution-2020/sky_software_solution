@@ -2062,29 +2062,29 @@ export const courses = [
     },
   },
 
-  {
-    courseName: "bootstrap 4",
-    title: "",
-    avatarImage: "",
-    coverImages: [],
-    category: "style language and frameworks",
-    overview: {
-      courseFeature: {
-        duration: "45 Days",
-        language: "",
-      },
-      description: "",
-      content: [],
-    },
-    "course-content": {
-      content: [],
-    },
-    tutorials: {},
-    "practice-question": {
-      title: "",
-      questions: [],
-    },
-  },
+  // {
+  //   courseName: "bootstrap 4",
+  //   title: "",
+  //   avatarImage: "",
+  //   coverImages: [],
+  //   category: "style language and frameworks",
+  //   overview: {
+  //     courseFeature: {
+  //       duration: "45 Days",
+  //       language: "",
+  //     },
+  //     description: "",
+  //     content: [],
+  //   },
+  //   "course-content": {
+  //     content: [],
+  //   },
+  //   tutorials: {},
+  //   "practice-question": {
+  //     title: "",
+  //     questions: [],
+  //   },
+  // },
   //
   {
     courseName: "java fullstack",

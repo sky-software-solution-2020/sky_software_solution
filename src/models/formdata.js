@@ -18,7 +18,6 @@ const FormData = sequelize.define("FormData", {
     email: {
         type: DataTypes.STRING,
         allowNull: false,
-        unique: true,
         validate: {
             isEmail: true,
             notEmpty: true,
@@ -27,7 +26,6 @@ const FormData = sequelize.define("FormData", {
     mobileNumber: {
         type: DataTypes.STRING,
         allowNull: false,
-        unique: true,
         validate: {
             notEmpty: true,
         },

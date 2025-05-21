@@ -3,10 +3,11 @@ import FormData from "@/models/formdata";
 import nodemailer from "nodemailer";
 
 export async function POST(req, res) {
-  const { name, email, mobileNumber, message } = await req.json();
+  const { form } = await req.json();
 
   const transporter = nodemailer.createTransport({
-    service: "Gmail",
+    host: process.env.HOST,
+    port: process.env.PORT,
     auth: {
       user: process.env.EMAIL,
       pass: process.env.PASSWORD,
@@ -18,20 +19,21 @@ export async function POST(req, res) {
     await sequelize.authenticate()
     await FormData.sync()
 
-    const data = await transporter.sendMail({
-      from: `${name} <${email}>`,
+    await transporter.sendMail({
+      from: `${form.name} <${form.email}>`,
       to: process.env.EMAIL,
       subject: "User Contact Form",
       text: `
-              Name: ${name}
-              Email: ${email}
-              Mobile Number: ${mobileNumber}
-              Message: ${message}
+              Name: ${form.name}
+              Email: ${form.email}
+              Mobile Number: ${form.mobileNumber}
+              Message: ${form.message}
             `,
+      replyTo: form.email
     });
 
     await FormData.create({
-      name, email, mobileNumber, message
+      ...form
     })
 
     return Response.json({
@@ -39,7 +41,9 @@ export async function POST(req, res) {
       message: "Form Submit Successfully",
     });
   } catch (error) {
-    return res.json(
+    console.log(error);
+
+    return Response.json(
       { success: false, message: "Form Submission Failed" },
       { status: 500 }
     );

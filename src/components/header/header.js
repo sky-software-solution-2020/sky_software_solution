@@ -10,7 +10,7 @@ import {
 } from "../ui/sheet";
 import { useEffect, useState } from "react";
 import { MdOutlineMenuOpen } from "react-icons/md";
-import Image from "next/image"
+import axios from "axios";
 
 
 export default function Header({ home }) {
@@ -22,7 +22,6 @@ export default function Header({ home }) {
     mobileNumber: "",
     message: "",
   });
-  const [status, setStatus] = useState(false);
 
   const handleChange = (e) => {
     setForm({ ...form, [e.target.name]: e.target.value });
@@ -30,18 +29,11 @@ export default function Header({ home }) {
 
   const handleSubmit = async (e) => {
     e.preventDefault();
-    setStatus(true);
-
-    const res = await fetch("/api/v1/form-submit", {
-      method: "POST",
+    const response = await axios.post("/api/v1/form-submit", { form }, {
       headers: {
-        "Content-Type": "application/json",
-      },
-      body: JSON.stringify(form),
-    });
-
-    const data = await res.json();
-    console.log(data);
+        'Content-Type': 'application/json',
+      }
+    })
   };
 
   useEffect(() => {
@@ -55,18 +47,19 @@ export default function Header({ home }) {
       {home === true ? (
         <div className="hidden xl:block">
           <div
-            className={`h-17 flex items-center justify-between py-4 px-5 ${
-              isScroll &&
+            className={`h-17 flex items-center justify-between py-4 px-5 ${isScroll &&
               "bg-gradient-to-b from-[#155DFC] to-[#1E64FD] shadow-2xl"
-            } mx-4 w-auto rounded-4xl`}
+              } mx-4 w-auto rounded-4xl`}
           >
             {isScroll ? (
               <div className="flex items-center gap-3">
-                <Image
-                  className="w-15 "
+
+                <img
+                  className="w-15"
                   src="https://res.cloudinary.com/dhelke9k1/image/upload/v1745390515/Screenshot_2022-06-20_100555_1_unxj7n.png"
                   alt="logo"
                 />
+
                 <div className="flex flex-col items-center text-white">
                   <p className="text-xl font-bold">Sky Software Solution</p>
                   <p className="text-[11px] font-semibold">
@@ -77,16 +70,19 @@ export default function Header({ home }) {
             ) : (
               <div className="flex items-center gap-3">
                 {isShow && (
-                  <Image
+
+                  <img
+
                     className={`w-30 translate-y-5 transition-all duration-500 ease-in-out
-          ${
-            !isScroll
-              ? "translate-x-0 translate-y-0 opacity-100"
-              : "-translate-x-full -translate-y-full opacity-0"
-          }`}
+          ${!isScroll
+                        ? "translate-x-0 translate-y-0 opacity-100"
+                        : "-translate-x-full -translate-y-full opacity-0"
+                      }`}
                     src="https://res.cloudinary.com/dhelke9k1/image/upload/v1745390515/Screenshot_2022-06-20_100555_1_unxj7n.png"
-                     alt="logo"
+                    alt="logo"
+
                   />
+
                 )}
 
                 <div
@@ -209,10 +205,10 @@ export default function Header({ home }) {
             className={`h-17 relative flex items-center justify-between py-4 px-5 bg-gradient-to-b from-[#155DFC] to-[#1E64FD] shadow-2xl" mx-4 w-auto rounded-4xl`}
           >
             <div className="flex items-center gap-3">
-              <Image
+              <img
                 className="w-15 "
                 src="https://res.cloudinary.com/dhelke9k1/image/upload/v1745390515/Screenshot_2022-06-20_100555_1_unxj7n.png"
-                 alt="logo"
+                alt="logo"
               />
               <div className="flex flex-col items-center text-white">
                 <p className="text-xl font-bold">Sky Software Solution</p>
@@ -252,7 +248,10 @@ export default function Header({ home }) {
                   <SheetHeader>
                     <SheetTitle>Contact Form</SheetTitle>
 
-                    <form className="flex flex-col gap-5 mt-5">
+                    <form
+                      className="flex flex-col gap-5 mt-5"
+                      onSubmit={handleSubmit}
+                    >
                       <div className="flex flex-col gap-2">
                         <label className="text-[18px] font-semibold text-gray-600">
                           Name
@@ -261,6 +260,9 @@ export default function Header({ home }) {
                           type="text"
                           className="border-2 border-gray-300 rounded-md p-2 w-full"
                           placeholder="Enter your name"
+                          name="name"
+                          value={form.name}
+                          onChange={handleChange}
                           required
                         />
                       </div>
@@ -272,6 +274,9 @@ export default function Header({ home }) {
                           type="email"
                           className="border-2 border-gray-300 rounded-md p-2 w-full"
                           placeholder="Enter your name"
+                          name="email"
+                          value={form.email}
+                          onChange={handleChange}
                           required
                         />
                       </div>
@@ -286,6 +291,9 @@ export default function Header({ home }) {
                           required
                           maxLength={10}
                           minLength={10}
+                          name="mobileNumber"
+                          value={form.mobileNumber}
+                          onChange={handleChange}
                         />
                       </div>
                       <div className="flex flex-col gap-2">
@@ -296,6 +304,9 @@ export default function Header({ home }) {
                           type="text"
                           className="h-20 border-2 border-gray-300 rounded-md p-2 w-full resize-none"
                           placeholder="Type your message here..."
+                          name="message"
+                          value={form.message}
+                          onChange={handleChange}
                           required
                         />
                       </div>
@@ -315,12 +326,11 @@ export default function Header({ home }) {
       )}
 
       <div
-        className={` p-2 relative flex items-center justify-between ${
-          home === true
-            ? isScroll &&
-              "bg-gradient-to-b from-[#0f49c6] to-[#1358ec] shadow-2xl"
-            : "bg-gradient-to-b from-[#0f49c6] to-[#1358ec] shadow-2xl"
-        } mx-1 w-auto rounded-4xl xl:hidden`}
+        className={` p-2 relative flex items-center justify-between ${home === true
+          ? isScroll &&
+          "bg-gradient-to-b from-[#0f49c6] to-[#1358ec] shadow-2xl"
+          : "bg-gradient-to-b from-[#0f49c6] to-[#1358ec] shadow-2xl"
+          } mx-1 w-auto rounded-4xl xl:hidden`}
       >
         <div className="flex w-full items-center justify-between gap-5">
           <Sheet>
@@ -331,10 +341,10 @@ export default function Header({ home }) {
               <SheetHeader>
                 <SheetTitle>
                   <div className="flex justify-center items-center gap-3 border-b-2 border-blue-600 pb-5">
-                    <Image
+                    <img
                       className="w-15"
                       src="https://res.cloudinary.com/dhelke9k1/image/upload/v1745390515/Screenshot_2022-06-20_100555_1_unxj7n.png"
-                       alt="logo"
+                      alt="logo"
                     />
                     <div className="flex flex-col items-center text-blue-600">
                       <p className="text-xl font-bold">Sky Software Solution</p>
@@ -379,14 +389,17 @@ export default function Header({ home }) {
           </Sheet>
 
           <Sheet>
-            <SheetTrigger className="bg-white text-sm cursor-pointer text-blue-600 font-bold p-2 rounded-2xl">
+            <SheetTrigger className="bg-white cursor-pointer text-blue-600 font-bold p-2 rounded-2xl">
               Enquiry Now!
             </SheetTrigger>
-            <SheetContent>
+            <SheetContent side="right">
               <SheetHeader>
                 <SheetTitle>Contact Form</SheetTitle>
 
-                <form className="flex flex-col gap-5 mt-5">
+                <form
+                  className="flex flex-col gap-5 mt-5"
+                  onSubmit={handleSubmit}
+                >
                   <div className="flex flex-col gap-2">
                     <label className="text-[18px] font-semibold text-gray-600">
                       Name
@@ -395,6 +408,9 @@ export default function Header({ home }) {
                       type="text"
                       className="border-2 border-gray-300 rounded-md p-2 w-full"
                       placeholder="Enter your name"
+                      name="name"
+                      value={form.name}
+                      onChange={handleChange}
                       required
                     />
                   </div>
@@ -406,6 +422,9 @@ export default function Header({ home }) {
                       type="email"
                       className="border-2 border-gray-300 rounded-md p-2 w-full"
                       placeholder="Enter your name"
+                      name="email"
+                      value={form.email}
+                      onChange={handleChange}
                       required
                     />
                   </div>
@@ -420,6 +439,9 @@ export default function Header({ home }) {
                       required
                       maxLength={10}
                       minLength={10}
+                      name="mobileNumber"
+                      value={form.mobileNumber}
+                      onChange={handleChange}
                     />
                   </div>
                   <div className="flex flex-col gap-2">
@@ -430,6 +452,9 @@ export default function Header({ home }) {
                       type="text"
                       className="h-20 border-2 border-gray-300 rounded-md p-2 w-full resize-none"
                       placeholder="Type your message here..."
+                      name="message"
+                      value={form.message}
+                      onChange={handleChange}
                       required
                     />
                   </div>

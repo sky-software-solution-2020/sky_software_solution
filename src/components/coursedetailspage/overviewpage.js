@@ -11,7 +11,6 @@ import { PiCertificateFill } from "react-icons/pi";
 import { FaChalkboardTeacher } from "react-icons/fa";
 import { IoIosTime } from "react-icons/io";
 import { FaRegMoneyBill1 } from "react-icons/fa6";
-import Image from "next/image"
 export default function CourseOverview({ course }) {
   console.log(course);
 
@@ -25,7 +24,7 @@ export default function CourseOverview({ course }) {
                 <CarouselContent>
                   {course.coverImages.map((image, index) => (
                     <CarouselItem key={index}>
-                      <Image
+                      <img
                         style={{ userSelect: "none" }}
                         className="w-full rounded-3xl"
                         src={image}

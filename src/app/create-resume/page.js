@@ -97,7 +97,6 @@ const ResumeForm = () => {
       );
 
 
-
       if (response.status === 200) {
         alert("Image uploaded successfully.")
         const url = response.data.secure_url;
@@ -125,6 +124,7 @@ const ResumeForm = () => {
 
       const a = document.createElement('a')
       a.href = `/resume/${filename}.pdf`
+      a.target= "_blank"
       a.click()
 
 

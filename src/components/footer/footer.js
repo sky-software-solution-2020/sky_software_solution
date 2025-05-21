@@ -9,11 +9,13 @@ export default function Footer() {
     <div className="p-5 grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-5 w-screen bg-blue-600">
       <div className="flex flex-col gap-10 items-center">
         <div className="flex items-center justify-center w-full">
-          <Image
+
+          <img
             className="w-25"
             src="https://res.cloudinary.com/dhelke9k1/image/upload/v1745390515/Screenshot_2022-06-20_100555_1_unxj7n.png"
             alt="logo"
           />
+
           <div
             className="flex flex-col items-center text-3xl font-semibold text-white"
             style={{ fontFamily: "cursive" }}
@@ -119,38 +121,45 @@ export default function Footer() {
 
         <div className=" w-full flex justify-evenly items-center pt-3">
           <Link href="https://wa.me/919575113506" target="_black">
-            <Image
-              width="50px"
+
+            <img
+              className="w-[50px]"
               src="https://img.icons8.com/?size=100&id=16713&format=png&color=000000"
               alt="whatsappicon"
             />
+
           </Link>
           <Link
             href="https://www.facebook.com/SkySoftwareSolution1"
             target="_black"
           >
-            <Image
-              width="45px"
+
+            <img
+              className="w-[45px]"
               src="https://img.icons8.com/?size=100&id=uLWV5A9vXIPu&format=png&color=000000"
-               alt="facebookicon"
+              alt="facebookicon"
             />
+
           </Link>
           <Link
             href="https://www.instagram.com/skysoftwaresolution"
             target="_blank"
           >
-            <Image
-              width="45px"
+
+            <img
+              className="w-[45px]"
               src="https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000"
-               alt="instagramicon"
+              alt="instagramicon"
             />
+
+
           </Link>
         </div>
       </div>
 
       <iframe
         src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d657.9506342323746!2d74.87139933791742!3d24.45614752540449!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x396673ee398fcd2b%3A0xbdb65792efa81d4f!2sSky%20Software%20Solution!5e0!3m2!1sen!2sin!4v1745517203292!5m2!1sen!2sin"
-        
+
         className="border-0 rounded-3xl w-full h-[300px] xl:h-full md:col-span-2 xl:col-span-1"
         allowFullScreen=""
         loading="lazy"

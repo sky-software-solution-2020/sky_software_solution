@@ -1,5 +1,4 @@
 import { useState, useEffect, useRef } from "react";
-import Image from "next/image"
 
 const ImageCarousel = ({images}) => {
   const [currentIndex, setCurrentIndex] = useState(0);
@@ -21,10 +20,11 @@ const ImageCarousel = ({images}) => {
   }, []);
 
   useEffect(() => {
+    let cref = carouselRef.current
     const handleTransitionEnd = () => {
       setIsTransitioning(false);
 
-      let cref = carouselRef.current
+      
 
       if (currentIndex >= totalItems) {
         setCurrentIndex(0);
