@@ -5,6 +5,9 @@ import nodemailer from "nodemailer";
 export async function POST(req, res) {
   const { form } = await req.json();
 
+  console.log(process.env.EMAIL);
+  console.log(process.env.PASSWORD);
+
   const transporter = nodemailer.createTransport({
     service: "Gmail",
     auth: {
@@ -12,6 +15,10 @@ export async function POST(req, res) {
       pass: process.env.PASSWORD,
     },
   });
+
+
+
+
 
   try {
 
