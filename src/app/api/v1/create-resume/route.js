@@ -1,4 +1,5 @@
-import puppeteer from 'puppeteer';
+import puppeteer from 'puppeteer-core';
+import chromium from "@sparticuz/chromium"
 import { sequelize } from '@/lib/db';
 import UserResume from '@/models/resume';
 import uploadOnCloudinary from '@/lib/cloudinary';
@@ -16,7 +17,9 @@ export async function POST(req, res) {
 
 
     const browser = await puppeteer.launch({
-      headless: "new",
+      args: chromium.args,
+      headless: chromium.headless,
+      executablePath: await chromium.executablePath(),
       args: ["--no-sandbox", "--disable-setuid-sandbox"]
     })
 
