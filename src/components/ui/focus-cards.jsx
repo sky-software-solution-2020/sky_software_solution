@@ -19,10 +19,10 @@ export const Card = React.memo(
       key={index}
     >
       <div className="w-full flex items-center justify-center gap-5 p-4">
-        <div className="w-30 rounded-full overflow-hidden p-1 border-2 border-blue-600">
+        <div className="w-18 rounded-full overflow-hidden p-1 border-2 border-blue-600">
           <img
             src={card.image}
-            alt={card.title}
+            alt={card.name}
             className="object-cover rounded-full"
           />
         </div>
@@ -30,7 +30,7 @@ export const Card = React.memo(
           <h1 className="text-xl font-bold text-nowrap text-red-500">
             {card.name}
           </h1>
-          <p className="text-sm font-semibold">{card.jobPalce}</p>
+          <p className="text-sm font-semibold text-gray-600"><b>{card.Course}</b></p>
         </div>
       </div>
       <div className="p-4">
@@ -58,7 +58,7 @@ export function FocusCards({ cards }) {
   const [textExpand, setTextExpand] = useState("");
 
   return (
-    <div className="grid grid-cols-1 md:grid-cols-3 gap-10 max-w-5xl mx-auto md:px-8 w-full">
+    <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-10 max-w-5xl mx-auto md:px-8 w-full">
       {cards.map((card, index) => (
         <Card
           key={index}

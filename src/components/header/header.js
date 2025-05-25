@@ -11,6 +11,7 @@ import {
 import { useEffect, useState } from "react";
 import { MdOutlineMenuOpen } from "react-icons/md";
 import axios from "axios";
+import Swal from "sweetalert2";
 
 
 export default function Header({ home }) {
@@ -34,6 +35,23 @@ export default function Header({ home }) {
         'Content-Type': 'application/json',
       }
     })
+
+    if (response.status === 200) {
+      Swal.fire({
+        title: 'Success!',
+        icon: 'success',
+        text: 'Form Submitted Successfully.',
+        confirmButtonText: 'OK'
+      }).then((result) => {
+        if (result.isConfirmed) window.location.reload()
+      }).catch((err) => {
+        Swal.fire({
+          title: 'Error!',
+          icon: 'error',
+          text: err.message
+        })
+      })
+    }
   };
 
   useEffect(() => {

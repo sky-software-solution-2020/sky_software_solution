@@ -11,13 +11,15 @@ const AppContext = createContext();
 export function AppProvider({ children }) {
   const [isScroll, setIsScroll] = useState(false);
   const [courses, setCourses] = useState([]);
+  const [testimonials, setTestimonials] = useState([]);
 
   const pathName = usePathname();
 
   const values = {
     isScroll,
     setIsScroll,
-    courses
+    courses,
+    testimonials
   };
 
   const firstLoad = useRef(true);
@@ -43,10 +45,24 @@ export function AppProvider({ children }) {
 
         setCourses(response.data);
       } catch (error) {
-        console.log(error);
+        return
       }
     }
     fetchCourse();
+
+
+    async function fetchTestimonials() {
+      try {
+        const response = await axios.get(
+          `/api/v1/testimonials`
+        );
+
+        setTestimonials(response.data);
+      } catch (error) {
+       return
+      }
+    }
+    fetchTestimonials();
   }, []);
 
   return (

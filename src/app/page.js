@@ -17,6 +17,7 @@ import { Button } from "@mui/material";
 import Link from "next/link";
 import { useEffect, useRef, useState } from "react";
 import Image from "next/image"
+import { useRouter } from "next/navigation";
 
 
 const items = [
@@ -31,51 +32,6 @@ const items = [
   {
     id: 3,
     src: "https://res.cloudinary.com/dhelke9k1/image/upload/v1746904129/Discover-the-Future-of-C-Programming-and-its-Unparalleled-Role_lmr8my.jpg",
-  },
-];
-
-const testimonials = [
-  {
-    image: "https://codebetter.in/images/placements-imgs/Praveen-Kumar-Sen.jpg",
-    message:
-      "For a web development and IOS development courses, Codebetter is a best institute. Faculties are very supportive here and solve all the queries of the students related to that particular courses. Lab facilities are available and Web seminar are also organised here. So , those who wants to make their career in these fields they can join Codebetter and get a good opportunity in their learning and also in job.",
-    name: "Shubham Pandey",
-    jobPalce: "ThoughtWin IT Solutions Pvt. Ltd. Indore",
-  },
-  {
-    image: "https://codebetter.in/images/placements-imgs/Praveen-Kumar-Sen.jpg",
-    message:
-      "For a web development and IOS development courses, Codebetter is a best institute. Faculties are very supportive here and solve all the queries of the students related to that particular courses. Lab facilities are available and Web seminar are also organised here. So , those who wants to make their career in these fields they can join Codebetter and get a good opportunity in their learning and also in job.",
-    name: "Shubham Pandey",
-    jobPalce: "ThoughtWin IT Solutions Pvt. Ltd. Indore",
-  },
-  {
-    image: "https://codebetter.in/images/placements-imgs/Praveen-Kumar-Sen.jpg",
-    message:
-      "For a web development and IOS development courses, Codebetter is a best institute. Faculties are very supportive here and solve all the queries of the students related to that particular courses. Lab facilities are available and Web seminar are also organised here. So , those who wants to make their career in these fields they can join Codebetter and get a good opportunity in their learning and also in job.",
-    name: "Shubham Pandey",
-    jobPalce: "ThoughtWin IT Solutions Pvt. Ltd. Indore",
-  },
-  {
-    image: "https://codebetter.in/images/placements-imgs/Praveen-Kumar-Sen.jpg",
-    message:
-      "For a web development and IOS development courses, Codebetter is a best institute. Faculties are very supportive here and solve all the queries of the students related to that particular courses. Lab facilities are available and Web seminar are also organised here. So , those who wants to make their career in these fields they can join Codebetter and get a good opportunity in their learning and also in job.",
-    name: "Shubham Pandey",
-    jobPalce: "ThoughtWin IT Solutions Pvt. Ltd. Indore",
-  },
-  {
-    image: "https://codebetter.in/images/placements-imgs/Praveen-Kumar-Sen.jpg",
-    message:
-      "For a web development and IOS development courses, Codebetter is a best institute. Faculties are very supportive here and solve all the queries of the students related to that particular courses. Lab facilities are available and Web seminar are also organised here. So , those who wants to make their career in these fields they can join Codebetter and get a good opportunity in their learning and also in job.",
-    name: "Shubham Pandey",
-    jobPalce: "ThoughtWin IT Solutions Pvt. Ltd. Indore",
-  },
-  {
-    image: "https://codebetter.in/images/placements-imgs/Praveen-Kumar-Sen.jpg",
-    message:
-      "For a web development and IOS development courses, Codebetter is a best institute. Faculties are very supportive here and solve all the queries of the students related to that particular courses. Lab facilities are available and Web seminar are also organised here. So , those who wants to make their career in these fields they can join Codebetter and get a good opportunity in their learning and also in job.",
-    name: "Shubham Pandey",
-    jobPalce: "ThoughtWin IT Solutions Pvt. Ltd. Indore",
   },
 ];
 
@@ -113,9 +69,10 @@ const placements = [
 ];
 
 export default function Home() {
-  const { setIsScroll, courses } = useAppContext();
+  const { setIsScroll, courses,testimonials } = useAppContext();
   const [isSocialOpen, setIsSocialOpen] = useState(false);
   const socialRef = useRef(null);
+  const router = useRouter()
 
   const getRandomItem = (array, count) => {
     const arr = [...array];
@@ -129,9 +86,7 @@ export default function Home() {
   };
 
   const randomCourse = getRandomItem(courses, 10)
-
-  console.log(randomCourse);
-  
+  const randomTestimonial = getRandomItem(testimonials, 6)
 
   useEffect(() => {
     function handleClickOutside(event) {
@@ -215,19 +170,19 @@ export default function Home() {
 
         <div className="w-screen p-5 mt-10 bg-red-200">
           <div className="w-full flex items-center justify-center">
-            <h1 className="text-5xl font-bold text-blue-600 mb-10 italic underline">
+            <h1 className="lg:text-5xl sm:text-3xl text-xl font-bold text-blue-600 mb-10 italic underline">
               Message from Students
             </h1>
           </div>
-          <FocusCards cards={testimonials} />
+          <FocusCards cards={randomTestimonial} />
           <div className="w-full flex items-center justify-center p-5">
-            <Button className="bg-blue-600! text-white! font-bold! text-xl! capitalize!">
+            <Button onClick={() => router.push("/testimonials")} className="bg-blue-600! text-white! font-bold! text-xl! capitalize!">
               View More
             </Button>
           </div>
         </div>
 
-        <div className="w-screen py-5 rounded-md flex flex-col antialiased dark:bg-grid-white/[0.05] items-center justify-center relative overflow-hidden">
+        {/* <div className="w-screen py-5 rounded-md flex flex-col antialiased dark:bg-grid-white/[0.05] items-center justify-center relative overflow-hidden">
           <h1 className="text-4xl pb-3 px-3 pt-2 font-bold text-red-600 bg-yellow-200 rounded-4xl">
             Our Placements
           </h1>
@@ -236,7 +191,7 @@ export default function Home() {
             items={placements}
             speed="normal"
           />
-        </div>
+        </div> */}
       </div>
 
       <div

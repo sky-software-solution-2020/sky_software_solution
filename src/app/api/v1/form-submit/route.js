@@ -4,10 +4,6 @@ import nodemailer from "nodemailer";
 
 export async function POST(req, res) {
   const { form } = await req.json();
-
-  console.log(process.env.EMAIL);
-  console.log(process.env.PASSWORD);
-
   const transporter = nodemailer.createTransport({
     service: "Gmail",
     auth: {
@@ -16,12 +12,7 @@ export async function POST(req, res) {
     },
   });
 
-
-
-
-
   try {
-
     await sequelize.authenticate()
     await FormData.sync()
 
@@ -45,10 +36,8 @@ export async function POST(req, res) {
     return Response.json({
       success: true,
       message: "Form Submit Successfully",
-    });
+    }, { status: 200 });
   } catch (error) {
-    console.log(error);
-
     return Response.json(
       { success: false, message: "Form Submission Failed" },
       { status: 500 }

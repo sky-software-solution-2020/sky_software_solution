@@ -12,8 +12,6 @@ import { FaChalkboardTeacher } from "react-icons/fa";
 import { IoIosTime } from "react-icons/io";
 import { FaRegMoneyBill1 } from "react-icons/fa6";
 export default function CourseOverview({ course }) {
-  console.log(course);
-
   return (
     <>
       {course && (
