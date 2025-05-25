@@ -152,6 +152,9 @@ const ResumeForm = () => {
         }
       })
 
+      console.log(response);
+      
+
       if (response.data.url) {
         setLoader(false)
         Swal.fire({
@@ -188,6 +191,8 @@ const ResumeForm = () => {
         })
       }
     } catch (err) {
+      console.log(err);
+      
       Swal.fire({
         icon: 'error',
         title: 'Error!',
