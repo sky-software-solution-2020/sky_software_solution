@@ -31,7 +31,7 @@ export async function GET(req) {
     ).join("")}</urlset>`
 
 
-    return Response(xml, {
+    return new Response(xml, {
         headers: {
             'Content-Type': 'application/xml',
         }
