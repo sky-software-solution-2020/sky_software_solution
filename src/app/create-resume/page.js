@@ -1,8 +1,9 @@
 'use client';
 
 
+import { Button } from "@mui/material";
 import axios from "axios";
-import { useState } from "react";
+import { useEffect, useState } from "react";
 import Swal from "sweetalert2"
 
 
@@ -27,7 +28,39 @@ const ResumeForm = () => {
     volunteerExperience: '',
     awards: '',
     profileImage: ''
-  }); const [loader, setLoader] = useState(false)
+  });
+  const [loader, setLoader] = useState(false)
+  const [buttonActive, setButtonActive] = useState(false)
+
+  useEffect(() => {
+    if (
+      formData.fullName === "" ||
+      formData.phone === "" ||
+      formData.email === "" ||
+      formData.address === "" ||
+      formData.summary === "" ||
+      formData.objective === "" ||
+      formData.workExperience[0].jobTitle === "" ||
+      formData.workExperience[0].company === "" ||
+      formData.workExperience[0].location === "" ||
+      formData.workExperience[0].startDate === "" ||
+      formData.workExperience[0].endDate === "" ||
+      formData.workExperience[0].responsibilities === "" ||
+      formData.education[0].degree === "" ||
+      formData.education[0].major === "" ||
+      formData.education[0].school === "" ||
+      formData.education[0].passingYear === "" ||
+      formData.education[0].gpa === "" ||
+      formData.education[0].board === "" ||
+      formData.profileImage === ""
+    ) {
+
+      setButtonActive(false)
+    } else {
+      setButtonActive(true)
+    }
+  }, [formData])
+
 
   const handleChange = (e) => {
     const { name, value, dataset } = e.target;
@@ -187,7 +220,7 @@ const ResumeForm = () => {
             }
           }
         })
-      
+
       }
     } catch (err) {
       setLoader(false)
@@ -224,7 +257,7 @@ const ResumeForm = () => {
 
           {/* Contact Information */}
           <section>
-            <h2 className="text-xl font-semibold mb-2">Contact Information</h2>
+            <h2 className="text-xl font-semibold mb-2">Contact Information<span className="text-red-600 text-2xl">*</span></h2>
             <div className="grid grid-cols-1 md:grid-cols-2 gap-3">
               <input
                 type="text"
@@ -267,7 +300,7 @@ const ResumeForm = () => {
 
           {/* Summary / Objective */}
           <section>
-            <h2 className="text-xl font-semibold mb-2">Summary / Objective</h2>
+            <h2 className="text-xl font-semibold mb-2">Summary / Objective<span className="text-red-600 text-2xl">*</span></h2>
             <textarea
               name="summary"
               placeholder="Professional Summary"
@@ -288,7 +321,7 @@ const ResumeForm = () => {
 
           {/* Work Experience */}
           <section>
-            <h2 className="text-xl font-semibold mb-2">Work Experience</h2>
+            <h2 className="text-xl font-semibold mb-2">Work Experience<span className="text-red-600 text-2xl">*</span></h2>
             {formData.workExperience.map((work, index) => (
               <div key={index} className="border border-gray-300 p-4 rounded mb-4 flex flex-col gap-3">
                 <input
@@ -380,7 +413,7 @@ const ResumeForm = () => {
 
           {/* Education */}
           <section>
-            <h2 className="text-xl font-semibold mb-2">Education</h2>
+            <h2 className="text-xl font-semibold mb-2">Education<span className="text-red-600 text-2xl">*</span></h2>
             {formData.education.map((edu, index) => (
               <div key={index} className="border border-gray-300 p-4 rounded mb-4 space-y-3">
                 <input
@@ -549,7 +582,7 @@ const ResumeForm = () => {
 
           {/* Image Sections */}
           <section>
-            <h2 className="text-xl font-semibold mb-2">Profile Image</h2>
+            <h2 className="text-xl font-semibold mb-2">Profile Image<span className="text-red-600 text-2xl">*</span></h2>
             <input
               name="profileImage"
               id="profile-image"
@@ -564,9 +597,9 @@ const ResumeForm = () => {
 
 
 
-          <button type="submit" className="w-full p-3 bg-green-500 text-white rounded mt-4 cursor-pointer">
+          <Button disabled={!buttonActive} type="submit" className="w-full! p-3! bg-green-500! font-bold! capitalize! text-white! mt-4! disabled:opacity-70">
             Submit Resume
-          </button>
+          </Button>
         </form>
       </div>
 

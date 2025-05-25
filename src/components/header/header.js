@@ -42,14 +42,6 @@ export default function Header({ home }) {
         icon: 'success',
         text: 'Form Submitted Successfully.',
         confirmButtonText: 'OK'
-      }).then((result) => {
-        if (result.isConfirmed) window.location.reload()
-      }).catch((err) => {
-        Swal.fire({
-          title: 'Error!',
-          icon: 'error',
-          text: err.message
-        })
       })
     }
   };
