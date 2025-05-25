@@ -17,10 +17,9 @@ export async function POST(req, res) {
 
 
     const browser = await puppeteer.launch({
-      args: chromium.args,
+      args: [...chromium.args, "--no-sandbox", "--disable-setuid-sandbox"],
       headless: chromium.headless,
       executablePath: await chromium.executablePath(),
-      args: ["--no-sandbox", "--disable-setuid-sandbox"]
     })
 
     const resumeHtml = generateResumeHTML(formData)
@@ -32,13 +31,20 @@ export async function POST(req, res) {
 
     const cloudinaryUrl = await uploadOnCloudinary(pdfBuffer, formData.fullName.split(" ").join("-").toLowerCase())
 
+    await browser.close();
+
+
     return Response.json({
       message: "Resume generated Successfully.",
       url: cloudinaryUrl.secure_url
+    },{
+      status: 200
     })
   } catch (err) {
     return Response.json({
       message: err.message,
+    },{
+      status: 404
     })
   }
 

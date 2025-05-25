@@ -152,8 +152,6 @@ const ResumeForm = () => {
         }
       })
 
-      console.log(response);
-      
 
       if (response.data.url) {
         setLoader(false)
@@ -189,14 +187,14 @@ const ResumeForm = () => {
             }
           }
         })
+      
       }
     } catch (err) {
-      console.log(err);
-      
+      setLoader(false)
       Swal.fire({
         icon: 'error',
         title: 'Error!',
-        text: err.message,
+        text: err.response.data.message,
       })
     }
   };
