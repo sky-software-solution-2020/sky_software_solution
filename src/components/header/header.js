@@ -12,17 +12,20 @@ import { useEffect, useState } from "react";
 import { MdOutlineMenuOpen } from "react-icons/md";
 import axios from "axios";
 import Swal from "sweetalert2";
+import { useRouter } from "next/navigation";
 
 
 export default function Header({ home }) {
   const { isScroll } = useAppContext();
   const [isShow, setIsShow] = useState(false);
+  const [isDisabled, setIsDisabled] = useState(false);
   const [form, setForm] = useState({
     name: "",
     email: "",
     mobileNumber: "",
     message: "",
   });
+  const router = useRouter();
 
   const handleChange = (e) => {
     setForm({ ...form, [e.target.name]: e.target.value });
@@ -30,6 +33,7 @@ export default function Header({ home }) {
 
   const handleSubmit = async (e) => {
     e.preventDefault();
+    setIsDisabled(true)
     const response = await axios.post("/api/v1/form-submit", { form }, {
       headers: {
         'Content-Type': 'application/json',
@@ -42,6 +46,10 @@ export default function Header({ home }) {
         icon: 'success',
         text: 'Form Submitted Successfully.',
         confirmButtonText: 'OK'
+      }).then((result) => {
+        if(result.isConfirmed){
+          setIsDisabled(false)
+        }
       })
     }
   };
@@ -206,6 +214,10 @@ export default function Header({ home }) {
                   </SheetHeader>
                 </SheetContent>
               </Sheet>
+
+              <button onClick={() => router.push("/users/login-register")} className="bg-white cursor-pointer text-blue-600 font-bold p-2 rounded-2xl">
+                Login / Register
+              </button>
             </div>
           </div>
         </div>
@@ -471,6 +483,7 @@ export default function Header({ home }) {
                   <Button
                     type="submit"
                     className="bg-blue-600! text-white! font-bold! capitalize! text-xl!"
+                    disabled={isDisabled}
                   >
                     Submit
                   </Button>

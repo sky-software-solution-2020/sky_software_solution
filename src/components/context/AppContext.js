@@ -59,7 +59,7 @@ export function AppProvider({ children }) {
 
         setTestimonials(response.data);
       } catch (error) {
-       return
+        return
       }
     }
     fetchTestimonials();
@@ -67,11 +67,17 @@ export function AppProvider({ children }) {
 
   return (
     <AppContext.Provider value={values}>
-      <div className="container">
-        <Header home={pathName === "/"} />
-        <main>{children}</main>
-        <Footer />
-      </div>
+      {
+        pathName.includes("/login-register") ?
+          <div className="container">
+            <main>{children}</main>
+          </div> :
+          <div className="container">
+            <Header home={pathName === "/"} />
+            <main>{children}</main>
+            <Footer />
+          </div>
+      }
     </AppContext.Provider>
   );
 }

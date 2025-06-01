@@ -6,18 +6,15 @@ import CourseTutorials from "@/components/coursedetailspage/coursetutorials";
 import CourseOverview from "@/components/coursedetailspage/overviewpage";
 import CoursePracticeQuestion from "@/components/coursedetailspage/practicequestionpage";
 import { Button } from "@mui/material";
-import { usePathname, useRouter, useSearchParams } from "next/navigation";
+import { usePathname, useRouter } from "next/navigation";
 
-export default function CoursesDetails() {
+export default function CoursesDetailPage({courseName}) {
   const { courses } = useAppContext();
-  const searchParams = useSearchParams();
   const pathName = usePathname();
   const router = useRouter();
 
-  const courseName = searchParams.get("coursename");
-
   const handleButtonClick = (path) => {
-    router.push(`/courses/course-details/${path}?coursename=${courseName}`);
+    router.push(`/courses/course-details/${path}/${courseName}`);
   };
 
   return (

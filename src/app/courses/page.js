@@ -23,7 +23,7 @@ export default function Courses() {
   const category = filterCategory(courses);
 
   const handleRedirectCourseDetailsPage = (coursename) => {
-    router.push(`/courses/course-details/overview?coursename=${coursename}`);
+    router.push(`/courses/course-details/overview/${coursename}`);
   };
 
   
