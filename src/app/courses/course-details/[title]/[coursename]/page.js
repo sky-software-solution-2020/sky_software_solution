@@ -33,11 +33,11 @@ import CoursesDetailPage from "@/components/coursedetails/coursedetailpage";
 
 export default async function CoursesDetails({ params }) {
   const { coursename } = await params
-
+const decodedCourseName = decodeURIComponent(coursename);
 
   return (
     <>
-      <CoursesDetailPage courseName={coursename} />
+      <CoursesDetailPage courseName={decodedCourseName} />
     </>
   );
 }
