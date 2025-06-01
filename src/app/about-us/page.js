@@ -32,7 +32,7 @@ const AboutUs = () => {
             on a global stage.
           </p>
           <p className="mt-2 text-gray-600 text-justify">
-            Whether you're a beginner or a tech enthusiast looking to upskill, our structured courses and live projects
+            Whether you&apos;re a beginner or a tech enthusiast looking to upskill, our structured courses and live projects
             ensure that you gain both theoretical knowledge and hands-on experience.
           </p>
         </div>
@@ -86,7 +86,7 @@ const AboutUs = () => {
       <div className="text-center">
         <h3 className="text-xl font-bold text-blue-700 mb-2">Join the Digital Future</h3>
         <p className="text-gray-700 mb-6">
-          Be part of a growing community of learners and tech leaders. Let's build skills that create opportunities.
+          Be part of a growing community of learners and tech leaders. Let&apos;s build skills that create opportunities.
         </p>
         <Link href={'/courses'} className="bg-blue-600 font-bold text-white px-6 py-3 rounded hover:bg-blue-700 transition">
           Explore Courses
