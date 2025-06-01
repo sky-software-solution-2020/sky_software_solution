@@ -30,25 +30,25 @@ export default function Footer() {
             <h1 className="text-xl font-bold text-yellow-300">Quick Links</h1>
             <div className="flex flex-col gap-2">
               <Link
-                href="#"
+                href="/"
                 className="text-xl font-semibold text-white hover:text-blue-800"
               >
                 Home
               </Link>
               <Link
-                href="#"
+                href="/courses"
                 className="text-xl font-semibold text-white hover:text-blue-800"
               >
                 Courses
               </Link>
               <Link
-                href="#"
+                href="/about-us"
                 className="text-xl font-semibold text-white hover:text-blue-800"
               >
                 About Us
               </Link>
               <Link
-                href="#"
+                href="/privacy-policy"
                 className="text-xl font-semibold text-white hover:text-blue-800"
               >
                 Privacy Policy
@@ -61,28 +61,28 @@ export default function Footer() {
             <h1 className="text-xl font-bold text-yellow-300">Pupular Course</h1>
             <div className="flex flex-col gap-2">
               <Link
-                href="#"
+                href="/courses/course-details/overview/java"
                 className="text-xl font-semibold text-white hover:text-blue-800"
               >
-                Home
+                Java
               </Link>
               <Link
-                href="#"
+                href="/courses/course-details/overview/c++"
                 className="text-xl font-semibold text-white hover:text-blue-800"
               >
-                Courses
+                C++
               </Link>
               <Link
-                href="#"
+                href="/courses/course-details/overview/web development"
                 className="text-xl font-semibold text-white hover:text-blue-800"
               >
-                About Us
+                Web Development
               </Link>
               <Link
-                href="#"
+                href="/courses/course-details/overview/basic computer"
                 className="text-xl font-semibold text-white hover:text-blue-800"
               >
-                Privacy Policy
+                Basic Computer
               </Link>
             </div>
           </div>
