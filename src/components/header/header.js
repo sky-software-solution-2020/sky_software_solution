@@ -126,10 +126,10 @@ export default function Header({ home }) {
                 >
                   Resume
                 </Link>
-                <Link className="text-xl font-bold text-white" href="events">
+                <Link className="text-xl font-bold text-white" href="/events">
                   Event
                 </Link>
-                <Link className="text-xl font-bold text-white" href="about-us">
+                <Link className="text-xl font-bold text-white" href="/about-us">
                   About Us
                 </Link>
               </div>
@@ -254,10 +254,10 @@ export default function Header({ home }) {
                 >
                   Resume
                 </Link>
-                <Link className="text-xl font-bold text-white" href="events">
+                <Link className="text-xl font-bold text-white" href="/events">
                   Event
                 </Link>
-                <Link className="text-xl font-bold text-white" href="about-us">
+                <Link className="text-xl font-bold text-white" href="/about-us">
                   About Us
                 </Link>
               </div>
@@ -395,13 +395,13 @@ export default function Header({ home }) {
                   </Link>
                   <Link
                     className="text-xl font-bold text-blue-600"
-                    href="events"
+                    href="/events"
                   >
                     Event
                   </Link>
                   <Link
                     className="text-xl font-bold text-blue-600"
-                    href="about-us"
+                    href="/about-us"
                   >
                     About Us
                   </Link>
