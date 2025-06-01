@@ -3,7 +3,7 @@ import "./globals.css";
 
 export const metadata = {
   title: "Sky Software Solution",
-  description: "Trust is what we serve",
+  description: "Sky Software Solution provides IT training at Neemuch, specializing in Web Development Training and the best coding classes at Neemuch!",
 };
 
 export default function RootLayout({ children }) {
