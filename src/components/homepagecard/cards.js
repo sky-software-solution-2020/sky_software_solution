@@ -5,7 +5,7 @@ import Image from "next/image"
 export function ProductCard({ course }) {
 
   return (
-    <div className=" relative w-full h-full p-2.5 bg-white rounded-4xl">
+    <div className=" relative w-full h-full p-2.5 bg-blue-100 rounded-4xl">
       <img
         className="rounded-4xl"
         src={course.avatarImage}

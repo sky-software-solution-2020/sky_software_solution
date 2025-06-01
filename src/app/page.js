@@ -11,27 +11,29 @@ import {
   CarouselPrevious,
 } from "@/components/ui/carousel";
 import { FocusCards } from "@/components/ui/focus-cards";
-import { InfiniteMovingCards } from "@/components/ui/infinite-moving-cards";
 import { SparklesCore } from "@/components/ui/sparkles";
 import { Button } from "@mui/material";
 import Link from "next/link";
 import { useEffect, useRef, useState } from "react";
-import Image from "next/image"
 import { useRouter } from "next/navigation";
 
 
 const items = [
   {
     id: 1,
-    src: "https://res.cloudinary.com/dhelke9k1/image/upload/v1746904134/Advantages-of-Python-Top-Reasons-to-Choose-It-Now_pluiwr.jpg",
+    src: "https://res.cloudinary.com/dm4yt4r0k/image/upload/v1748761540/1699551909901_i9qlyo.png",
   },
   {
     id: 2,
-    src: "https://res.cloudinary.com/dhelke9k1/image/upload/v1747740199/3665736-business-man-push-on-a-touch-screen-interface-java-programming-concept-virtual-machine-foto_jyhots.jpg",
+    src: "https://res.cloudinary.com/dm4yt4r0k/image/upload/v1748761540/is-programming-hard-a-guide-to-getting-started-in-2022-scaled-1-scaled_ypjeqm.jpg",
   },
   {
     id: 3,
-    src: "https://res.cloudinary.com/dhelke9k1/image/upload/v1746904129/Discover-the-Future-of-C-Programming-and-its-Unparalleled-Role_lmr8my.jpg",
+    src: "https://res.cloudinary.com/dm4yt4r0k/image/upload/v1748761540/programming-languages-1_kfrfw5.jpg",
+  },
+  {
+    id: 4,
+    src: "https://res.cloudinary.com/dm4yt4r0k/image/upload/v1748761539/06fe5053-c83d-46bd-bf7e-8559e6a08773_wvdyh5.jpg",
   },
 ];
 
@@ -119,8 +121,8 @@ export default function Home() {
 
   return (
     <div className="scrollBar w-screen overflow-x-hidden">
-      <div className=" w-screen bg-gradient-to-b from-[#155DFC] to-white">
-        <div className="xl:pt-30 pt-20 relative w-full flex flex-col items-center justify-center overflow-hidden rounded-md">
+      <div className=" pt-13 xl:pt-20 w-screen">
+        <div className="relative w-full flex flex-col items-center justify-center overflow-hidden rounded-md">
           <div className="w-full absolute inset-0 h-screen">
             <SparklesCore
               id="tsparticlesfullpage"
@@ -168,9 +170,9 @@ export default function Home() {
           </div>
         </div>
 
-        <div className="w-screen p-5 mt-10 bg-red-200">
+        <div className="w-screen p-5 mt-10">
           <div className="w-full flex items-center justify-center">
-            <h1 className="lg:text-5xl sm:text-3xl text-xl font-bold text-blue-600 mb-10 italic underline">
+            <h1 className="lg:text-5xl sm:text-3xl text-xl font-bold text-blue-600 mb-10 underline">
               Message from Students
             </h1>
           </div>

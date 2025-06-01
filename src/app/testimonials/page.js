@@ -23,7 +23,7 @@ export default function Testemonials() {
           testimonials.map((card, index) => <div key={index} className="w-full h-full flex flex-col items-center text-gray-600">
             <div
               className={
-                "rounded-lg relative bg-gray-100  overflow-hidden w-full transition-all duration-300 ease-out"}
+                "rounded-lg relative bg-gray-300  overflow-hidden w-full transition-all duration-300 ease-out"}
 
             >
               <div className="w-full flex items-center justify-center gap-5 p-4">

@@ -8,13 +8,11 @@ import {
 } from "react-icons/io";
 
 export const Card = React.memo(
-  ({ card, index, hovered, setHovered, setTextExpand, textExpand }) => (
+  ({ card, index,  setTextExpand, textExpand }) => (
     <div
-      onMouseEnter={() => setHovered(index)}
-      onMouseLeave={() => setHovered(null)}
       className={cn(
-        "rounded-lg relative bg-gray-100 dark:bg-neutral-900 overflow-hidden w-full transition-all duration-300 ease-out",
-        hovered !== null && hovered !== index && "blur-sm scale-[0.98]"
+        "rounded-lg relative bg-gray-300  overflow-hidden w-full transition-all duration-300 ease-out",
+        
       )}
       key={index}
     >
@@ -54,7 +52,6 @@ export const Card = React.memo(
 Card.displayName = "Card";
 
 export function FocusCards({ cards }) {
-  const [hovered, setHovered] = useState(null);
   const [textExpand, setTextExpand] = useState("");
 
   return (
@@ -64,8 +61,6 @@ export function FocusCards({ cards }) {
           key={index}
           card={card}
           index={index}
-          hovered={hovered}
-          setHovered={setHovered}
           setTextExpand={setTextExpand}
           textExpand={textExpand}
         />

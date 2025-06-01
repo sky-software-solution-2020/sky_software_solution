@@ -87,9 +87,7 @@ const ImageCarousel = ({images}) => {
       </div>
       
 
-      <div className="h-full w-full bg-linear-to-b from-[#2367FD] to-transparent  absolute top-0">
-
-      </div>
+      
     </div>
   );
 };

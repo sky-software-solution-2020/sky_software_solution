@@ -55,11 +55,11 @@ export default function Header({ home }) {
 
 
   return (
-    <div className={`w-screen fixed pt-2 z-50 ${!home ? "bg-white" : ""}`}>
+    <div className={`w-screen fixed z-50 ${!home ? "bg-white" : ""}`}>
 
       <div className="hidden xl:block">
         <div
-          className={`h-17 relative flex items-center justify-between py-4 px-5 bg-gradient-to-b from-[#155DFC] to-[#1E64FD] shadow-2xl" mx-4 w-auto rounded-4xl`}
+          className={`h-20 relative flex items-center justify-between py-4 px-5 bg-gradient-to-b from-[#155DFC] to-[#1E64FD] shadow-2xl"`}
         >
           <div className="flex items-center gap-3">
             <img
@@ -180,13 +180,9 @@ export default function Header({ home }) {
           </div>
         </div>
       </div>
-      
+
       <div
-        className={` p-2 relative flex items-center justify-between ${home === true
-          ? isScroll &&
-          "bg-gradient-to-b from-[#0f49c6] to-[#1358ec] shadow-2xl"
-          : "bg-gradient-to-b from-[#0f49c6] to-[#1358ec] shadow-2xl"
-          } mx-1 w-auto rounded-4xl xl:hidden`}
+        className={` p-2 relative flex items-center justify-between bg-gradient-to-b from-[#155DFC] to-[#1E64FD] shadow-2xl xl:hidden`}
       >
         <div className="flex w-full items-center justify-between gap-5">
           <Sheet>
