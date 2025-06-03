@@ -1,3 +1,6 @@
+
+import { questions } from "@/components/json/quiz_questions";
+
 export default function CourseQuizTest({course}) {
   const getRandomItem = (array, count) => {
     const arr = [...array];

@@ -177,6 +177,10 @@ export default function Header({ home }) {
                 </SheetHeader>
               </SheetContent>
             </Sheet>
+
+            <Link href={'/users/login-register'} className="bg-white text-blue-600 font-bold p-2  rounded-2xl cursor-pointer">
+                Login / Register
+              </Link>
           </div>
         </div>
       </div>
