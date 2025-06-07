@@ -54,7 +54,7 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "What does HTML stand for?",
     options: [
       "Hyper Trainer Marking Language",
@@ -73,7 +73,7 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "What does HTML stand for?",
     options: [
       "Hyper Trainer Marking Language",
@@ -104,7 +104,7 @@ export const questions = [
     level: "Medium",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "What does CSS stand for?",
     options: [
       "Colorful Style Sheets",
@@ -151,7 +151,7 @@ export const questions = [
     level: "Medium",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "Which property is used to change the text color in CSS?",
     options: ["color", "font-color", "text-color", "background-color"],
     answer: "color",
@@ -165,7 +165,7 @@ export const questions = [
     level: "Hard",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "Which property is used to change the text color in CSS?",
     options: ["color", "font-color", "text-color", "background-color"],
     answer: "color",
@@ -193,7 +193,7 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "Which tag is used to create a hyperlink in HTML?",
     options: ["<link>", "<a>", "<href>", "<hyperlink>"],
     answer: "<a>",
@@ -264,7 +264,7 @@ export const questions = [
     level: "Hard",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "Which property is used to change the text color in CSS?",
     options: ["color", "font-color", "text-color", "background-color"],
     answer: "color",
@@ -285,7 +285,7 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "What does CSS stand for?",
     options: [
       "Colorful Style Sheets",
@@ -359,7 +359,7 @@ export const questions = [
     level: "Medium",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "Which property is used to change the text color in CSS?",
     options: ["color", "font-color", "text-color", "background-color"],
     answer: "color",
@@ -374,7 +374,7 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "What does HTML stand for?",
     options: [
       "Hyper Trainer Marking Language",
@@ -447,7 +447,7 @@ export const questions = [
     level: "Medium",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "What does HTML stand for?",
     options: [
       "Hyper Trainer Marking Language",
@@ -478,7 +478,7 @@ export const questions = [
     level: "Hard",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "Which property is used to change the text color in CSS?",
     options: ["color", "font-color", "text-color", "background-color"],
     answer: "color",
@@ -539,7 +539,7 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "Which tag is used to create a hyperlink in HTML?",
     options: ["<link>", "<a>", "<href>", "<hyperlink>"],
     answer: "<a>",
@@ -553,7 +553,7 @@ export const questions = [
     level: "Medium",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "Which tag is used to create a hyperlink in HTML?",
     options: ["<link>", "<a>", "<href>", "<hyperlink>"],
     answer: "<a>",
@@ -567,7 +567,7 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "What does CSS stand for?",
     options: [
       "Colorful Style Sheets",
@@ -641,7 +641,7 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "What does CSS stand for?",
     options: [
       "Colorful Style Sheets",
@@ -660,7 +660,7 @@ export const questions = [
     level: "Hard",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "What does CSS stand for?",
     options: [
       "Colorful Style Sheets",
@@ -686,7 +686,7 @@ export const questions = [
     level: "Medium",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "What does HTML stand for?",
     options: [
       "Hyper Trainer Marking Language",
@@ -731,7 +731,7 @@ export const questions = [
     level: "Hard",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "What does HTML stand for?",
     options: [
       "Hyper Trainer Marking Language",
@@ -755,7 +755,7 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "Which tag is used to create a hyperlink in HTML?",
     options: ["<link>", "<a>", "<href>", "<hyperlink>"],
     answer: "<a>",
@@ -783,7 +783,7 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "Which tag is used to create a hyperlink in HTML?",
     options: ["<link>", "<a>", "<href>", "<hyperlink>"],
     answer: "<a>",
@@ -916,7 +916,7 @@ export const questions = [
     level: "Hard",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "Which tag is used to create a hyperlink in HTML?",
     options: ["<link>", "<a>", "<href>", "<hyperlink>"],
     answer: "<a>",
@@ -930,7 +930,7 @@ export const questions = [
     level: "Hard",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "What does HTML stand for?",
     options: [
       "Hyper Trainer Marking Language",
@@ -978,7 +978,7 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "Which property is used to change the text color in CSS?",
     options: ["color", "font-color", "text-color", "background-color"],
     answer: "color",
@@ -1060,7 +1060,7 @@ export const questions = [
     level: "Medium",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "What does CSS stand for?",
     options: [
       "Colorful Style Sheets",
@@ -1112,21 +1112,21 @@ export const questions = [
     level: "Medium",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "Which property is used to change the text color in CSS?",
     options: ["color", "font-color", "text-color", "background-color"],
     answer: "color",
     level: "Easy",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "Which property is used to change the text color in CSS?",
     options: ["color", "font-color", "text-color", "background-color"],
     answer: "color",
     level: "Medium",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "What does CSS stand for?",
     options: [
       "Colorful Style Sheets",
@@ -1152,7 +1152,7 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "What does CSS stand for?",
     options: [
       "Colorful Style Sheets",
@@ -1185,7 +1185,7 @@ export const questions = [
     level: "Medium",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "What does HTML stand for?",
     options: [
       "Hyper Trainer Marking Language",
@@ -1216,14 +1216,14 @@ export const questions = [
     level: "Hard",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "Which tag is used to create a hyperlink in HTML?",
     options: ["<link>", "<a>", "<href>", "<hyperlink>"],
     answer: "<a>",
     level: "Medium",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "Which tag is used to create a hyperlink in HTML?",
     options: ["<link>", "<a>", "<href>", "<hyperlink>"],
     answer: "<a>",
@@ -1251,7 +1251,7 @@ export const questions = [
     level: "Hard",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "Which tag is used to create a hyperlink in HTML?",
     options: ["<link>", "<a>", "<href>", "<hyperlink>"],
     answer: "<a>",
@@ -1305,7 +1305,7 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "Which property is used to change the text color in CSS?",
     options: ["color", "font-color", "text-color", "background-color"],
     answer: "color",
@@ -1400,7 +1400,7 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "What does HTML stand for?",
     options: [
       "Hyper Trainer Marking Language",
@@ -1510,7 +1510,7 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "What does CSS stand for?",
     options: [
       "Colorful Style Sheets",
@@ -1562,7 +1562,7 @@ export const questions = [
     level: "Medium",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "What does HTML stand for?",
     options: [
       "Hyper Trainer Marking Language",
@@ -1637,7 +1637,7 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "What does HTML stand for?",
     options: [
       "Hyper Trainer Marking Language",
@@ -1670,7 +1670,7 @@ export const questions = [
     level: "Hard",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "What does HTML stand for?",
     options: [
       "Hyper Trainer Marking Language",
@@ -1736,7 +1736,7 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "Which tag is used to create a hyperlink in HTML?",
     options: ["<link>", "<a>", "<href>", "<hyperlink>"],
     answer: "<a>",
@@ -1750,7 +1750,7 @@ export const questions = [
     level: "Medium",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "What does HTML stand for?",
     options: [
       "Hyper Trainer Marking Language",
@@ -1762,7 +1762,7 @@ export const questions = [
     level: "Hard",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "What does HTML stand for?",
     options: [
       "Hyper Trainer Marking Language",
@@ -1894,7 +1894,7 @@ export const questions = [
     level: "Hard",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "Which tag is used to create a hyperlink in HTML?",
     options: ["<link>", "<a>", "<href>", "<hyperlink>"],
     answer: "<a>",
@@ -1941,7 +1941,7 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "What does CSS stand for?",
     options: [
       "Colorful Style Sheets",
@@ -2017,7 +2017,7 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "Which tag is used to create a hyperlink in HTML?",
     options: ["<link>", "<a>", "<href>", "<hyperlink>"],
     answer: "<a>",
@@ -2115,7 +2115,7 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "Which property is used to change the text color in CSS?",
     options: ["color", "font-color", "text-color", "background-color"],
     answer: "color",
@@ -2129,7 +2129,7 @@ export const questions = [
     level: "Hard",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "Which property is used to change the text color in CSS?",
     options: ["color", "font-color", "text-color", "background-color"],
     answer: "color",
@@ -2157,7 +2157,7 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "Which property is used to change the text color in CSS?",
     options: ["color", "font-color", "text-color", "background-color"],
     answer: "color",
@@ -2192,7 +2192,7 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "What does CSS stand for?",
     options: [
       "Colorful Style Sheets",
@@ -2250,7 +2250,7 @@ export const questions = [
     level: "Medium",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "What does CSS stand for?",
     options: [
       "Colorful Style Sheets",
@@ -2288,7 +2288,7 @@ export const questions = [
     level: "Hard",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "Which property is used to change the text color in CSS?",
     options: ["color", "font-color", "text-color", "background-color"],
     answer: "color",
@@ -2347,7 +2347,7 @@ export const questions = [
     level: "Medium",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "Which property is used to change the text color in CSS?",
     options: ["color", "font-color", "text-color", "background-color"],
     answer: "color",
@@ -2392,7 +2392,7 @@ export const questions = [
     level: "Medium",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "What does CSS stand for?",
     options: [
       "Colorful Style Sheets",
@@ -2556,7 +2556,7 @@ export const questions = [
     level: "Medium",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "Which property is used to change the text color in CSS?",
     options: ["color", "font-color", "text-color", "background-color"],
     answer: "color",
@@ -2570,7 +2570,7 @@ export const questions = [
     level: "Hard",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "What does HTML stand for?",
     options: [
       "Hyper Trainer Marking Language",
@@ -2582,7 +2582,7 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "Which tag is used to create a hyperlink in HTML?",
     options: ["<link>", "<a>", "<href>", "<hyperlink>"],
     answer: "<a>",
@@ -2629,7 +2629,7 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "What does HTML stand for?",
     options: [
       "Hyper Trainer Marking Language",
@@ -2641,7 +2641,7 @@ export const questions = [
     level: "Medium",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "What does CSS stand for?",
     options: [
       "Colorful Style Sheets",
@@ -2667,14 +2667,14 @@ export const questions = [
     level: "Medium",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "Which property is used to change the text color in CSS?",
     options: ["color", "font-color", "text-color", "background-color"],
     answer: "color",
     level: "Hard",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "What does CSS stand for?",
     options: [
       "Colorful Style Sheets",
@@ -2700,7 +2700,7 @@ export const questions = [
     level: "Hard",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "What does CSS stand for?",
     options: [
       "Colorful Style Sheets",
@@ -2712,14 +2712,14 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "Which tag is used to create a hyperlink in HTML?",
     options: ["<link>", "<a>", "<href>", "<hyperlink>"],
     answer: "<a>",
     level: "Hard",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "What does CSS stand for?",
     options: [
       "Colorful Style Sheets",
@@ -2778,7 +2778,7 @@ export const questions = [
     level: "Hard",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "What does HTML stand for?",
     options: [
       "Hyper Trainer Marking Language",
@@ -2790,7 +2790,7 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "Which tag is used to create a hyperlink in HTML?",
     options: ["<link>", "<a>", "<href>", "<hyperlink>"],
     answer: "<a>",
@@ -2845,7 +2845,7 @@ export const questions = [
     level: "Hard",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "Which tag is used to create a hyperlink in HTML?",
     options: ["<link>", "<a>", "<href>", "<hyperlink>"],
     answer: "<a>",
@@ -2859,7 +2859,7 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "Which property is used to change the text color in CSS?",
     options: ["color", "font-color", "text-color", "background-color"],
     answer: "color",
@@ -2987,7 +2987,7 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "What does CSS stand for?",
     options: [
       "Colorful Style Sheets",
@@ -3027,7 +3027,7 @@ export const questions = [
     level: "Hard",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "Which tag is used to create a hyperlink in HTML?",
     options: ["<link>", "<a>", "<href>", "<hyperlink>"],
     answer: "<a>",
@@ -3041,7 +3041,7 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "What does CSS stand for?",
     options: [
       "Colorful Style Sheets",
@@ -3140,7 +3140,7 @@ export const questions = [
     level: "Hard",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "What does CSS stand for?",
     options: [
       "Colorful Style Sheets",
@@ -3201,7 +3201,7 @@ export const questions = [
     level: "Medium",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "What does CSS stand for?",
     options: [
       "Colorful Style Sheets",
@@ -3262,7 +3262,7 @@ export const questions = [
     level: "Medium",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "Which property is used to change the text color in CSS?",
     options: ["color", "font-color", "text-color", "background-color"],
     answer: "color",
@@ -3498,7 +3498,7 @@ export const questions = [
     level: "Hard",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "Which tag is used to create a hyperlink in HTML?",
     options: ["<link>", "<a>", "<href>", "<hyperlink>"],
     answer: "<a>",
@@ -3524,7 +3524,7 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "What does CSS stand for?",
     options: [
       "Colorful Style Sheets",
@@ -3599,7 +3599,7 @@ export const questions = [
     level: "Medium",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "What does CSS stand for?",
     options: [
       "Colorful Style Sheets",
@@ -3611,7 +3611,7 @@ export const questions = [
     level: "Medium",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "What does HTML stand for?",
     options: [
       "Hyper Trainer Marking Language",
@@ -3623,7 +3623,7 @@ export const questions = [
     level: "Hard",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "What does HTML stand for?",
     options: [
       "Hyper Trainer Marking Language",
@@ -3731,7 +3731,7 @@ export const questions = [
     level: "Medium",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "What does CSS stand for?",
     options: [
       "Colorful Style Sheets",
@@ -3758,7 +3758,7 @@ export const questions = [
     level: "Medium",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "What does HTML stand for?",
     options: [
       "Hyper Trainer Marking Language",
@@ -3791,7 +3791,7 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "Which property is used to change the text color in CSS?",
     options: ["color", "font-color", "text-color", "background-color"],
     answer: "color",
@@ -3805,7 +3805,7 @@ export const questions = [
     level: "Hard",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "What does HTML stand for?",
     options: [
       "Hyper Trainer Marking Language",
@@ -3817,7 +3817,7 @@ export const questions = [
     level: "Hard",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "What does HTML stand for?",
     options: [
       "Hyper Trainer Marking Language",
@@ -3867,7 +3867,7 @@ export const questions = [
     level: "Medium",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "Which tag is used to create a hyperlink in HTML?",
     options: ["<link>", "<a>", "<href>", "<hyperlink>"],
     answer: "<a>",
@@ -3881,7 +3881,7 @@ export const questions = [
     level: "Hard",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "Which tag is used to create a hyperlink in HTML?",
     options: ["<link>", "<a>", "<href>", "<hyperlink>"],
     answer: "<a>",
@@ -3919,7 +3919,7 @@ export const questions = [
     level: "Medium",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "Which tag is used to create a hyperlink in HTML?",
     options: ["<link>", "<a>", "<href>", "<hyperlink>"],
     answer: "<a>",
@@ -3933,7 +3933,7 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "What does HTML stand for?",
     options: [
       "Hyper Trainer Marking Language",
@@ -3973,7 +3973,7 @@ export const questions = [
     level: "Hard",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "What does CSS stand for?",
     options: [
       "Colorful Style Sheets",
@@ -4011,7 +4011,7 @@ export const questions = [
     level: "Medium",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "Which property is used to change the text color in CSS?",
     options: ["color", "font-color", "text-color", "background-color"],
     answer: "color",
@@ -4032,7 +4032,7 @@ export const questions = [
     level: "Hard",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "What does CSS stand for?",
     options: [
       "Colorful Style Sheets",
@@ -4117,7 +4117,7 @@ export const questions = [
     level: "Hard",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "What does HTML stand for?",
     options: [
       "Hyper Trainer Marking Language",
@@ -4208,7 +4208,7 @@ export const questions = [
     level: "Hard",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "What does HTML stand for?",
     options: [
       "Hyper Trainer Marking Language",
@@ -4284,7 +4284,7 @@ export const questions = [
     level: "Hard",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "What does CSS stand for?",
     options: [
       "Colorful Style Sheets",
@@ -4303,7 +4303,7 @@ export const questions = [
     level: "Medium",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "What does CSS stand for?",
     options: [
       "Colorful Style Sheets",
@@ -4346,7 +4346,7 @@ export const questions = [
     level: "Medium",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "Which tag is used to create a hyperlink in HTML?",
     options: ["<link>", "<a>", "<href>", "<hyperlink>"],
     answer: "<a>",
@@ -4440,7 +4440,7 @@ export const questions = [
     level: "Medium",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "What does CSS stand for?",
     options: [
       "Colorful Style Sheets",
@@ -4541,7 +4541,7 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "Which property is used to change the text color in CSS?",
     options: ["color", "font-color", "text-color", "background-color"],
     answer: "color",
@@ -4555,7 +4555,7 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "What does CSS stand for?",
     options: [
       "Colorful Style Sheets",
@@ -4567,7 +4567,7 @@ export const questions = [
     level: "Medium",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "Which property is used to change the text color in CSS?",
     options: ["color", "font-color", "text-color", "background-color"],
     answer: "color",
@@ -4595,7 +4595,7 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "What does CSS stand for?",
     options: [
       "Colorful Style Sheets",
@@ -4607,7 +4607,7 @@ export const questions = [
     level: "Hard",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "Which property is used to change the text color in CSS?",
     options: ["color", "font-color", "text-color", "background-color"],
     answer: "color",
@@ -4682,7 +4682,7 @@ export const questions = [
     level: "Hard",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "What does CSS stand for?",
     options: [
       "Colorful Style Sheets",
@@ -4694,7 +4694,7 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "What does HTML stand for?",
     options: [
       "Hyper Trainer Marking Language",
@@ -4713,7 +4713,7 @@ export const questions = [
     level: "Hard",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "Which tag is used to create a hyperlink in HTML?",
     options: ["<link>", "<a>", "<href>", "<hyperlink>"],
     answer: "<a>",
@@ -4870,7 +4870,7 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "What does HTML stand for?",
     options: [
       "Hyper Trainer Marking Language",
@@ -4974,7 +4974,7 @@ export const questions = [
     level: "Hard",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "What does CSS stand for?",
     options: [
       "Colorful Style Sheets",
@@ -5101,7 +5101,7 @@ export const questions = [
     level: "Medium",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "What does CSS stand for?",
     options: [
       "Colorful Style Sheets",
@@ -5113,7 +5113,7 @@ export const questions = [
     level: "Hard",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "Which tag is used to create a hyperlink in HTML?",
     options: ["<link>", "<a>", "<href>", "<hyperlink>"],
     answer: "<a>",
@@ -5216,7 +5216,7 @@ export const questions = [
     level: "Hard",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "Which tag is used to create a hyperlink in HTML?",
     options: ["<link>", "<a>", "<href>", "<hyperlink>"],
     answer: "<a>",
@@ -5275,7 +5275,7 @@ export const questions = [
     level: "Medium",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "What does HTML stand for?",
     options: [
       "Hyper Trainer Marking Language",
@@ -5407,7 +5407,7 @@ export const questions = [
     level: "Medium",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "Which property is used to change the text color in CSS?",
     options: ["color", "font-color", "text-color", "background-color"],
     answer: "color",
@@ -5429,7 +5429,7 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "What does CSS stand for?",
     options: [
       "Colorful Style Sheets",
@@ -5481,7 +5481,7 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "What does HTML stand for?",
     options: [
       "Hyper Trainer Marking Language",
@@ -5578,7 +5578,7 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "Which property is used to change the text color in CSS?",
     options: ["color", "font-color", "text-color", "background-color"],
     answer: "color",
@@ -5703,7 +5703,7 @@ export const questions = [
     level: "Hard",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "Which tag is used to create a hyperlink in HTML?",
     options: ["<link>", "<a>", "<href>", "<hyperlink>"],
     answer: "<a>",
@@ -5786,7 +5786,7 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "What does CSS stand for?",
     options: [
       "Colorful Style Sheets",
@@ -5812,7 +5812,7 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "What does CSS stand for?",
     options: [
       "Colorful Style Sheets",
@@ -5824,7 +5824,7 @@ export const questions = [
     level: "Medium",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "Which tag is used to create a hyperlink in HTML?",
     options: ["<link>", "<a>", "<href>", "<hyperlink>"],
     answer: "<a>",
@@ -5845,7 +5845,7 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "Which tag is used to create a hyperlink in HTML?",
     options: ["<link>", "<a>", "<href>", "<hyperlink>"],
     answer: "<a>",
@@ -5859,7 +5859,7 @@ export const questions = [
     level: "Medium",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "What does CSS stand for?",
     options: [
       "Colorful Style Sheets",
@@ -5963,7 +5963,7 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "What does CSS stand for?",
     options: [
       "Colorful Style Sheets",
@@ -6039,7 +6039,7 @@ export const questions = [
     level: "Medium",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "Which property is used to change the text color in CSS?",
     options: ["color", "font-color", "text-color", "background-color"],
     answer: "color",
@@ -6119,7 +6119,7 @@ export const questions = [
     level: "Hard",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "Which tag is used to create a hyperlink in HTML?",
     options: ["<link>", "<a>", "<href>", "<hyperlink>"],
     answer: "<a>",
@@ -6187,7 +6187,7 @@ export const questions = [
     level: "Medium",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "Which property is used to change the text color in CSS?",
     options: ["color", "font-color", "text-color", "background-color"],
     answer: "color",
@@ -6208,7 +6208,7 @@ export const questions = [
     level: "Medium",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "Which tag is used to create a hyperlink in HTML?",
     options: ["<link>", "<a>", "<href>", "<hyperlink>"],
     answer: "<a>",
@@ -6234,7 +6234,7 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "What does CSS stand for?",
     options: [
       "Colorful Style Sheets",
@@ -6246,7 +6246,7 @@ export const questions = [
     level: "Hard",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "Which property is used to change the text color in CSS?",
     options: ["color", "font-color", "text-color", "background-color"],
     answer: "color",
@@ -6371,14 +6371,14 @@ export const questions = [
     level: "Medium",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "Which property is used to change the text color in CSS?",
     options: ["color", "font-color", "text-color", "background-color"],
     answer: "color",
     level: "Easy",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "Which property is used to change the text color in CSS?",
     options: ["color", "font-color", "text-color", "background-color"],
     answer: "color",
@@ -6439,7 +6439,7 @@ export const questions = [
     level: "Medium",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "Which tag is used to create a hyperlink in HTML?",
     options: ["<link>", "<a>", "<href>", "<hyperlink>"],
     answer: "<a>",
@@ -6495,7 +6495,7 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "What does CSS stand for?",
     options: [
       "Colorful Style Sheets",
@@ -6918,7 +6918,7 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "Which tag is used to create a hyperlink in HTML?",
     options: ["<link>", "<a>", "<href>", "<hyperlink>"],
     answer: "<a>",
@@ -6953,7 +6953,7 @@ export const questions = [
     level: "Medium",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "Which tag is used to create a hyperlink in HTML?",
     options: ["<link>", "<a>", "<href>", "<hyperlink>"],
     answer: "<a>",
@@ -7021,7 +7021,7 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "Which tag is used to create a hyperlink in HTML?",
     options: ["<link>", "<a>", "<href>", "<hyperlink>"],
     answer: "<a>",
@@ -7155,7 +7155,7 @@ export const questions = [
     level: "Hard",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "Which tag is used to create a hyperlink in HTML?",
     options: ["<link>", "<a>", "<href>", "<hyperlink>"],
     answer: "<a>",
@@ -7334,7 +7334,7 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "What does HTML stand for?",
     options: [
       "Hyper Trainer Marking Language",
@@ -7374,7 +7374,7 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "What does CSS stand for?",
     options: [
       "Colorful Style Sheets",
@@ -7522,7 +7522,7 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "Which property is used to change the text color in CSS?",
     options: ["color", "font-color", "text-color", "background-color"],
     answer: "color",
@@ -7550,7 +7550,7 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "Which tag is used to create a hyperlink in HTML?",
     options: ["<link>", "<a>", "<href>", "<hyperlink>"],
     answer: "<a>",
@@ -7583,7 +7583,7 @@ export const questions = [
     level: "Medium",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "What does HTML stand for?",
     options: [
       "Hyper Trainer Marking Language",
@@ -7595,7 +7595,7 @@ export const questions = [
     level: "Medium",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "Which tag is used to create a hyperlink in HTML?",
     options: ["<link>", "<a>", "<href>", "<hyperlink>"],
     answer: "<a>",
@@ -7657,7 +7657,7 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "What does CSS stand for?",
     options: [
       "Colorful Style Sheets",
@@ -7676,7 +7676,7 @@ export const questions = [
     level: "Medium",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "What does HTML stand for?",
     options: [
       "Hyper Trainer Marking Language",
@@ -7799,7 +7799,7 @@ export const questions = [
     level: "Medium",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "What does HTML stand for?",
     options: [
       "Hyper Trainer Marking Language",
@@ -7969,7 +7969,7 @@ export const questions = [
     level: "Medium",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "What does CSS stand for?",
     options: [
       "Colorful Style Sheets",
@@ -8037,7 +8037,7 @@ export const questions = [
     level: "Hard",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "Which property is used to change the text color in CSS?",
     options: ["color", "font-color", "text-color", "background-color"],
     answer: "color",
@@ -8121,7 +8121,7 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "What does CSS stand for?",
     options: [
       "Colorful Style Sheets",
@@ -8175,7 +8175,7 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "What does HTML stand for?",
     options: [
       "Hyper Trainer Marking Language",
@@ -8337,7 +8337,7 @@ export const questions = [
     level: "Hard",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "Which property is used to change the text color in CSS?",
     options: ["color", "font-color", "text-color", "background-color"],
     answer: "color",
@@ -8372,7 +8372,7 @@ export const questions = [
     level: "Medium",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "What does CSS stand for?",
     options: [
       "Colorful Style Sheets",
@@ -8501,7 +8501,7 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "Which property is used to change the text color in CSS?",
     options: ["color", "font-color", "text-color", "background-color"],
     answer: "color",
@@ -8557,7 +8557,7 @@ export const questions = [
     level: "Hard",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "Which property is used to change the text color in CSS?",
     options: ["color", "font-color", "text-color", "background-color"],
     answer: "color",
@@ -8606,7 +8606,7 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "What does CSS stand for?",
     options: [
       "Colorful Style Sheets",
@@ -8707,7 +8707,7 @@ export const questions = [
     level: "Medium",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "Which property is used to change the text color in CSS?",
     options: ["color", "font-color", "text-color", "background-color"],
     answer: "color",
@@ -8733,7 +8733,7 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "Which property is used to change the text color in CSS?",
     options: ["color", "font-color", "text-color", "background-color"],
     answer: "color",
@@ -8747,7 +8747,7 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "What does CSS stand for?",
     options: [
       "Colorful Style Sheets",
@@ -8759,7 +8759,7 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "Which property is used to change the text color in CSS?",
     options: ["color", "font-color", "text-color", "background-color"],
     answer: "color",
@@ -8808,7 +8808,7 @@ export const questions = [
     level: "Hard",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "Which property is used to change the text color in CSS?",
     options: ["color", "font-color", "text-color", "background-color"],
     answer: "color",
@@ -8843,14 +8843,14 @@ export const questions = [
     level: "Medium",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "Which property is used to change the text color in CSS?",
     options: ["color", "font-color", "text-color", "background-color"],
     answer: "color",
     level: "Medium",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "Which tag is used to create a hyperlink in HTML?",
     options: ["<link>", "<a>", "<href>", "<hyperlink>"],
     answer: "<a>",
@@ -8988,7 +8988,7 @@ export const questions = [
     level: "Medium",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "What does HTML stand for?",
     options: [
       "Hyper Trainer Marking Language",
@@ -9008,7 +9008,7 @@ export const questions = [
     level: "Medium",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "What does CSS stand for?",
     options: [
       "Colorful Style Sheets",
@@ -9039,7 +9039,7 @@ export const questions = [
     level: "Hard",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "Which property is used to change the text color in CSS?",
     options: ["color", "font-color", "text-color", "background-color"],
     answer: "color",
@@ -9171,7 +9171,7 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "What does CSS stand for?",
     options: [
       "Colorful Style Sheets",
@@ -9313,7 +9313,7 @@ export const questions = [
     level: "Medium",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "Which property is used to change the text color in CSS?",
     options: ["color", "font-color", "text-color", "background-color"],
     answer: "color",
@@ -9397,7 +9397,7 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "Which tag is used to create a hyperlink in HTML?",
     options: ["<link>", "<a>", "<href>", "<hyperlink>"],
     answer: "<a>",
@@ -9411,7 +9411,7 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "What does CSS stand for?",
     options: [
       "Colorful Style Sheets",
@@ -9423,7 +9423,7 @@ export const questions = [
     level: "Hard",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "What does CSS stand for?",
     options: [
       "Colorful Style Sheets",
@@ -9442,14 +9442,14 @@ export const questions = [
     level: "Hard",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "Which property is used to change the text color in CSS?",
     options: ["color", "font-color", "text-color", "background-color"],
     answer: "color",
     level: "Medium",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "Which property is used to change the text color in CSS?",
     options: ["color", "font-color", "text-color", "background-color"],
     answer: "color",
@@ -9595,14 +9595,14 @@ export const questions = [
     level: "Medium",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "Which property is used to change the text color in CSS?",
     options: ["color", "font-color", "text-color", "background-color"],
     answer: "color",
     level: "Hard",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "What does CSS stand for?",
     options: [
       "Colorful Style Sheets",
@@ -9628,7 +9628,7 @@ export const questions = [
     level: "Medium",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "Which property is used to change the text color in CSS?",
     options: ["color", "font-color", "text-color", "background-color"],
     answer: "color",
@@ -9719,14 +9719,14 @@ export const questions = [
     level: "Hard",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "Which property is used to change the text color in CSS?",
     options: ["color", "font-color", "text-color", "background-color"],
     answer: "color",
     level: "Hard",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "What does CSS stand for?",
     options: [
       "Colorful Style Sheets",
@@ -9848,7 +9848,7 @@ export const questions = [
     level: "Hard",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "Which property is used to change the text color in CSS?",
     options: ["color", "font-color", "text-color", "background-color"],
     answer: "color",
@@ -9949,7 +9949,7 @@ export const questions = [
     level: "Hard",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "Which property is used to change the text color in CSS?",
     options: ["color", "font-color", "text-color", "background-color"],
     answer: "color",
@@ -10034,7 +10034,7 @@ export const questions = [
     level: "Medium",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "What does HTML stand for?",
     options: [
       "Hyper Trainer Marking Language",
@@ -10060,7 +10060,7 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "Which property is used to change the text color in CSS?",
     options: ["color", "font-color", "text-color", "background-color"],
     answer: "color",
@@ -10114,7 +10114,7 @@ export const questions = [
     level: "Medium",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "What does HTML stand for?",
     options: [
       "Hyper Trainer Marking Language",
@@ -10126,7 +10126,7 @@ export const questions = [
     level: "Medium",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "Which tag is used to create a hyperlink in HTML?",
     options: ["<link>", "<a>", "<href>", "<hyperlink>"],
     answer: "<a>",
@@ -10225,7 +10225,7 @@ export const questions = [
     level: "Medium",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "Which tag is used to create a hyperlink in HTML?",
     options: ["<link>", "<a>", "<href>", "<hyperlink>"],
     answer: "<a>",
@@ -10261,7 +10261,7 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "What does CSS stand for?",
     options: [
       "Colorful Style Sheets",
@@ -10273,7 +10273,7 @@ export const questions = [
     level: "Medium",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "What does HTML stand for?",
     options: [
       "Hyper Trainer Marking Language",
@@ -10321,7 +10321,7 @@ export const questions = [
     level: "Medium",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "What does HTML stand for?",
     options: [
       "Hyper Trainer Marking Language",
@@ -10396,7 +10396,7 @@ export const questions = [
     level: "Hard",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "What does CSS stand for?",
     options: [
       "Colorful Style Sheets",
@@ -10476,7 +10476,7 @@ export const questions = [
     level: "Hard",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "What does HTML stand for?",
     options: [
       "Hyper Trainer Marking Language",
@@ -10622,7 +10622,7 @@ export const questions = [
     level: "Hard",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "Which tag is used to create a hyperlink in HTML?",
     options: ["<link>", "<a>", "<href>", "<hyperlink>"],
     answer: "<a>",
@@ -10672,7 +10672,7 @@ export const questions = [
     level: "Hard",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "What does HTML stand for?",
     options: [
       "Hyper Trainer Marking Language",
@@ -10691,7 +10691,7 @@ export const questions = [
     level: "Medium",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "What does CSS stand for?",
     options: [
       "Colorful Style Sheets",
@@ -10758,7 +10758,7 @@ export const questions = [
     level: "Medium",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "Which property is used to change the text color in CSS?",
     options: ["color", "font-color", "text-color", "background-color"],
     answer: "color",
@@ -10786,7 +10786,7 @@ export const questions = [
     level: "Medium",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "What does HTML stand for?",
     options: [
       "Hyper Trainer Marking Language",
@@ -10857,7 +10857,7 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "Which tag is used to create a hyperlink in HTML?",
     options: ["<link>", "<a>", "<href>", "<hyperlink>"],
     answer: "<a>",
@@ -10902,7 +10902,7 @@ export const questions = [
     level: "Medium",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "What does CSS stand for?",
     options: [
       "Colorful Style Sheets",
@@ -10928,7 +10928,7 @@ export const questions = [
     level: "Hard",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "What does HTML stand for?",
     options: [
       "Hyper Trainer Marking Language",
@@ -10940,7 +10940,7 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "What does CSS stand for?",
     options: [
       "Colorful Style Sheets",
@@ -10999,7 +10999,7 @@ export const questions = [
     level: "Hard",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "Which property is used to change the text color in CSS?",
     options: ["color", "font-color", "text-color", "background-color"],
     answer: "color",
@@ -11098,7 +11098,7 @@ export const questions = [
     level: "Hard",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "What does CSS stand for?",
     options: [
       "Colorful Style Sheets",
@@ -11117,7 +11117,7 @@ export const questions = [
     level: "Hard",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "Which property is used to change the text color in CSS?",
     options: ["color", "font-color", "text-color", "background-color"],
     answer: "color",
@@ -11131,7 +11131,7 @@ export const questions = [
     level: "Medium",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "Which property is used to change the text color in CSS?",
     options: ["color", "font-color", "text-color", "background-color"],
     answer: "color",
@@ -11159,7 +11159,7 @@ export const questions = [
     level: "Hard",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "What does CSS stand for?",
     options: [
       "Colorful Style Sheets",
@@ -11171,7 +11171,7 @@ export const questions = [
     level: "Hard",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "What does CSS stand for?",
     options: [
       "Colorful Style Sheets",
@@ -11251,7 +11251,7 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "Which property is used to change the text color in CSS?",
     options: ["color", "font-color", "text-color", "background-color"],
     answer: "color",
@@ -11279,7 +11279,7 @@ export const questions = [
     level: "Hard",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "What does HTML stand for?",
     options: [
       "Hyper Trainer Marking Language",
@@ -11312,7 +11312,7 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "Which property is used to change the text color in CSS?",
     options: ["color", "font-color", "text-color", "background-color"],
     answer: "color",
@@ -11451,7 +11451,7 @@ export const questions = [
     level: "Medium",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "What does CSS stand for?",
     options: [
       "Colorful Style Sheets",
@@ -11471,7 +11471,7 @@ export const questions = [
     level: "Medium",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "Which property is used to change the text color in CSS?",
     options: ["color", "font-color", "text-color", "background-color"],
     answer: "color",
@@ -11506,7 +11506,7 @@ export const questions = [
     level: "Medium",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "What does CSS stand for?",
     options: [
       "Colorful Style Sheets",
@@ -11518,7 +11518,7 @@ export const questions = [
     level: "Medium",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "What does CSS stand for?",
     options: [
       "Colorful Style Sheets",
@@ -11944,7 +11944,7 @@ export const questions = [
     level: "Medium",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "What does HTML stand for?",
     options: [
       "Hyper Trainer Marking Language",
@@ -11963,7 +11963,7 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "Which tag is used to create a hyperlink in HTML?",
     options: ["<link>", "<a>", "<href>", "<hyperlink>"],
     answer: "<a>",
@@ -12017,7 +12017,7 @@ export const questions = [
     level: "Hard",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "Which property is used to change the text color in CSS?",
     options: ["color", "font-color", "text-color", "background-color"],
     answer: "color",
@@ -12031,7 +12031,7 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "Which property is used to change the text color in CSS?",
     options: ["color", "font-color", "text-color", "background-color"],
     answer: "color",
@@ -12097,7 +12097,7 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "What does CSS stand for?",
     options: [
       "Colorful Style Sheets",
@@ -12142,7 +12142,7 @@ export const questions = [
     level: "Medium",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "Which tag is used to create a hyperlink in HTML?",
     options: ["<link>", "<a>", "<href>", "<hyperlink>"],
     answer: "<a>",
@@ -12290,7 +12290,7 @@ export const questions = [
     level: "Medium",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "What does CSS stand for?",
     options: [
       "Colorful Style Sheets",
@@ -12440,7 +12440,7 @@ export const questions = [
     level: "Hard",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "What does CSS stand for?",
     options: [
       "Colorful Style Sheets",
@@ -12487,7 +12487,7 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "Which property is used to change the text color in CSS?",
     options: ["color", "font-color", "text-color", "background-color"],
     answer: "color",
@@ -12527,7 +12527,7 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "What does CSS stand for?",
     options: [
       "Colorful Style Sheets",
@@ -12546,7 +12546,7 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "Which tag is used to create a hyperlink in HTML?",
     options: ["<link>", "<a>", "<href>", "<hyperlink>"],
     answer: "<a>",
@@ -12714,7 +12714,7 @@ export const questions = [
     level: "Hard",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "What does HTML stand for?",
     options: [
       "Hyper Trainer Marking Language",
@@ -12816,7 +12816,7 @@ export const questions = [
     level: "Hard",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "Which property is used to change the text color in CSS?",
     options: ["color", "font-color", "text-color", "background-color"],
     answer: "color",
@@ -12927,7 +12927,7 @@ export const questions = [
     level: "Hard",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "What does HTML stand for?",
     options: [
       "Hyper Trainer Marking Language",
@@ -12953,7 +12953,7 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "Which tag is used to create a hyperlink in HTML?",
     options: ["<link>", "<a>", "<href>", "<hyperlink>"],
     answer: "<a>",
@@ -12974,7 +12974,7 @@ export const questions = [
     level: "Medium",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "Which property is used to change the text color in CSS?",
     options: ["color", "font-color", "text-color", "background-color"],
     answer: "color",
@@ -13033,7 +13033,7 @@ export const questions = [
     level: "Hard",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "What does CSS stand for?",
     options: [
       "Colorful Style Sheets",
@@ -13059,7 +13059,7 @@ export const questions = [
     level: "Hard",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "What does HTML stand for?",
     options: [
       "Hyper Trainer Marking Language",
@@ -13078,7 +13078,7 @@ export const questions = [
     level: "Hard",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "What does CSS stand for?",
     options: [
       "Colorful Style Sheets",
@@ -13090,7 +13090,7 @@ export const questions = [
     level: "Hard",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "Which tag is used to create a hyperlink in HTML?",
     options: ["<link>", "<a>", "<href>", "<hyperlink>"],
     answer: "<a>",
@@ -13118,7 +13118,7 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "Which property is used to change the text color in CSS?",
     options: ["color", "font-color", "text-color", "background-color"],
     answer: "color",
@@ -13193,7 +13193,7 @@ export const questions = [
     level: "Hard",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "What does CSS stand for?",
     options: [
       "Colorful Style Sheets",
@@ -13212,14 +13212,14 @@ export const questions = [
     level: "Hard",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "Which tag is used to create a hyperlink in HTML?",
     options: ["<link>", "<a>", "<href>", "<hyperlink>"],
     answer: "<a>",
     level: "Easy",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "Which tag is used to create a hyperlink in HTML?",
     options: ["<link>", "<a>", "<href>", "<hyperlink>"],
     answer: "<a>",
@@ -13292,7 +13292,7 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "Which property is used to change the text color in CSS?",
     options: ["color", "font-color", "text-color", "background-color"],
     answer: "color",
@@ -13320,7 +13320,7 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "Which tag is used to create a hyperlink in HTML?",
     options: ["<link>", "<a>", "<href>", "<hyperlink>"],
     answer: "<a>",
@@ -13341,7 +13341,7 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "What does CSS stand for?",
     options: [
       "Colorful Style Sheets",
@@ -13408,7 +13408,7 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "What does HTML stand for?",
     options: [
       "Hyper Trainer Marking Language",
@@ -13420,7 +13420,7 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "Which tag is used to create a hyperlink in HTML?",
     options: ["<link>", "<a>", "<href>", "<hyperlink>"],
     answer: "<a>",
@@ -13561,7 +13561,7 @@ export const questions = [
     level: "Hard",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "Which tag is used to create a hyperlink in HTML?",
     options: ["<link>", "<a>", "<href>", "<hyperlink>"],
     answer: "<a>",
@@ -13643,7 +13643,7 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "Which property is used to change the text color in CSS?",
     options: ["color", "font-color", "text-color", "background-color"],
     answer: "color",
@@ -13803,7 +13803,7 @@ export const questions = [
     level: "Hard",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "What does CSS stand for?",
     options: [
       "Colorful Style Sheets",
@@ -13836,7 +13836,7 @@ export const questions = [
     level: "Medium",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "What does HTML stand for?",
     options: [
       "Hyper Trainer Marking Language",
@@ -13904,7 +13904,7 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "What does HTML stand for?",
     options: [
       "Hyper Trainer Marking Language",
@@ -13923,7 +13923,7 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "Which property is used to change the text color in CSS?",
     options: ["color", "font-color", "text-color", "background-color"],
     answer: "color",
@@ -13977,7 +13977,7 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "What does CSS stand for?",
     options: [
       "Colorful Style Sheets",
@@ -14138,7 +14138,7 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "What does CSS stand for?",
     options: [
       "Colorful Style Sheets",
@@ -14199,7 +14199,7 @@ export const questions = [
     level: "Medium",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "Which tag is used to create a hyperlink in HTML?",
     options: ["<link>", "<a>", "<href>", "<hyperlink>"],
     answer: "<a>",
@@ -14244,7 +14244,7 @@ export const questions = [
     level: "Hard",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "Which property is used to change the text color in CSS?",
     options: ["color", "font-color", "text-color", "background-color"],
     answer: "color",
@@ -14291,7 +14291,7 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "Which property is used to change the text color in CSS?",
     options: ["color", "font-color", "text-color", "background-color"],
     answer: "color",
@@ -14317,7 +14317,7 @@ export const questions = [
     level: "Hard",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "What does HTML stand for?",
     options: [
       "Hyper Trainer Marking Language",
@@ -14448,7 +14448,7 @@ export const questions = [
     level: "Hard",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "What does HTML stand for?",
     options: [
       "Hyper Trainer Marking Language",
@@ -14481,7 +14481,7 @@ export const questions = [
     level: "Hard",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "Which tag is used to create a hyperlink in HTML?",
     options: ["<link>", "<a>", "<href>", "<hyperlink>"],
     answer: "<a>",
@@ -14663,7 +14663,7 @@ export const questions = [
     level: "Hard",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "What does CSS stand for?",
     options: [
       "Colorful Style Sheets",
@@ -14766,7 +14766,7 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "Which property is used to change the text color in CSS?",
     options: ["color", "font-color", "text-color", "background-color"],
     answer: "color",
@@ -14856,7 +14856,7 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "What does HTML stand for?",
     options: [
       "Hyper Trainer Marking Language",
@@ -15153,7 +15153,7 @@ export const questions = [
     level: "Hard",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "What does HTML stand for?",
     options: [
       "Hyper Trainer Marking Language",
@@ -15179,7 +15179,7 @@ export const questions = [
     level: "Medium",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "Which property is used to change the text color in CSS?",
     options: ["color", "font-color", "text-color", "background-color"],
     answer: "color",
@@ -15193,14 +15193,14 @@ export const questions = [
     level: "Hard",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "Which property is used to change the text color in CSS?",
     options: ["color", "font-color", "text-color", "background-color"],
     answer: "color",
     level: "Easy",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "Which property is used to change the text color in CSS?",
     options: ["color", "font-color", "text-color", "background-color"],
     answer: "color",
@@ -15343,7 +15343,7 @@ export const questions = [
     level: "Hard",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "Which property is used to change the text color in CSS?",
     options: ["color", "font-color", "text-color", "background-color"],
     answer: "color",
@@ -15364,7 +15364,7 @@ export const questions = [
     level: "Hard",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "Which property is used to change the text color in CSS?",
     options: ["color", "font-color", "text-color", "background-color"],
     answer: "color",
@@ -15416,7 +15416,7 @@ export const questions = [
     level: "Hard",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "What does CSS stand for?",
     options: [
       "Colorful Style Sheets",
@@ -15428,7 +15428,7 @@ export const questions = [
     level: "Medium",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "Which tag is used to create a hyperlink in HTML?",
     options: ["<link>", "<a>", "<href>", "<hyperlink>"],
     answer: "<a>",
@@ -15475,7 +15475,7 @@ export const questions = [
     level: "Hard",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "Which property is used to change the text color in CSS?",
     options: ["color", "font-color", "text-color", "background-color"],
     answer: "color",
@@ -15590,7 +15590,7 @@ export const questions = [
     level: "Medium",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "Which tag is used to create a hyperlink in HTML?",
     options: ["<link>", "<a>", "<href>", "<hyperlink>"],
     answer: "<a>",
@@ -15637,7 +15637,7 @@ export const questions = [
     level: "Hard",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "Which tag is used to create a hyperlink in HTML?",
     options: ["<link>", "<a>", "<href>", "<hyperlink>"],
     answer: "<a>",
@@ -15727,7 +15727,7 @@ export const questions = [
     level: "Medium",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "Which property is used to change the text color in CSS?",
     options: ["color", "font-color", "text-color", "background-color"],
     answer: "color",
@@ -15760,7 +15760,7 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "What does HTML stand for?",
     options: [
       "Hyper Trainer Marking Language",
@@ -15866,14 +15866,14 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "Which tag is used to create a hyperlink in HTML?",
     options: ["<link>", "<a>", "<href>", "<hyperlink>"],
     answer: "<a>",
     level: "Easy",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "Which property is used to change the text color in CSS?",
     options: ["color", "font-color", "text-color", "background-color"],
     answer: "color",
@@ -15936,7 +15936,7 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "Which tag is used to create a hyperlink in HTML?",
     options: ["<link>", "<a>", "<href>", "<hyperlink>"],
     answer: "<a>",
@@ -15979,7 +15979,7 @@ export const questions = [
     level: "Hard",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "Which tag is used to create a hyperlink in HTML?",
     options: ["<link>", "<a>", "<href>", "<hyperlink>"],
     answer: "<a>",
@@ -16000,7 +16000,7 @@ export const questions = [
     level: "Hard",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "What does CSS stand for?",
     options: [
       "Colorful Style Sheets",
@@ -16110,7 +16110,7 @@ export const questions = [
     level: "Hard",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "What does HTML stand for?",
     options: [
       "Hyper Trainer Marking Language",
@@ -16122,7 +16122,7 @@ export const questions = [
     level: "Medium",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "What does CSS stand for?",
     options: [
       "Colorful Style Sheets",
@@ -16161,7 +16161,7 @@ export const questions = [
     level: "Hard",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "Which property is used to change the text color in CSS?",
     options: ["color", "font-color", "text-color", "background-color"],
     answer: "color",
@@ -16334,7 +16334,7 @@ export const questions = [
     level: "Hard",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "Which property is used to change the text color in CSS?",
     options: ["color", "font-color", "text-color", "background-color"],
     answer: "color",
@@ -16362,7 +16362,7 @@ export const questions = [
     level: "Medium",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "Which property is used to change the text color in CSS?",
     options: ["color", "font-color", "text-color", "background-color"],
     answer: "color",
@@ -16561,7 +16561,7 @@ export const questions = [
     level: "Hard",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "Which property is used to change the text color in CSS?",
     options: ["color", "font-color", "text-color", "background-color"],
     answer: "color",
@@ -16629,7 +16629,7 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "Which tag is used to create a hyperlink in HTML?",
     options: ["<link>", "<a>", "<href>", "<hyperlink>"],
     answer: "<a>",
@@ -16744,7 +16744,7 @@ export const questions = [
     level: "Medium",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "Which tag is used to create a hyperlink in HTML?",
     options: ["<link>", "<a>", "<href>", "<hyperlink>"],
     answer: "<a>",
@@ -16758,7 +16758,7 @@ export const questions = [
     level: "Hard",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "Which tag is used to create a hyperlink in HTML?",
     options: ["<link>", "<a>", "<href>", "<hyperlink>"],
     answer: "<a>",
@@ -16793,7 +16793,7 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "Which tag is used to create a hyperlink in HTML?",
     options: ["<link>", "<a>", "<href>", "<hyperlink>"],
     answer: "<a>",
@@ -16961,7 +16961,7 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "What does CSS stand for?",
     options: [
       "Colorful Style Sheets",
@@ -17069,7 +17069,7 @@ export const questions = [
     level: "Hard",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "What does CSS stand for?",
     options: [
       "Colorful Style Sheets",
@@ -17081,7 +17081,7 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "What does HTML stand for?",
     options: [
       "Hyper Trainer Marking Language",
@@ -17205,7 +17205,7 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "What does CSS stand for?",
     options: [
       "Colorful Style Sheets",
@@ -17250,7 +17250,7 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "What does HTML stand for?",
     options: [
       "Hyper Trainer Marking Language",
@@ -17276,7 +17276,7 @@ export const questions = [
     level: "Hard",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "Which tag is used to create a hyperlink in HTML?",
     options: ["<link>", "<a>", "<href>", "<hyperlink>"],
     answer: "<a>",
@@ -17318,7 +17318,7 @@ export const questions = [
     level: "Medium",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "Which tag is used to create a hyperlink in HTML?",
     options: ["<link>", "<a>", "<href>", "<hyperlink>"],
     answer: "<a>",
@@ -17367,7 +17367,7 @@ export const questions = [
     level: "Medium",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "What does CSS stand for?",
     options: [
       "Colorful Style Sheets",
@@ -17419,7 +17419,7 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "Which property is used to change the text color in CSS?",
     options: ["color", "font-color", "text-color", "background-color"],
     answer: "color",
@@ -17476,7 +17476,7 @@ export const questions = [
     level: "Medium",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "What does HTML stand for?",
     options: [
       "Hyper Trainer Marking Language",
@@ -17495,7 +17495,7 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "Which tag is used to create a hyperlink in HTML?",
     options: ["<link>", "<a>", "<href>", "<hyperlink>"],
     answer: "<a>",
@@ -17627,7 +17627,7 @@ export const questions = [
     level: "Medium",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "What does HTML stand for?",
     options: [
       "Hyper Trainer Marking Language",
@@ -17695,7 +17695,7 @@ export const questions = [
     level: "Medium",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "What does HTML stand for?",
     options: [
       "Hyper Trainer Marking Language",
@@ -17707,14 +17707,14 @@ export const questions = [
     level: "Hard",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "Which tag is used to create a hyperlink in HTML?",
     options: ["<link>", "<a>", "<href>", "<hyperlink>"],
     answer: "<a>",
     level: "Hard",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "What does CSS stand for?",
     options: [
       "Colorful Style Sheets",
@@ -17815,7 +17815,7 @@ export const questions = [
     level: "Medium",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "What does CSS stand for?",
     options: [
       "Colorful Style Sheets",
@@ -17834,14 +17834,14 @@ export const questions = [
     level: "Hard",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "Which property is used to change the text color in CSS?",
     options: ["color", "font-color", "text-color", "background-color"],
     answer: "color",
     level: "Hard",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "What does HTML stand for?",
     options: [
       "Hyper Trainer Marking Language",
@@ -17895,7 +17895,7 @@ export const questions = [
     level: "Medium",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "Which tag is used to create a hyperlink in HTML?",
     options: ["<link>", "<a>", "<href>", "<hyperlink>"],
     answer: "<a>",
@@ -17950,7 +17950,7 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "What does CSS stand for?",
     options: [
       "Colorful Style Sheets",
@@ -18018,7 +18018,7 @@ export const questions = [
     level: "Medium",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "Which property is used to change the text color in CSS?",
     options: ["color", "font-color", "text-color", "background-color"],
     answer: "color",
@@ -18086,7 +18086,7 @@ export const questions = [
     level: "Medium",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "What does HTML stand for?",
     options: [
       "Hyper Trainer Marking Language",
@@ -18105,7 +18105,7 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "Which property is used to change the text color in CSS?",
     options: ["color", "font-color", "text-color", "background-color"],
     answer: "color",
@@ -18192,7 +18192,7 @@ export const questions = [
     level: "Hard",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "Which tag is used to create a hyperlink in HTML?",
     options: ["<link>", "<a>", "<href>", "<hyperlink>"],
     answer: "<a>",
@@ -18213,7 +18213,7 @@ export const questions = [
     level: "Hard",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "What does CSS stand for?",
     options: [
       "Colorful Style Sheets",
@@ -18246,7 +18246,7 @@ export const questions = [
     level: "Hard",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "Which property is used to change the text color in CSS?",
     options: ["color", "font-color", "text-color", "background-color"],
     answer: "color",
@@ -18377,7 +18377,7 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "What does HTML stand for?",
     options: [
       "Hyper Trainer Marking Language",
@@ -18616,7 +18616,7 @@ export const questions = [
     level: "Hard",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "Which property is used to change the text color in CSS?",
     options: ["color", "font-color", "text-color", "background-color"],
     answer: "color",
@@ -18679,7 +18679,7 @@ export const questions = [
     level: "Medium",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "Which property is used to change the text color in CSS?",
     options: ["color", "font-color", "text-color", "background-color"],
     answer: "color",
@@ -18693,7 +18693,7 @@ export const questions = [
     level: "Hard",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "Which tag is used to create a hyperlink in HTML?",
     options: ["<link>", "<a>", "<href>", "<hyperlink>"],
     answer: "<a>",
@@ -18893,7 +18893,7 @@ export const questions = [
     level: "Hard",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "Which property is used to change the text color in CSS?",
     options: ["color", "font-color", "text-color", "background-color"],
     answer: "color",
@@ -18938,7 +18938,7 @@ export const questions = [
     level: "Medium",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "Which tag is used to create a hyperlink in HTML?",
     options: ["<link>", "<a>", "<href>", "<hyperlink>"],
     answer: "<a>",
@@ -18997,7 +18997,7 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "Which property is used to change the text color in CSS?",
     options: ["color", "font-color", "text-color", "background-color"],
     answer: "color",
@@ -19114,7 +19114,7 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "Which tag is used to create a hyperlink in HTML?",
     options: ["<link>", "<a>", "<href>", "<hyperlink>"],
     answer: "<a>",
@@ -19177,7 +19177,7 @@ export const questions = [
     level: "Hard",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "What does HTML stand for?",
     options: [
       "Hyper Trainer Marking Language",
@@ -19217,7 +19217,7 @@ export const questions = [
     level: "Medium",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "What does CSS stand for?",
     options: [
       "Colorful Style Sheets",
@@ -19290,7 +19290,7 @@ export const questions = [
     level: "Hard",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "What does CSS stand for?",
     options: [
       "Colorful Style Sheets",
@@ -19309,7 +19309,7 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "What does HTML stand for?",
     options: [
       "Hyper Trainer Marking Language",
@@ -19389,7 +19389,7 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "What does HTML stand for?",
     options: [
       "Hyper Trainer Marking Language",
@@ -19415,7 +19415,7 @@ export const questions = [
     level: "Medium",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "What does HTML stand for?",
     options: [
       "Hyper Trainer Marking Language",
@@ -19477,7 +19477,7 @@ export const questions = [
     level: "Medium",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "What does CSS stand for?",
     options: [
       "Colorful Style Sheets",
@@ -19526,7 +19526,7 @@ export const questions = [
     level: "Medium",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "What does CSS stand for?",
     options: [
       "Colorful Style Sheets",
@@ -19552,7 +19552,7 @@ export const questions = [
     level: "Hard",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "Which tag is used to create a hyperlink in HTML?",
     options: ["<link>", "<a>", "<href>", "<hyperlink>"],
     answer: "<a>",
@@ -19626,7 +19626,7 @@ export const questions = [
     level: "Medium",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "What does HTML stand for?",
     options: [
       "Hyper Trainer Marking Language",
@@ -19638,7 +19638,7 @@ export const questions = [
     level: "Medium",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "What does HTML stand for?",
     options: [
       "Hyper Trainer Marking Language",
@@ -19699,14 +19699,14 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "Which property is used to change the text color in CSS?",
     options: ["color", "font-color", "text-color", "background-color"],
     answer: "color",
     level: "Medium",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "What does HTML stand for?",
     options: [
       "Hyper Trainer Marking Language",
@@ -19827,7 +19827,7 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "Which tag is used to create a hyperlink in HTML?",
     options: ["<link>", "<a>", "<href>", "<hyperlink>"],
     answer: "<a>",
@@ -19911,7 +19911,7 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "What does CSS stand for?",
     options: [
       "Colorful Style Sheets",
@@ -20030,7 +20030,7 @@ export const questions = [
     level: "Medium",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "Which tag is used to create a hyperlink in HTML?",
     options: ["<link>", "<a>", "<href>", "<hyperlink>"],
     answer: "<a>",
@@ -20044,7 +20044,7 @@ export const questions = [
     level: "Hard",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "What does CSS stand for?",
     options: [
       "Colorful Style Sheets",
@@ -20070,7 +20070,7 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "What does HTML stand for?",
     options: [
       "Hyper Trainer Marking Language",
@@ -20167,7 +20167,7 @@ export const questions = [
     level: "Hard",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "What does HTML stand for?",
     options: [
       "Hyper Trainer Marking Language",
@@ -20332,7 +20332,7 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "What does CSS stand for?",
     options: [
       "Colorful Style Sheets",
@@ -20358,7 +20358,7 @@ export const questions = [
     level: "Medium",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "Which tag is used to create a hyperlink in HTML?",
     options: ["<link>", "<a>", "<href>", "<hyperlink>"],
     answer: "<a>",
@@ -20391,7 +20391,7 @@ export const questions = [
     level: "Medium",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "Which tag is used to create a hyperlink in HTML?",
     options: ["<link>", "<a>", "<href>", "<hyperlink>"],
     answer: "<a>",
@@ -20412,7 +20412,7 @@ export const questions = [
     level: "Medium",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "What does HTML stand for?",
     options: [
       "Hyper Trainer Marking Language",
@@ -20438,7 +20438,7 @@ export const questions = [
     level: "Hard",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "Which property is used to change the text color in CSS?",
     options: ["color", "font-color", "text-color", "background-color"],
     answer: "color",
@@ -20453,7 +20453,7 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "Which tag is used to create a hyperlink in HTML?",
     options: ["<link>", "<a>", "<href>", "<hyperlink>"],
     answer: "<a>",
@@ -20488,7 +20488,7 @@ export const questions = [
     level: "Hard",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "Which property is used to change the text color in CSS?",
     options: ["color", "font-color", "text-color", "background-color"],
     answer: "color",
@@ -20604,7 +20604,7 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "What does CSS stand for?",
     options: [
       "Colorful Style Sheets",
@@ -20740,7 +20740,7 @@ export const questions = [
     level: "Hard",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "What does HTML stand for?",
     options: [
       "Hyper Trainer Marking Language",
@@ -20801,7 +20801,7 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "Which property is used to change the text color in CSS?",
     options: ["color", "font-color", "text-color", "background-color"],
     answer: "color",
@@ -20815,7 +20815,7 @@ export const questions = [
     level: "Hard",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "Which tag is used to create a hyperlink in HTML?",
     options: ["<link>", "<a>", "<href>", "<hyperlink>"],
     answer: "<a>",
@@ -20893,7 +20893,7 @@ export const questions = [
     level: "Hard",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "Which property is used to change the text color in CSS?",
     options: ["color", "font-color", "text-color", "background-color"],
     answer: "color",
@@ -20934,7 +20934,7 @@ export const questions = [
     level: "Medium",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "What does HTML stand for?",
     options: [
       "Hyper Trainer Marking Language",
@@ -20953,7 +20953,7 @@ export const questions = [
     level: "Medium",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "What does HTML stand for?",
     options: [
       "Hyper Trainer Marking Language",
@@ -21031,7 +21031,7 @@ export const questions = [
     level: "Medium",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "Which tag is used to create a hyperlink in HTML?",
     options: ["<link>", "<a>", "<href>", "<hyperlink>"],
     answer: "<a>",
@@ -21052,7 +21052,7 @@ export const questions = [
     level: "Medium",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "Which property is used to change the text color in CSS?",
     options: ["color", "font-color", "text-color", "background-color"],
     answer: "color",
@@ -21164,7 +21164,7 @@ export const questions = [
     level: "Hard",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "What does HTML stand for?",
     options: [
       "Hyper Trainer Marking Language",
@@ -21240,7 +21240,7 @@ export const questions = [
     level: "Medium",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "Which tag is used to create a hyperlink in HTML?",
     options: ["<link>", "<a>", "<href>", "<hyperlink>"],
     answer: "<a>",
@@ -21287,7 +21287,7 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "Which tag is used to create a hyperlink in HTML?",
     options: ["<link>", "<a>", "<href>", "<hyperlink>"],
     answer: "<a>",
@@ -21322,7 +21322,7 @@ export const questions = [
     level: "Hard",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "Which tag is used to create a hyperlink in HTML?",
     options: ["<link>", "<a>", "<href>", "<hyperlink>"],
     answer: "<a>",
@@ -21439,7 +21439,7 @@ export const questions = [
     level: "Hard",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "What does CSS stand for?",
     options: [
       "Colorful Style Sheets",
@@ -21484,7 +21484,7 @@ export const questions = [
     level: "Hard",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "What does HTML stand for?",
     options: [
       "Hyper Trainer Marking Language",
@@ -21531,7 +21531,7 @@ export const questions = [
     level: "Hard",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "What does HTML stand for?",
     options: [
       "Hyper Trainer Marking Language",
@@ -21583,7 +21583,7 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "Which tag is used to create a hyperlink in HTML?",
     options: ["<link>", "<a>", "<href>", "<hyperlink>"],
     answer: "<a>",
@@ -21755,7 +21755,7 @@ export const questions = [
     level: "Hard",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "What does HTML stand for?",
     options: [
       "Hyper Trainer Marking Language",
@@ -21885,7 +21885,7 @@ export const questions = [
     level: "Medium",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "What does CSS stand for?",
     options: [
       "Colorful Style Sheets",
@@ -21926,7 +21926,7 @@ export const questions = [
     level: "Hard",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "Which tag is used to create a hyperlink in HTML?",
     options: ["<link>", "<a>", "<href>", "<hyperlink>"],
     answer: "<a>",
@@ -22008,7 +22008,7 @@ export const questions = [
     level: "Medium",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "Which property is used to change the text color in CSS?",
     options: ["color", "font-color", "text-color", "background-color"],
     answer: "color",
@@ -22071,7 +22071,7 @@ export const questions = [
     level: "Hard",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "Which tag is used to create a hyperlink in HTML?",
     options: ["<link>", "<a>", "<href>", "<hyperlink>"],
     answer: "<a>",
@@ -22253,7 +22253,7 @@ export const questions = [
     level: "Hard",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "Which property is used to change the text color in CSS?",
     options: ["color", "font-color", "text-color", "background-color"],
     answer: "color",
@@ -22303,7 +22303,7 @@ export const questions = [
     level: "Medium",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "What does HTML stand for?",
     options: [
       "Hyper Trainer Marking Language",
@@ -22403,7 +22403,7 @@ export const questions = [
     level: "Medium",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "What does HTML stand for?",
     options: [
       "Hyper Trainer Marking Language",
@@ -22443,7 +22443,7 @@ export const questions = [
     level: "Medium",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "Which property is used to change the text color in CSS?",
     options: ["color", "font-color", "text-color", "background-color"],
     answer: "color",
@@ -22464,7 +22464,7 @@ export const questions = [
     level: "Medium",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "Which tag is used to create a hyperlink in HTML?",
     options: ["<link>", "<a>", "<href>", "<hyperlink>"],
     answer: "<a>",
@@ -22500,7 +22500,7 @@ export const questions = [
     level: "Medium",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "Which tag is used to create a hyperlink in HTML?",
     options: ["<link>", "<a>", "<href>", "<hyperlink>"],
     answer: "<a>",
@@ -22542,7 +22542,7 @@ export const questions = [
     level: "Hard",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "What does HTML stand for?",
     options: [
       "Hyper Trainer Marking Language",
@@ -22601,7 +22601,7 @@ export const questions = [
     level: "Medium",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "Which tag is used to create a hyperlink in HTML?",
     options: ["<link>", "<a>", "<href>", "<hyperlink>"],
     answer: "<a>",
@@ -22667,7 +22667,7 @@ export const questions = [
     level: "Hard",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "Which tag is used to create a hyperlink in HTML?",
     options: ["<link>", "<a>", "<href>", "<hyperlink>"],
     answer: "<a>",
@@ -22751,7 +22751,7 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "What does HTML stand for?",
     options: [
       "Hyper Trainer Marking Language",
@@ -22902,7 +22902,7 @@ export const questions = [
     level: "Medium",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "What does HTML stand for?",
     options: [
       "Hyper Trainer Marking Language",
@@ -22994,7 +22994,7 @@ export const questions = [
     level: "Medium",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "Which property is used to change the text color in CSS?",
     options: ["color", "font-color", "text-color", "background-color"],
     answer: "color",
@@ -23183,7 +23183,7 @@ export const questions = [
     level: "Medium",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "Which tag is used to create a hyperlink in HTML?",
     options: ["<link>", "<a>", "<href>", "<hyperlink>"],
     answer: "<a>",
@@ -23197,7 +23197,7 @@ export const questions = [
     level: "Hard",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "What does HTML stand for?",
     options: [
       "Hyper Trainer Marking Language",
@@ -23244,7 +23244,7 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "What does CSS stand for?",
     options: [
       "Colorful Style Sheets",
@@ -23296,7 +23296,7 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "What does CSS stand for?",
     options: [
       "Colorful Style Sheets",
@@ -23364,7 +23364,7 @@ export const questions = [
     level: "Medium",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "Which tag is used to create a hyperlink in HTML?",
     options: ["<link>", "<a>", "<href>", "<hyperlink>"],
     answer: "<a>",
@@ -23546,7 +23546,7 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "What does HTML stand for?",
     options: [
       "Hyper Trainer Marking Language",
@@ -23586,7 +23586,7 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "Which property is used to change the text color in CSS?",
     options: ["color", "font-color", "text-color", "background-color"],
     answer: "color",
@@ -23614,7 +23614,7 @@ export const questions = [
     level: "Medium",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "Which property is used to change the text color in CSS?",
     options: ["color", "font-color", "text-color", "background-color"],
     answer: "color",
@@ -23717,7 +23717,7 @@ export const questions = [
     level: "Hard",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "What does CSS stand for?",
     options: [
       "Colorful Style Sheets",
@@ -23750,7 +23750,7 @@ export const questions = [
     level: "Medium",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "Which tag is used to create a hyperlink in HTML?",
     options: ["<link>", "<a>", "<href>", "<hyperlink>"],
     answer: "<a>",
@@ -23933,7 +23933,7 @@ export const questions = [
     level: "Medium",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "What does CSS stand for?",
     options: [
       "Colorful Style Sheets",
@@ -23945,7 +23945,7 @@ export const questions = [
     level: "Hard",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "What does CSS stand for?",
     options: [
       "Colorful Style Sheets",
@@ -23978,7 +23978,7 @@ export const questions = [
     level: "Medium",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "What does CSS stand for?",
     options: [
       "Colorful Style Sheets",
@@ -24011,7 +24011,7 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "What does CSS stand for?",
     options: [
       "Colorful Style Sheets",
@@ -24045,7 +24045,7 @@ export const questions = [
     level: "Hard",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "Which property is used to change the text color in CSS?",
     options: ["color", "font-color", "text-color", "background-color"],
     answer: "color",
@@ -24092,7 +24092,7 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "Which property is used to change the text color in CSS?",
     options: ["color", "font-color", "text-color", "background-color"],
     answer: "color",
@@ -24198,7 +24198,7 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "What does CSS stand for?",
     options: [
       "Colorful Style Sheets",
@@ -24224,7 +24224,7 @@ export const questions = [
     level: "Hard",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "What does CSS stand for?",
     options: [
       "Colorful Style Sheets",
@@ -24236,7 +24236,7 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "What does HTML stand for?",
     options: [
       "Hyper Trainer Marking Language",
@@ -24283,7 +24283,7 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "Which tag is used to create a hyperlink in HTML?",
     options: ["<link>", "<a>", "<href>", "<hyperlink>"],
     answer: "<a>",
@@ -24393,7 +24393,7 @@ export const questions = [
     level: "Medium",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "Which property is used to change the text color in CSS?",
     options: ["color", "font-color", "text-color", "background-color"],
     answer: "color",
@@ -24454,7 +24454,7 @@ export const questions = [
     level: "Hard",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "Which tag is used to create a hyperlink in HTML?",
     options: ["<link>", "<a>", "<href>", "<hyperlink>"],
     answer: "<a>",
@@ -24503,7 +24503,7 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "What does HTML stand for?",
     options: [
       "Hyper Trainer Marking Language",
@@ -24628,14 +24628,14 @@ export const questions = [
     level: "Hard",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "Which property is used to change the text color in CSS?",
     options: ["color", "font-color", "text-color", "background-color"],
     answer: "color",
     level: "Medium",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "What does CSS stand for?",
     options: [
       "Colorful Style Sheets",
@@ -24647,7 +24647,7 @@ export const questions = [
     level: "Medium",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "What does HTML stand for?",
     options: [
       "Hyper Trainer Marking Language",
@@ -24659,7 +24659,7 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "Which property is used to change the text color in CSS?",
     options: ["color", "font-color", "text-color", "background-color"],
     answer: "color",
@@ -24701,7 +24701,7 @@ export const questions = [
     level: "Hard",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "What does HTML stand for?",
     options: [
       "Hyper Trainer Marking Language",
@@ -24713,7 +24713,7 @@ export const questions = [
     level: "Hard",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "Which tag is used to create a hyperlink in HTML?",
     options: ["<link>", "<a>", "<href>", "<hyperlink>"],
     answer: "<a>",
@@ -24753,7 +24753,7 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "What does HTML stand for?",
     options: [
       "Hyper Trainer Marking Language",
@@ -24765,14 +24765,14 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "Which tag is used to create a hyperlink in HTML?",
     options: ["<link>", "<a>", "<href>", "<hyperlink>"],
     answer: "<a>",
     level: "Medium",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "Which property is used to change the text color in CSS?",
     options: ["color", "font-color", "text-color", "background-color"],
     answer: "color",
@@ -24936,7 +24936,7 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "What does CSS stand for?",
     options: [
       "Colorful Style Sheets",
@@ -24995,7 +24995,7 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "What does HTML stand for?",
     options: [
       "Hyper Trainer Marking Language",
@@ -25014,7 +25014,7 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "What does CSS stand for?",
     options: [
       "Colorful Style Sheets",
@@ -25054,7 +25054,7 @@ export const questions = [
     level: "Hard",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "What does HTML stand for?",
     options: [
       "Hyper Trainer Marking Language",
@@ -25066,7 +25066,7 @@ export const questions = [
     level: "Medium",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "What does HTML stand for?",
     options: [
       "Hyper Trainer Marking Language",
@@ -25090,7 +25090,7 @@ export const questions = [
     level: "Hard",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "What does CSS stand for?",
     options: [
       "Colorful Style Sheets",
@@ -25102,7 +25102,7 @@ export const questions = [
     level: "Medium",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "What does CSS stand for?",
     options: [
       "Colorful Style Sheets",
@@ -25220,7 +25220,7 @@ export const questions = [
     level: "Hard",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "Which tag is used to create a hyperlink in HTML?",
     options: ["<link>", "<a>", "<href>", "<hyperlink>"],
     answer: "<a>",
@@ -25248,7 +25248,7 @@ export const questions = [
     level: "Medium",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "Which property is used to change the text color in CSS?",
     options: ["color", "font-color", "text-color", "background-color"],
     answer: "color",
@@ -25262,21 +25262,21 @@ export const questions = [
     level: "Hard",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "Which tag is used to create a hyperlink in HTML?",
     options: ["<link>", "<a>", "<href>", "<hyperlink>"],
     answer: "<a>",
     level: "Medium",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "Which tag is used to create a hyperlink in HTML?",
     options: ["<link>", "<a>", "<href>", "<hyperlink>"],
     answer: "<a>",
     level: "Easy",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "What does HTML stand for?",
     options: [
       "Hyper Trainer Marking Language",
@@ -25330,7 +25330,7 @@ export const questions = [
     level: "Medium",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "What does CSS stand for?",
     options: [
       "Colorful Style Sheets",
@@ -25356,7 +25356,7 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "Which property is used to change the text color in CSS?",
     options: ["color", "font-color", "text-color", "background-color"],
     answer: "color",
@@ -25377,7 +25377,7 @@ export const questions = [
     level: "Hard",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "What does CSS stand for?",
     options: [
       "Colorful Style Sheets",
@@ -25389,7 +25389,7 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "What does HTML stand for?",
     options: [
       "Hyper Trainer Marking Language",
@@ -25554,7 +25554,7 @@ export const questions = [
     level: "Hard",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "Which property is used to change the text color in CSS?",
     options: ["color", "font-color", "text-color", "background-color"],
     answer: "color",
@@ -25568,7 +25568,7 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "What does HTML stand for?",
     options: [
       "Hyper Trainer Marking Language",
@@ -25627,14 +25627,14 @@ export const questions = [
     level: "Medium",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "Which tag is used to create a hyperlink in HTML?",
     options: ["<link>", "<a>", "<href>", "<hyperlink>"],
     answer: "<a>",
     level: "Medium",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "What does HTML stand for?",
     options: [
       "Hyper Trainer Marking Language",
@@ -25686,7 +25686,7 @@ export const questions = [
     level: "Medium",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "Which tag is used to create a hyperlink in HTML?",
     options: ["<link>", "<a>", "<href>", "<hyperlink>"],
     answer: "<a>",
@@ -25761,7 +25761,7 @@ export const questions = [
     level: "Hard",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "What does CSS stand for?",
     options: [
       "Colorful Style Sheets",
@@ -25787,7 +25787,7 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "What does CSS stand for?",
     options: [
       "Colorful Style Sheets",
@@ -25799,7 +25799,7 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "Which tag is used to create a hyperlink in HTML?",
     options: ["<link>", "<a>", "<href>", "<hyperlink>"],
     answer: "<a>",
@@ -25828,7 +25828,7 @@ export const questions = [
     level: "Medium",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "What does HTML stand for?",
     options: [
       "Hyper Trainer Marking Language",
@@ -25868,7 +25868,7 @@ export const questions = [
     level: "Hard",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "Which tag is used to create a hyperlink in HTML?",
     options: ["<link>", "<a>", "<href>", "<hyperlink>"],
     answer: "<a>",
@@ -25934,7 +25934,7 @@ export const questions = [
     level: "Medium",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "Which tag is used to create a hyperlink in HTML?",
     options: ["<link>", "<a>", "<href>", "<hyperlink>"],
     answer: "<a>",
@@ -25953,7 +25953,7 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "What does CSS stand for?",
     options: [
       "Colorful Style Sheets",
@@ -26031,7 +26031,7 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "Which property is used to change the text color in CSS?",
     options: ["color", "font-color", "text-color", "background-color"],
     answer: "color",
@@ -26094,7 +26094,7 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "Which tag is used to create a hyperlink in HTML?",
     options: ["<link>", "<a>", "<href>", "<hyperlink>"],
     answer: "<a>",
@@ -26157,7 +26157,7 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "What does CSS stand for?",
     options: [
       "Colorful Style Sheets",
@@ -26198,14 +26198,14 @@ export const questions = [
     level: "Hard",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "Which property is used to change the text color in CSS?",
     options: ["color", "font-color", "text-color", "background-color"],
     answer: "color",
     level: "Medium",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "Which tag is used to create a hyperlink in HTML?",
     options: ["<link>", "<a>", "<href>", "<hyperlink>"],
     answer: "<a>",
@@ -26240,7 +26240,7 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "What does HTML stand for?",
     options: [
       "Hyper Trainer Marking Language",
@@ -26351,7 +26351,7 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "What does HTML stand for?",
     options: [
       "Hyper Trainer Marking Language",
@@ -26499,7 +26499,7 @@ export const questions = [
     level: "Hard",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "Which tag is used to create a hyperlink in HTML?",
     options: ["<link>", "<a>", "<href>", "<hyperlink>"],
     answer: "<a>",
@@ -26572,7 +26572,7 @@ export const questions = [
     level: "Medium",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "What does CSS stand for?",
     options: [
       "Colorful Style Sheets",
@@ -26667,7 +26667,7 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "Which property is used to change the text color in CSS?",
     options: ["color", "font-color", "text-color", "background-color"],
     answer: "color",
@@ -26802,7 +26802,7 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "What does CSS stand for?",
     options: [
       "Colorful Style Sheets",
@@ -26854,7 +26854,7 @@ export const questions = [
     level: "Medium",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "What does CSS stand for?",
     options: [
       "Colorful Style Sheets",
@@ -26913,14 +26913,14 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "Which property is used to change the text color in CSS?",
     options: ["color", "font-color", "text-color", "background-color"],
     answer: "color",
     level: "Hard",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "Which tag is used to create a hyperlink in HTML?",
     options: ["<link>", "<a>", "<href>", "<hyperlink>"],
     answer: "<a>",
@@ -26934,7 +26934,7 @@ export const questions = [
     level: "Medium",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "What does CSS stand for?",
     options: [
       "Colorful Style Sheets",
@@ -26953,7 +26953,7 @@ export const questions = [
     level: "Hard",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "Which property is used to change the text color in CSS?",
     options: ["color", "font-color", "text-color", "background-color"],
     answer: "color",
@@ -26988,7 +26988,7 @@ export const questions = [
     level: "Hard",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "Which tag is used to create a hyperlink in HTML?",
     options: ["<link>", "<a>", "<href>", "<hyperlink>"],
     answer: "<a>",
@@ -27063,7 +27063,7 @@ export const questions = [
     level: "Medium",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "What does HTML stand for?",
     options: [
       "Hyper Trainer Marking Language",
@@ -27087,7 +27087,7 @@ export const questions = [
     level: "Medium",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "What does CSS stand for?",
     options: [
       "Colorful Style Sheets",
@@ -27120,7 +27120,7 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "What does CSS stand for?",
     options: [
       "Colorful Style Sheets",
@@ -27214,7 +27214,7 @@ export const questions = [
     level: "Medium",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "What does CSS stand for?",
     options: [
       "Colorful Style Sheets",
@@ -27240,7 +27240,7 @@ export const questions = [
     level: "Medium",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "Which property is used to change the text color in CSS?",
     options: ["color", "font-color", "text-color", "background-color"],
     answer: "color",
@@ -27282,7 +27282,7 @@ export const questions = [
     level: "Hard",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "What does CSS stand for?",
     options: [
       "Colorful Style Sheets",
@@ -27301,7 +27301,7 @@ export const questions = [
     level: "Medium",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "What does HTML stand for?",
     options: [
       "Hyper Trainer Marking Language",
@@ -27421,7 +27421,7 @@ export const questions = [
     level: "Hard",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "Which tag is used to create a hyperlink in HTML?",
     options: ["<link>", "<a>", "<href>", "<hyperlink>"],
     answer: "<a>",
@@ -27548,7 +27548,7 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "Which tag is used to create a hyperlink in HTML?",
     options: ["<link>", "<a>", "<href>", "<hyperlink>"],
     answer: "<a>",
@@ -27562,7 +27562,7 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "What does CSS stand for?",
     options: [
       "Colorful Style Sheets",
@@ -27574,7 +27574,7 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "What does HTML stand for?",
     options: [
       "Hyper Trainer Marking Language",
@@ -27656,7 +27656,7 @@ export const questions = [
     level: "Hard",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "What does HTML stand for?",
     options: [
       "Hyper Trainer Marking Language",
@@ -27753,14 +27753,14 @@ export const questions = [
     level: "Medium",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "Which tag is used to create a hyperlink in HTML?",
     options: ["<link>", "<a>", "<href>", "<hyperlink>"],
     answer: "<a>",
     level: "Easy",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "What does HTML stand for?",
     options: [
       "Hyper Trainer Marking Language",
@@ -27967,7 +27967,7 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "Which property is used to change the text color in CSS?",
     options: ["color", "font-color", "text-color", "background-color"],
     answer: "color",
@@ -28042,7 +28042,7 @@ export const questions = [
     level: "Hard",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "Which tag is used to create a hyperlink in HTML?",
     options: ["<link>", "<a>", "<href>", "<hyperlink>"],
     answer: "<a>",
@@ -28244,14 +28244,14 @@ export const questions = [
     level: "Medium",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "Which property is used to change the text color in CSS?",
     options: ["color", "font-color", "text-color", "background-color"],
     answer: "color",
     level: "Easy",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "Which property is used to change the text color in CSS?",
     options: ["color", "font-color", "text-color", "background-color"],
     answer: "color",
@@ -28279,7 +28279,7 @@ export const questions = [
     level: "Medium",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "What does HTML stand for?",
     options: [
       "Hyper Trainer Marking Language",
@@ -28333,14 +28333,14 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "Which property is used to change the text color in CSS?",
     options: ["color", "font-color", "text-color", "background-color"],
     answer: "color",
     level: "Easy",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "What does HTML stand for?",
     options: [
       "Hyper Trainer Marking Language",
@@ -28413,7 +28413,7 @@ export const questions = [
     level: "Medium",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "Which tag is used to create a hyperlink in HTML?",
     options: ["<link>", "<a>", "<href>", "<hyperlink>"],
     answer: "<a>",
@@ -28427,7 +28427,7 @@ export const questions = [
     level: "Hard",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "Which tag is used to create a hyperlink in HTML?",
     options: ["<link>", "<a>", "<href>", "<hyperlink>"],
     answer: "<a>",
@@ -28469,7 +28469,7 @@ export const questions = [
     level: "Medium",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "Which tag is used to create a hyperlink in HTML?",
     options: ["<link>", "<a>", "<href>", "<hyperlink>"],
     answer: "<a>",
@@ -28582,7 +28582,7 @@ export const questions = [
     level: "Medium",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "What does HTML stand for?",
     options: [
       "Hyper Trainer Marking Language",
@@ -28786,7 +28786,7 @@ export const questions = [
     level: "Hard",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "Which property is used to change the text color in CSS?",
     options: ["color", "font-color", "text-color", "background-color"],
     answer: "color",
@@ -28835,7 +28835,7 @@ export const questions = [
     level: "Hard",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "What does CSS stand for?",
     options: [
       "Colorful Style Sheets",
@@ -28868,7 +28868,7 @@ export const questions = [
     level: "Hard",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "What does CSS stand for?",
     options: [
       "Colorful Style Sheets",
@@ -28920,7 +28920,7 @@ export const questions = [
     level: "Medium",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "What does HTML stand for?",
     options: [
       "Hyper Trainer Marking Language",
@@ -28932,7 +28932,7 @@ export const questions = [
     level: "Hard",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "What does HTML stand for?",
     options: [
       "Hyper Trainer Marking Language",
@@ -28994,7 +28994,7 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "Which property is used to change the text color in CSS?",
     options: ["color", "font-color", "text-color", "background-color"],
     answer: "color",
@@ -29050,7 +29050,7 @@ export const questions = [
     level: "Hard",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "Which tag is used to create a hyperlink in HTML?",
     options: ["<link>", "<a>", "<href>", "<hyperlink>"],
     answer: "<a>",
@@ -29149,7 +29149,7 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "Which tag is used to create a hyperlink in HTML?",
     options: ["<link>", "<a>", "<href>", "<hyperlink>"],
     answer: "<a>",
@@ -29205,7 +29205,7 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "Which tag is used to create a hyperlink in HTML?",
     options: ["<link>", "<a>", "<href>", "<hyperlink>"],
     answer: "<a>",
@@ -29219,7 +29219,7 @@ export const questions = [
     level: "Medium",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "What does CSS stand for?",
     options: [
       "Colorful Style Sheets",
@@ -29245,7 +29245,7 @@ export const questions = [
     level: "Medium",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "What does HTML stand for?",
     options: [
       "Hyper Trainer Marking Language",
@@ -29314,7 +29314,7 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "What does CSS stand for?",
     options: [
       "Colorful Style Sheets",
@@ -29542,7 +29542,7 @@ export const questions = [
     level: "Hard",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "Which tag is used to create a hyperlink in HTML?",
     options: ["<link>", "<a>", "<href>", "<hyperlink>"],
     answer: "<a>",
@@ -29911,7 +29911,7 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "Which tag is used to create a hyperlink in HTML?",
     options: ["<link>", "<a>", "<href>", "<hyperlink>"],
     answer: "<a>",
@@ -30037,7 +30037,7 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "Which property is used to change the text color in CSS?",
     options: ["color", "font-color", "text-color", "background-color"],
     answer: "color",
@@ -30210,7 +30210,7 @@ export const questions = [
     level: "Medium",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "What does CSS stand for?",
     options: [
       "Colorful Style Sheets",
@@ -30270,7 +30270,7 @@ export const questions = [
     level: "Hard",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "Which tag is used to create a hyperlink in HTML?",
     options: ["<link>", "<a>", "<href>", "<hyperlink>"],
     answer: "<a>",
@@ -30333,7 +30333,7 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "What does CSS stand for?",
     options: [
       "Colorful Style Sheets",
@@ -30425,7 +30425,7 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "What does CSS stand for?",
     options: [
       "Colorful Style Sheets",
@@ -30451,14 +30451,14 @@ export const questions = [
     level: "Hard",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "Which property is used to change the text color in CSS?",
     options: ["color", "font-color", "text-color", "background-color"],
     answer: "color",
     level: "Medium",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "Which property is used to change the text color in CSS?",
     options: ["color", "font-color", "text-color", "background-color"],
     answer: "color",
@@ -30491,7 +30491,7 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "What does HTML stand for?",
     options: [
       "Hyper Trainer Marking Language",
@@ -30522,14 +30522,14 @@ export const questions = [
     level: "Hard",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "Which property is used to change the text color in CSS?",
     options: ["color", "font-color", "text-color", "background-color"],
     answer: "color",
     level: "Easy",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "Which property is used to change the text color in CSS?",
     options: ["color", "font-color", "text-color", "background-color"],
     answer: "color",
@@ -30635,7 +30635,7 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "Which tag is used to create a hyperlink in HTML?",
     options: ["<link>", "<a>", "<href>", "<hyperlink>"],
     answer: "<a>",
@@ -30813,7 +30813,7 @@ export const questions = [
     level: "Medium",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "What does HTML stand for?",
     options: [
       "Hyper Trainer Marking Language",
@@ -30954,7 +30954,7 @@ export const questions = [
     level: "Medium",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "What does HTML stand for?",
     options: [
       "Hyper Trainer Marking Language",
@@ -30966,7 +30966,7 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "What does CSS stand for?",
     options: [
       "Colorful Style Sheets",
@@ -31156,7 +31156,7 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "Which tag is used to create a hyperlink in HTML?",
     options: ["<link>", "<a>", "<href>", "<hyperlink>"],
     answer: "<a>",
@@ -31184,7 +31184,7 @@ export const questions = [
     level: "Medium",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "Which tag is used to create a hyperlink in HTML?",
     options: ["<link>", "<a>", "<href>", "<hyperlink>"],
     answer: "<a>",
@@ -31217,7 +31217,7 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "Which property is used to change the text color in CSS?",
     options: ["color", "font-color", "text-color", "background-color"],
     answer: "color",
@@ -31262,7 +31262,7 @@ export const questions = [
     level: "Hard",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "Which tag is used to create a hyperlink in HTML?",
     options: ["<link>", "<a>", "<href>", "<hyperlink>"],
     answer: "<a>",
@@ -31290,7 +31290,7 @@ export const questions = [
     level: "Hard",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "Which property is used to change the text color in CSS?",
     options: ["color", "font-color", "text-color", "background-color"],
     answer: "color",
@@ -31390,7 +31390,7 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "What does HTML stand for?",
     options: [
       "Hyper Trainer Marking Language",
@@ -31430,7 +31430,7 @@ export const questions = [
     level: "Medium",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "Which tag is used to create a hyperlink in HTML?",
     options: ["<link>", "<a>", "<href>", "<hyperlink>"],
     answer: "<a>",
@@ -31470,7 +31470,7 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "Which property is used to change the text color in CSS?",
     options: ["color", "font-color", "text-color", "background-color"],
     answer: "color",
@@ -31498,7 +31498,7 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "What does CSS stand for?",
     options: [
       "Colorful Style Sheets",
@@ -31524,7 +31524,7 @@ export const questions = [
     level: "Medium",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "What does HTML stand for?",
     options: [
       "Hyper Trainer Marking Language",
@@ -31550,7 +31550,7 @@ export const questions = [
     level: "Hard",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "What does CSS stand for?",
     options: [
       "Colorful Style Sheets",
@@ -31616,7 +31616,7 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "Which tag is used to create a hyperlink in HTML?",
     options: ["<link>", "<a>", "<href>", "<hyperlink>"],
     answer: "<a>",
@@ -31651,7 +31651,7 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "Which tag is used to create a hyperlink in HTML?",
     options: ["<link>", "<a>", "<href>", "<hyperlink>"],
     answer: "<a>",
@@ -31666,7 +31666,7 @@ export const questions = [
     level: "Medium",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "What does HTML stand for?",
     options: [
       "Hyper Trainer Marking Language",
@@ -31908,7 +31908,7 @@ export const questions = [
     level: "Medium",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "Which property is used to change the text color in CSS?",
     options: ["color", "font-color", "text-color", "background-color"],
     answer: "color",
@@ -31941,7 +31941,7 @@ export const questions = [
     level: "Hard",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "What does HTML stand for?",
     options: [
       "Hyper Trainer Marking Language",
@@ -32123,7 +32123,7 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "What does CSS stand for?",
     options: [
       "Colorful Style Sheets",
@@ -32211,7 +32211,7 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "What does HTML stand for?",
     options: [
       "Hyper Trainer Marking Language",
@@ -32230,7 +32230,7 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "Which tag is used to create a hyperlink in HTML?",
     options: ["<link>", "<a>", "<href>", "<hyperlink>"],
     answer: "<a>",
@@ -32286,7 +32286,7 @@ export const questions = [
     level: "Hard",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "What does HTML stand for?",
     options: [
       "Hyper Trainer Marking Language",
@@ -32310,7 +32310,7 @@ export const questions = [
     level: "Medium",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "Which tag is used to create a hyperlink in HTML?",
     options: ["<link>", "<a>", "<href>", "<hyperlink>"],
     answer: "<a>",
@@ -32351,7 +32351,7 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "What does HTML stand for?",
     options: [
       "Hyper Trainer Marking Language",
@@ -32458,7 +32458,7 @@ export const questions = [
     level: "Medium",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "What does CSS stand for?",
     options: [
       "Colorful Style Sheets",
@@ -32508,7 +32508,7 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "Which tag is used to create a hyperlink in HTML?",
     options: ["<link>", "<a>", "<href>", "<hyperlink>"],
     answer: "<a>",
@@ -32578,7 +32578,7 @@ export const questions = [
     level: "Medium",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "What does HTML stand for?",
     options: [
       "Hyper Trainer Marking Language",
@@ -32637,7 +32637,7 @@ export const questions = [
     level: "Hard",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "What does HTML stand for?",
     options: [
       "Hyper Trainer Marking Language",
@@ -32663,7 +32663,7 @@ export const questions = [
     level: "Hard",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "Which property is used to change the text color in CSS?",
     options: ["color", "font-color", "text-color", "background-color"],
     answer: "color",
@@ -32785,14 +32785,14 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "Which tag is used to create a hyperlink in HTML?",
     options: ["<link>", "<a>", "<href>", "<hyperlink>"],
     answer: "<a>",
     level: "Hard",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "What does HTML stand for?",
     options: [
       "Hyper Trainer Marking Language",
@@ -32818,7 +32818,7 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "Which tag is used to create a hyperlink in HTML?",
     options: ["<link>", "<a>", "<href>", "<hyperlink>"],
     answer: "<a>",
@@ -32964,7 +32964,7 @@ export const questions = [
     level: "Medium",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "What does HTML stand for?",
     options: [
       "Hyper Trainer Marking Language",
@@ -32997,7 +32997,7 @@ export const questions = [
     level: "Medium",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "Which tag is used to create a hyperlink in HTML?",
     options: ["<link>", "<a>", "<href>", "<hyperlink>"],
     answer: "<a>",
@@ -33018,7 +33018,7 @@ export const questions = [
     level: "Medium",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "Which property is used to change the text color in CSS?",
     options: ["color", "font-color", "text-color", "background-color"],
     answer: "color",
@@ -33039,7 +33039,7 @@ export const questions = [
     level: "Medium",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "Which tag is used to create a hyperlink in HTML?",
     options: ["<link>", "<a>", "<href>", "<hyperlink>"],
     answer: "<a>",
@@ -33053,14 +33053,14 @@ export const questions = [
     level: "Hard",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "Which property is used to change the text color in CSS?",
     options: ["color", "font-color", "text-color", "background-color"],
     answer: "color",
     level: "Hard",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "What does HTML stand for?",
     options: [
       "Hyper Trainer Marking Language",
@@ -33105,7 +33105,7 @@ export const questions = [
     level: "Medium",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "Which property is used to change the text color in CSS?",
     options: ["color", "font-color", "text-color", "background-color"],
     answer: "color",
@@ -33119,7 +33119,7 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "What does HTML stand for?",
     options: [
       "Hyper Trainer Marking Language",
@@ -33145,7 +33145,7 @@ export const questions = [
     level: "Hard",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "Which property is used to change the text color in CSS?",
     options: ["color", "font-color", "text-color", "background-color"],
     answer: "color",
@@ -33178,7 +33178,7 @@ export const questions = [
     level: "Hard",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "What does CSS stand for?",
     options: [
       "Colorful Style Sheets",
@@ -33218,7 +33218,7 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "What does CSS stand for?",
     options: [
       "Colorful Style Sheets",
@@ -33359,7 +33359,7 @@ export const questions = [
     level: "Hard",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "What does CSS stand for?",
     options: [
       "Colorful Style Sheets",
@@ -33378,7 +33378,7 @@ export const questions = [
     level: "Hard",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "What does CSS stand for?",
     options: [
       "Colorful Style Sheets",
@@ -33486,7 +33486,7 @@ export const questions = [
     level: "Hard",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "Which tag is used to create a hyperlink in HTML?",
     options: ["<link>", "<a>", "<href>", "<hyperlink>"],
     answer: "<a>",
@@ -33514,7 +33514,7 @@ export const questions = [
     level: "Hard",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "Which property is used to change the text color in CSS?",
     options: ["color", "font-color", "text-color", "background-color"],
     answer: "color",
@@ -33568,7 +33568,7 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "What does CSS stand for?",
     options: [
       "Colorful Style Sheets",
@@ -33588,7 +33588,7 @@ export const questions = [
     level: "Hard",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "What does CSS stand for?",
     options: [
       "Colorful Style Sheets",
@@ -33677,7 +33677,7 @@ export const questions = [
     level: "Medium",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "What does HTML stand for?",
     options: [
       "Hyper Trainer Marking Language",
@@ -33689,7 +33689,7 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "What does HTML stand for?",
     options: [
       "Hyper Trainer Marking Language",
@@ -33739,7 +33739,7 @@ export const questions = [
     level: "Hard",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "Which property is used to change the text color in CSS?",
     options: ["color", "font-color", "text-color", "background-color"],
     answer: "color",
@@ -33833,7 +33833,7 @@ export const questions = [
     level: "Medium",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "Which property is used to change the text color in CSS?",
     options: ["color", "font-color", "text-color", "background-color"],
     answer: "color",
@@ -33847,7 +33847,7 @@ export const questions = [
     level: "Hard",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "What does CSS stand for?",
     options: [
       "Colorful Style Sheets",
@@ -33892,7 +33892,7 @@ export const questions = [
     level: "Hard",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "Which tag is used to create a hyperlink in HTML?",
     options: ["<link>", "<a>", "<href>", "<hyperlink>"],
     answer: "<a>",
@@ -33964,7 +33964,7 @@ export const questions = [
     level: "Medium",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "What does CSS stand for?",
     options: [
       "Colorful Style Sheets",
@@ -34009,7 +34009,7 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "Which property is used to change the text color in CSS?",
     options: ["color", "font-color", "text-color", "background-color"],
     answer: "color",
@@ -34037,7 +34037,7 @@ export const questions = [
     level: "Hard",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "What does HTML stand for?",
     options: [
       "Hyper Trainer Marking Language",
@@ -34211,7 +34211,7 @@ export const questions = [
     level: "Medium",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "Which property is used to change the text color in CSS?",
     options: ["color", "font-color", "text-color", "background-color"],
     answer: "color",
@@ -34230,7 +34230,7 @@ export const questions = [
     level: "Medium",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "Which property is used to change the text color in CSS?",
     options: ["color", "font-color", "text-color", "background-color"],
     answer: "color",
@@ -34293,7 +34293,7 @@ export const questions = [
     level: "Medium",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "What does CSS stand for?",
     options: [
       "Colorful Style Sheets",
@@ -34312,7 +34312,7 @@ export const questions = [
     level: "Medium",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "What does CSS stand for?",
     options: [
       "Colorful Style Sheets",
@@ -34324,7 +34324,7 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "What does HTML stand for?",
     options: [
       "Hyper Trainer Marking Language",
@@ -34355,7 +34355,7 @@ export const questions = [
     level: "Medium",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "What does CSS stand for?",
     options: [
       "Colorful Style Sheets",
@@ -34447,7 +34447,7 @@ export const questions = [
     level: "Hard",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "Which tag is used to create a hyperlink in HTML?",
     options: ["<link>", "<a>", "<href>", "<hyperlink>"],
     answer: "<a>",
@@ -34461,7 +34461,7 @@ export const questions = [
     level: "Medium",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "What does HTML stand for?",
     options: [
       "Hyper Trainer Marking Language",
@@ -34494,7 +34494,7 @@ export const questions = [
     level: "Hard",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "Which tag is used to create a hyperlink in HTML?",
     options: ["<link>", "<a>", "<href>", "<hyperlink>"],
     answer: "<a>",
@@ -34529,7 +34529,7 @@ export const questions = [
     level: "Medium",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "Which tag is used to create a hyperlink in HTML?",
     options: ["<link>", "<a>", "<href>", "<hyperlink>"],
     answer: "<a>",
@@ -34564,7 +34564,7 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "Which property is used to change the text color in CSS?",
     options: ["color", "font-color", "text-color", "background-color"],
     answer: "color",
@@ -34605,14 +34605,14 @@ export const questions = [
     level: "Medium",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "Which tag is used to create a hyperlink in HTML?",
     options: ["<link>", "<a>", "<href>", "<hyperlink>"],
     answer: "<a>",
     level: "Easy",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "Which tag is used to create a hyperlink in HTML?",
     options: ["<link>", "<a>", "<href>", "<hyperlink>"],
     answer: "<a>",
@@ -34714,7 +34714,7 @@ export const questions = [
     level: "Hard",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "What does HTML stand for?",
     options: [
       "Hyper Trainer Marking Language",
@@ -34846,7 +34846,7 @@ export const questions = [
     level: "Hard",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "Which property is used to change the text color in CSS?",
     options: ["color", "font-color", "text-color", "background-color"],
     answer: "color",
@@ -34917,7 +34917,7 @@ export const questions = [
     level: "Hard",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "What does CSS stand for?",
     options: [
       "Colorful Style Sheets",
@@ -34986,7 +34986,7 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "Which property is used to change the text color in CSS?",
     options: ["color", "font-color", "text-color", "background-color"],
     answer: "color",
@@ -35104,14 +35104,14 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "Which property is used to change the text color in CSS?",
     options: ["color", "font-color", "text-color", "background-color"],
     answer: "color",
     level: "Hard",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "What does CSS stand for?",
     options: [
       "Colorful Style Sheets",
@@ -35144,7 +35144,7 @@ export const questions = [
     level: "Hard",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "Which tag is used to create a hyperlink in HTML?",
     options: ["<link>", "<a>", "<href>", "<hyperlink>"],
     answer: "<a>",
@@ -35235,7 +35235,7 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "What does CSS stand for?",
     options: [
       "Colorful Style Sheets",
@@ -35261,7 +35261,7 @@ export const questions = [
     level: "Medium",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "Which tag is used to create a hyperlink in HTML?",
     options: ["<link>", "<a>", "<href>", "<hyperlink>"],
     answer: "<a>",
@@ -35323,7 +35323,7 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "What does CSS stand for?",
     options: [
       "Colorful Style Sheets",
@@ -35413,7 +35413,7 @@ export const questions = [
     level: "Hard",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "Which property is used to change the text color in CSS?",
     options: ["color", "font-color", "text-color", "background-color"],
     answer: "color",
@@ -35448,7 +35448,7 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "What does CSS stand for?",
     options: [
       "Colorful Style Sheets",
@@ -35479,7 +35479,7 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "What does CSS stand for?",
     options: [
       "Colorful Style Sheets",
@@ -35498,7 +35498,7 @@ export const questions = [
     level: "Hard",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "Which property is used to change the text color in CSS?",
     options: ["color", "font-color", "text-color", "background-color"],
     answer: "color",
@@ -35582,7 +35582,7 @@ export const questions = [
     level: "Hard",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "Which tag is used to create a hyperlink in HTML?",
     options: ["<link>", "<a>", "<href>", "<hyperlink>"],
     answer: "<a>",
@@ -35655,7 +35655,7 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "What does HTML stand for?",
     options: [
       "Hyper Trainer Marking Language",
@@ -35745,7 +35745,7 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "What does CSS stand for?",
     options: [
       "Colorful Style Sheets",
@@ -35778,7 +35778,7 @@ export const questions = [
     level: "Medium",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "Which tag is used to create a hyperlink in HTML?",
     options: ["<link>", "<a>", "<href>", "<hyperlink>"],
     answer: "<a>",
@@ -35879,7 +35879,7 @@ export const questions = [
     level: "Hard",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "What does HTML stand for?",
     options: [
       "Hyper Trainer Marking Language",
@@ -35898,7 +35898,7 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "What does CSS stand for?",
     options: [
       "Colorful Style Sheets",
@@ -36031,7 +36031,7 @@ export const questions = [
     level: "Hard",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "Which property is used to change the text color in CSS?",
     options: ["color", "font-color", "text-color", "background-color"],
     answer: "color",
@@ -36045,14 +36045,14 @@ export const questions = [
     level: "Medium",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "Which property is used to change the text color in CSS?",
     options: ["color", "font-color", "text-color", "background-color"],
     answer: "color",
     level: "Hard",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "Which property is used to change the text color in CSS?",
     options: ["color", "font-color", "text-color", "background-color"],
     answer: "color",
@@ -36094,7 +36094,7 @@ export const questions = [
     level: "Hard",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "What does HTML stand for?",
     options: [
       "Hyper Trainer Marking Language",
@@ -36134,7 +36134,7 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "Which tag is used to create a hyperlink in HTML?",
     options: ["<link>", "<a>", "<href>", "<hyperlink>"],
     answer: "<a>",
@@ -36207,14 +36207,14 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "Which tag is used to create a hyperlink in HTML?",
     options: ["<link>", "<a>", "<href>", "<hyperlink>"],
     answer: "<a>",
     level: "Easy",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "What does CSS stand for?",
     options: [
       "Colorful Style Sheets",
@@ -36315,7 +36315,7 @@ export const questions = [
     level: "Hard",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "Which tag is used to create a hyperlink in HTML?",
     options: ["<link>", "<a>", "<href>", "<hyperlink>"],
     answer: "<a>",
@@ -36336,7 +36336,7 @@ export const questions = [
     level: "Medium",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "What does CSS stand for?",
     options: [
       "Colorful Style Sheets",
@@ -36396,7 +36396,7 @@ export const questions = [
     level: "Medium",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "Which property is used to change the text color in CSS?",
     options: ["color", "font-color", "text-color", "background-color"],
     answer: "color",
@@ -36483,7 +36483,7 @@ export const questions = [
     level: "Medium",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "What does HTML stand for?",
     options: [
       "Hyper Trainer Marking Language",
@@ -36544,7 +36544,7 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "What does CSS stand for?",
     options: [
       "Colorful Style Sheets",
@@ -36584,7 +36584,7 @@ export const questions = [
     level: "Medium",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "Which property is used to change the text color in CSS?",
     options: ["color", "font-color", "text-color", "background-color"],
     answer: "color",
@@ -36682,7 +36682,7 @@ export const questions = [
     level: "Medium",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "Which property is used to change the text color in CSS?",
     options: ["color", "font-color", "text-color", "background-color"],
     answer: "color",
@@ -36750,7 +36750,7 @@ export const questions = [
     level: "Hard",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "What does CSS stand for?",
     options: [
       "Colorful Style Sheets",
@@ -36802,7 +36802,7 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "Which tag is used to create a hyperlink in HTML?",
     options: ["<link>", "<a>", "<href>", "<hyperlink>"],
     answer: "<a>",
@@ -36837,7 +36837,7 @@ export const questions = [
     level: "Medium",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "What does HTML stand for?",
     options: [
       "Hyper Trainer Marking Language",
@@ -36926,7 +36926,7 @@ export const questions = [
     level: "Medium",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "What does HTML stand for?",
     options: [
       "Hyper Trainer Marking Language",
@@ -36999,7 +36999,7 @@ export const questions = [
     level: "Hard",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "What does CSS stand for?",
     options: [
       "Colorful Style Sheets",
@@ -37056,7 +37056,7 @@ export const questions = [
     level: "Medium",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "What does HTML stand for?",
     options: [
       "Hyper Trainer Marking Language",
@@ -37101,7 +37101,7 @@ export const questions = [
     level: "Medium",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "What does HTML stand for?",
     options: [
       "Hyper Trainer Marking Language",
@@ -37190,7 +37190,7 @@ export const questions = [
     level: "Hard",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "Which tag is used to create a hyperlink in HTML?",
     options: ["<link>", "<a>", "<href>", "<hyperlink>"],
     answer: "<a>",
@@ -37370,14 +37370,14 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "Which tag is used to create a hyperlink in HTML?",
     options: ["<link>", "<a>", "<href>", "<hyperlink>"],
     answer: "<a>",
     level: "Hard",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "Which tag is used to create a hyperlink in HTML?",
     options: ["<link>", "<a>", "<href>", "<hyperlink>"],
     answer: "<a>",
@@ -37505,7 +37505,7 @@ export const questions = [
     level: "Hard",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "Which property is used to change the text color in CSS?",
     options: ["color", "font-color", "text-color", "background-color"],
     answer: "color",
@@ -37526,7 +37526,7 @@ export const questions = [
     level: "Medium",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "What does CSS stand for?",
     options: [
       "Colorful Style Sheets",
@@ -37685,14 +37685,14 @@ export const questions = [
     level: "Medium",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "Which tag is used to create a hyperlink in HTML?",
     options: ["<link>", "<a>", "<href>", "<hyperlink>"],
     answer: "<a>",
     level: "Easy",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "What does CSS stand for?",
     options: [
       "Colorful Style Sheets",
@@ -37725,14 +37725,14 @@ export const questions = [
     level: "Hard",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "Which property is used to change the text color in CSS?",
     options: ["color", "font-color", "text-color", "background-color"],
     answer: "color",
     level: "Easy",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "Which tag is used to create a hyperlink in HTML?",
     options: ["<link>", "<a>", "<href>", "<hyperlink>"],
     answer: "<a>",
@@ -37779,7 +37779,7 @@ export const questions = [
     level: "Hard",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "Which tag is used to create a hyperlink in HTML?",
     options: ["<link>", "<a>", "<href>", "<hyperlink>"],
     answer: "<a>",
@@ -37894,7 +37894,7 @@ export const questions = [
     level: "Hard",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "Which tag is used to create a hyperlink in HTML?",
     options: ["<link>", "<a>", "<href>", "<hyperlink>"],
     answer: "<a>",
@@ -37948,7 +37948,7 @@ export const questions = [
     level: "Hard",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "What does HTML stand for?",
     options: [
       "Hyper Trainer Marking Language",
@@ -37988,7 +37988,7 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "Which property is used to change the text color in CSS?",
     options: ["color", "font-color", "text-color", "background-color"],
     answer: "color",
@@ -38033,7 +38033,7 @@ export const questions = [
     level: "Medium",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "What does HTML stand for?",
     options: [
       "Hyper Trainer Marking Language",
@@ -38126,7 +38126,7 @@ export const questions = [
     level: "Hard",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "What does CSS stand for?",
     options: [
       "Colorful Style Sheets",
@@ -38157,7 +38157,7 @@ export const questions = [
     level: "Medium",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "What does CSS stand for?",
     options: [
       "Colorful Style Sheets",
@@ -38230,7 +38230,7 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "What does HTML stand for?",
     options: [
       "Hyper Trainer Marking Language",
@@ -38344,7 +38344,7 @@ export const questions = [
     level: "Hard",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "Which tag is used to create a hyperlink in HTML?",
     options: ["<link>", "<a>", "<href>", "<hyperlink>"],
     answer: "<a>",
@@ -38540,7 +38540,7 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "What does HTML stand for?",
     options: [
       "Hyper Trainer Marking Language",
@@ -38552,7 +38552,7 @@ export const questions = [
     level: "Medium",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "What does HTML stand for?",
     options: [
       "Hyper Trainer Marking Language",
@@ -38599,7 +38599,7 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "What does HTML stand for?",
     options: [
       "Hyper Trainer Marking Language",
@@ -38611,7 +38611,7 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "What does CSS stand for?",
     options: [
       "Colorful Style Sheets",
@@ -38696,7 +38696,7 @@ export const questions = [
     level: "Medium",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "Which property is used to change the text color in CSS?",
     options: ["color", "font-color", "text-color", "background-color"],
     answer: "color",
@@ -38837,7 +38837,7 @@ export const questions = [
     level: "Hard",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "Which property is used to change the text color in CSS?",
     options: ["color", "font-color", "text-color", "background-color"],
     answer: "color",
@@ -38933,7 +38933,7 @@ export const questions = [
     level: "Medium",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "What does HTML stand for?",
     options: [
       "Hyper Trainer Marking Language",
@@ -38952,7 +38952,7 @@ export const questions = [
     level: "Hard",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "What does HTML stand for?",
     options: [
       "Hyper Trainer Marking Language",
@@ -38964,7 +38964,7 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "What does HTML stand for?",
     options: [
       "Hyper Trainer Marking Language",
@@ -38983,7 +38983,7 @@ export const questions = [
     level: "Medium",
   },
   {
-    language: "HTML",
+    language: "HTML5",
     question: "Which tag is used to create a hyperlink in HTML?",
     options: ["<link>", "<a>", "<href>", "<hyperlink>"],
     answer: "<a>",
@@ -39037,7 +39037,7 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "What does CSS stand for?",
     options: [
       "Colorful Style Sheets",
@@ -39077,14 +39077,14 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "Which property is used to change the text color in CSS?",
     options: ["color", "font-color", "text-color", "background-color"],
     answer: "color",
     level: "Medium",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "What does CSS stand for?",
     options: [
       "Colorful Style Sheets",
@@ -39117,7 +39117,7 @@ export const questions = [
     level: "Medium",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "Which property is used to change the text color in CSS?",
     options: ["color", "font-color", "text-color", "background-color"],
     answer: "color",
@@ -39150,7 +39150,7 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "Which property is used to change the text color in CSS?",
     options: ["color", "font-color", "text-color", "background-color"],
     answer: "color",
@@ -39171,7 +39171,7 @@ export const questions = [
     level: "Hard",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "Which property is used to change the text color in CSS?",
     options: ["color", "font-color", "text-color", "background-color"],
     answer: "color",
@@ -39199,7 +39199,7 @@ export const questions = [
     level: "Easy",
   },
   {
-    language: "CSS",
+    language: "CSS3",
     question: "What does CSS stand for?",
     options: [
       "Colorful Style Sheets",

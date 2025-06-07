@@ -18,7 +18,7 @@ export default function Testemonials() {
           Message from Students
         </h1>
       </div>
-      <div className="w-100% lg:p-10 p-5 grid xl:grid-cols-4 lg:grid-cols-3 sm:grid-cols-2 grid-cols-1 gap-10">
+      <div className="w-full lg:p-10 p-5 grid xl:grid-cols-4 lg:grid-cols-3 sm:grid-cols-2 grid-cols-1 gap-10">
         {testimonials.length > 0 &&
           testimonials.map((card, index) => <div key={index} className="w-full h-full flex flex-col items-center text-gray-600">
             <div

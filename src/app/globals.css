@@ -144,7 +144,9 @@ body::-webkit-scrollbar {
     display: none;
   }
 
-
+  .swal2-container{
+    pointer-events: auto;
+  }
   
 }
 

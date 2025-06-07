@@ -21,7 +21,7 @@ export default function CoursesDetailPage({courseName}) {
     <>
       <div className="w-screen pt-15">
         <div className="w-auto m-2 p-2 sm:m-5 sm:p-5 gap-5 flex items-center flex-col">
-          <div className="grid border-b-3 border-blue-600 pb-3 grid-cols-2  gap-2 sm:grid-cols-3 sm:gap-5 md:grid-cols-4 lg:grid-cols-5">
+          <div className="grid border-b-3 border-blue-600 pb-3 grid-cols-2  gap-2 sm:grid-cols-3 sm:gap-5 md:grid-cols-4">
             {[
               "Overview",
               "Course Content",

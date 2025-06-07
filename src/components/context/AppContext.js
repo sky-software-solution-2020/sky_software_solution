@@ -68,7 +68,7 @@ export function AppProvider({ children }) {
   return (
     <AppContext.Provider value={values}>
       {
-        pathName.includes("/login-register") ?
+        pathName.includes("/login-register") || pathName.includes("/quiz-test/questions") ?
           <div className="container">
             <main>{children}</main>
           </div> :

@@ -39,7 +39,7 @@ export async function POST(req, res) {
     }, { status: 200 });
   } catch (error) {
     return Response.json(
-      { success: false, message: "Form Submission Failed" },
+      { success: false, message: error.message },
       { status: 500 }
     );
   }

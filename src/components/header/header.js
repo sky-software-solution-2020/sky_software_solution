@@ -8,23 +8,20 @@ import {
   SheetTitle,
   SheetTrigger,
 } from "../ui/sheet";
-import { useEffect, useState } from "react";
+import { useState } from "react";
 import { MdOutlineMenuOpen } from "react-icons/md";
 import axios from "axios";
 import Swal from "sweetalert2";
-import { useRouter } from "next/navigation";
 
 
 export default function Header({ home }) {
   const { isScroll } = useAppContext();
-  const [isDisabled, setIsDisabled] = useState(false);
   const [form, setForm] = useState({
     name: "",
     email: "",
     mobileNumber: "",
     message: "",
   });
-  const router = useRouter();
 
   const handleChange = (e) => {
     setForm({ ...form, [e.target.name]: e.target.value });
@@ -32,8 +29,8 @@ export default function Header({ home }) {
 
   const handleSubmit = async (e) => {
     e.preventDefault();
-    setIsDisabled(true)
-    const response = await axios.post("/api/v1/form-submit", { form }, {
+    try {
+      const response = await axios.post("/api/v1/form-submit", { form }, {
       headers: {
         'Content-Type': 'application/json',
       }
@@ -51,8 +48,23 @@ export default function Header({ home }) {
         }
       })
     }
-  };
+  
+    } catch (error) {
+      console.log(error);
+      Swal.fire({
+        title: 'Error!',
+        icon: 'error',
+        text: error.response.data.message,
+        confirmButtonText: 'OK'
+      }).then((result) => {
+        if (result.isConfirmed) {
+          setIsDisabled(false)
+        }
+      })
+      
+    }
 
+  }
 
   return (
     <div className={`w-screen fixed z-50 ${!home ? "bg-white" : ""}`}>
@@ -91,6 +103,9 @@ export default function Header({ home }) {
               </Link>
               <Link className="text-xl font-bold text-white" href="/events">
                 Event
+              </Link>
+              <Link className="text-xl font-bold text-white" href="/quiz-test">
+                Quiz Test
               </Link>
               <Link className="text-xl font-bold text-white" href="/about-us">
                 About Us
@@ -178,9 +193,9 @@ export default function Header({ home }) {
               </SheetContent>
             </Sheet>
 
-            <Link href={'/users/login-register'} className="bg-white text-blue-600 font-bold p-2  rounded-2xl cursor-pointer">
+            {/* <Link href={'/users/login-register'} className="bg-white text-blue-600 font-bold p-2  rounded-2xl cursor-pointer">
                 Login / Register
-              </Link>
+              </Link> */}
           </div>
         </div>
       </div>
@@ -232,6 +247,12 @@ export default function Header({ home }) {
                     href="/events"
                   >
                     Event
+                  </Link>
+                  <Link
+                    className="text-xl font-bold text-blue-600"
+                    href="/quiz-test"
+                  >
+                    Quiz Text
                   </Link>
                   <Link
                     className="text-xl font-bold text-blue-600"
@@ -317,7 +338,6 @@ export default function Header({ home }) {
                   <Button
                     type="submit"
                     className="bg-blue-600! text-white! font-bold! capitalize! text-xl!"
-                    disabled={isDisabled}
                   >
                     Submit
                   </Button>
