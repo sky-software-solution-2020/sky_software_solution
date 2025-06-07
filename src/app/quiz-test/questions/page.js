@@ -1,6 +1,7 @@
 'use client'
 
 import { useSearchParams } from "next/navigation"
+import { Suspense } from "react"
 
 
 export default function Questions(){
@@ -9,8 +10,10 @@ export default function Questions(){
 
     const language = Buffer.from(value, 'hex').toString('utf-8')
  return(
-    <>
-        <h1>{language}</h1>
-    </>
+    
+        <Suspense fallback={<div>Loading questions...</div>}>
+            <h1>{language}</h1>
+        </Suspense>
+    
  )
 }
