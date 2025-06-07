@@ -5,10 +5,9 @@ import { questions } from "@/components/json/quiz_questions";
 import { courses } from "@/components/json/courses";
 import { Button } from "@mui/material";
 import { Sheet, SheetContent, SheetHeader, SheetTitle, SheetTrigger } from "@/components/ui/sheet";
-import { useRouter } from "next/navigation";
+
 
 export default function CourseQuizTest() {
-const router = useRouter()
 
   function filterCourseName(array) {
     let courseName = [];
@@ -21,16 +20,6 @@ const router = useRouter()
     return courseName;
   }
 
-  const getRandomItem = (array, count) => {
-    const arr = [...array];
-    for (let i = arr.length - 1; i > 0; i--) {
-      const j = Math.floor(Math.random() * (i + 1));
-
-      [arr[i], arr[j]] = [arr[j], arr[i]];
-    }
-
-    return arr.slice(0, count);
-  };
 
   const courseName = filterCourseName(questions).map((name) => {
     const course = courses.find((course) => course.courseName.toLowerCase().includes(name.toLowerCase()))
@@ -42,16 +31,7 @@ const router = useRouter()
     }
   })
 
-  console.log(courseName);
 
-
-
-  // console.log(
-  //   getRandomItem(
-  //     Array.from({ length: 10000 }, (_, i) => i + 1),
-  //     20
-  //   )
-  // );
   return (
     <div className="w-screen">
       <div className="w-full flex items-center justify-center xl:mt-25 mt-20">

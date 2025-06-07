@@ -48,9 +48,7 @@ export default function Header({ home }) {
         }
       })
     }
-  
     } catch (error) {
-      console.log(error);
       Swal.fire({
         title: 'Error!',
         icon: 'error',
