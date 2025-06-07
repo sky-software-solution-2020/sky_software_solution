@@ -268,6 +268,7 @@ export default function Header({ home }) {
                       value={form.name}
                       onChange={handleChange}
                       required
+                      disabled={isDisabled}
                     />
                   </div>
                   <div className="flex flex-col gap-2">
@@ -282,6 +283,7 @@ export default function Header({ home }) {
                       value={form.email}
                       onChange={handleChange}
                       required
+                      disabled={isDisabled}
                     />
                   </div>
                   <div className="flex flex-col gap-2">
@@ -298,6 +300,7 @@ export default function Header({ home }) {
                       name="mobileNumber"
                       value={form.mobileNumber}
                       onChange={handleChange}
+                      disabled={isDisabled}
                     />
                   </div>
                   <div className="flex flex-col gap-2">
@@ -312,6 +315,7 @@ export default function Header({ home }) {
                       value={form.message}
                       onChange={handleChange}
                       required
+                      disabled={isDisabled}
                     />
                   </div>
                   <Button
