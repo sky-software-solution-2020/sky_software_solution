@@ -71,7 +71,7 @@ const placements = [
 ];
 
 export default function Home() {
-  const { setIsScroll, courses,testimonials } = useAppContext();
+  const { setIsScroll, courses, testimonials } = useAppContext();
   const [isSocialOpen, setIsSocialOpen] = useState(false);
   const socialRef = useRef(null);
   const router = useRouter()
@@ -134,19 +134,17 @@ export default function Home() {
               particleColor="#FFFFFF"
             />
           </div>
-
-
           <ImageCarousel images={items} />
         </div>
-
+ 
         <div>
-          <div className="w-screen flex items-center justify-center">
-            <h1 className="text-5xl font-bold text-white uppercase">
+          <div className="w-screen flex items-center justify-center mt-10">
+            <h1 className="lg:text-5xl sm:text-3xl text-xl font-bold text-blue-600 mb-10">
               Our Courses
             </h1>
           </div>
           <div>
-            <div className="w-screen flex justify-center px-[15vw] md:px-[8vw] mt-10">
+            <div className="w-screen flex justify-center px-[15vw] md:px-[8vw]">
               <Carousel
                 opts={{
                   align: "start",
@@ -172,7 +170,7 @@ export default function Home() {
 
         <div className="w-screen p-5 mt-10">
           <div className="w-full flex items-center justify-center">
-            <h1 className="lg:text-5xl sm:text-3xl text-xl font-bold text-blue-600 mb-10 underline">
+            <h1 className="lg:text-5xl sm:text-3xl text-xl font-bold text-blue-600 mb-10">
               Message from Students
             </h1>
           </div>
@@ -199,11 +197,9 @@ export default function Home() {
       <div
         ref={socialRef}
         onClick={() => setIsSocialOpen(true)}
-        className={`flex flex-col items-center justify-center gap-2 fixed top-[30%] transition-all duration-300 ease-in-out py-3 ${
-          isSocialOpen ? "px-1" : "px-3"
-        } hover:px-1 rounded-l-2xl z-50 bg-white ${
-          isSocialOpen ? "right-0" : "-right-14"
-        }  hover:right-0`}
+        className={`flex flex-col items-center justify-center gap-2 fixed top-[30%] transition-all duration-300 ease-in-out py-3 ${isSocialOpen ? "px-1" : "px-3"
+          } hover:px-1 rounded-l-2xl z-50 bg-white ${isSocialOpen ? "right-0" : "-right-14"
+          }  hover:right-0`}
       >
         <Link href="https://wa.me/919575113506" target="_black">
           <img
