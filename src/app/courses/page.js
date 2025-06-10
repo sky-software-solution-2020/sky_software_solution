@@ -3,11 +3,13 @@
 import { useAppContext } from "@/components/context/AppContext";
 import { Button } from "@mui/material";
 import { useRouter } from "next/navigation";
+import { useEffect, useState } from "react";
 
 
 export default function Courses() {
   const { courses } = useAppContext()
   const router = useRouter();
+  const [loader, setLoader] = useState(true)
 
   function filterCategory(array) {
     let category = [];
@@ -26,13 +28,15 @@ export default function Courses() {
     router.push(`/courses/course-details/overview/${coursename}`);
   };
 
-
+  useEffect(() => {
+    setTimeout(() => { setLoader(false) }, 1000)
+  }, [])
 
   return (
     <>
 
       {
-        courses.length < 1 ? <div className="w-screen h-screen items-center flex justify-center">
+        loader ? <div className="w-screen h-screen items-center flex justify-center">
           <div className="spinner"></div>
         </div> : <div className="w-screen pt-15">
           <div className="w-auto m-2 p-2 sm:m-5 sm:p-5 gap-5 flex items-center flex-col">
