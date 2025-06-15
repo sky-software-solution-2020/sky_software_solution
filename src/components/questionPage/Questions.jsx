@@ -106,6 +106,14 @@ export default function Questions() {
       setIsSubmitted(true)
    }
 
+   useEffect(() => {
+      if (isSubmitted) {
+         document.body.style.overflow = "hidden"
+      } else {
+         document.body.style.overflow = "auto"
+      }
+   }, [isSubmitted])
+
    return (
       <>
          {
@@ -130,7 +138,7 @@ export default function Questions() {
                      <SheetContent side="bottom">
                         <SheetHeader>
                            <SheetTitle  ></SheetTitle>
-                           <div className="text-xl text-gray-600 flex flex-col gap-5 h-[95vh] overflow-auto pb-5 text-justify">
+                           <div className="text-xl text-gray-600 flex flex-col gap-5 xl:h-[95vh] h-[85vh] overflow-auto pb-5 text-justify">
                               <h1 className="text-3xl font-bold text-blue-600">Your Answers </h1>
                               {
                                  questionList.map((ques, idx) => (

@@ -68,7 +68,7 @@ export default function CourseQuizTest() {
                 <SheetContent side="bottom">
                   <SheetHeader>
                     <SheetTitle></SheetTitle>
-                    <div className="text-xl text-gray-600 flex flex-col gap-5 h-[95vh] overflow-auto pb-5 text-justify">
+                    <div className="text-xl text-gray-600 flex flex-col gap-5 xl:h-[95vh] h-[85vh] overflow-auto pb-5 text-justify">
                       <h1 className="text-3xl font-bold text-blue-600">Quiz Test Instructions</h1>
                       <p>1. The <b>clock</b> has been set on the server and countdown timer at top right corner of your screen will display the remaining time for you to complete the exam. When the clock runs out the exams ends by default- you are not required to end or submit your exam</p>
                       <p>2. The questions palette at the right of screen shows one of the following status of each of the questions numbered </p>
