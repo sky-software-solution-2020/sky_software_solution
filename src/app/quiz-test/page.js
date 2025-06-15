@@ -68,7 +68,7 @@ export default function CourseQuizTest() {
                 <SheetContent side="bottom">
                   <SheetHeader>
                     <SheetTitle></SheetTitle>
-                    <div className="text-xl text-gray-600 flex flex-col gap-5 h-[85vh] overflow-auto pb-5 text-justify">
+                    <div className="text-xl text-gray-600 flex flex-col gap-5 h-[95vh] overflow-auto pb-5 text-justify">
                       <h1 className="text-3xl font-bold text-blue-600">Quiz Test Instructions</h1>
                       <p>1. The <b>clock</b> has been set on the server and countdown timer at top right corner of your screen will display the remaining time for you to complete the exam. When the clock runs out the exams ends by default- you are not required to end or submit your exam</p>
                       <p>2. The questions palette at the right of screen shows one of the following status of each of the questions numbered </p>
@@ -104,9 +104,9 @@ export default function CourseQuizTest() {
                       <p>7. Sections in this question paper are displayed on the top bar of the screen. Questions  in a section can be viewed by clicking on the section name. The section you are currently viewing is highlighted</p>
                       <p>8. After clicking the  <b>save  button</b> on the last question for a section,you will automatically be taken to the first question of the next section</p>
                       <p>9. You can shuffle between sections and questions anytime during the examination as per your convenience</p>
+                      <Button onClick={() => window.open(`/quiz-test/questions?status=true&id=${Math.floor(Math.random() * 90000000) + 10000000}&value=${Buffer.from(course.language).toString('hex')}`, 'popup', 'width=900,height=700,toolbar=no,menubar=no,status=no,location=no,resizable=yes')} className="bg-blue-600! font-bold! text-white! capitalize! text-xl!">Start Quiz</Button>
                     </div>
 
-                    <Button onClick={() => window.open(`/quiz-test/questions?status=true&id=${Math.floor(Math.random() * 90000000)+ 10000000}&value=${Buffer.from(course.language).toString('hex')}`, 'popup', 'width=900,height=700,toolbar=no,menubar=no,status=no,location=no,resizable=yes')} className="bg-blue-600! font-bold! text-white! capitalize! text-xl!">Start Quiz</Button>
                   </SheetHeader>
                 </SheetContent>
               </Sheet >
