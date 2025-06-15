@@ -24,6 +24,14 @@ export default function Questions() {
    const [isSubmitted, setIsSubmitted] = useState(false);
    const [score, setScore] = useState(0);
 
+      useEffect(() => {
+      if (isSubmitted) {
+         document.body.style.overflow = "hidden"
+      } else {
+         document.body.style.overflow = "auto"
+      }
+   }, [isSubmitted])
+
    const getRandomItem = (array, count) => {
       const arr = [...array];
       for (let i = arr.length - 1; i > 0; i--) {
@@ -106,13 +114,7 @@ export default function Questions() {
       setIsSubmitted(true)
    }
 
-   useEffect(() => {
-      if (isSubmitted) {
-         document.body.style.overflow = "hidden"
-      } else {
-         document.body.style.overflow = "auto"
-      }
-   }, [isSubmitted])
+
 
    return (
       <>
