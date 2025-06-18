@@ -66,7 +66,7 @@ export default function Questions() {
    const handleSelectOption = (e, id) => {
       setQuestionList((prev) =>
          prev.map((q) =>
-            q.id === id ? { ...q, answered: e.target.value } : q
+            q.index === id ? { ...q, answered: e.target.value } : q
          )
       );
    }
@@ -181,7 +181,7 @@ export default function Questions() {
                               {
                                  activeQuestion.options.map((option, idx) => (
                                     <label key={idx} className="flex items-center capitalize gap-3 border border-gray-400 p-2 text-[18px] rounded-xl">
-                                       <input type="radio" value={option} checked={questionList[activeQuestion.index].answered === option} onChange={(e) => handleSelectOption(e, activeQuestion.id)} />
+                                       <input type="radio" value={option} checked={questionList[activeQuestion.index].answered === option} onChange={(e) => handleSelectOption(e, activeQuestion.index)} />
                                        {option}
                                     </label>
                                  ))
@@ -192,7 +192,7 @@ export default function Questions() {
                            <div className="flex w-full justify-between">
                               <Button onClick={() => setQuestionList((prev) =>
                                  prev.map((q) =>
-                                    q.id === activeQuestion.id ? { ...q, answered: "" } : q
+                                    q.index === activeQuestion.index ? { ...q, answered: "" } : q
                                  )
                               )} className="font-bold! text-gray-600! capitalize! text-xl!">Clear</Button>
                               <div className="flex items-center gap-5">
@@ -233,7 +233,7 @@ export default function Questions() {
                                        setActiveQuestion({ ...ques, view: true });
                                        setQuestionList((prev) =>
                                           prev.map((q) =>
-                                             q.id === ques.id ? { ...q, view: true } : q
+                                             q.index === ques.index ? { ...q, view: true } : q
                                           )
                                        );
                                     }}

@@ -38,19 +38,7 @@ export const questions = [
     "level": "Medium",
     "id": 9090
   },
-  {
-    "language": "C",
-    "question": "What is the size of an int in C (typically)?",
-    "options": [
-      "2 bytes",
-      "4 bytes",
-      "8 bytes",
-      "Depends on compiler"
-    ],
-    "answer": "Depends on compiler",
-    "level": "Medium",
-    "id": 9730
-  },
+
   {
     "language": "Bootstrap 4",
     "question": "What class is used for a button in Bootstrap?",
@@ -272,19 +260,7 @@ export const questions = [
     "level": "Easy",
     "id": 7450
   },
-  {
-    "language": "C",
-    "question": "What is the size of an int in C (typically)?",
-    "options": [
-      "2 bytes",
-      "4 bytes",
-      "8 bytes",
-      "Depends on compiler"
-    ],
-    "answer": "Depends on compiler",
-    "level": "Hard",
-    "id": 2880
-  },
+
   {
     "language": "RDBMS with Excel",
     "question": "Which SQL clause is used to filter rows?",
@@ -350,19 +326,7 @@ export const questions = [
     "level": "Easy",
     "id": 4725
   },
-  {
-    "language": "C",
-    "question": "Which of the following is a valid C data type?",
-    "options": [
-      "integer",
-      "real",
-      "float",
-      "decimal"
-    ],
-    "answer": "float",
-    "level": "Hard",
-    "id": 3196
-  },
+
   {
     "language": "Python Fullstack",
     "question": "Which template engine is used with Flask?",
@@ -415,19 +379,7 @@ export const questions = [
     "level": "Hard",
     "id": 6586
   },
-  {
-    "language": "C",
-    "question": "What is the size of an int in C (typically)?",
-    "options": [
-      "2 bytes",
-      "4 bytes",
-      "8 bytes",
-      "Depends on compiler"
-    ],
-    "answer": "Depends on compiler",
-    "level": "Medium",
-    "id": 1015
-  },
+
   {
     "language": "Bootstrap 4",
     "question": "What class is used for a button in Bootstrap?",
@@ -571,19 +523,7 @@ export const questions = [
     "level": "Easy",
     "id": 6322
   },
-  {
-    "language": "C",
-    "question": "What is the size of an int in C (typically)?",
-    "options": [
-      "2 bytes",
-      "4 bytes",
-      "8 bytes",
-      "Depends on compiler"
-    ],
-    "answer": "Depends on compiler",
-    "level": "Medium",
-    "id": 9856
-  },
+
   {
     "language": "C++",
     "question": "Which concept allows function or operator to act differently on different data types in C++?",
@@ -727,19 +667,7 @@ export const questions = [
     "level": "Easy",
     "id": 3403
   },
-  {
-    "language": "C",
-    "question": "Which of the following is a valid C data type?",
-    "options": [
-      "integer",
-      "real",
-      "float",
-      "decimal"
-    ],
-    "answer": "float",
-    "level": "Medium",
-    "id": 3220
-  },
+
   {
     "language": "HTML5",
     "question": "What does HTML stand for?",
@@ -805,19 +733,7 @@ export const questions = [
     "level": "Easy",
     "id": 3200
   },
-  {
-    "language": "C",
-    "question": "What is the size of an int in C (typically)?",
-    "options": [
-      "2 bytes",
-      "4 bytes",
-      "8 bytes",
-      "Depends on compiler"
-    ],
-    "answer": "Depends on compiler",
-    "level": "Hard",
-    "id": 7071
-  },
+
   {
     "language": "Java",
     "question": "Which of these is not a Java keyword?",
@@ -1364,19 +1280,7 @@ export const questions = [
     "level": "Medium",
     "id": 6565
   },
-  {
-    "language": "C",
-    "question": "Which of the following is a valid C data type?",
-    "options": [
-      "integer",
-      "real",
-      "float",
-      "decimal"
-    ],
-    "answer": "float",
-    "level": "Easy",
-    "id": 7125
-  },
+
   {
     "language": "Python",
     "question": "What does the len() function do in Python?",
@@ -1390,19 +1294,7 @@ export const questions = [
     "level": "Hard",
     "id": 2809
   },
-  {
-    "language": "C",
-    "question": "Which of the following is a valid C data type?",
-    "options": [
-      "integer",
-      "real",
-      "float",
-      "decimal"
-    ],
-    "answer": "float",
-    "level": "Medium",
-    "id": 4829
-  },
+
   {
     "language": "JavaScript",
     "question": "Which symbol is used for comments in JavaScript?",
@@ -1468,19 +1360,7 @@ export const questions = [
     "level": "Medium",
     "id": 1090
   },
-  {
-    "language": "C",
-    "question": "Which of the following is a valid C data type?",
-    "options": [
-      "integer",
-      "real",
-      "float",
-      "decimal"
-    ],
-    "answer": "float",
-    "level": "Easy",
-    "id": 8372
-  },
+
   {
     "language": "Java Fullstack",
     "question": "Which framework is commonly used in Java Fullstack for backend?",
@@ -1663,19 +1543,7 @@ export const questions = [
     "level": "Easy",
     "id": 8998
   },
-  {
-    "language": "C",
-    "question": "Which of the following is a valid C data type?",
-    "options": [
-      "integer",
-      "real",
-      "float",
-      "decimal"
-    ],
-    "answer": "float",
-    "level": "Hard",
-    "id": 2281
-  },
+
   {
     "language": "Tailwind",
     "question": "Which utility class sets margin in Tailwind?",
@@ -1741,19 +1609,7 @@ export const questions = [
     "level": "Medium",
     "id": 3124
   },
-  {
-    "language": "C",
-    "question": "Which of the following is a valid C data type?",
-    "options": [
-      "integer",
-      "real",
-      "float",
-      "decimal"
-    ],
-    "answer": "float",
-    "level": "Medium",
-    "id": 4499
-  },
+
   {
     "language": "CSS3",
     "question": "What does CSS stand for?",
@@ -2027,19 +1883,7 @@ export const questions = [
     "level": "Easy",
     "id": 9177
   },
-  {
-    "language": "C",
-    "question": "Which of the following is a valid C data type?",
-    "options": [
-      "integer",
-      "real",
-      "float",
-      "decimal"
-    ],
-    "answer": "float",
-    "level": "Hard",
-    "id": 2376
-  },
+
   {
     "language": "RDBMS with Excel",
     "question": "Which SQL clause is used to filter rows?",
@@ -2118,19 +1962,7 @@ export const questions = [
     "level": "Easy",
     "id": 1860
   },
-  {
-    "language": "C",
-    "question": "What is the size of an int in C (typically)?",
-    "options": [
-      "2 bytes",
-      "4 bytes",
-      "8 bytes",
-      "Depends on compiler"
-    ],
-    "answer": "Depends on compiler",
-    "level": "Medium",
-    "id": 8129
-  },
+
   {
     "language": "Python Fullstack",
     "question": "Which Python web framework is used in Fullstack?",
@@ -2417,19 +2249,7 @@ export const questions = [
     "level": "Medium",
     "id": 4792
   },
-  {
-    "language": "C",
-    "question": "Which of the following is a valid C data type?",
-    "options": [
-      "integer",
-      "real",
-      "float",
-      "decimal"
-    ],
-    "answer": "float",
-    "level": "Easy",
-    "id": 4437
-  },
+
   {
     "language": "Bootstrap 4",
     "question": "Which Bootstrap class makes an element responsive?",
@@ -2586,19 +2406,7 @@ export const questions = [
     "level": "Medium",
     "id": 1709
   },
-  {
-    "language": "C",
-    "question": "Which of the following is a valid C data type?",
-    "options": [
-      "integer",
-      "real",
-      "float",
-      "decimal"
-    ],
-    "answer": "float",
-    "level": "Easy",
-    "id": 7429
-  },
+
   {
     "language": "JavaScript",
     "question": "Which company developed JavaScript?",
@@ -2781,19 +2589,7 @@ export const questions = [
     "level": "Easy",
     "id": 1578
   },
-  {
-    "language": "C",
-    "question": "What is the size of an int in C (typically)?",
-    "options": [
-      "2 bytes",
-      "4 bytes",
-      "8 bytes",
-      "Depends on compiler"
-    ],
-    "answer": "Depends on compiler",
-    "level": "Easy",
-    "id": 5340
-  },
+
   {
     "language": "JavaScript",
     "question": "Which symbol is used for comments in JavaScript?",
@@ -2820,19 +2616,7 @@ export const questions = [
     "level": "Medium",
     "id": 5701
   },
-  {
-    "language": "C",
-    "question": "What is the size of an int in C (typically)?",
-    "options": [
-      "2 bytes",
-      "4 bytes",
-      "8 bytes",
-      "Depends on compiler"
-    ],
-    "answer": "Depends on compiler",
-    "level": "Easy",
-    "id": 8298
-  },
+
   {
     "language": "HTML5",
     "question": "Which tag is used to create a hyperlink in HTML?",
@@ -3067,19 +2851,7 @@ export const questions = [
     "level": "Hard",
     "id": 9299
   },
-  {
-    "language": "C",
-    "question": "What is the size of an int in C (typically)?",
-    "options": [
-      "2 bytes",
-      "4 bytes",
-      "8 bytes",
-      "Depends on compiler"
-    ],
-    "answer": "Depends on compiler",
-    "level": "Hard",
-    "id": 6293
-  },
+
   {
     "language": "HTML5",
     "question": "Which tag is used to create a hyperlink in HTML?",
@@ -3223,19 +2995,7 @@ export const questions = [
     "level": "Hard",
     "id": 4100
   },
-  {
-    "language": "C",
-    "question": "Which of the following is a valid C data type?",
-    "options": [
-      "integer",
-      "real",
-      "float",
-      "decimal"
-    ],
-    "answer": "float",
-    "level": "Hard",
-    "id": 5712
-  },
+
   {
     "language": "C++",
     "question": "Which concept allows function or operator to act differently on different data types in C++?",
@@ -3314,19 +3074,7 @@ export const questions = [
     "level": "Easy",
     "id": 3827
   },
-  {
-    "language": "C",
-    "question": "What is the size of an int in C (typically)?",
-    "options": [
-      "2 bytes",
-      "4 bytes",
-      "8 bytes",
-      "Depends on compiler"
-    ],
-    "answer": "Depends on compiler",
-    "level": "Medium",
-    "id": 8769
-  },
+
   {
     "language": "JavaScript",
     "question": "Which symbol is used for comments in JavaScript?",
@@ -3626,19 +3374,7 @@ export const questions = [
     "level": "Easy",
     "id": 6241
   },
-  {
-    "language": "C",
-    "question": "What is the size of an int in C (typically)?",
-    "options": [
-      "2 bytes",
-      "4 bytes",
-      "8 bytes",
-      "Depends on compiler"
-    ],
-    "answer": "Depends on compiler",
-    "level": "Easy",
-    "id": 9991
-  },
+
   {
     "language": "Java Fullstack",
     "question": "Which framework is commonly used in Java Fullstack for backend?",
@@ -3873,19 +3609,7 @@ export const questions = [
     "level": "Easy",
     "id": 1432
   },
-  {
-    "language": "C",
-    "question": "Which of the following is a valid C data type?",
-    "options": [
-      "integer",
-      "real",
-      "float",
-      "decimal"
-    ],
-    "answer": "float",
-    "level": "Easy",
-    "id": 7197
-  },
+
   {
     "language": "MERN Fullstack",
     "question": "What does MERN stand for?",
@@ -4081,19 +3805,7 @@ export const questions = [
     "level": "Easy",
     "id": 3226
   },
-  {
-    "language": "C",
-    "question": "What is the size of an int in C (typically)?",
-    "options": [
-      "2 bytes",
-      "4 bytes",
-      "8 bytes",
-      "Depends on compiler"
-    ],
-    "answer": "Depends on compiler",
-    "level": "Medium",
-    "id": 6804
-  },
+
   {
     "language": "DSA C++",
     "question": "Which sorting algorithm is fastest on average?",
@@ -4380,19 +4092,7 @@ export const questions = [
     "level": "Easy",
     "id": 7469
   },
-  {
-    "language": "C",
-    "question": "What is the size of an int in C (typically)?",
-    "options": [
-      "2 bytes",
-      "4 bytes",
-      "8 bytes",
-      "Depends on compiler"
-    ],
-    "answer": "Depends on compiler",
-    "level": "Easy",
-    "id": 2187
-  },
+
   {
     "language": "JavaScript",
     "question": "Which company developed JavaScript?",
@@ -4926,19 +4626,7 @@ export const questions = [
     "level": "Easy",
     "id": 2958
   },
-  {
-    "language": "C",
-    "question": "What is the size of an int in C (typically)?",
-    "options": [
-      "2 bytes",
-      "4 bytes",
-      "8 bytes",
-      "Depends on compiler"
-    ],
-    "answer": "Depends on compiler",
-    "level": "Easy",
-    "id": 3118
-  },
+
   {
     "language": "Java",
     "question": "Which method is the entry point for a Java program?",
@@ -5056,19 +4744,7 @@ export const questions = [
     "level": "Hard",
     "id": 3344
   },
-  {
-    "language": "C",
-    "question": "Which of the following is a valid C data type?",
-    "options": [
-      "integer",
-      "real",
-      "float",
-      "decimal"
-    ],
-    "answer": "float",
-    "level": "Easy",
-    "id": 3850
-  },
+
   {
     "language": "Java Fullstack",
     "question": "Which framework is commonly used in Java Fullstack for backend?",
@@ -5433,19 +5109,7 @@ export const questions = [
     "level": "Easy",
     "id": 4589
   },
-  {
-    "language": "C",
-    "question": "What is the size of an int in C (typically)?",
-    "options": [
-      "2 bytes",
-      "4 bytes",
-      "8 bytes",
-      "Depends on compiler"
-    ],
-    "answer": "Depends on compiler",
-    "level": "Hard",
-    "id": 5861
-  },
+
   {
     "language": "Tailwind",
     "question": "What is Tailwind CSS?",
@@ -5849,19 +5513,7 @@ export const questions = [
     "level": "Medium",
     "id": 6861
   },
-  {
-    "language": "C",
-    "question": "Which of the following is a valid C data type?",
-    "options": [
-      "integer",
-      "real",
-      "float",
-      "decimal"
-    ],
-    "answer": "float",
-    "level": "Hard",
-    "id": 7501
-  },
+
   {
     "language": "Python Fullstack",
     "question": "Which template engine is used with Flask?",
@@ -6044,19 +5696,7 @@ export const questions = [
     "level": "Hard",
     "id": 2473
   },
-  {
-    "language": "C",
-    "question": "What is the size of an int in C (typically)?",
-    "options": [
-      "2 bytes",
-      "4 bytes",
-      "8 bytes",
-      "Depends on compiler"
-    ],
-    "answer": "Depends on compiler",
-    "level": "Easy",
-    "id": 5356
-  },
+
   {
     "language": "Data Science",
     "question": "Which term refers to drawing insights from data?",
@@ -6161,19 +5801,7 @@ export const questions = [
     "level": "Medium",
     "id": 8697
   },
-  {
-    "language": "C",
-    "question": "What is the size of an int in C (typically)?",
-    "options": [
-      "2 bytes",
-      "4 bytes",
-      "8 bytes",
-      "Depends on compiler"
-    ],
-    "answer": "Depends on compiler",
-    "level": "Medium",
-    "id": 1603
-  },
+
   {
     "language": "Java Fullstack",
     "question": "Which framework is commonly used in Java Fullstack for backend?",
@@ -6512,19 +6140,7 @@ export const questions = [
     "level": "Medium",
     "id": 4382
   },
-  {
-    "language": "C",
-    "question": "What is the size of an int in C (typically)?",
-    "options": [
-      "2 bytes",
-      "4 bytes",
-      "8 bytes",
-      "Depends on compiler"
-    ],
-    "answer": "Depends on compiler",
-    "level": "Medium",
-    "id": 4583
-  },
+
   {
     "language": "CSS3",
     "question": "Which property is used to change the text color in CSS?",
@@ -7084,19 +6700,7 @@ export const questions = [
     "level": "Hard",
     "id": 7738
   },
-  {
-    "language": "C",
-    "question": "What is the size of an int in C (typically)?",
-    "options": [
-      "2 bytes",
-      "4 bytes",
-      "8 bytes",
-      "Depends on compiler"
-    ],
-    "answer": "Depends on compiler",
-    "level": "Hard",
-    "id": 7561
-  },
+
   {
     "language": "Data Science",
     "question": "Which term refers to drawing insights from data?",
@@ -7162,19 +6766,7 @@ export const questions = [
     "level": "Easy",
     "id": 3969
   },
-  {
-    "language": "C",
-    "question": "Which of the following is a valid C data type?",
-    "options": [
-      "integer",
-      "real",
-      "float",
-      "decimal"
-    ],
-    "answer": "float",
-    "level": "Medium",
-    "id": 5538
-  },
+
   {
     "language": "Java Fullstack",
     "question": "Which database is often used with Java Fullstack?",
@@ -7279,19 +6871,7 @@ export const questions = [
     "level": "Medium",
     "id": 5136
   },
-  {
-    "language": "C",
-    "question": "Which of the following is a valid C data type?",
-    "options": [
-      "integer",
-      "real",
-      "float",
-      "decimal"
-    ],
-    "answer": "float",
-    "level": "Hard",
-    "id": 8815
-  },
+
   {
     "language": "C++",
     "question": "Which of the following is not a C++ access specifier?",
@@ -7474,19 +7054,7 @@ export const questions = [
     "level": "Medium",
     "id": 3581
   },
-  {
-    "language": "C",
-    "question": "What is the size of an int in C (typically)?",
-    "options": [
-      "2 bytes",
-      "4 bytes",
-      "8 bytes",
-      "Depends on compiler"
-    ],
-    "answer": "Depends on compiler",
-    "level": "Medium",
-    "id": 7569
-  },
+
   {
     "language": "Python",
     "question": "What does the len() function do in Python?",
@@ -7513,19 +7081,7 @@ export const questions = [
     "level": "Medium",
     "id": 7380
   },
-  {
-    "language": "C",
-    "question": "Which of the following is a valid C data type?",
-    "options": [
-      "integer",
-      "real",
-      "float",
-      "decimal"
-    ],
-    "answer": "float",
-    "level": "Easy",
-    "id": 8782
-  },
+
   {
     "language": "Bootstrap 4",
     "question": "Which Bootstrap class makes an element responsive?",
@@ -7747,19 +7303,7 @@ export const questions = [
     "level": "Medium",
     "id": 1944
   },
-  {
-    "language": "C",
-    "question": "Which of the following is a valid C data type?",
-    "options": [
-      "integer",
-      "real",
-      "float",
-      "decimal"
-    ],
-    "answer": "float",
-    "level": "Medium",
-    "id": 6388
-  },
+
   {
     "language": "Python",
     "question": "Which of the following is used to define a function in Python?",
@@ -7955,19 +7499,7 @@ export const questions = [
     "level": "Medium",
     "id": 1116
   },
-  {
-    "language": "C",
-    "question": "What is the size of an int in C (typically)?",
-    "options": [
-      "2 bytes",
-      "4 bytes",
-      "8 bytes",
-      "Depends on compiler"
-    ],
-    "answer": "Depends on compiler",
-    "level": "Hard",
-    "id": 3437
-  },
+
   {
     "language": "DSA C++",
     "question": "Which sorting algorithm is fastest on average?",
@@ -8228,32 +7760,8 @@ export const questions = [
     "level": "Easy",
     "id": 8603
   },
-  {
-    "language": "C",
-    "question": "Which of the following is a valid C data type?",
-    "options": [
-      "integer",
-      "real",
-      "float",
-      "decimal"
-    ],
-    "answer": "float",
-    "level": "Medium",
-    "id": 1736
-  },
-  {
-    "language": "C",
-    "question": "What is the size of an int in C (typically)?",
-    "options": [
-      "2 bytes",
-      "4 bytes",
-      "8 bytes",
-      "Depends on compiler"
-    ],
-    "answer": "Depends on compiler",
-    "level": "Easy",
-    "id": 4500
-  },
+
+
   {
     "language": "MERN Fullstack",
     "question": "What does MERN stand for?",
@@ -8410,19 +7918,7 @@ export const questions = [
     "level": "Hard",
     "id": 7825
   },
-  {
-    "language": "C",
-    "question": "What is the size of an int in C (typically)?",
-    "options": [
-      "2 bytes",
-      "4 bytes",
-      "8 bytes",
-      "Depends on compiler"
-    ],
-    "answer": "Depends on compiler",
-    "level": "Easy",
-    "id": 5939
-  },
+
   {
     "language": "Java",
     "question": "Which method is the entry point for a Java program?",
@@ -8501,19 +7997,7 @@ export const questions = [
     "level": "Medium",
     "id": 7848
   },
-  {
-    "language": "C",
-    "question": "What is the size of an int in C (typically)?",
-    "options": [
-      "2 bytes",
-      "4 bytes",
-      "8 bytes",
-      "Depends on compiler"
-    ],
-    "answer": "Depends on compiler",
-    "level": "Medium",
-    "id": 8878
-  },
+
   {
     "language": "C++",
     "question": "Which of the following is not a C++ access specifier?",
@@ -8917,19 +8401,7 @@ export const questions = [
     "level": "Hard",
     "id": 1656
   },
-  {
-    "language": "C",
-    "question": "Which of the following is a valid C data type?",
-    "options": [
-      "integer",
-      "real",
-      "float",
-      "decimal"
-    ],
-    "answer": "float",
-    "level": "Hard",
-    "id": 1158
-  },
+
   {
     "language": "DSA C++",
     "question": "Which data structure uses FIFO?",
@@ -9112,19 +8584,7 @@ export const questions = [
     "level": "Medium",
     "id": 6931
   },
-  {
-    "language": "C",
-    "question": "Which of the following is a valid C data type?",
-    "options": [
-      "integer",
-      "real",
-      "float",
-      "decimal"
-    ],
-    "answer": "float",
-    "level": "Hard",
-    "id": 2849
-  },
+
   {
     "language": "Bootstrap 4",
     "question": "What class is used for a button in Bootstrap?",
@@ -9229,19 +8689,7 @@ export const questions = [
     "level": "Easy",
     "id": 5296
   },
-  {
-    "language": "C",
-    "question": "What is the size of an int in C (typically)?",
-    "options": [
-      "2 bytes",
-      "4 bytes",
-      "8 bytes",
-      "Depends on compiler"
-    ],
-    "answer": "Depends on compiler",
-    "level": "Hard",
-    "id": 7178
-  },
+
   {
     "language": "HTML5",
     "question": "Which tag is used to create a hyperlink in HTML?",
@@ -9463,19 +8911,7 @@ export const questions = [
     "level": "Hard",
     "id": 2572
   },
-  {
-    "language": "C",
-    "question": "Which of the following is a valid C data type?",
-    "options": [
-      "integer",
-      "real",
-      "float",
-      "decimal"
-    ],
-    "answer": "float",
-    "level": "Easy",
-    "id": 9782
-  },
+
   {
     "language": "HTML5",
     "question": "Which tag is used to create a hyperlink in HTML?",
@@ -9606,19 +9042,7 @@ export const questions = [
     "level": "Hard",
     "id": 2928
   },
-  {
-    "language": "C",
-    "question": "What is the size of an int in C (typically)?",
-    "options": [
-      "2 bytes",
-      "4 bytes",
-      "8 bytes",
-      "Depends on compiler"
-    ],
-    "answer": "Depends on compiler",
-    "level": "Medium",
-    "id": 8512
-  },
+
   {
     "language": "RDBMS with Excel",
     "question": "Which function in Excel is used to lookup values?",
@@ -9788,19 +9212,7 @@ export const questions = [
     "level": "Hard",
     "id": 6297
   },
-  {
-    "language": "C",
-    "question": "What is the size of an int in C (typically)?",
-    "options": [
-      "2 bytes",
-      "4 bytes",
-      "8 bytes",
-      "Depends on compiler"
-    ],
-    "answer": "Depends on compiler",
-    "level": "Easy",
-    "id": 8225
-  },
+
   {
     "language": "C++",
     "question": "Which of the following is not a C++ access specifier?",
@@ -10035,19 +9447,7 @@ export const questions = [
     "level": "Easy",
     "id": 8275
   },
-  {
-    "language": "C",
-    "question": "Which of the following is a valid C data type?",
-    "options": [
-      "integer",
-      "real",
-      "float",
-      "decimal"
-    ],
-    "answer": "float",
-    "level": "Medium",
-    "id": 2529
-  },
+
   {
     "language": "HTML5",
     "question": "Which tag is used to create a hyperlink in HTML?",
@@ -10217,19 +9617,7 @@ export const questions = [
     "level": "Medium",
     "id": 7296
   },
-  {
-    "language": "C",
-    "question": "Which of the following is a valid C data type?",
-    "options": [
-      "integer",
-      "real",
-      "float",
-      "decimal"
-    ],
-    "answer": "float",
-    "level": "Easy",
-    "id": 9705
-  },
+
   {
     "language": "Tailwind",
     "question": "What is Tailwind CSS?",
@@ -10256,19 +9644,7 @@ export const questions = [
     "level": "Medium",
     "id": 1033
   },
-  {
-    "language": "C",
-    "question": "What is the size of an int in C (typically)?",
-    "options": [
-      "2 bytes",
-      "4 bytes",
-      "8 bytes",
-      "Depends on compiler"
-    ],
-    "answer": "Depends on compiler",
-    "level": "Medium",
-    "id": 2603
-  },
+
   {
     "language": "Tailwind",
     "question": "Which utility class sets margin in Tailwind?",
@@ -10997,19 +10373,7 @@ export const questions = [
     "level": "Easy",
     "id": 1820
   },
-  {
-    "language": "C",
-    "question": "What is the size of an int in C (typically)?",
-    "options": [
-      "2 bytes",
-      "4 bytes",
-      "8 bytes",
-      "Depends on compiler"
-    ],
-    "answer": "Depends on compiler",
-    "level": "Medium",
-    "id": 2296
-  },
+
   {
     "language": "JavaScript",
     "question": "Which company developed JavaScript?",
@@ -11777,19 +11141,7 @@ export const questions = [
     "level": "Hard",
     "id": 3646
   },
-  {
-    "language": "C",
-    "question": "What is the size of an int in C (typically)?",
-    "options": [
-      "2 bytes",
-      "4 bytes",
-      "8 bytes",
-      "Depends on compiler"
-    ],
-    "answer": "Depends on compiler",
-    "level": "Hard",
-    "id": 2940
-  },
+
   {
     "language": "Java",
     "question": "Which method is the entry point for a Java program?",
@@ -11829,19 +11181,7 @@ export const questions = [
     "level": "Hard",
     "id": 4875
   },
-  {
-    "language": "C",
-    "question": "Which of the following is a valid C data type?",
-    "options": [
-      "integer",
-      "real",
-      "float",
-      "decimal"
-    ],
-    "answer": "float",
-    "level": "Easy",
-    "id": 4505
-  },
+
   {
     "language": "Tailwind",
     "question": "What is Tailwind CSS?",
@@ -11920,19 +11260,7 @@ export const questions = [
     "level": "Hard",
     "id": 2989
   },
-  {
-    "language": "C",
-    "question": "What is the size of an int in C (typically)?",
-    "options": [
-      "2 bytes",
-      "4 bytes",
-      "8 bytes",
-      "Depends on compiler"
-    ],
-    "answer": "Depends on compiler",
-    "level": "Medium",
-    "id": 6861
-  },
+
   {
     "language": "JavaScript",
     "question": "Which symbol is used for comments in JavaScript?",
@@ -12063,32 +11391,8 @@ export const questions = [
     "level": "Medium",
     "id": 3037
   },
-  {
-    "language": "C",
-    "question": "What is the size of an int in C (typically)?",
-    "options": [
-      "2 bytes",
-      "4 bytes",
-      "8 bytes",
-      "Depends on compiler"
-    ],
-    "answer": "Depends on compiler",
-    "level": "Medium",
-    "id": 4122
-  },
-  {
-    "language": "C",
-    "question": "What is the size of an int in C (typically)?",
-    "options": [
-      "2 bytes",
-      "4 bytes",
-      "8 bytes",
-      "Depends on compiler"
-    ],
-    "answer": "Depends on compiler",
-    "level": "Easy",
-    "id": 6296
-  },
+
+
   {
     "language": "Java Fullstack",
     "question": "Which database is often used with Java Fullstack?",
@@ -12219,19 +11523,7 @@ export const questions = [
     "level": "Easy",
     "id": 1743
   },
-  {
-    "language": "C",
-    "question": "What is the size of an int in C (typically)?",
-    "options": [
-      "2 bytes",
-      "4 bytes",
-      "8 bytes",
-      "Depends on compiler"
-    ],
-    "answer": "Depends on compiler",
-    "level": "Hard",
-    "id": 4509
-  },
+
   {
     "language": "RDBMS with Excel",
     "question": "Which function in Excel is used to lookup values?",
@@ -12245,19 +11537,7 @@ export const questions = [
     "level": "Easy",
     "id": 8140
   },
-  {
-    "language": "C",
-    "question": "Which of the following is a valid C data type?",
-    "options": [
-      "integer",
-      "real",
-      "float",
-      "decimal"
-    ],
-    "answer": "float",
-    "level": "Easy",
-    "id": 4773
-  },
+
   {
     "language": "HTML5",
     "question": "Which tag is used to create a hyperlink in HTML?",
@@ -12362,19 +11642,7 @@ export const questions = [
     "level": "Hard",
     "id": 9619
   },
-  {
-    "language": "C",
-    "question": "Which of the following is a valid C data type?",
-    "options": [
-      "integer",
-      "real",
-      "float",
-      "decimal"
-    ],
-    "answer": "float",
-    "level": "Medium",
-    "id": 8551
-  },
+
   {
     "language": "MERN Fullstack",
     "question": "What does MERN stand for?",
@@ -12466,19 +11734,7 @@ export const questions = [
     "level": "Easy",
     "id": 4814
   },
-  {
-    "language": "C",
-    "question": "Which of the following is a valid C data type?",
-    "options": [
-      "integer",
-      "real",
-      "float",
-      "decimal"
-    ],
-    "answer": "float",
-    "level": "Easy",
-    "id": 3167
-  },
+
   {
     "language": "C++",
     "question": "Which of the following is not a C++ access specifier?",
@@ -12752,19 +12008,7 @@ export const questions = [
     "level": "Medium",
     "id": 2814
   },
-  {
-    "language": "C",
-    "question": "What is the size of an int in C (typically)?",
-    "options": [
-      "2 bytes",
-      "4 bytes",
-      "8 bytes",
-      "Depends on compiler"
-    ],
-    "answer": "Depends on compiler",
-    "level": "Hard",
-    "id": 2185
-  },
+
   {
     "language": "Bootstrap 4",
     "question": "What class is used for a button in Bootstrap?",
@@ -13012,19 +12256,7 @@ export const questions = [
     "level": "Easy",
     "id": 9306
   },
-  {
-    "language": "C",
-    "question": "Which of the following is a valid C data type?",
-    "options": [
-      "integer",
-      "real",
-      "float",
-      "decimal"
-    ],
-    "answer": "float",
-    "level": "Medium",
-    "id": 1208
-  },
+
   {
     "language": "Java",
     "question": "Which of these is not a Java keyword?",
@@ -13532,32 +12764,8 @@ export const questions = [
     "level": "Easy",
     "id": 7868
   },
-  {
-    "language": "C",
-    "question": "What is the size of an int in C (typically)?",
-    "options": [
-      "2 bytes",
-      "4 bytes",
-      "8 bytes",
-      "Depends on compiler"
-    ],
-    "answer": "Depends on compiler",
-    "level": "Hard",
-    "id": 9487
-  },
-  {
-    "language": "C",
-    "question": "Which of the following is a valid C data type?",
-    "options": [
-      "integer",
-      "real",
-      "float",
-      "decimal"
-    ],
-    "answer": "float",
-    "level": "Medium",
-    "id": 8680
-  },
+
+
   {
     "language": "Java",
     "question": "Which method is the entry point for a Java program?",
@@ -13623,19 +12831,7 @@ export const questions = [
     "level": "Easy",
     "id": 8026
   },
-  {
-    "language": "C",
-    "question": "What is the size of an int in C (typically)?",
-    "options": [
-      "2 bytes",
-      "4 bytes",
-      "8 bytes",
-      "Depends on compiler"
-    ],
-    "answer": "Depends on compiler",
-    "level": "Easy",
-    "id": 7567
-  },
+
   {
     "language": "RDBMS with Excel",
     "question": "Which function in Excel is used to lookup values?",
@@ -13714,19 +12910,7 @@ export const questions = [
     "level": "Easy",
     "id": 3381
   },
-  {
-    "language": "C",
-    "question": "What is the size of an int in C (typically)?",
-    "options": [
-      "2 bytes",
-      "4 bytes",
-      "8 bytes",
-      "Depends on compiler"
-    ],
-    "answer": "Depends on compiler",
-    "level": "Easy",
-    "id": 7215
-  },
+
   {
     "language": "C++",
     "question": "Which of the following is not a C++ access specifier?",
@@ -13766,19 +12950,7 @@ export const questions = [
     "level": "Hard",
     "id": 2946
   },
-  {
-    "language": "C",
-    "question": "Which of the following is a valid C data type?",
-    "options": [
-      "integer",
-      "real",
-      "float",
-      "decimal"
-    ],
-    "answer": "float",
-    "level": "Medium",
-    "id": 3245
-  },
+
   {
     "language": "Bootstrap 4",
     "question": "Which Bootstrap class makes an element responsive?",
@@ -13922,19 +13094,7 @@ export const questions = [
     "level": "Easy",
     "id": 6263
   },
-  {
-    "language": "C",
-    "question": "What is the size of an int in C (typically)?",
-    "options": [
-      "2 bytes",
-      "4 bytes",
-      "8 bytes",
-      "Depends on compiler"
-    ],
-    "answer": "Depends on compiler",
-    "level": "Medium",
-    "id": 1356
-  },
+
   {
     "language": "Python Fullstack",
     "question": "Which Python web framework is used in Fullstack?",
@@ -14507,19 +13667,7 @@ export const questions = [
     "level": "Medium",
     "id": 4677
   },
-  {
-    "language": "C",
-    "question": "Which of the following is a valid C data type?",
-    "options": [
-      "integer",
-      "real",
-      "float",
-      "decimal"
-    ],
-    "answer": "float",
-    "level": "Medium",
-    "id": 3679
-  },
+
   {
     "language": "RDBMS with Excel",
     "question": "Which function in Excel is used to lookup values?",
@@ -15742,19 +14890,7 @@ export const questions = [
     "level": "Hard",
     "id": 8917
   },
-  {
-    "language": "C",
-    "question": "What is the size of an int in C (typically)?",
-    "options": [
-      "2 bytes",
-      "4 bytes",
-      "8 bytes",
-      "Depends on compiler"
-    ],
-    "answer": "Depends on compiler",
-    "level": "Medium",
-    "id": 2597
-  },
+
   {
     "language": "Python Fullstack",
     "question": "Which template engine is used with Flask?",
@@ -15976,19 +15112,7 @@ export const questions = [
     "level": "Easy",
     "id": 8792
   },
-  {
-    "language": "C",
-    "question": "What is the size of an int in C (typically)?",
-    "options": [
-      "2 bytes",
-      "4 bytes",
-      "8 bytes",
-      "Depends on compiler"
-    ],
-    "answer": "Depends on compiler",
-    "level": "Medium",
-    "id": 9233
-  },
+
   {
     "language": "Bootstrap 4",
     "question": "Which Bootstrap class makes an element responsive?",
@@ -16080,32 +15204,8 @@ export const questions = [
     "level": "Medium",
     "id": 3576
   },
-  {
-    "language": "C",
-    "question": "Which of the following is a valid C data type?",
-    "options": [
-      "integer",
-      "real",
-      "float",
-      "decimal"
-    ],
-    "answer": "float",
-    "level": "Hard",
-    "id": 4917
-  },
-  {
-    "language": "C",
-    "question": "What is the size of an int in C (typically)?",
-    "options": [
-      "2 bytes",
-      "4 bytes",
-      "8 bytes",
-      "Depends on compiler"
-    ],
-    "answer": "Depends on compiler",
-    "level": "Hard",
-    "id": 1661
-  },
+
+
   {
     "language": "JavaScript",
     "question": "Which company developed JavaScript?",
@@ -16262,19 +15362,7 @@ export const questions = [
     "level": "Medium",
     "id": 7890
   },
-  {
-    "language": "C",
-    "question": "What is the size of an int in C (typically)?",
-    "options": [
-      "2 bytes",
-      "4 bytes",
-      "8 bytes",
-      "Depends on compiler"
-    ],
-    "answer": "Depends on compiler",
-    "level": "Easy",
-    "id": 8459
-  },
+
   {
     "language": "Java Fullstack",
     "question": "Which framework is commonly used in Java Fullstack for backend?",
@@ -16392,19 +15480,7 @@ export const questions = [
     "level": "Hard",
     "id": 1150
   },
-  {
-    "language": "C",
-    "question": "What is the size of an int in C (typically)?",
-    "options": [
-      "2 bytes",
-      "4 bytes",
-      "8 bytes",
-      "Depends on compiler"
-    ],
-    "answer": "Depends on compiler",
-    "level": "Hard",
-    "id": 5465
-  },
+
   {
     "language": "JavaScript",
     "question": "Which symbol is used for comments in JavaScript?",
@@ -16587,19 +15663,7 @@ export const questions = [
     "level": "Hard",
     "id": 6123
   },
-  {
-    "language": "C",
-    "question": "What is the size of an int in C (typically)?",
-    "options": [
-      "2 bytes",
-      "4 bytes",
-      "8 bytes",
-      "Depends on compiler"
-    ],
-    "answer": "Depends on compiler",
-    "level": "Hard",
-    "id": 4663
-  },
+
   {
     "language": "DSA C++",
     "question": "Which sorting algorithm is fastest on average?",
@@ -17016,19 +16080,7 @@ export const questions = [
     "level": "Hard",
     "id": 1068
   },
-  {
-    "language": "C",
-    "question": "What is the size of an int in C (typically)?",
-    "options": [
-      "2 bytes",
-      "4 bytes",
-      "8 bytes",
-      "Depends on compiler"
-    ],
-    "answer": "Depends on compiler",
-    "level": "Easy",
-    "id": 2870
-  },
+
   {
     "language": "DSA C++",
     "question": "Which sorting algorithm is fastest on average?",
@@ -17055,19 +16107,7 @@ export const questions = [
     "level": "Medium",
     "id": 2912
   },
-  {
-    "language": "C",
-    "question": "Which of the following is a valid C data type?",
-    "options": [
-      "integer",
-      "real",
-      "float",
-      "decimal"
-    ],
-    "answer": "float",
-    "level": "Medium",
-    "id": 7560
-  },
+
   {
     "language": "MERN Fullstack",
     "question": "What does MERN stand for?",
@@ -17250,19 +16290,7 @@ export const questions = [
     "level": "Easy",
     "id": 1487
   },
-  {
-    "language": "C",
-    "question": "Which of the following is a valid C data type?",
-    "options": [
-      "integer",
-      "real",
-      "float",
-      "decimal"
-    ],
-    "answer": "float",
-    "level": "Easy",
-    "id": 1497
-  },
+
   {
     "language": "JavaScript",
     "question": "Which company developed JavaScript?",
@@ -17393,19 +16421,7 @@ export const questions = [
     "level": "Medium",
     "id": 7909
   },
-  {
-    "language": "C",
-    "question": "Which of the following is a valid C data type?",
-    "options": [
-      "integer",
-      "real",
-      "float",
-      "decimal"
-    ],
-    "answer": "float",
-    "level": "Hard",
-    "id": 4977
-  },
+
   {
     "language": "HTML5",
     "question": "Which tag is used to create a hyperlink in HTML?",
@@ -17861,19 +16877,7 @@ export const questions = [
     "level": "Easy",
     "id": 9688
   },
-  {
-    "language": "C",
-    "question": "Which of the following is a valid C data type?",
-    "options": [
-      "integer",
-      "real",
-      "float",
-      "decimal"
-    ],
-    "answer": "float",
-    "level": "Easy",
-    "id": 4531
-  },
+
   {
     "language": "Java",
     "question": "Which of these is not a Java keyword?",
@@ -18563,19 +17567,7 @@ export const questions = [
     "level": "Medium",
     "id": 5794
   },
-  {
-    "language": "C",
-    "question": "Which of the following is a valid C data type?",
-    "options": [
-      "integer",
-      "real",
-      "float",
-      "decimal"
-    ],
-    "answer": "float",
-    "level": "Hard",
-    "id": 7136
-  },
+
   {
     "language": "RDBMS with Excel",
     "question": "Which function in Excel is used to lookup values?",
@@ -19031,32 +18023,8 @@ export const questions = [
     "level": "Medium",
     "id": 1580
   },
-  {
-    "language": "C",
-    "question": "What is the size of an int in C (typically)?",
-    "options": [
-      "2 bytes",
-      "4 bytes",
-      "8 bytes",
-      "Depends on compiler"
-    ],
-    "answer": "Depends on compiler",
-    "level": "Hard",
-    "id": 5866
-  },
-  {
-    "language": "C",
-    "question": "Which of the following is a valid C data type?",
-    "options": [
-      "integer",
-      "real",
-      "float",
-      "decimal"
-    ],
-    "answer": "float",
-    "level": "Easy",
-    "id": 3215
-  },
+
+
   {
     "language": "Tailwind",
     "question": "Which utility class sets margin in Tailwind?",
@@ -19395,19 +18363,7 @@ export const questions = [
     "level": "Easy",
     "id": 2436
   },
-  {
-    "language": "C",
-    "question": "What is the size of an int in C (typically)?",
-    "options": [
-      "2 bytes",
-      "4 bytes",
-      "8 bytes",
-      "Depends on compiler"
-    ],
-    "answer": "Depends on compiler",
-    "level": "Hard",
-    "id": 7277
-  },
+
   {
     "language": "Data Science",
     "question": "Which term refers to drawing insights from data?",
@@ -19746,19 +18702,7 @@ export const questions = [
     "level": "Medium",
     "id": 6304
   },
-  {
-    "language": "C",
-    "question": "Which of the following is a valid C data type?",
-    "options": [
-      "integer",
-      "real",
-      "float",
-      "decimal"
-    ],
-    "answer": "float",
-    "level": "Easy",
-    "id": 2069
-  },
+
   {
     "language": "CSS3",
     "question": "What does CSS stand for?",
@@ -20201,19 +19145,7 @@ export const questions = [
     "level": "Easy",
     "id": 5669
   },
-  {
-    "language": "C",
-    "question": "Which of the following is a valid C data type?",
-    "options": [
-      "integer",
-      "real",
-      "float",
-      "decimal"
-    ],
-    "answer": "float",
-    "level": "Hard",
-    "id": 7944
-  },
+
   {
     "language": "Python",
     "question": "Which of the following is used to define a function in Python?",
@@ -20279,32 +19211,8 @@ export const questions = [
     "level": "Hard",
     "id": 5073
   },
-  {
-    "language": "C",
-    "question": "What is the size of an int in C (typically)?",
-    "options": [
-      "2 bytes",
-      "4 bytes",
-      "8 bytes",
-      "Depends on compiler"
-    ],
-    "answer": "Depends on compiler",
-    "level": "Medium",
-    "id": 7379
-  },
-  {
-    "language": "C",
-    "question": "What is the size of an int in C (typically)?",
-    "options": [
-      "2 bytes",
-      "4 bytes",
-      "8 bytes",
-      "Depends on compiler"
-    ],
-    "answer": "Depends on compiler",
-    "level": "Easy",
-    "id": 3326
-  },
+
+
   {
     "language": "Java Fullstack",
     "question": "Which framework is commonly used in Java Fullstack for backend?",
@@ -20370,19 +19278,7 @@ export const questions = [
     "level": "Hard",
     "id": 4623
   },
-  {
-    "language": "C",
-    "question": "What is the size of an int in C (typically)?",
-    "options": [
-      "2 bytes",
-      "4 bytes",
-      "8 bytes",
-      "Depends on compiler"
-    ],
-    "answer": "Depends on compiler",
-    "level": "Medium",
-    "id": 4547
-  },
+
   {
     "language": "Java Fullstack",
     "question": "Which database is often used with Java Fullstack?",
@@ -20604,19 +19500,7 @@ export const questions = [
     "level": "Easy",
     "id": 1361
   },
-  {
-    "language": "C",
-    "question": "Which of the following is a valid C data type?",
-    "options": [
-      "integer",
-      "real",
-      "float",
-      "decimal"
-    ],
-    "answer": "float",
-    "level": "Medium",
-    "id": 5419
-  },
+
   {
     "language": "JavaScript",
     "question": "Which symbol is used for comments in JavaScript?",
@@ -20799,19 +19683,7 @@ export const questions = [
     "level": "Easy",
     "id": 7943
   },
-  {
-    "language": "C",
-    "question": "What is the size of an int in C (typically)?",
-    "options": [
-      "2 bytes",
-      "4 bytes",
-      "8 bytes",
-      "Depends on compiler"
-    ],
-    "answer": "Depends on compiler",
-    "level": "Hard",
-    "id": 6805
-  },
+
   {
     "language": "RDBMS with Excel",
     "question": "Which function in Excel is used to lookup values?",
@@ -20838,19 +19710,7 @@ export const questions = [
     "level": "Medium",
     "id": 3872
   },
-  {
-    "language": "C",
-    "question": "Which of the following is a valid C data type?",
-    "options": [
-      "integer",
-      "real",
-      "float",
-      "decimal"
-    ],
-    "answer": "float",
-    "level": "Hard",
-    "id": 3207
-  },
+
   {
     "language": "Python Fullstack",
     "question": "Which Python web framework is used in Fullstack?",
@@ -20981,19 +19841,7 @@ export const questions = [
     "level": "Hard",
     "id": 5525
   },
-  {
-    "language": "C",
-    "question": "Which of the following is a valid C data type?",
-    "options": [
-      "integer",
-      "real",
-      "float",
-      "decimal"
-    ],
-    "answer": "float",
-    "level": "Medium",
-    "id": 1206
-  },
+
   {
     "language": "Java",
     "question": "Which method is the entry point for a Java program?",
@@ -21319,19 +20167,7 @@ export const questions = [
     "level": "Easy",
     "id": 8792
   },
-  {
-    "language": "C",
-    "question": "Which of the following is a valid C data type?",
-    "options": [
-      "integer",
-      "real",
-      "float",
-      "decimal"
-    ],
-    "answer": "float",
-    "level": "Hard",
-    "id": 6701
-  },
+
   {
     "language": "HTML5",
     "question": "What does HTML stand for?",
@@ -21384,19 +20220,7 @@ export const questions = [
     "level": "Easy",
     "id": 4491
   },
-  {
-    "language": "C",
-    "question": "Which of the following is a valid C data type?",
-    "options": [
-      "integer",
-      "real",
-      "float",
-      "decimal"
-    ],
-    "answer": "float",
-    "level": "Easy",
-    "id": 5791
-  },
+
   {
     "language": "Java",
     "question": "Which of these is not a Java keyword?",
@@ -21436,19 +20260,7 @@ export const questions = [
     "level": "Medium",
     "id": 1888
   },
-  {
-    "language": "C",
-    "question": "What is the size of an int in C (typically)?",
-    "options": [
-      "2 bytes",
-      "4 bytes",
-      "8 bytes",
-      "Depends on compiler"
-    ],
-    "answer": "Depends on compiler",
-    "level": "Hard",
-    "id": 4795
-  },
+
   {
     "language": "Java",
     "question": "Which method is the entry point for a Java program?",
@@ -21501,19 +20313,7 @@ export const questions = [
     "level": "Hard",
     "id": 3832
   },
-  {
-    "language": "C",
-    "question": "What is the size of an int in C (typically)?",
-    "options": [
-      "2 bytes",
-      "4 bytes",
-      "8 bytes",
-      "Depends on compiler"
-    ],
-    "answer": "Depends on compiler",
-    "level": "Easy",
-    "id": 1584
-  },
+
   {
     "language": "MERN Fullstack",
     "question": "Which part of MERN stack handles the frontend?",
@@ -21670,19 +20470,7 @@ export const questions = [
     "level": "Medium",
     "id": 4640
   },
-  {
-    "language": "C",
-    "question": "Which of the following is a valid C data type?",
-    "options": [
-      "integer",
-      "real",
-      "float",
-      "decimal"
-    ],
-    "answer": "float",
-    "level": "Medium",
-    "id": 4830
-  },
+
   {
     "language": "Data Science",
     "question": "Which library is used for data analysis in Python?",
@@ -21774,19 +20562,7 @@ export const questions = [
     "level": "Medium",
     "id": 3510
   },
-  {
-    "language": "C",
-    "question": "Which of the following is a valid C data type?",
-    "options": [
-      "integer",
-      "real",
-      "float",
-      "decimal"
-    ],
-    "answer": "float",
-    "level": "Easy",
-    "id": 9260
-  },
+
   {
     "language": "MERN Fullstack",
     "question": "Which part of MERN stack handles the frontend?",
@@ -21865,19 +20641,7 @@ export const questions = [
     "level": "Easy",
     "id": 4188
   },
-  {
-    "language": "C",
-    "question": "Which of the following is a valid C data type?",
-    "options": [
-      "integer",
-      "real",
-      "float",
-      "decimal"
-    ],
-    "answer": "float",
-    "level": "Medium",
-    "id": 9320
-  },
+
   {
     "language": "Bootstrap 4",
     "question": "Which Bootstrap class makes an element responsive?",
@@ -22151,19 +20915,7 @@ export const questions = [
     "level": "Easy",
     "id": 8501
   },
-  {
-    "language": "C",
-    "question": "Which of the following is a valid C data type?",
-    "options": [
-      "integer",
-      "real",
-      "float",
-      "decimal"
-    ],
-    "answer": "float",
-    "level": "Easy",
-    "id": 4308
-  },
+
   {
     "language": "MERN Fullstack",
     "question": "What does MERN stand for?",
@@ -22216,19 +20968,7 @@ export const questions = [
     "level": "Hard",
     "id": 8533
   },
-  {
-    "language": "C",
-    "question": "Which of the following is a valid C data type?",
-    "options": [
-      "integer",
-      "real",
-      "float",
-      "decimal"
-    ],
-    "answer": "float",
-    "level": "Easy",
-    "id": 4612
-  },
+
   {
     "language": "JavaScript",
     "question": "Which symbol is used for comments in JavaScript?",
@@ -22242,19 +20982,7 @@ export const questions = [
     "level": "Hard",
     "id": 3915
   },
-  {
-    "language": "C",
-    "question": "Which of the following is a valid C data type?",
-    "options": [
-      "integer",
-      "real",
-      "float",
-      "decimal"
-    ],
-    "answer": "float",
-    "level": "Hard",
-    "id": 7747
-  },
+
   {
     "language": "Bootstrap 4",
     "question": "What class is used for a button in Bootstrap?",
@@ -22320,19 +21048,7 @@ export const questions = [
     "level": "Medium",
     "id": 5186
   },
-  {
-    "language": "C",
-    "question": "What is the size of an int in C (typically)?",
-    "options": [
-      "2 bytes",
-      "4 bytes",
-      "8 bytes",
-      "Depends on compiler"
-    ],
-    "answer": "Depends on compiler",
-    "level": "Hard",
-    "id": 2623
-  },
+
   {
     "language": "Tailwind",
     "question": "What is Tailwind CSS?",
@@ -22593,19 +21309,7 @@ export const questions = [
     "level": "Easy",
     "id": 8949
   },
-  {
-    "language": "C",
-    "question": "Which of the following is a valid C data type?",
-    "options": [
-      "integer",
-      "real",
-      "float",
-      "decimal"
-    ],
-    "answer": "float",
-    "level": "Hard",
-    "id": 3735
-  },
+
   {
     "language": "DSA C++",
     "question": "Which sorting algorithm is fastest on average?",
@@ -23607,19 +22311,7 @@ export const questions = [
     "level": "Easy",
     "id": 5258
   },
-  {
-    "language": "C",
-    "question": "Which of the following is a valid C data type?",
-    "options": [
-      "integer",
-      "real",
-      "float",
-      "decimal"
-    ],
-    "answer": "float",
-    "level": "Hard",
-    "id": 6901
-  },
+
   {
     "language": "HTML5",
     "question": "What does HTML stand for?",
@@ -23802,19 +22494,7 @@ export const questions = [
     "level": "Hard",
     "id": 8048
   },
-  {
-    "language": "C",
-    "question": "What is the size of an int in C (typically)?",
-    "options": [
-      "2 bytes",
-      "4 bytes",
-      "8 bytes",
-      "Depends on compiler"
-    ],
-    "answer": "Depends on compiler",
-    "level": "Hard",
-    "id": 6418
-  },
+
   {
     "language": "Java",
     "question": "Which of these is not a Java keyword?",
@@ -23880,19 +22560,7 @@ export const questions = [
     "level": "Hard",
     "id": 7785
   },
-  {
-    "language": "C",
-    "question": "What is the size of an int in C (typically)?",
-    "options": [
-      "2 bytes",
-      "4 bytes",
-      "8 bytes",
-      "Depends on compiler"
-    ],
-    "answer": "Depends on compiler",
-    "level": "Hard",
-    "id": 8097
-  },
+
   {
     "language": "Java Fullstack",
     "question": "Which database is often used with Java Fullstack?",
@@ -24465,19 +23133,7 @@ export const questions = [
     "level": "Medium",
     "id": 6444
   },
-  {
-    "language": "C",
-    "question": "What is the size of an int in C (typically)?",
-    "options": [
-      "2 bytes",
-      "4 bytes",
-      "8 bytes",
-      "Depends on compiler"
-    ],
-    "answer": "Depends on compiler",
-    "level": "Medium",
-    "id": 2933
-  },
+
   {
     "language": "Python Fullstack",
     "question": "Which Python web framework is used in Fullstack?",
@@ -24673,19 +23329,7 @@ export const questions = [
     "level": "Easy",
     "id": 8382
   },
-  {
-    "language": "C",
-    "question": "Which of the following is a valid C data type?",
-    "options": [
-      "integer",
-      "real",
-      "float",
-      "decimal"
-    ],
-    "answer": "float",
-    "level": "Easy",
-    "id": 2450
-  },
+
   {
     "language": "Java Fullstack",
     "question": "Which framework is commonly used in Java Fullstack for backend?",
@@ -25076,19 +23720,7 @@ export const questions = [
     "level": "Easy",
     "id": 1841
   },
-  {
-    "language": "C",
-    "question": "What is the size of an int in C (typically)?",
-    "options": [
-      "2 bytes",
-      "4 bytes",
-      "8 bytes",
-      "Depends on compiler"
-    ],
-    "answer": "Depends on compiler",
-    "level": "Easy",
-    "id": 2060
-  },
+
   {
     "language": "Data Science",
     "question": "Which term refers to drawing insights from data?",
@@ -25232,19 +23864,7 @@ export const questions = [
     "level": "Hard",
     "id": 1697
   },
-  {
-    "language": "C",
-    "question": "What is the size of an int in C (typically)?",
-    "options": [
-      "2 bytes",
-      "4 bytes",
-      "8 bytes",
-      "Depends on compiler"
-    ],
-    "answer": "Depends on compiler",
-    "level": "Hard",
-    "id": 7256
-  },
+
   {
     "language": "CSS3",
     "question": "Which property is used to change the text color in CSS?",
@@ -25960,19 +24580,7 @@ export const questions = [
     "level": "Hard",
     "id": 5652
   },
-  {
-    "language": "C",
-    "question": "Which of the following is a valid C data type?",
-    "options": [
-      "integer",
-      "real",
-      "float",
-      "decimal"
-    ],
-    "answer": "float",
-    "level": "Medium",
-    "id": 8187
-  },
+
   {
     "language": "RDBMS with Excel",
     "question": "Which SQL clause is used to filter rows?",
@@ -26103,19 +24711,7 @@ export const questions = [
     "level": "Easy",
     "id": 1988
   },
-  {
-    "language": "C",
-    "question": "Which of the following is a valid C data type?",
-    "options": [
-      "integer",
-      "real",
-      "float",
-      "decimal"
-    ],
-    "answer": "float",
-    "level": "Easy",
-    "id": 7901
-  },
+
   {
     "language": "Java Fullstack",
     "question": "Which framework is commonly used in Java Fullstack for backend?",
@@ -26467,19 +25063,7 @@ export const questions = [
     "level": "Hard",
     "id": 6387
   },
-  {
-    "language": "C",
-    "question": "Which of the following is a valid C data type?",
-    "options": [
-      "integer",
-      "real",
-      "float",
-      "decimal"
-    ],
-    "answer": "float",
-    "level": "Easy",
-    "id": 7935
-  },
+
   {
     "language": "RDBMS with Excel",
     "question": "Which SQL clause is used to filter rows?",
@@ -26493,19 +25077,7 @@ export const questions = [
     "level": "Easy",
     "id": 5106
   },
-  {
-    "language": "C",
-    "question": "Which of the following is a valid C data type?",
-    "options": [
-      "integer",
-      "real",
-      "float",
-      "decimal"
-    ],
-    "answer": "float",
-    "level": "Hard",
-    "id": 3404
-  },
+
   {
     "language": "HTML5",
     "question": "What does HTML stand for?",
@@ -26818,19 +25390,7 @@ export const questions = [
     "level": "Hard",
     "id": 7486
   },
-  {
-    "language": "C",
-    "question": "Which of the following is a valid C data type?",
-    "options": [
-      "integer",
-      "real",
-      "float",
-      "decimal"
-    ],
-    "answer": "float",
-    "level": "Medium",
-    "id": 5914
-  },
+
   {
     "language": "Python",
     "question": "What does the len() function do in Python?",
@@ -27078,19 +25638,7 @@ export const questions = [
     "level": "Easy",
     "id": 5763
   },
-  {
-    "language": "C",
-    "question": "What is the size of an int in C (typically)?",
-    "options": [
-      "2 bytes",
-      "4 bytes",
-      "8 bytes",
-      "Depends on compiler"
-    ],
-    "answer": "Depends on compiler",
-    "level": "Hard",
-    "id": 2069
-  },
+
   {
     "language": "DSA C++",
     "question": "Which sorting algorithm is fastest on average?",
@@ -27104,19 +25652,7 @@ export const questions = [
     "level": "Easy",
     "id": 1257
   },
-  {
-    "language": "C",
-    "question": "What is the size of an int in C (typically)?",
-    "options": [
-      "2 bytes",
-      "4 bytes",
-      "8 bytes",
-      "Depends on compiler"
-    ],
-    "answer": "Depends on compiler",
-    "level": "Medium",
-    "id": 7628
-  },
+
   {
     "language": "Python",
     "question": "Which of the following is used to define a function in Python?",
@@ -27130,32 +25666,8 @@ export const questions = [
     "level": "Hard",
     "id": 1476
   },
-  {
-    "language": "C",
-    "question": "Which of the following is a valid C data type?",
-    "options": [
-      "integer",
-      "real",
-      "float",
-      "decimal"
-    ],
-    "answer": "float",
-    "level": "Easy",
-    "id": 9555
-  },
-  {
-    "language": "C",
-    "question": "Which of the following is a valid C data type?",
-    "options": [
-      "integer",
-      "real",
-      "float",
-      "decimal"
-    ],
-    "answer": "float",
-    "level": "Easy",
-    "id": 2147
-  },
+
+
   {
     "language": "Java Fullstack",
     "question": "Which framework is commonly used in Java Fullstack for backend?",
@@ -27494,32 +26006,8 @@ export const questions = [
     "level": "Hard",
     "id": 6432
   },
-  {
-    "language": "C",
-    "question": "What is the size of an int in C (typically)?",
-    "options": [
-      "2 bytes",
-      "4 bytes",
-      "8 bytes",
-      "Depends on compiler"
-    ],
-    "answer": "Depends on compiler",
-    "level": "Medium",
-    "id": 4950
-  },
-  {
-    "language": "C",
-    "question": "Which of the following is a valid C data type?",
-    "options": [
-      "integer",
-      "real",
-      "float",
-      "decimal"
-    ],
-    "answer": "float",
-    "level": "Hard",
-    "id": 8854
-  },
+
+
   {
     "language": "MERN Fullstack",
     "question": "Which part of MERN stack handles the frontend?",
@@ -27546,19 +26034,7 @@ export const questions = [
     "level": "Medium",
     "id": 2917
   },
-  {
-    "language": "C",
-    "question": "What is the size of an int in C (typically)?",
-    "options": [
-      "2 bytes",
-      "4 bytes",
-      "8 bytes",
-      "Depends on compiler"
-    ],
-    "answer": "Depends on compiler",
-    "level": "Hard",
-    "id": 5866
-  },
+
   {
     "language": "Java Fullstack",
     "question": "Which framework is commonly used in Java Fullstack for backend?",
@@ -27975,19 +26451,7 @@ export const questions = [
     "level": "Hard",
     "id": 9725
   },
-  {
-    "language": "C",
-    "question": "What is the size of an int in C (typically)?",
-    "options": [
-      "2 bytes",
-      "4 bytes",
-      "8 bytes",
-      "Depends on compiler"
-    ],
-    "answer": "Depends on compiler",
-    "level": "Medium",
-    "id": 5254
-  },
+
   {
     "language": "Python",
     "question": "Which of the following is used to define a function in Python?",
@@ -28053,19 +26517,7 @@ export const questions = [
     "level": "Easy",
     "id": 1515
   },
-  {
-    "language": "C",
-    "question": "What is the size of an int in C (typically)?",
-    "options": [
-      "2 bytes",
-      "4 bytes",
-      "8 bytes",
-      "Depends on compiler"
-    ],
-    "answer": "Depends on compiler",
-    "level": "Hard",
-    "id": 3899
-  },
+
   {
     "language": "Java",
     "question": "Which method is the entry point for a Java program?",
@@ -28092,19 +26544,7 @@ export const questions = [
     "level": "Hard",
     "id": 6500
   },
-  {
-    "language": "C",
-    "question": "What is the size of an int in C (typically)?",
-    "options": [
-      "2 bytes",
-      "4 bytes",
-      "8 bytes",
-      "Depends on compiler"
-    ],
-    "answer": "Depends on compiler",
-    "level": "Medium",
-    "id": 8051
-  },
+
   {
     "language": "Bootstrap 4",
     "question": "Which Bootstrap class makes an element responsive?",
@@ -28261,19 +26701,7 @@ export const questions = [
     "level": "Easy",
     "id": 7885
   },
-  {
-    "language": "C",
-    "question": "What is the size of an int in C (typically)?",
-    "options": [
-      "2 bytes",
-      "4 bytes",
-      "8 bytes",
-      "Depends on compiler"
-    ],
-    "answer": "Depends on compiler",
-    "level": "Hard",
-    "id": 7467
-  },
+
   {
     "language": "Python",
     "question": "What does the len() function do in Python?",
@@ -28625,19 +27053,7 @@ export const questions = [
     "level": "Easy",
     "id": 5543
   },
-  {
-    "language": "C",
-    "question": "Which of the following is a valid C data type?",
-    "options": [
-      "integer",
-      "real",
-      "float",
-      "decimal"
-    ],
-    "answer": "float",
-    "level": "Easy",
-    "id": 9928
-  },
+
   {
     "language": "Python Fullstack",
     "question": "Which Python web framework is used in Fullstack?",
@@ -28794,19 +27210,7 @@ export const questions = [
     "level": "Medium",
     "id": 8374
   },
-  {
-    "language": "C",
-    "question": "What is the size of an int in C (typically)?",
-    "options": [
-      "2 bytes",
-      "4 bytes",
-      "8 bytes",
-      "Depends on compiler"
-    ],
-    "answer": "Depends on compiler",
-    "level": "Easy",
-    "id": 6220
-  },
+
   {
     "language": "Java",
     "question": "Which method is the entry point for a Java program?",
@@ -28989,19 +27393,7 @@ export const questions = [
     "level": "Hard",
     "id": 9221
   },
-  {
-    "language": "C",
-    "question": "Which of the following is a valid C data type?",
-    "options": [
-      "integer",
-      "real",
-      "float",
-      "decimal"
-    ],
-    "answer": "float",
-    "level": "Medium",
-    "id": 1392
-  },
+
   {
     "language": "Java Fullstack",
     "question": "Which framework is commonly used in Java Fullstack for backend?",
@@ -29119,19 +27511,7 @@ export const questions = [
     "level": "Easy",
     "id": 8850
   },
-  {
-    "language": "C",
-    "question": "Which of the following is a valid C data type?",
-    "options": [
-      "integer",
-      "real",
-      "float",
-      "decimal"
-    ],
-    "answer": "float",
-    "level": "Hard",
-    "id": 8195
-  },
+
   {
     "language": "RDBMS with Excel",
     "question": "Which function in Excel is used to lookup values?",
@@ -29340,19 +27720,7 @@ export const questions = [
     "level": "Hard",
     "id": 5530
   },
-  {
-    "language": "C",
-    "question": "Which of the following is a valid C data type?",
-    "options": [
-      "integer",
-      "real",
-      "float",
-      "decimal"
-    ],
-    "answer": "float",
-    "level": "Hard",
-    "id": 6193
-  },
+
   {
     "language": "Data Science",
     "question": "Which library is used for data analysis in Python?",
@@ -29392,19 +27760,7 @@ export const questions = [
     "level": "Easy",
     "id": 6874
   },
-  {
-    "language": "C",
-    "question": "What is the size of an int in C (typically)?",
-    "options": [
-      "2 bytes",
-      "4 bytes",
-      "8 bytes",
-      "Depends on compiler"
-    ],
-    "answer": "Depends on compiler",
-    "level": "Medium",
-    "id": 6327
-  },
+
   {
     "language": "CSS3",
     "question": "What does CSS stand for?",
@@ -29717,19 +28073,7 @@ export const questions = [
     "level": "Medium",
     "id": 6705
   },
-  {
-    "language": "C",
-    "question": "Which of the following is a valid C data type?",
-    "options": [
-      "integer",
-      "real",
-      "float",
-      "decimal"
-    ],
-    "answer": "float",
-    "level": "Medium",
-    "id": 6185
-  },
+
   {
     "language": "JavaScript",
     "question": "Which symbol is used for comments in JavaScript?",
@@ -29873,19 +28217,7 @@ export const questions = [
     "level": "Easy",
     "id": 4400
   },
-  {
-    "language": "C",
-    "question": "Which of the following is a valid C data type?",
-    "options": [
-      "integer",
-      "real",
-      "float",
-      "decimal"
-    ],
-    "answer": "float",
-    "level": "Easy",
-    "id": 8815
-  },
+
   {
     "language": "CSS3",
     "question": "Which property is used to change the text color in CSS?",
@@ -29912,19 +28244,7 @@ export const questions = [
     "level": "Hard",
     "id": 6642
   },
-  {
-    "language": "C",
-    "question": "Which of the following is a valid C data type?",
-    "options": [
-      "integer",
-      "real",
-      "float",
-      "decimal"
-    ],
-    "answer": "float",
-    "level": "Hard",
-    "id": 2409
-  },
+
   {
     "language": "Python",
     "question": "Which of the following is used to define a function in Python?",
@@ -30549,19 +28869,7 @@ export const questions = [
     "level": "Easy",
     "id": 1175
   },
-  {
-    "language": "C",
-    "question": "Which of the following is a valid C data type?",
-    "options": [
-      "integer",
-      "real",
-      "float",
-      "decimal"
-    ],
-    "answer": "float",
-    "level": "Hard",
-    "id": 2192
-  },
+
   {
     "language": "Java Fullstack",
     "question": "Which framework is commonly used in Java Fullstack for backend?",
@@ -30627,19 +28935,7 @@ export const questions = [
     "level": "Hard",
     "id": 2788
   },
-  {
-    "language": "C",
-    "question": "Which of the following is a valid C data type?",
-    "options": [
-      "integer",
-      "real",
-      "float",
-      "decimal"
-    ],
-    "answer": "float",
-    "level": "Medium",
-    "id": 2195
-  },
+
   {
     "language": "Data Science",
     "question": "Which library is used for data analysis in Python?",
@@ -31095,19 +29391,7 @@ export const questions = [
     "level": "Easy",
     "id": 1481
   },
-  {
-    "language": "C",
-    "question": "Which of the following is a valid C data type?",
-    "options": [
-      "integer",
-      "real",
-      "float",
-      "decimal"
-    ],
-    "answer": "float",
-    "level": "Medium",
-    "id": 9435
-  },
+
   {
     "language": "Tailwind",
     "question": "Which utility class sets margin in Tailwind?",
@@ -31758,19 +30042,7 @@ export const questions = [
     "level": "Medium",
     "id": 7115
   },
-  {
-    "language": "C",
-    "question": "What is the size of an int in C (typically)?",
-    "options": [
-      "2 bytes",
-      "4 bytes",
-      "8 bytes",
-      "Depends on compiler"
-    ],
-    "answer": "Depends on compiler",
-    "level": "Medium",
-    "id": 4642
-  },
+
   {
     "language": "JavaScript",
     "question": "Which symbol is used for comments in JavaScript?",
@@ -31810,19 +30082,7 @@ export const questions = [
     "level": "Easy",
     "id": 3513
   },
-  {
-    "language": "C",
-    "question": "What is the size of an int in C (typically)?",
-    "options": [
-      "2 bytes",
-      "4 bytes",
-      "8 bytes",
-      "Depends on compiler"
-    ],
-    "answer": "Depends on compiler",
-    "level": "Hard",
-    "id": 6922
-  },
+
   {
     "language": "Tailwind",
     "question": "Which utility class sets margin in Tailwind?",
@@ -31836,19 +30096,7 @@ export const questions = [
     "level": "Easy",
     "id": 2277
   },
-  {
-    "language": "C",
-    "question": "What is the size of an int in C (typically)?",
-    "options": [
-      "2 bytes",
-      "4 bytes",
-      "8 bytes",
-      "Depends on compiler"
-    ],
-    "answer": "Depends on compiler",
-    "level": "Hard",
-    "id": 5943
-  },
+
   {
     "language": "Java Fullstack",
     "question": "Which database is often used with Java Fullstack?",
@@ -32538,19 +30786,7 @@ export const questions = [
     "level": "Medium",
     "id": 5171
   },
-  {
-    "language": "C",
-    "question": "What is the size of an int in C (typically)?",
-    "options": [
-      "2 bytes",
-      "4 bytes",
-      "8 bytes",
-      "Depends on compiler"
-    ],
-    "answer": "Depends on compiler",
-    "level": "Medium",
-    "id": 3847
-  },
+
   {
     "language": "Python",
     "question": "What does the len() function do in Python?",
@@ -32733,19 +30969,7 @@ export const questions = [
     "level": "Medium",
     "id": 3807
   },
-  {
-    "language": "C",
-    "question": "What is the size of an int in C (typically)?",
-    "options": [
-      "2 bytes",
-      "4 bytes",
-      "8 bytes",
-      "Depends on compiler"
-    ],
-    "answer": "Depends on compiler",
-    "level": "Easy",
-    "id": 3069
-  },
+
   {
     "language": "RDBMS with Excel",
     "question": "Which function in Excel is used to lookup values?",
@@ -32850,19 +31074,7 @@ export const questions = [
     "level": "Easy",
     "id": 1868
   },
-  {
-    "language": "C",
-    "question": "What is the size of an int in C (typically)?",
-    "options": [
-      "2 bytes",
-      "4 bytes",
-      "8 bytes",
-      "Depends on compiler"
-    ],
-    "answer": "Depends on compiler",
-    "level": "Easy",
-    "id": 3890
-  },
+
   {
     "language": "JavaScript",
     "question": "Which symbol is used for comments in JavaScript?",
@@ -33071,19 +31283,7 @@ export const questions = [
     "level": "Medium",
     "id": 7660
   },
-  {
-    "language": "C",
-    "question": "Which of the following is a valid C data type?",
-    "options": [
-      "integer",
-      "real",
-      "float",
-      "decimal"
-    ],
-    "answer": "float",
-    "level": "Medium",
-    "id": 4084
-  },
+
   {
     "language": "Python Fullstack",
     "question": "Which Python web framework is used in Fullstack?",
@@ -33110,19 +31310,7 @@ export const questions = [
     "level": "Medium",
     "id": 6603
   },
-  {
-    "language": "C",
-    "question": "What is the size of an int in C (typically)?",
-    "options": [
-      "2 bytes",
-      "4 bytes",
-      "8 bytes",
-      "Depends on compiler"
-    ],
-    "answer": "Depends on compiler",
-    "level": "Hard",
-    "id": 1073
-  },
+
   {
     "language": "C++",
     "question": "Which concept allows function or operator to act differently on different data types in C++?",
@@ -33175,19 +31363,7 @@ export const questions = [
     "level": "Easy",
     "id": 6297
   },
-  {
-    "language": "C",
-    "question": "What is the size of an int in C (typically)?",
-    "options": [
-      "2 bytes",
-      "4 bytes",
-      "8 bytes",
-      "Depends on compiler"
-    ],
-    "answer": "Depends on compiler",
-    "level": "Easy",
-    "id": 1724
-  },
+
   {
     "language": "DSA C++",
     "question": "Which sorting algorithm is fastest on average?",
@@ -33240,19 +31416,7 @@ export const questions = [
     "level": "Easy",
     "id": 5406
   },
-  {
-    "language": "C",
-    "question": "What is the size of an int in C (typically)?",
-    "options": [
-      "2 bytes",
-      "4 bytes",
-      "8 bytes",
-      "Depends on compiler"
-    ],
-    "answer": "Depends on compiler",
-    "level": "Medium",
-    "id": 4413
-  },
+
   {
     "language": "Java Fullstack",
     "question": "Which framework is commonly used in Java Fullstack for backend?",
@@ -34254,19 +32418,7 @@ export const questions = [
     "level": "Medium",
     "id": 2743
   },
-  {
-    "language": "C",
-    "question": "Which of the following is a valid C data type?",
-    "options": [
-      "integer",
-      "real",
-      "float",
-      "decimal"
-    ],
-    "answer": "float",
-    "level": "Medium",
-    "id": 4159
-  },
+
   {
     "language": "Python",
     "question": "What does the len() function do in Python?",
@@ -34488,19 +32640,7 @@ export const questions = [
     "level": "Medium",
     "id": 2069
   },
-  {
-    "language": "C",
-    "question": "Which of the following is a valid C data type?",
-    "options": [
-      "integer",
-      "real",
-      "float",
-      "decimal"
-    ],
-    "answer": "float",
-    "level": "Easy",
-    "id": 6007
-  },
+
   {
     "language": "Java Fullstack",
     "question": "Which database is often used with Java Fullstack?",
@@ -34631,19 +32771,7 @@ export const questions = [
     "level": "Easy",
     "id": 6738
   },
-  {
-    "language": "C",
-    "question": "Which of the following is a valid C data type?",
-    "options": [
-      "integer",
-      "real",
-      "float",
-      "decimal"
-    ],
-    "answer": "float",
-    "level": "Hard",
-    "id": 5847
-  },
+
   {
     "language": "Python",
     "question": "What does the len() function do in Python?",
@@ -34813,19 +32941,7 @@ export const questions = [
     "level": "Medium",
     "id": 6814
   },
-  {
-    "language": "C",
-    "question": "Which of the following is a valid C data type?",
-    "options": [
-      "integer",
-      "real",
-      "float",
-      "decimal"
-    ],
-    "answer": "float",
-    "level": "Easy",
-    "id": 9222
-  },
+
   {
     "language": "RDBMS with Excel",
     "question": "Which SQL clause is used to filter rows?",
@@ -35086,19 +33202,7 @@ export const questions = [
     "level": "Hard",
     "id": 8766
   },
-  {
-    "language": "C",
-    "question": "What is the size of an int in C (typically)?",
-    "options": [
-      "2 bytes",
-      "4 bytes",
-      "8 bytes",
-      "Depends on compiler"
-    ],
-    "answer": "Depends on compiler",
-    "level": "Hard",
-    "id": 2407
-  },
+
   {
     "language": "C++",
     "question": "Which of the following is not a C++ access specifier?",
@@ -35463,19 +33567,7 @@ export const questions = [
     "level": "Medium",
     "id": 1754
   },
-  {
-    "language": "C",
-    "question": "Which of the following is a valid C data type?",
-    "options": [
-      "integer",
-      "real",
-      "float",
-      "decimal"
-    ],
-    "answer": "float",
-    "level": "Easy",
-    "id": 3804
-  },
+
   {
     "language": "Python Fullstack",
     "question": "Which template engine is used with Flask?",
@@ -35593,19 +33685,7 @@ export const questions = [
     "level": "Hard",
     "id": 6091
   },
-  {
-    "language": "C",
-    "question": "What is the size of an int in C (typically)?",
-    "options": [
-      "2 bytes",
-      "4 bytes",
-      "8 bytes",
-      "Depends on compiler"
-    ],
-    "answer": "Depends on compiler",
-    "level": "Medium",
-    "id": 1408
-  },
+
   {
     "language": "MERN Fullstack",
     "question": "Which part of MERN stack handles the frontend?",
@@ -35710,19 +33790,7 @@ export const questions = [
     "level": "Easy",
     "id": 9717
   },
-  {
-    "language": "C",
-    "question": "Which of the following is a valid C data type?",
-    "options": [
-      "integer",
-      "real",
-      "float",
-      "decimal"
-    ],
-    "answer": "float",
-    "level": "Easy",
-    "id": 1112
-  },
+
   {
     "language": "Java Fullstack",
     "question": "Which database is often used with Java Fullstack?",
@@ -36425,19 +34493,7 @@ export const questions = [
     "level": "Medium",
     "id": 3085
   },
-  {
-    "language": "C",
-    "question": "Which of the following is a valid C data type?",
-    "options": [
-      "integer",
-      "real",
-      "float",
-      "decimal"
-    ],
-    "answer": "float",
-    "level": "Hard",
-    "id": 9687
-  },
+
   {
     "language": "RDBMS with Excel",
     "question": "Which SQL clause is used to filter rows?",
@@ -36542,19 +34598,7 @@ export const questions = [
     "level": "Easy",
     "id": 4984
   },
-  {
-    "language": "C",
-    "question": "What is the size of an int in C (typically)?",
-    "options": [
-      "2 bytes",
-      "4 bytes",
-      "8 bytes",
-      "Depends on compiler"
-    ],
-    "answer": "Depends on compiler",
-    "level": "Medium",
-    "id": 8123
-  },
+
   {
     "language": "Python",
     "question": "Which of the following is used to define a function in Python?",
@@ -36568,19 +34612,7 @@ export const questions = [
     "level": "Easy",
     "id": 5958
   },
-  {
-    "language": "C",
-    "question": "Which of the following is a valid C data type?",
-    "options": [
-      "integer",
-      "real",
-      "float",
-      "decimal"
-    ],
-    "answer": "float",
-    "level": "Hard",
-    "id": 9389
-  },
+
   {
     "language": "HTML5",
     "question": "Which tag is used to create a hyperlink in HTML?",
@@ -36594,19 +34626,7 @@ export const questions = [
     "level": "Hard",
     "id": 1102
   },
-  {
-    "language": "C",
-    "question": "What is the size of an int in C (typically)?",
-    "options": [
-      "2 bytes",
-      "4 bytes",
-      "8 bytes",
-      "Depends on compiler"
-    ],
-    "answer": "Depends on compiler",
-    "level": "Hard",
-    "id": 8718
-  },
+
   {
     "language": "C++",
     "question": "Which concept allows function or operator to act differently on different data types in C++?",
@@ -36724,19 +34744,7 @@ export const questions = [
     "level": "Easy",
     "id": 5963
   },
-  {
-    "language": "C",
-    "question": "What is the size of an int in C (typically)?",
-    "options": [
-      "2 bytes",
-      "4 bytes",
-      "8 bytes",
-      "Depends on compiler"
-    ],
-    "answer": "Depends on compiler",
-    "level": "Medium",
-    "id": 2159
-  },
+
   {
     "language": "DSA C++",
     "question": "Which sorting algorithm is fastest on average?",
@@ -36763,19 +34771,7 @@ export const questions = [
     "level": "Easy",
     "id": 8105
   },
-  {
-    "language": "C",
-    "question": "What is the size of an int in C (typically)?",
-    "options": [
-      "2 bytes",
-      "4 bytes",
-      "8 bytes",
-      "Depends on compiler"
-    ],
-    "answer": "Depends on compiler",
-    "level": "Hard",
-    "id": 9461
-  },
+
   {
     "language": "Bootstrap 4",
     "question": "Which Bootstrap class makes an element responsive?",
@@ -36984,19 +34980,7 @@ export const questions = [
     "level": "Hard",
     "id": 8410
   },
-  {
-    "language": "C",
-    "question": "Which of the following is a valid C data type?",
-    "options": [
-      "integer",
-      "real",
-      "float",
-      "decimal"
-    ],
-    "answer": "float",
-    "level": "Hard",
-    "id": 3530
-  },
+
   {
     "language": "MERN Fullstack",
     "question": "Which part of MERN stack handles the frontend?",
@@ -37023,19 +35007,7 @@ export const questions = [
     "level": "Medium",
     "id": 6431
   },
-  {
-    "language": "C",
-    "question": "Which of the following is a valid C data type?",
-    "options": [
-      "integer",
-      "real",
-      "float",
-      "decimal"
-    ],
-    "answer": "float",
-    "level": "Easy",
-    "id": 4664
-  },
+
   {
     "language": "JavaScript",
     "question": "Which company developed JavaScript?",
@@ -37543,19 +35515,7 @@ export const questions = [
     "level": "Medium",
     "id": 8940
   },
-  {
-    "language": "C",
-    "question": "What is the size of an int in C (typically)?",
-    "options": [
-      "2 bytes",
-      "4 bytes",
-      "8 bytes",
-      "Depends on compiler"
-    ],
-    "answer": "Depends on compiler",
-    "level": "Medium",
-    "id": 2582
-  },
+
   {
     "language": "Bootstrap 4",
     "question": "Which Bootstrap class makes an element responsive?",
@@ -37608,19 +35568,7 @@ export const questions = [
     "level": "Easy",
     "id": 5819
   },
-  {
-    "language": "C",
-    "question": "Which of the following is a valid C data type?",
-    "options": [
-      "integer",
-      "real",
-      "float",
-      "decimal"
-    ],
-    "answer": "float",
-    "level": "Hard",
-    "id": 7388
-  },
+
   {
     "language": "DSA C++",
     "question": "Which data structure uses FIFO?",
@@ -37660,19 +35608,7 @@ export const questions = [
     "level": "Easy",
     "id": 9397
   },
-  {
-    "language": "C",
-    "question": "What is the size of an int in C (typically)?",
-    "options": [
-      "2 bytes",
-      "4 bytes",
-      "8 bytes",
-      "Depends on compiler"
-    ],
-    "answer": "Depends on compiler",
-    "level": "Medium",
-    "id": 5193
-  },
+
   {
     "language": "DSA C++",
     "question": "Which data structure uses FIFO?",
@@ -37699,19 +35635,7 @@ export const questions = [
     "level": "Easy",
     "id": 5608
   },
-  {
-    "language": "C",
-    "question": "What is the size of an int in C (typically)?",
-    "options": [
-      "2 bytes",
-      "4 bytes",
-      "8 bytes",
-      "Depends on compiler"
-    ],
-    "answer": "Depends on compiler",
-    "level": "Hard",
-    "id": 8007
-  },
+
   {
     "language": "DSA C++",
     "question": "Which data structure uses FIFO?",
@@ -37751,19 +35675,7 @@ export const questions = [
     "level": "Easy",
     "id": 4802
   },
-  {
-    "language": "C",
-    "question": "What is the size of an int in C (typically)?",
-    "options": [
-      "2 bytes",
-      "4 bytes",
-      "8 bytes",
-      "Depends on compiler"
-    ],
-    "answer": "Depends on compiler",
-    "level": "Medium",
-    "id": 3130
-  },
+
   {
     "language": "Python",
     "question": "What does the len() function do in Python?",
@@ -38544,19 +36456,7 @@ export const questions = [
     "level": "Easy",
     "id": 9748
   },
-  {
-    "language": "C",
-    "question": "Which of the following is a valid C data type?",
-    "options": [
-      "integer",
-      "real",
-      "float",
-      "decimal"
-    ],
-    "answer": "float",
-    "level": "Medium",
-    "id": 4004
-  },
+
   {
     "language": "Data Science",
     "question": "Which library is used for data analysis in Python?",
@@ -38804,19 +36704,7 @@ export const questions = [
     "level": "Hard",
     "id": 4707
   },
-  {
-    "language": "C",
-    "question": "What is the size of an int in C (typically)?",
-    "options": [
-      "2 bytes",
-      "4 bytes",
-      "8 bytes",
-      "Depends on compiler"
-    ],
-    "answer": "Depends on compiler",
-    "level": "Hard",
-    "id": 2776
-  },
+
   {
     "language": "Data Science",
     "question": "Which library is used for data analysis in Python?",
@@ -39077,19 +36965,7 @@ export const questions = [
     "level": "Hard",
     "id": 6501
   },
-  {
-    "language": "C",
-    "question": "Which of the following is a valid C data type?",
-    "options": [
-      "integer",
-      "real",
-      "float",
-      "decimal"
-    ],
-    "answer": "float",
-    "level": "Medium",
-    "id": 9697
-  },
+
   {
     "language": "Java",
     "question": "Which method is the entry point for a Java program?",
@@ -39142,19 +37018,7 @@ export const questions = [
     "level": "Medium",
     "id": 8928
   },
-  {
-    "language": "C",
-    "question": "What is the size of an int in C (typically)?",
-    "options": [
-      "2 bytes",
-      "4 bytes",
-      "8 bytes",
-      "Depends on compiler"
-    ],
-    "answer": "Depends on compiler",
-    "level": "Medium",
-    "id": 7919
-  },
+
   {
     "language": "MERN Fullstack",
     "question": "Which part of MERN stack handles the frontend?",
@@ -39233,32 +37097,8 @@ export const questions = [
     "level": "Hard",
     "id": 6338
   },
-  {
-    "language": "C",
-    "question": "Which of the following is a valid C data type?",
-    "options": [
-      "integer",
-      "real",
-      "float",
-      "decimal"
-    ],
-    "answer": "float",
-    "level": "Hard",
-    "id": 7893
-  },
-  {
-    "language": "C",
-    "question": "What is the size of an int in C (typically)?",
-    "options": [
-      "2 bytes",
-      "4 bytes",
-      "8 bytes",
-      "Depends on compiler"
-    ],
-    "answer": "Depends on compiler",
-    "level": "Easy",
-    "id": 9527
-  },
+
+
   {
     "language": "Python",
     "question": "Which of the following is used to define a function in Python?",
@@ -39324,19 +37164,7 @@ export const questions = [
     "level": "Easy",
     "id": 5280
   },
-  {
-    "language": "C",
-    "question": "What is the size of an int in C (typically)?",
-    "options": [
-      "2 bytes",
-      "4 bytes",
-      "8 bytes",
-      "Depends on compiler"
-    ],
-    "answer": "Depends on compiler",
-    "level": "Easy",
-    "id": 7581
-  },
+
   {
     "language": "RDBMS with Excel",
     "question": "Which function in Excel is used to lookup values?",
@@ -39558,19 +37386,7 @@ export const questions = [
     "level": "Easy",
     "id": 1645
   },
-  {
-    "language": "C",
-    "question": "Which of the following is a valid C data type?",
-    "options": [
-      "integer",
-      "real",
-      "float",
-      "decimal"
-    ],
-    "answer": "float",
-    "level": "Medium",
-    "id": 5808
-  },
+
   {
     "language": "DSA C++",
     "question": "Which data structure uses FIFO?",
@@ -39740,19 +37556,7 @@ export const questions = [
     "level": "Hard",
     "id": 7547
   },
-  {
-    "language": "C",
-    "question": "Which of the following is a valid C data type?",
-    "options": [
-      "integer",
-      "real",
-      "float",
-      "decimal"
-    ],
-    "answer": "float",
-    "level": "Medium",
-    "id": 8832
-  },
+
   {
     "language": "JavaScript",
     "question": "Which symbol is used for comments in JavaScript?",
@@ -39935,19 +37739,7 @@ export const questions = [
     "level": "Hard",
     "id": 4216
   },
-  {
-    "language": "C",
-    "question": "What is the size of an int in C (typically)?",
-    "options": [
-      "2 bytes",
-      "4 bytes",
-      "8 bytes",
-      "Depends on compiler"
-    ],
-    "answer": "Depends on compiler",
-    "level": "Hard",
-    "id": 7840
-  },
+
   {
     "language": "DSA C++",
     "question": "Which data structure uses FIFO?",
@@ -40000,45 +37792,9 @@ export const questions = [
     "level": "Hard",
     "id": 4309
   },
-  {
-    "language": "C",
-    "question": "What is the size of an int in C (typically)?",
-    "options": [
-      "2 bytes",
-      "4 bytes",
-      "8 bytes",
-      "Depends on compiler"
-    ],
-    "answer": "Depends on compiler",
-    "level": "Easy",
-    "id": 5262
-  },
-  {
-    "language": "C",
-    "question": "What is the size of an int in C (typically)?",
-    "options": [
-      "2 bytes",
-      "4 bytes",
-      "8 bytes",
-      "Depends on compiler"
-    ],
-    "answer": "Depends on compiler",
-    "level": "Easy",
-    "id": 2032
-  },
-  {
-    "language": "C",
-    "question": "Which of the following is a valid C data type?",
-    "options": [
-      "integer",
-      "real",
-      "float",
-      "decimal"
-    ],
-    "answer": "float",
-    "level": "Easy",
-    "id": 2542
-  },
+
+
+
   {
     "language": "RDBMS with Excel",
     "question": "Which SQL clause is used to filter rows?",
@@ -40260,19 +38016,7 @@ export const questions = [
     "level": "Easy",
     "id": 5513
   },
-  {
-    "language": "C",
-    "question": "Which of the following is a valid C data type?",
-    "options": [
-      "integer",
-      "real",
-      "float",
-      "decimal"
-    ],
-    "answer": "float",
-    "level": "Easy",
-    "id": 5954
-  },
+
   {
     "language": "Bootstrap 4",
     "question": "What class is used for a button in Bootstrap?",
@@ -40312,19 +38056,7 @@ export const questions = [
     "level": "Hard",
     "id": 1267
   },
-  {
-    "language": "C",
-    "question": "What is the size of an int in C (typically)?",
-    "options": [
-      "2 bytes",
-      "4 bytes",
-      "8 bytes",
-      "Depends on compiler"
-    ],
-    "answer": "Depends on compiler",
-    "level": "Hard",
-    "id": 3263
-  },
+
   {
     "language": "RDBMS with Excel",
     "question": "Which SQL clause is used to filter rows?",
@@ -40377,19 +38109,7 @@ export const questions = [
     "level": "Medium",
     "id": 8274
   },
-  {
-    "language": "C",
-    "question": "Which of the following is a valid C data type?",
-    "options": [
-      "integer",
-      "real",
-      "float",
-      "decimal"
-    ],
-    "answer": "float",
-    "level": "Medium",
-    "id": 8453
-  },
+
   {
     "language": "Data Science",
     "question": "Which library is used for data analysis in Python?",
@@ -40585,19 +38305,7 @@ export const questions = [
     "level": "Easy",
     "id": 7723
   },
-  {
-    "language": "C",
-    "question": "What is the size of an int in C (typically)?",
-    "options": [
-      "2 bytes",
-      "4 bytes",
-      "8 bytes",
-      "Depends on compiler"
-    ],
-    "answer": "Depends on compiler",
-    "level": "Hard",
-    "id": 5433
-  },
+
   {
     "language": "Java",
     "question": "Which of these is not a Java keyword?",
@@ -40988,19 +38696,7 @@ export const questions = [
     "level": "Medium",
     "id": 4097
   },
-  {
-    "language": "C",
-    "question": "What is the size of an int in C (typically)?",
-    "options": [
-      "2 bytes",
-      "4 bytes",
-      "8 bytes",
-      "Depends on compiler"
-    ],
-    "answer": "Depends on compiler",
-    "level": "Easy",
-    "id": 7544
-  },
+
   {
     "language": "Tailwind",
     "question": "Which utility class sets margin in Tailwind?",
@@ -41222,19 +38918,7 @@ export const questions = [
     "level": "Easy",
     "id": 5215
   },
-  {
-    "language": "C",
-    "question": "Which of the following is a valid C data type?",
-    "options": [
-      "integer",
-      "real",
-      "float",
-      "decimal"
-    ],
-    "answer": "float",
-    "level": "Easy",
-    "id": 1340
-  },
+
   {
     "language": "DSA C++",
     "question": "Which data structure uses FIFO?",
@@ -41339,19 +39023,7 @@ export const questions = [
     "level": "Medium",
     "id": 3815
   },
-  {
-    "language": "C",
-    "question": "What is the size of an int in C (typically)?",
-    "options": [
-      "2 bytes",
-      "4 bytes",
-      "8 bytes",
-      "Depends on compiler"
-    ],
-    "answer": "Depends on compiler",
-    "level": "Easy",
-    "id": 6532
-  },
+
   {
     "language": "CSS3",
     "question": "What does CSS stand for?",
@@ -41521,19 +39193,7 @@ export const questions = [
     "level": "Easy",
     "id": 4411
   },
-  {
-    "language": "C",
-    "question": "Which of the following is a valid C data type?",
-    "options": [
-      "integer",
-      "real",
-      "float",
-      "decimal"
-    ],
-    "answer": "float",
-    "level": "Hard",
-    "id": 4413
-  },
+
   {
     "language": "HTML5",
     "question": "What does HTML stand for?",
@@ -42353,19 +40013,7 @@ export const questions = [
     "level": "Hard",
     "id": 5491
   },
-  {
-    "language": "C",
-    "question": "What is the size of an int in C (typically)?",
-    "options": [
-      "2 bytes",
-      "4 bytes",
-      "8 bytes",
-      "Depends on compiler"
-    ],
-    "answer": "Depends on compiler",
-    "level": "Hard",
-    "id": 8719
-  },
+
   {
     "language": "CSS3",
     "question": "Which property is used to change the text color in CSS?",
@@ -42379,19 +40027,7 @@ export const questions = [
     "level": "Medium",
     "id": 2232
   },
-  {
-    "language": "C",
-    "question": "Which of the following is a valid C data type?",
-    "options": [
-      "integer",
-      "real",
-      "float",
-      "decimal"
-    ],
-    "answer": "float",
-    "level": "Easy",
-    "id": 6909
-  },
+
   {
     "language": "HTML5",
     "question": "What does HTML stand for?",
@@ -42405,19 +40041,7 @@ export const questions = [
     "level": "Hard",
     "id": 9962
   },
-  {
-    "language": "C",
-    "question": "Which of the following is a valid C data type?",
-    "options": [
-      "integer",
-      "real",
-      "float",
-      "decimal"
-    ],
-    "answer": "float",
-    "level": "Hard",
-    "id": 6005
-  },
+
   {
     "language": "Bootstrap 4",
     "question": "What class is used for a button in Bootstrap?",
@@ -42678,19 +40302,7 @@ export const questions = [
     "level": "Medium",
     "id": 3552
   },
-  {
-    "language": "C",
-    "question": "What is the size of an int in C (typically)?",
-    "options": [
-      "2 bytes",
-      "4 bytes",
-      "8 bytes",
-      "Depends on compiler"
-    ],
-    "answer": "Depends on compiler",
-    "level": "Hard",
-    "id": 4174
-  },
+
   {
     "language": "Bootstrap 4",
     "question": "What class is used for a button in Bootstrap?",
@@ -43211,19 +40823,7 @@ export const questions = [
     "level": "Easy",
     "id": 7489
   },
-  {
-    "language": "C",
-    "question": "What is the size of an int in C (typically)?",
-    "options": [
-      "2 bytes",
-      "4 bytes",
-      "8 bytes",
-      "Depends on compiler"
-    ],
-    "answer": "Depends on compiler",
-    "level": "Easy",
-    "id": 5522
-  },
+
   {
     "language": "Java",
     "question": "Which method is the entry point for a Java program?",
@@ -43445,19 +41045,7 @@ export const questions = [
     "level": "Easy",
     "id": 5623
   },
-  {
-    "language": "C",
-    "question": "Which of the following is a valid C data type?",
-    "options": [
-      "integer",
-      "real",
-      "float",
-      "decimal"
-    ],
-    "answer": "float",
-    "level": "Hard",
-    "id": 2385
-  },
+
   {
     "language": "DSA C++",
     "question": "Which data structure uses FIFO?",
@@ -43484,19 +41072,7 @@ export const questions = [
     "level": "Easy",
     "id": 7692
   },
-  {
-    "language": "C",
-    "question": "What is the size of an int in C (typically)?",
-    "options": [
-      "2 bytes",
-      "4 bytes",
-      "8 bytes",
-      "Depends on compiler"
-    ],
-    "answer": "Depends on compiler",
-    "level": "Easy",
-    "id": 2849
-  },
+
   {
     "language": "HTML5",
     "question": "What does HTML stand for?",
@@ -44160,19 +41736,7 @@ export const questions = [
     "level": "Easy",
     "id": 6742
   },
-  {
-    "language": "C",
-    "question": "Which of the following is a valid C data type?",
-    "options": [
-      "integer",
-      "real",
-      "float",
-      "decimal"
-    ],
-    "answer": "float",
-    "level": "Hard",
-    "id": 4536
-  },
+
   {
     "language": "Data Science",
     "question": "Which term refers to drawing insights from data?",
@@ -44615,19 +42179,7 @@ export const questions = [
     "level": "Medium",
     "id": 5273
   },
-  {
-    "language": "C",
-    "question": "What is the size of an int in C (typically)?",
-    "options": [
-      "2 bytes",
-      "4 bytes",
-      "8 bytes",
-      "Depends on compiler"
-    ],
-    "answer": "Depends on compiler",
-    "level": "Easy",
-    "id": 5865
-  },
+
   {
     "language": "CSS3",
     "question": "Which property is used to change the text color in CSS?",
@@ -44784,19 +42336,7 @@ export const questions = [
     "level": "Hard",
     "id": 7624
   },
-  {
-    "language": "C",
-    "question": "What is the size of an int in C (typically)?",
-    "options": [
-      "2 bytes",
-      "4 bytes",
-      "8 bytes",
-      "Depends on compiler"
-    ],
-    "answer": "Depends on compiler",
-    "level": "Easy",
-    "id": 8722
-  },
+
   {
     "language": "Tailwind",
     "question": "What is Tailwind CSS?",
@@ -44823,19 +42363,7 @@ export const questions = [
     "level": "Easy",
     "id": 4398
   },
-  {
-    "language": "C",
-    "question": "Which of the following is a valid C data type?",
-    "options": [
-      "integer",
-      "real",
-      "float",
-      "decimal"
-    ],
-    "answer": "float",
-    "level": "Medium",
-    "id": 2779
-  },
+
   {
     "language": "Bootstrap 4",
     "question": "Which Bootstrap class makes an element responsive?",
@@ -45174,19 +42702,7 @@ export const questions = [
     "level": "Easy",
     "id": 6774
   },
-  {
-    "language": "C",
-    "question": "What is the size of an int in C (typically)?",
-    "options": [
-      "2 bytes",
-      "4 bytes",
-      "8 bytes",
-      "Depends on compiler"
-    ],
-    "answer": "Depends on compiler",
-    "level": "Hard",
-    "id": 7382
-  },
+
   {
     "language": "Python",
     "question": "Which of the following is used to define a function in Python?",
@@ -45213,19 +42729,7 @@ export const questions = [
     "level": "Medium",
     "id": 4054
   },
-  {
-    "language": "C",
-    "question": "Which of the following is a valid C data type?",
-    "options": [
-      "integer",
-      "real",
-      "float",
-      "decimal"
-    ],
-    "answer": "float",
-    "level": "Hard",
-    "id": 3551
-  },
+
   {
     "language": "Java Fullstack",
     "question": "Which framework is commonly used in Java Fullstack for backend?",
@@ -45304,19 +42808,7 @@ export const questions = [
     "level": "Medium",
     "id": 9428
   },
-  {
-    "language": "C",
-    "question": "Which of the following is a valid C data type?",
-    "options": [
-      "integer",
-      "real",
-      "float",
-      "decimal"
-    ],
-    "answer": "float",
-    "level": "Medium",
-    "id": 1488
-  },
+
   {
     "language": "DSA C++",
     "question": "Which sorting algorithm is fastest on average?",
@@ -45395,19 +42887,7 @@ export const questions = [
     "level": "Hard",
     "id": 3209
   },
-  {
-    "language": "C",
-    "question": "Which of the following is a valid C data type?",
-    "options": [
-      "integer",
-      "real",
-      "float",
-      "decimal"
-    ],
-    "answer": "float",
-    "level": "Easy",
-    "id": 8138
-  },
+
   {
     "language": "MERN Fullstack",
     "question": "What does MERN stand for?",
@@ -45421,19 +42901,7 @@ export const questions = [
     "level": "Easy",
     "id": 1321
   },
-  {
-    "language": "C",
-    "question": "Which of the following is a valid C data type?",
-    "options": [
-      "integer",
-      "real",
-      "float",
-      "decimal"
-    ],
-    "answer": "float",
-    "level": "Hard",
-    "id": 2509
-  },
+
   {
     "language": "Tailwind",
     "question": "Which utility class sets margin in Tailwind?",
@@ -45590,19 +43058,7 @@ export const questions = [
     "level": "Medium",
     "id": 7703
   },
-  {
-    "language": "C",
-    "question": "Which of the following is a valid C data type?",
-    "options": [
-      "integer",
-      "real",
-      "float",
-      "decimal"
-    ],
-    "answer": "float",
-    "level": "Medium",
-    "id": 4295
-  },
+
   {
     "language": "MERN Fullstack",
     "question": "What does MERN stand for?",
@@ -45811,19 +43267,7 @@ export const questions = [
     "level": "Hard",
     "id": 8829
   },
-  {
-    "language": "C",
-    "question": "What is the size of an int in C (typically)?",
-    "options": [
-      "2 bytes",
-      "4 bytes",
-      "8 bytes",
-      "Depends on compiler"
-    ],
-    "answer": "Depends on compiler",
-    "level": "Easy",
-    "id": 2497
-  },
+
   {
     "language": "Java Fullstack",
     "question": "Which database is often used with Java Fullstack?",
@@ -45941,19 +43385,7 @@ export const questions = [
     "level": "Medium",
     "id": 3807
   },
-  {
-    "language": "C",
-    "question": "What is the size of an int in C (typically)?",
-    "options": [
-      "2 bytes",
-      "4 bytes",
-      "8 bytes",
-      "Depends on compiler"
-    ],
-    "answer": "Depends on compiler",
-    "level": "Hard",
-    "id": 1617
-  },
+
   {
     "language": "RDBMS with Excel",
     "question": "Which function in Excel is used to lookup values?",
@@ -46214,19 +43646,7 @@ export const questions = [
     "level": "Easy",
     "id": 9222
   },
-  {
-    "language": "C",
-    "question": "Which of the following is a valid C data type?",
-    "options": [
-      "integer",
-      "real",
-      "float",
-      "decimal"
-    ],
-    "answer": "float",
-    "level": "Hard",
-    "id": 7590
-  },
+
   {
     "language": "Data Science",
     "question": "Which term refers to drawing insights from data?",
@@ -46305,19 +43725,7 @@ export const questions = [
     "level": "Medium",
     "id": 5654
   },
-  {
-    "language": "C",
-    "question": "What is the size of an int in C (typically)?",
-    "options": [
-      "2 bytes",
-      "4 bytes",
-      "8 bytes",
-      "Depends on compiler"
-    ],
-    "answer": "Depends on compiler",
-    "level": "Medium",
-    "id": 5137
-  },
+
   {
     "language": "Data Science",
     "question": "Which term refers to drawing insights from data?",
@@ -46513,19 +43921,7 @@ export const questions = [
     "level": "Easy",
     "id": 9791
   },
-  {
-    "language": "C",
-    "question": "What is the size of an int in C (typically)?",
-    "options": [
-      "2 bytes",
-      "4 bytes",
-      "8 bytes",
-      "Depends on compiler"
-    ],
-    "answer": "Depends on compiler",
-    "level": "Easy",
-    "id": 4215
-  },
+
   {
     "language": "Tailwind",
     "question": "What is Tailwind CSS?",
@@ -46565,19 +43961,7 @@ export const questions = [
     "level": "Medium",
     "id": 2864
   },
-  {
-    "language": "C",
-    "question": "Which of the following is a valid C data type?",
-    "options": [
-      "integer",
-      "real",
-      "float",
-      "decimal"
-    ],
-    "answer": "float",
-    "level": "Easy",
-    "id": 8563
-  },
+
   {
     "language": "DSA C++",
     "question": "Which sorting algorithm is fastest on average?",
@@ -46682,19 +44066,7 @@ export const questions = [
     "level": "Easy",
     "id": 9569
   },
-  {
-    "language": "C",
-    "question": "Which of the following is a valid C data type?",
-    "options": [
-      "integer",
-      "real",
-      "float",
-      "decimal"
-    ],
-    "answer": "float",
-    "level": "Medium",
-    "id": 2236
-  },
+
   {
     "language": "Java",
     "question": "Which of these is not a Java keyword?",
@@ -46734,19 +44106,7 @@ export const questions = [
     "level": "Medium",
     "id": 3300
   },
-  {
-    "language": "C",
-    "question": "What is the size of an int in C (typically)?",
-    "options": [
-      "2 bytes",
-      "4 bytes",
-      "8 bytes",
-      "Depends on compiler"
-    ],
-    "answer": "Depends on compiler",
-    "level": "Easy",
-    "id": 6244
-  },
+
   {
     "language": "Data Science",
     "question": "Which library is used for data analysis in Python?",
@@ -46890,19 +44250,7 @@ export const questions = [
     "level": "Easy",
     "id": 8447
   },
-  {
-    "language": "C",
-    "question": "What is the size of an int in C (typically)?",
-    "options": [
-      "2 bytes",
-      "4 bytes",
-      "8 bytes",
-      "Depends on compiler"
-    ],
-    "answer": "Depends on compiler",
-    "level": "Medium",
-    "id": 9376
-  },
+
   {
     "language": "HTML5",
     "question": "What does HTML stand for?",
@@ -47033,19 +44381,7 @@ export const questions = [
     "level": "Easy",
     "id": 8144
   },
-  {
-    "language": "C",
-    "question": "What is the size of an int in C (typically)?",
-    "options": [
-      "2 bytes",
-      "4 bytes",
-      "8 bytes",
-      "Depends on compiler"
-    ],
-    "answer": "Depends on compiler",
-    "level": "Medium",
-    "id": 6489
-  },
+
   {
     "language": "Java",
     "question": "Which of these is not a Java keyword?",
@@ -47215,19 +44551,7 @@ export const questions = [
     "level": "Easy",
     "id": 6161
   },
-  {
-    "language": "C",
-    "question": "Which of the following is a valid C data type?",
-    "options": [
-      "integer",
-      "real",
-      "float",
-      "decimal"
-    ],
-    "answer": "float",
-    "level": "Medium",
-    "id": 2380
-  },
+
   {
     "language": "HTML5",
     "question": "Which tag is used to create a hyperlink in HTML?",
@@ -47358,19 +44682,7 @@ export const questions = [
     "level": "Medium",
     "id": 9988
   },
-  {
-    "language": "C",
-    "question": "Which of the following is a valid C data type?",
-    "options": [
-      "integer",
-      "real",
-      "float",
-      "decimal"
-    ],
-    "answer": "float",
-    "level": "Medium",
-    "id": 2260
-  },
+
   {
     "language": "Python",
     "question": "What does the len() function do in Python?",
@@ -47488,19 +44800,7 @@ export const questions = [
     "level": "Easy",
     "id": 7750
   },
-  {
-    "language": "C",
-    "question": "Which of the following is a valid C data type?",
-    "options": [
-      "integer",
-      "real",
-      "float",
-      "decimal"
-    ],
-    "answer": "float",
-    "level": "Medium",
-    "id": 7808
-  },
+
   {
     "language": "MERN Fullstack",
     "question": "Which part of MERN stack handles the frontend?",
@@ -47891,19 +45191,7 @@ export const questions = [
     "level": "Hard",
     "id": 5046
   },
-  {
-    "language": "C",
-    "question": "What is the size of an int in C (typically)?",
-    "options": [
-      "2 bytes",
-      "4 bytes",
-      "8 bytes",
-      "Depends on compiler"
-    ],
-    "answer": "Depends on compiler",
-    "level": "Hard",
-    "id": 6396
-  },
+
   {
     "language": "CSS3",
     "question": "What does CSS stand for?",
@@ -48047,19 +45335,7 @@ export const questions = [
     "level": "Hard",
     "id": 7868
   },
-  {
-    "language": "C",
-    "question": "What is the size of an int in C (typically)?",
-    "options": [
-      "2 bytes",
-      "4 bytes",
-      "8 bytes",
-      "Depends on compiler"
-    ],
-    "answer": "Depends on compiler",
-    "level": "Medium",
-    "id": 3331
-  },
+
   {
     "language": "C++",
     "question": "Which concept allows function or operator to act differently on different data types in C++?",
@@ -48190,19 +45466,7 @@ export const questions = [
     "level": "Easy",
     "id": 6625
   },
-  {
-    "language": "C",
-    "question": "Which of the following is a valid C data type?",
-    "options": [
-      "integer",
-      "real",
-      "float",
-      "decimal"
-    ],
-    "answer": "float",
-    "level": "Hard",
-    "id": 9029
-  },
+
   {
     "language": "HTML5",
     "question": "Which tag is used to create a hyperlink in HTML?",
@@ -48710,19 +45974,7 @@ export const questions = [
     "level": "Medium",
     "id": 2709
   },
-  {
-    "language": "C",
-    "question": "What is the size of an int in C (typically)?",
-    "options": [
-      "2 bytes",
-      "4 bytes",
-      "8 bytes",
-      "Depends on compiler"
-    ],
-    "answer": "Depends on compiler",
-    "level": "Easy",
-    "id": 7458
-  },
+
   {
     "language": "Java Fullstack",
     "question": "Which framework is commonly used in Java Fullstack for backend?",
@@ -48944,19 +46196,7 @@ export const questions = [
     "level": "Hard",
     "id": 6508
   },
-  {
-    "language": "C",
-    "question": "What is the size of an int in C (typically)?",
-    "options": [
-      "2 bytes",
-      "4 bytes",
-      "8 bytes",
-      "Depends on compiler"
-    ],
-    "answer": "Depends on compiler",
-    "level": "Medium",
-    "id": 9371
-  },
+
   {
     "language": "Data Science",
     "question": "Which library is used for data analysis in Python?",
@@ -49048,19 +46288,7 @@ export const questions = [
     "level": "Medium",
     "id": 7201
   },
-  {
-    "language": "C",
-    "question": "Which of the following is a valid C data type?",
-    "options": [
-      "integer",
-      "real",
-      "float",
-      "decimal"
-    ],
-    "answer": "float",
-    "level": "Medium",
-    "id": 4617
-  },
+
   {
     "language": "Python Fullstack",
     "question": "Which Python web framework is used in Fullstack?",
@@ -49074,19 +46302,7 @@ export const questions = [
     "level": "Easy",
     "id": 6666
   },
-  {
-    "language": "C",
-    "question": "Which of the following is a valid C data type?",
-    "options": [
-      "integer",
-      "real",
-      "float",
-      "decimal"
-    ],
-    "answer": "float",
-    "level": "Easy",
-    "id": 6797
-  },
+
   {
     "language": "Data Science",
     "question": "Which term refers to drawing insights from data?",
@@ -49412,19 +46628,7 @@ export const questions = [
     "level": "Medium",
     "id": 9836
   },
-  {
-    "language": "C",
-    "question": "What is the size of an int in C (typically)?",
-    "options": [
-      "2 bytes",
-      "4 bytes",
-      "8 bytes",
-      "Depends on compiler"
-    ],
-    "answer": "Depends on compiler",
-    "level": "Hard",
-    "id": 9170
-  },
+
   {
     "language": "Data Science",
     "question": "Which term refers to drawing insights from data?",
@@ -49464,19 +46668,7 @@ export const questions = [
     "level": "Hard",
     "id": 6565
   },
-  {
-    "language": "C",
-    "question": "What is the size of an int in C (typically)?",
-    "options": [
-      "2 bytes",
-      "4 bytes",
-      "8 bytes",
-      "Depends on compiler"
-    ],
-    "answer": "Depends on compiler",
-    "level": "Hard",
-    "id": 2695
-  },
+
   {
     "language": "DSA C++",
     "question": "Which data structure uses FIFO?",
@@ -49542,32 +46734,8 @@ export const questions = [
     "level": "Hard",
     "id": 6735
   },
-  {
-    "language": "C",
-    "question": "Which of the following is a valid C data type?",
-    "options": [
-      "integer",
-      "real",
-      "float",
-      "decimal"
-    ],
-    "answer": "float",
-    "level": "Easy",
-    "id": 3868
-  },
-  {
-    "language": "C",
-    "question": "Which of the following is a valid C data type?",
-    "options": [
-      "integer",
-      "real",
-      "float",
-      "decimal"
-    ],
-    "answer": "float",
-    "level": "Medium",
-    "id": 8723
-  },
+
+
   {
     "language": "Bootstrap 4",
     "question": "What class is used for a button in Bootstrap?",
@@ -49607,19 +46775,7 @@ export const questions = [
     "level": "Hard",
     "id": 1017
   },
-  {
-    "language": "C",
-    "question": "What is the size of an int in C (typically)?",
-    "options": [
-      "2 bytes",
-      "4 bytes",
-      "8 bytes",
-      "Depends on compiler"
-    ],
-    "answer": "Depends on compiler",
-    "level": "Easy",
-    "id": 3627
-  },
+
   {
     "language": "Java",
     "question": "Which method is the entry point for a Java program?",
@@ -49659,19 +46815,7 @@ export const questions = [
     "level": "Easy",
     "id": 2552
   },
-  {
-    "language": "C",
-    "question": "What is the size of an int in C (typically)?",
-    "options": [
-      "2 bytes",
-      "4 bytes",
-      "8 bytes",
-      "Depends on compiler"
-    ],
-    "answer": "Depends on compiler",
-    "level": "Hard",
-    "id": 5084
-  },
+
   {
     "language": "C++",
     "question": "Which of the following is not a C++ access specifier?",
@@ -49750,19 +46894,7 @@ export const questions = [
     "level": "Medium",
     "id": 4590
   },
-  {
-    "language": "C",
-    "question": "Which of the following is a valid C data type?",
-    "options": [
-      "integer",
-      "real",
-      "float",
-      "decimal"
-    ],
-    "answer": "float",
-    "level": "Easy",
-    "id": 1147
-  },
+
   {
     "language": "Bootstrap 4",
     "question": "Which Bootstrap class makes an element responsive?",
@@ -49893,19 +47025,7 @@ export const questions = [
     "level": "Medium",
     "id": 9307
   },
-  {
-    "language": "C",
-    "question": "What is the size of an int in C (typically)?",
-    "options": [
-      "2 bytes",
-      "4 bytes",
-      "8 bytes",
-      "Depends on compiler"
-    ],
-    "answer": "Depends on compiler",
-    "level": "Medium",
-    "id": 3752
-  },
+
   {
     "language": "DSA C++",
     "question": "Which sorting algorithm is fastest on average?",
@@ -49997,19 +47117,7 @@ export const questions = [
     "level": "Easy",
     "id": 1068
   },
-  {
-    "language": "C",
-    "question": "What is the size of an int in C (typically)?",
-    "options": [
-      "2 bytes",
-      "4 bytes",
-      "8 bytes",
-      "Depends on compiler"
-    ],
-    "answer": "Depends on compiler",
-    "level": "Hard",
-    "id": 1637
-  },
+
   {
     "language": "Data Science",
     "question": "Which term refers to drawing insights from data?",
@@ -50101,19 +47209,7 @@ export const questions = [
     "level": "Medium",
     "id": 1480
   },
-  {
-    "language": "C",
-    "question": "What is the size of an int in C (typically)?",
-    "options": [
-      "2 bytes",
-      "4 bytes",
-      "8 bytes",
-      "Depends on compiler"
-    ],
-    "answer": "Depends on compiler",
-    "level": "Hard",
-    "id": 4423
-  },
+
   {
     "language": "C++",
     "question": "Which concept allows function or operator to act differently on different data types in C++?",
@@ -50166,19 +47262,7 @@ export const questions = [
     "level": "Medium",
     "id": 6776
   },
-  {
-    "language": "C",
-    "question": "What is the size of an int in C (typically)?",
-    "options": [
-      "2 bytes",
-      "4 bytes",
-      "8 bytes",
-      "Depends on compiler"
-    ],
-    "answer": "Depends on compiler",
-    "level": "Hard",
-    "id": 2985
-  },
+
   {
     "language": "C++",
     "question": "Which concept allows function or operator to act differently on different data types in C++?",
@@ -50257,19 +47341,7 @@ export const questions = [
     "level": "Easy",
     "id": 2515
   },
-  {
-    "language": "C",
-    "question": "Which of the following is a valid C data type?",
-    "options": [
-      "integer",
-      "real",
-      "float",
-      "decimal"
-    ],
-    "answer": "float",
-    "level": "Easy",
-    "id": 2673
-  },
+
   {
     "language": "RDBMS with Excel",
     "question": "Which SQL clause is used to filter rows?",
@@ -50296,19 +47368,7 @@ export const questions = [
     "level": "Easy",
     "id": 3528
   },
-  {
-    "language": "C",
-    "question": "Which of the following is a valid C data type?",
-    "options": [
-      "integer",
-      "real",
-      "float",
-      "decimal"
-    ],
-    "answer": "float",
-    "level": "Medium",
-    "id": 2579
-  },
+
   {
     "language": "JavaScript",
     "question": "Which symbol is used for comments in JavaScript?",
@@ -50621,19 +47681,7 @@ export const questions = [
     "level": "Hard",
     "id": 7267
   },
-  {
-    "language": "C",
-    "question": "Which of the following is a valid C data type?",
-    "options": [
-      "integer",
-      "real",
-      "float",
-      "decimal"
-    ],
-    "answer": "float",
-    "level": "Hard",
-    "id": 8237
-  },
+
   {
     "language": "CSS3",
     "question": "Which property is used to change the text color in CSS?",
@@ -50712,19 +47760,7 @@ export const questions = [
     "level": "Hard",
     "id": 4195
   },
-  {
-    "language": "C",
-    "question": "What is the size of an int in C (typically)?",
-    "options": [
-      "2 bytes",
-      "4 bytes",
-      "8 bytes",
-      "Depends on compiler"
-    ],
-    "answer": "Depends on compiler",
-    "level": "Medium",
-    "id": 4954
-  },
+
   {
     "language": "RDBMS with Excel",
     "question": "Which SQL clause is used to filter rows?",
@@ -50855,19 +47891,7 @@ export const questions = [
     "level": "Hard",
     "id": 5282
   },
-  {
-    "language": "C",
-    "question": "What is the size of an int in C (typically)?",
-    "options": [
-      "2 bytes",
-      "4 bytes",
-      "8 bytes",
-      "Depends on compiler"
-    ],
-    "answer": "Depends on compiler",
-    "level": "Easy",
-    "id": 1543
-  },
+
   {
     "language": "RDBMS with Excel",
     "question": "Which function in Excel is used to lookup values?",
@@ -51037,32 +48061,8 @@ export const questions = [
     "level": "Easy",
     "id": 1669
   },
-  {
-    "language": "C",
-    "question": "What is the size of an int in C (typically)?",
-    "options": [
-      "2 bytes",
-      "4 bytes",
-      "8 bytes",
-      "Depends on compiler"
-    ],
-    "answer": "Depends on compiler",
-    "level": "Medium",
-    "id": 4471
-  },
-  {
-    "language": "C",
-    "question": "Which of the following is a valid C data type?",
-    "options": [
-      "integer",
-      "real",
-      "float",
-      "decimal"
-    ],
-    "answer": "float",
-    "level": "Easy",
-    "id": 2842
-  },
+
+
   {
     "language": "Python",
     "question": "What does the len() function do in Python?",
@@ -51089,19 +48089,7 @@ export const questions = [
     "level": "Easy",
     "id": 6429
   },
-  {
-    "language": "C",
-    "question": "Which of the following is a valid C data type?",
-    "options": [
-      "integer",
-      "real",
-      "float",
-      "decimal"
-    ],
-    "answer": "float",
-    "level": "Medium",
-    "id": 8269
-  },
+
   {
     "language": "Data Science",
     "question": "Which term refers to drawing insights from data?",
@@ -51180,19 +48168,7 @@ export const questions = [
     "level": "Hard",
     "id": 5853
   },
-  {
-    "language": "C",
-    "question": "Which of the following is a valid C data type?",
-    "options": [
-      "integer",
-      "real",
-      "float",
-      "decimal"
-    ],
-    "answer": "float",
-    "level": "Medium",
-    "id": 3577
-  },
+
   {
     "language": "Python Fullstack",
     "question": "Which template engine is used with Flask?",
@@ -51310,19 +48286,7 @@ export const questions = [
     "level": "Hard",
     "id": 9517
   },
-  {
-    "language": "C",
-    "question": "What is the size of an int in C (typically)?",
-    "options": [
-      "2 bytes",
-      "4 bytes",
-      "8 bytes",
-      "Depends on compiler"
-    ],
-    "answer": "Depends on compiler",
-    "level": "Medium",
-    "id": 6445
-  },
+
   {
     "language": "Tailwind",
     "question": "What is Tailwind CSS?",
@@ -51544,19 +48508,7 @@ export const questions = [
     "level": "Hard",
     "id": 4838
   },
-  {
-    "language": "C",
-    "question": "Which of the following is a valid C data type?",
-    "options": [
-      "integer",
-      "real",
-      "float",
-      "decimal"
-    ],
-    "answer": "float",
-    "level": "Hard",
-    "id": 9769
-  },
+
   {
     "language": "Bootstrap 4",
     "question": "Which Bootstrap class makes an element responsive?",
@@ -51609,19 +48561,7 @@ export const questions = [
     "level": "Medium",
     "id": 1510
   },
-  {
-    "language": "C",
-    "question": "Which of the following is a valid C data type?",
-    "options": [
-      "integer",
-      "real",
-      "float",
-      "decimal"
-    ],
-    "answer": "float",
-    "level": "Easy",
-    "id": 6346
-  },
+
   {
     "language": "JavaScript",
     "question": "Which symbol is used for comments in JavaScript?",
@@ -51635,19 +48575,7 @@ export const questions = [
     "level": "Hard",
     "id": 7764
   },
-  {
-    "language": "C",
-    "question": "Which of the following is a valid C data type?",
-    "options": [
-      "integer",
-      "real",
-      "float",
-      "decimal"
-    ],
-    "answer": "float",
-    "level": "Medium",
-    "id": 5718
-  },
+
   {
     "language": "JavaScript",
     "question": "Which symbol is used for comments in JavaScript?",
@@ -51869,19 +48797,7 @@ export const questions = [
     "level": "Hard",
     "id": 2480
   },
-  {
-    "language": "C",
-    "question": "What is the size of an int in C (typically)?",
-    "options": [
-      "2 bytes",
-      "4 bytes",
-      "8 bytes",
-      "Depends on compiler"
-    ],
-    "answer": "Depends on compiler",
-    "level": "Hard",
-    "id": 8313
-  },
+
   {
     "language": "HTML5",
     "question": "Which tag is used to create a hyperlink in HTML?",
@@ -52168,19 +49084,7 @@ export const questions = [
     "level": "Easy",
     "id": 9963
   },
-  {
-    "language": "C",
-    "question": "Which of the following is a valid C data type?",
-    "options": [
-      "integer",
-      "real",
-      "float",
-      "decimal"
-    ],
-    "answer": "float",
-    "level": "Medium",
-    "id": 3773
-  },
+
   {
     "language": "HTML5",
     "question": "Which tag is used to create a hyperlink in HTML?",
@@ -52324,19 +49228,7 @@ export const questions = [
     "level": "Medium",
     "id": 3432
   },
-  {
-    "language": "C",
-    "question": "What is the size of an int in C (typically)?",
-    "options": [
-      "2 bytes",
-      "4 bytes",
-      "8 bytes",
-      "Depends on compiler"
-    ],
-    "answer": "Depends on compiler",
-    "level": "Medium",
-    "id": 9157
-  },
+
   {
     "language": "HTML5",
     "question": "What does HTML stand for?",
@@ -52415,19 +49307,7 @@ export const questions = [
     "level": "Medium",
     "id": 4567
   },
-  {
-    "language": "C",
-    "question": "What is the size of an int in C (typically)?",
-    "options": [
-      "2 bytes",
-      "4 bytes",
-      "8 bytes",
-      "Depends on compiler"
-    ],
-    "answer": "Depends on compiler",
-    "level": "Easy",
-    "id": 4394
-  },
+
   {
     "language": "DSA C++",
     "question": "Which data structure uses FIFO?",
@@ -52519,19 +49399,7 @@ export const questions = [
     "level": "Easy",
     "id": 9179
   },
-  {
-    "language": "C",
-    "question": "What is the size of an int in C (typically)?",
-    "options": [
-      "2 bytes",
-      "4 bytes",
-      "8 bytes",
-      "Depends on compiler"
-    ],
-    "answer": "Depends on compiler",
-    "level": "Medium",
-    "id": 4180
-  },
+
   {
     "language": "Python Fullstack",
     "question": "Which template engine is used with Flask?",
@@ -52753,19 +49621,7 @@ export const questions = [
     "level": "Medium",
     "id": 3555
   },
-  {
-    "language": "C",
-    "question": "What is the size of an int in C (typically)?",
-    "options": [
-      "2 bytes",
-      "4 bytes",
-      "8 bytes",
-      "Depends on compiler"
-    ],
-    "answer": "Depends on compiler",
-    "level": "Hard",
-    "id": 5602
-  },
+
   {
     "language": "Java Fullstack",
     "question": "Which framework is commonly used in Java Fullstack for backend?",
@@ -53039,19 +49895,7 @@ export const questions = [
     "level": "Hard",
     "id": 4406
   },
-  {
-    "language": "C",
-    "question": "What is the size of an int in C (typically)?",
-    "options": [
-      "2 bytes",
-      "4 bytes",
-      "8 bytes",
-      "Depends on compiler"
-    ],
-    "answer": "Depends on compiler",
-    "level": "Hard",
-    "id": 7859
-  },
+
   {
     "language": "C++",
     "question": "Which of the following is not a C++ access specifier?",
@@ -53429,19 +50273,7 @@ export const questions = [
     "level": "Easy",
     "id": 9673
   },
-  {
-    "language": "C",
-    "question": "What is the size of an int in C (typically)?",
-    "options": [
-      "2 bytes",
-      "4 bytes",
-      "8 bytes",
-      "Depends on compiler"
-    ],
-    "answer": "Depends on compiler",
-    "level": "Hard",
-    "id": 4731
-  },
+
   {
     "language": "DSA C++",
     "question": "Which sorting algorithm is fastest on average?",
@@ -53533,19 +50365,7 @@ export const questions = [
     "level": "Hard",
     "id": 1443
   },
-  {
-    "language": "C",
-    "question": "What is the size of an int in C (typically)?",
-    "options": [
-      "2 bytes",
-      "4 bytes",
-      "8 bytes",
-      "Depends on compiler"
-    ],
-    "answer": "Depends on compiler",
-    "level": "Hard",
-    "id": 5332
-  },
+
   {
     "language": "Tailwind",
     "question": "Which utility class sets margin in Tailwind?",
@@ -53754,19 +50574,7 @@ export const questions = [
     "level": "Easy",
     "id": 4772
   },
-  {
-    "language": "C",
-    "question": "Which of the following is a valid C data type?",
-    "options": [
-      "integer",
-      "real",
-      "float",
-      "decimal"
-    ],
-    "answer": "float",
-    "level": "Easy",
-    "id": 5092
-  },
+
   {
     "language": "C++",
     "question": "Which concept allows function or operator to act differently on different data types in C++?",
@@ -53832,19 +50640,7 @@ export const questions = [
     "level": "Medium",
     "id": 5388
   },
-  {
-    "language": "C",
-    "question": "Which of the following is a valid C data type?",
-    "options": [
-      "integer",
-      "real",
-      "float",
-      "decimal"
-    ],
-    "answer": "float",
-    "level": "Easy",
-    "id": 1204
-  },
+
   {
     "language": "Java Fullstack",
     "question": "Which database is often used with Java Fullstack?",
@@ -54287,19 +51083,7 @@ export const questions = [
     "level": "Hard",
     "id": 3103
   },
-  {
-    "language": "C",
-    "question": "Which of the following is a valid C data type?",
-    "options": [
-      "integer",
-      "real",
-      "float",
-      "decimal"
-    ],
-    "answer": "float",
-    "level": "Medium",
-    "id": 4572
-  },
+
   {
     "language": "Java Fullstack",
     "question": "Which framework is commonly used in Java Fullstack for backend?",
@@ -54469,19 +51253,7 @@ export const questions = [
     "level": "Easy",
     "id": 6064
   },
-  {
-    "language": "C",
-    "question": "Which of the following is a valid C data type?",
-    "options": [
-      "integer",
-      "real",
-      "float",
-      "decimal"
-    ],
-    "answer": "float",
-    "level": "Hard",
-    "id": 4771
-  },
+
   {
     "language": "Java Fullstack",
     "question": "Which framework is commonly used in Java Fullstack for backend?",
@@ -54573,19 +51345,7 @@ export const questions = [
     "level": "Easy",
     "id": 3105
   },
-  {
-    "language": "C",
-    "question": "Which of the following is a valid C data type?",
-    "options": [
-      "integer",
-      "real",
-      "float",
-      "decimal"
-    ],
-    "answer": "float",
-    "level": "Medium",
-    "id": 3730
-  },
+
   {
     "language": "Java Fullstack",
     "question": "Which database is often used with Java Fullstack?",
@@ -54625,19 +51385,7 @@ export const questions = [
     "level": "Hard",
     "id": 8664
   },
-  {
-    "language": "C",
-    "question": "Which of the following is a valid C data type?",
-    "options": [
-      "integer",
-      "real",
-      "float",
-      "decimal"
-    ],
-    "answer": "float",
-    "level": "Medium",
-    "id": 8260
-  },
+
   {
     "language": "Bootstrap 4",
     "question": "What class is used for a button in Bootstrap?",
@@ -54742,19 +51490,7 @@ export const questions = [
     "level": "Hard",
     "id": 7153
   },
-  {
-    "language": "C",
-    "question": "Which of the following is a valid C data type?",
-    "options": [
-      "integer",
-      "real",
-      "float",
-      "decimal"
-    ],
-    "answer": "float",
-    "level": "Medium",
-    "id": 4802
-  },
+
   {
     "language": "HTML5",
     "question": "Which tag is used to create a hyperlink in HTML?",
@@ -55457,19 +52193,7 @@ export const questions = [
     "level": "Hard",
     "id": 6730
   },
-  {
-    "language": "C",
-    "question": "What is the size of an int in C (typically)?",
-    "options": [
-      "2 bytes",
-      "4 bytes",
-      "8 bytes",
-      "Depends on compiler"
-    ],
-    "answer": "Depends on compiler",
-    "level": "Easy",
-    "id": 5401
-  },
+
   {
     "language": "RDBMS with Excel",
     "question": "Which SQL clause is used to filter rows?",
@@ -55847,19 +52571,7 @@ export const questions = [
     "level": "Medium",
     "id": 5842
   },
-  {
-    "language": "C",
-    "question": "Which of the following is a valid C data type?",
-    "options": [
-      "integer",
-      "real",
-      "float",
-      "decimal"
-    ],
-    "answer": "float",
-    "level": "Hard",
-    "id": 4086
-  },
+
   {
     "language": "Bootstrap 4",
     "question": "Which Bootstrap class makes an element responsive?",
@@ -55977,19 +52689,7 @@ export const questions = [
     "level": "Medium",
     "id": 6125
   },
-  {
-    "language": "C",
-    "question": "Which of the following is a valid C data type?",
-    "options": [
-      "integer",
-      "real",
-      "float",
-      "decimal"
-    ],
-    "answer": "float",
-    "level": "Hard",
-    "id": 5275
-  },
+
   {
     "language": "Tailwind",
     "question": "What is Tailwind CSS?",
@@ -56029,19 +52729,7 @@ export const questions = [
     "level": "Easy",
     "id": 5128
   },
-  {
-    "language": "C",
-    "question": "What is the size of an int in C (typically)?",
-    "options": [
-      "2 bytes",
-      "4 bytes",
-      "8 bytes",
-      "Depends on compiler"
-    ],
-    "answer": "Depends on compiler",
-    "level": "Medium",
-    "id": 1808
-  },
+
   {
     "language": "Java",
     "question": "Which method is the entry point for a Java program?",
@@ -56302,19 +52990,7 @@ export const questions = [
     "level": "Easy",
     "id": 5179
   },
-  {
-    "language": "C",
-    "question": "What is the size of an int in C (typically)?",
-    "options": [
-      "2 bytes",
-      "4 bytes",
-      "8 bytes",
-      "Depends on compiler"
-    ],
-    "answer": "Depends on compiler",
-    "level": "Medium",
-    "id": 9678
-  },
+
   {
     "language": "CSS3",
     "question": "What does CSS stand for?",
@@ -56770,19 +53446,7 @@ export const questions = [
     "level": "Medium",
     "id": 6030
   },
-  {
-    "language": "C",
-    "question": "What is the size of an int in C (typically)?",
-    "options": [
-      "2 bytes",
-      "4 bytes",
-      "8 bytes",
-      "Depends on compiler"
-    ],
-    "answer": "Depends on compiler",
-    "level": "Medium",
-    "id": 4062
-  },
+
   {
     "language": "RDBMS with Excel",
     "question": "Which function in Excel is used to lookup values?",
@@ -56926,19 +53590,7 @@ export const questions = [
     "level": "Medium",
     "id": 6675
   },
-  {
-    "language": "C",
-    "question": "Which of the following is a valid C data type?",
-    "options": [
-      "integer",
-      "real",
-      "float",
-      "decimal"
-    ],
-    "answer": "float",
-    "level": "Medium",
-    "id": 9675
-  },
+
   {
     "language": "CSS3",
     "question": "What does CSS stand for?",
@@ -57186,32 +53838,8 @@ export const questions = [
     "level": "Easy",
     "id": 6194
   },
-  {
-    "language": "C",
-    "question": "What is the size of an int in C (typically)?",
-    "options": [
-      "2 bytes",
-      "4 bytes",
-      "8 bytes",
-      "Depends on compiler"
-    ],
-    "answer": "Depends on compiler",
-    "level": "Hard",
-    "id": 9856
-  },
-  {
-    "language": "C",
-    "question": "What is the size of an int in C (typically)?",
-    "options": [
-      "2 bytes",
-      "4 bytes",
-      "8 bytes",
-      "Depends on compiler"
-    ],
-    "answer": "Depends on compiler",
-    "level": "Hard",
-    "id": 2701
-  },
+
+
   {
     "language": "RDBMS with Excel",
     "question": "Which SQL clause is used to filter rows?",
@@ -57277,19 +53905,7 @@ export const questions = [
     "level": "Hard",
     "id": 8880
   },
-  {
-    "language": "C",
-    "question": "What is the size of an int in C (typically)?",
-    "options": [
-      "2 bytes",
-      "4 bytes",
-      "8 bytes",
-      "Depends on compiler"
-    ],
-    "answer": "Depends on compiler",
-    "level": "Easy",
-    "id": 1701
-  },
+
   {
     "language": "CSS3",
     "question": "Which property is used to change the text color in CSS?",
@@ -57329,19 +53945,7 @@ export const questions = [
     "level": "Hard",
     "id": 1675
   },
-  {
-    "language": "C",
-    "question": "What is the size of an int in C (typically)?",
-    "options": [
-      "2 bytes",
-      "4 bytes",
-      "8 bytes",
-      "Depends on compiler"
-    ],
-    "answer": "Depends on compiler",
-    "level": "Easy",
-    "id": 1162
-  },
+
   {
     "language": "MERN Fullstack",
     "question": "What does MERN stand for?",
@@ -57524,19 +54128,7 @@ export const questions = [
     "level": "Easy",
     "id": 2021
   },
-  {
-    "language": "C",
-    "question": "What is the size of an int in C (typically)?",
-    "options": [
-      "2 bytes",
-      "4 bytes",
-      "8 bytes",
-      "Depends on compiler"
-    ],
-    "answer": "Depends on compiler",
-    "level": "Hard",
-    "id": 9587
-  },
+
   {
     "language": "HTML5",
     "question": "What does HTML stand for?",
@@ -57849,19 +54441,7 @@ export const questions = [
     "level": "Medium",
     "id": 6527
   },
-  {
-    "language": "C",
-    "question": "Which of the following is a valid C data type?",
-    "options": [
-      "integer",
-      "real",
-      "float",
-      "decimal"
-    ],
-    "answer": "float",
-    "level": "Hard",
-    "id": 7341
-  },
+
   {
     "language": "Tailwind",
     "question": "What is Tailwind CSS?",
@@ -58031,19 +54611,7 @@ export const questions = [
     "level": "Medium",
     "id": 5994
   },
-  {
-    "language": "C",
-    "question": "What is the size of an int in C (typically)?",
-    "options": [
-      "2 bytes",
-      "4 bytes",
-      "8 bytes",
-      "Depends on compiler"
-    ],
-    "answer": "Depends on compiler",
-    "level": "Easy",
-    "id": 6523
-  },
+
   {
     "language": "Bootstrap 4",
     "question": "Which Bootstrap class makes an element responsive?",
@@ -58603,19 +55171,7 @@ export const questions = [
     "level": "Medium",
     "id": 3941
   },
-  {
-    "language": "C",
-    "question": "What is the size of an int in C (typically)?",
-    "options": [
-      "2 bytes",
-      "4 bytes",
-      "8 bytes",
-      "Depends on compiler"
-    ],
-    "answer": "Depends on compiler",
-    "level": "Easy",
-    "id": 3068
-  },
+
   {
     "language": "Python Fullstack",
     "question": "Which Python web framework is used in Fullstack?",
@@ -58655,19 +55211,7 @@ export const questions = [
     "level": "Easy",
     "id": 5700
   },
-  {
-    "language": "C",
-    "question": "Which of the following is a valid C data type?",
-    "options": [
-      "integer",
-      "real",
-      "float",
-      "decimal"
-    ],
-    "answer": "float",
-    "level": "Easy",
-    "id": 8601
-  },
+
   {
     "language": "Data Science",
     "question": "Which library is used for data analysis in Python?",
@@ -58720,19 +55264,7 @@ export const questions = [
     "level": "Easy",
     "id": 1619
   },
-  {
-    "language": "C",
-    "question": "What is the size of an int in C (typically)?",
-    "options": [
-      "2 bytes",
-      "4 bytes",
-      "8 bytes",
-      "Depends on compiler"
-    ],
-    "answer": "Depends on compiler",
-    "level": "Hard",
-    "id": 3962
-  },
+
   {
     "language": "CSS3",
     "question": "Which property is used to change the text color in CSS?",
@@ -58889,19 +55421,7 @@ export const questions = [
     "level": "Hard",
     "id": 4535
   },
-  {
-    "language": "C",
-    "question": "What is the size of an int in C (typically)?",
-    "options": [
-      "2 bytes",
-      "4 bytes",
-      "8 bytes",
-      "Depends on compiler"
-    ],
-    "answer": "Depends on compiler",
-    "level": "Easy",
-    "id": 2759
-  },
+
   {
     "language": "Java",
     "question": "Which of these is not a Java keyword?",
@@ -59357,19 +55877,7 @@ export const questions = [
     "level": "Easy",
     "id": 7054
   },
-  {
-    "language": "C",
-    "question": "What is the size of an int in C (typically)?",
-    "options": [
-      "2 bytes",
-      "4 bytes",
-      "8 bytes",
-      "Depends on compiler"
-    ],
-    "answer": "Depends on compiler",
-    "level": "Hard",
-    "id": 1117
-  },
+
   {
     "language": "RDBMS with Excel",
     "question": "Which function in Excel is used to lookup values?",
@@ -59383,19 +55891,7 @@ export const questions = [
     "level": "Easy",
     "id": 1567
   },
-  {
-    "language": "C",
-    "question": "Which of the following is a valid C data type?",
-    "options": [
-      "integer",
-      "real",
-      "float",
-      "decimal"
-    ],
-    "answer": "float",
-    "level": "Medium",
-    "id": 9405
-  },
+
   {
     "language": "Data Science",
     "question": "Which term refers to drawing insights from data?",
@@ -59825,19 +56321,7 @@ export const questions = [
     "level": "Hard",
     "id": 5068
   },
-  {
-    "language": "C",
-    "question": "What is the size of an int in C (typically)?",
-    "options": [
-      "2 bytes",
-      "4 bytes",
-      "8 bytes",
-      "Depends on compiler"
-    ],
-    "answer": "Depends on compiler",
-    "level": "Easy",
-    "id": 7621
-  },
+
   {
     "language": "JavaScript",
     "question": "Which company developed JavaScript?",
@@ -60020,19 +56504,7 @@ export const questions = [
     "level": "Hard",
     "id": 7022
   },
-  {
-    "language": "C",
-    "question": "Which of the following is a valid C data type?",
-    "options": [
-      "integer",
-      "real",
-      "float",
-      "decimal"
-    ],
-    "answer": "float",
-    "level": "Medium",
-    "id": 8771
-  },
+
   {
     "language": "Python Fullstack",
     "question": "Which template engine is used with Flask?",
@@ -60111,19 +56583,7 @@ export const questions = [
     "level": "Medium",
     "id": 6780
   },
-  {
-    "language": "C",
-    "question": "What is the size of an int in C (typically)?",
-    "options": [
-      "2 bytes",
-      "4 bytes",
-      "8 bytes",
-      "Depends on compiler"
-    ],
-    "answer": "Depends on compiler",
-    "level": "Easy",
-    "id": 5456
-  },
+
   {
     "language": "Tailwind",
     "question": "Which utility class sets margin in Tailwind?",
@@ -60202,19 +56662,7 @@ export const questions = [
     "level": "Easy",
     "id": 7925
   },
-  {
-    "language": "C",
-    "question": "What is the size of an int in C (typically)?",
-    "options": [
-      "2 bytes",
-      "4 bytes",
-      "8 bytes",
-      "Depends on compiler"
-    ],
-    "answer": "Depends on compiler",
-    "level": "Medium",
-    "id": 9142
-  },
+
   {
     "language": "Tailwind",
     "question": "What is Tailwind CSS?",
@@ -60475,19 +56923,7 @@ export const questions = [
     "level": "Easy",
     "id": 7001
   },
-  {
-    "language": "C",
-    "question": "What is the size of an int in C (typically)?",
-    "options": [
-      "2 bytes",
-      "4 bytes",
-      "8 bytes",
-      "Depends on compiler"
-    ],
-    "answer": "Depends on compiler",
-    "level": "Medium",
-    "id": 9105
-  },
+
   {
     "language": "C++",
     "question": "Which of the following is not a C++ access specifier?",
@@ -60722,19 +57158,7 @@ export const questions = [
     "level": "Easy",
     "id": 8198
   },
-  {
-    "language": "C",
-    "question": "What is the size of an int in C (typically)?",
-    "options": [
-      "2 bytes",
-      "4 bytes",
-      "8 bytes",
-      "Depends on compiler"
-    ],
-    "answer": "Depends on compiler",
-    "level": "Hard",
-    "id": 2566
-  },
+
   {
     "language": "RDBMS with Excel",
     "question": "Which function in Excel is used to lookup values?",
@@ -60748,19 +57172,7 @@ export const questions = [
     "level": "Hard",
     "id": 8612
   },
-  {
-    "language": "C",
-    "question": "Which of the following is a valid C data type?",
-    "options": [
-      "integer",
-      "real",
-      "float",
-      "decimal"
-    ],
-    "answer": "float",
-    "level": "Easy",
-    "id": 4942
-  },
+
   {
     "language": "DSA C++",
     "question": "Which data structure uses FIFO?",
@@ -60774,19 +57186,7 @@ export const questions = [
     "level": "Hard",
     "id": 6304
   },
-  {
-    "language": "C",
-    "question": "Which of the following is a valid C data type?",
-    "options": [
-      "integer",
-      "real",
-      "float",
-      "decimal"
-    ],
-    "answer": "float",
-    "level": "Hard",
-    "id": 1651
-  },
+
   {
     "language": "MERN Fullstack",
     "question": "Which part of MERN stack handles the frontend?",
@@ -61099,19 +57499,7 @@ export const questions = [
     "level": "Medium",
     "id": 7745
   },
-  {
-    "language": "C",
-    "question": "What is the size of an int in C (typically)?",
-    "options": [
-      "2 bytes",
-      "4 bytes",
-      "8 bytes",
-      "Depends on compiler"
-    ],
-    "answer": "Depends on compiler",
-    "level": "Medium",
-    "id": 4513
-  },
+
   {
     "language": "HTML5",
     "question": "What does HTML stand for?",
@@ -61294,32 +57682,8 @@ export const questions = [
     "level": "Easy",
     "id": 2604
   },
-  {
-    "language": "C",
-    "question": "What is the size of an int in C (typically)?",
-    "options": [
-      "2 bytes",
-      "4 bytes",
-      "8 bytes",
-      "Depends on compiler"
-    ],
-    "answer": "Depends on compiler",
-    "level": "Easy",
-    "id": 9516
-  },
-  {
-    "language": "C",
-    "question": "Which of the following is a valid C data type?",
-    "options": [
-      "integer",
-      "real",
-      "float",
-      "decimal"
-    ],
-    "answer": "float",
-    "level": "Easy",
-    "id": 2581
-  },
+
+
   {
     "language": "DSA C++",
     "question": "Which data structure uses FIFO?",
@@ -61736,19 +58100,7 @@ export const questions = [
     "level": "Easy",
     "id": 1713
   },
-  {
-    "language": "C",
-    "question": "Which of the following is a valid C data type?",
-    "options": [
-      "integer",
-      "real",
-      "float",
-      "decimal"
-    ],
-    "answer": "float",
-    "level": "Hard",
-    "id": 2917
-  },
+
   {
     "language": "DSA C++",
     "question": "Which data structure uses FIFO?",
@@ -62204,19 +58556,7 @@ export const questions = [
     "level": "Easy",
     "id": 4439
   },
-  {
-    "language": "C",
-    "question": "Which of the following is a valid C data type?",
-    "options": [
-      "integer",
-      "real",
-      "float",
-      "decimal"
-    ],
-    "answer": "float",
-    "level": "Easy",
-    "id": 2431
-  },
+
   {
     "language": "Data Science",
     "question": "Which library is used for data analysis in Python?",
@@ -62438,19 +58778,7 @@ export const questions = [
     "level": "Easy",
     "id": 1353
   },
-  {
-    "language": "C",
-    "question": "Which of the following is a valid C data type?",
-    "options": [
-      "integer",
-      "real",
-      "float",
-      "decimal"
-    ],
-    "answer": "float",
-    "level": "Hard",
-    "id": 1155
-  },
+
   {
     "language": "MERN Fullstack",
     "question": "Which part of MERN stack handles the frontend?",
@@ -62828,19 +59156,7 @@ export const questions = [
     "level": "Medium",
     "id": 8647
   },
-  {
-    "language": "C",
-    "question": "What is the size of an int in C (typically)?",
-    "options": [
-      "2 bytes",
-      "4 bytes",
-      "8 bytes",
-      "Depends on compiler"
-    ],
-    "answer": "Depends on compiler",
-    "level": "Hard",
-    "id": 6449
-  },
+
   {
     "language": "JavaScript",
     "question": "Which company developed JavaScript?",
@@ -63439,19 +59755,7 @@ export const questions = [
     "level": "Hard",
     "id": 4823
   },
-  {
-    "language": "C",
-    "question": "What is the size of an int in C (typically)?",
-    "options": [
-      "2 bytes",
-      "4 bytes",
-      "8 bytes",
-      "Depends on compiler"
-    ],
-    "answer": "Depends on compiler",
-    "level": "Easy",
-    "id": 5122
-  },
+
   {
     "language": "Python Fullstack",
     "question": "Which template engine is used with Flask?",
@@ -63673,19 +59977,7 @@ export const questions = [
     "level": "Easy",
     "id": 2431
   },
-  {
-    "language": "C",
-    "question": "Which of the following is a valid C data type?",
-    "options": [
-      "integer",
-      "real",
-      "float",
-      "decimal"
-    ],
-    "answer": "float",
-    "level": "Medium",
-    "id": 4466
-  },
+
   {
     "language": "RDBMS with Excel",
     "question": "Which function in Excel is used to lookup values?",
@@ -63777,19 +60069,7 @@ export const questions = [
     "level": "Hard",
     "id": 9096
   },
-  {
-    "language": "C",
-    "question": "What is the size of an int in C (typically)?",
-    "options": [
-      "2 bytes",
-      "4 bytes",
-      "8 bytes",
-      "Depends on compiler"
-    ],
-    "answer": "Depends on compiler",
-    "level": "Medium",
-    "id": 5174
-  },
+
   {
     "language": "Java Fullstack",
     "question": "Which database is often used with Java Fullstack?",
@@ -63803,19 +60083,7 @@ export const questions = [
     "level": "Easy",
     "id": 5138
   },
-  {
-    "language": "C",
-    "question": "Which of the following is a valid C data type?",
-    "options": [
-      "integer",
-      "real",
-      "float",
-      "decimal"
-    ],
-    "answer": "float",
-    "level": "Easy",
-    "id": 3165
-  },
+
   {
     "language": "Python",
     "question": "What does the len() function do in Python?",
@@ -64063,19 +60331,7 @@ export const questions = [
     "level": "Easy",
     "id": 4085
   },
-  {
-    "language": "C",
-    "question": "What is the size of an int in C (typically)?",
-    "options": [
-      "2 bytes",
-      "4 bytes",
-      "8 bytes",
-      "Depends on compiler"
-    ],
-    "answer": "Depends on compiler",
-    "level": "Medium",
-    "id": 4461
-  },
+
   {
     "language": "DSA C++",
     "question": "Which data structure uses FIFO?",
@@ -64102,19 +60358,7 @@ export const questions = [
     "level": "Medium",
     "id": 2040
   },
-  {
-    "language": "C",
-    "question": "Which of the following is a valid C data type?",
-    "options": [
-      "integer",
-      "real",
-      "float",
-      "decimal"
-    ],
-    "answer": "float",
-    "level": "Hard",
-    "id": 5989
-  },
+
   {
     "language": "RDBMS with Excel",
     "question": "Which function in Excel is used to lookup values?",
@@ -64284,19 +60528,7 @@ export const questions = [
     "level": "Easy",
     "id": 7457
   },
-  {
-    "language": "C",
-    "question": "Which of the following is a valid C data type?",
-    "options": [
-      "integer",
-      "real",
-      "float",
-      "decimal"
-    ],
-    "answer": "float",
-    "level": "Easy",
-    "id": 1383
-  },
+
   {
     "language": "Python Fullstack",
     "question": "Which template engine is used with Flask?",
@@ -64505,19 +60737,7 @@ export const questions = [
     "level": "Hard",
     "id": 5342
   },
-  {
-    "language": "C",
-    "question": "Which of the following is a valid C data type?",
-    "options": [
-      "integer",
-      "real",
-      "float",
-      "decimal"
-    ],
-    "answer": "float",
-    "level": "Medium",
-    "id": 4867
-  },
+
   {
     "language": "Tailwind",
     "question": "Which utility class sets margin in Tailwind?",
@@ -64531,19 +60751,7 @@ export const questions = [
     "level": "Easy",
     "id": 6830
   },
-  {
-    "language": "C",
-    "question": "Which of the following is a valid C data type?",
-    "options": [
-      "integer",
-      "real",
-      "float",
-      "decimal"
-    ],
-    "answer": "float",
-    "level": "Easy",
-    "id": 2482
-  },
+
   {
     "language": "C++",
     "question": "Which of the following is not a C++ access specifier?",
@@ -64570,19 +60778,7 @@ export const questions = [
     "level": "Hard",
     "id": 4087
   },
-  {
-    "language": "C",
-    "question": "What is the size of an int in C (typically)?",
-    "options": [
-      "2 bytes",
-      "4 bytes",
-      "8 bytes",
-      "Depends on compiler"
-    ],
-    "answer": "Depends on compiler",
-    "level": "Hard",
-    "id": 8613
-  },
+
   {
     "language": "HTML5",
     "question": "What does HTML stand for?",
@@ -64817,19 +61013,7 @@ export const questions = [
     "level": "Easy",
     "id": 6612
   },
-  {
-    "language": "C",
-    "question": "What is the size of an int in C (typically)?",
-    "options": [
-      "2 bytes",
-      "4 bytes",
-      "8 bytes",
-      "Depends on compiler"
-    ],
-    "answer": "Depends on compiler",
-    "level": "Hard",
-    "id": 1396
-  },
+
   {
     "language": "Java Fullstack",
     "question": "Which framework is commonly used in Java Fullstack for backend?",
@@ -64882,19 +61066,7 @@ export const questions = [
     "level": "Medium",
     "id": 5567
   },
-  {
-    "language": "C",
-    "question": "Which of the following is a valid C data type?",
-    "options": [
-      "integer",
-      "real",
-      "float",
-      "decimal"
-    ],
-    "answer": "float",
-    "level": "Easy",
-    "id": 4499
-  },
+
   {
     "language": "CSS3",
     "question": "Which property is used to change the text color in CSS?",
@@ -64998,5 +61170,1489 @@ export const questions = [
     "answer": "Cascading Style Sheets",
     "level": "Easy",
     "id": 7943
-  }
+  },
+  {
+    language: "C",
+    question: "Which of the following is not a storage class in C?",
+    options: ["auto", "register", "volatile", "static"],
+    answer: "volatile",
+  },
+  {
+    language: "C",
+    question: "Which keyword is used to define global variables?",
+    options: ["extern", "global", "static", "public"],
+    answer: "extern",
+  },
+  {
+    language: "C",
+    question: "What is the size of a pointer on a 64-bit system?",
+    options: ["8 bytes", "4 bytes", "2 bytes", "Depends on data type"],
+    answer: "8 bytes",
+  },
+  {
+    language: "C",
+    question: 'What is the output of printf("%d", 10/3);?',
+    options: ["3", "3.33", "3.0", "Error"],
+    answer: "3",
+  },
+  {
+    language: "C",
+    question: "Which of the following is used to comment a single line in C?",
+    options: ["//", "/* */", "<!-- -->", "#"],
+    answer: "//",
+  },
+  {
+    language: "C",
+    question:
+      "Which of the following data types is used to store characters in C?",
+    options: ["char", "string", "int", "float"],
+    answer: "char",
+  },
+  {
+    language: "C",
+    question: "Which operator has the highest precedence in C?",
+    options: ["()", "++", "*", "&&"],
+    answer: "()",
+  },
+  {
+    language: "C",
+    question: "What is the result of 5 % 2 in C?",
+    options: ["1", "2", "0", "2.5"],
+    answer: "1",
+  },
+  {
+    language: "C",
+    question: "Which loop is guaranteed to execute at least once?",
+    options: ["do-while", "while", "for", "none"],
+    answer: "do-while",
+  },
+  {
+    language: "C",
+    question: "What will be the output of sizeof('A')?",
+    options: ["4", "2", "1", "Depends on compiler"],
+    answer: "4",
+  },
+  {
+    language: "C",
+    question: "Who is the father of C language??",
+    options: [
+      "Steve Jobs",
+      "James Gosling",
+      "Dennis Ritiche",
+      "Rasmus Lerdorf",
+    ],
+    answer: "Dennis Ritiche",
+  },
+  {
+    language: "C",
+    question: "Which of the following is not a valid C variable name?",
+    options: ["int number", "float rate", "int variable_count", "int $main;"],
+    answer: "int $main;",
+  },
+  {
+    language: "C",
+    question: "All keywords in C are in-----",
+    options: [
+      "LowerCase letters",
+      "UpperCase letters",
+      "CamelCase letters",
+      "None of the mentioned",
+    ],
+    answer: "LowerCase letters",
+  },
+  {
+    language: "C",
+    question: "Which of the following is true for variable names in C?",
+    options: [
+      "They can contain alphanumeric characters as well as special characters",
+      "It is not an error to declare a variable to be one of the keywords(like goto or static)",
+      "Variable names cannot start with a digit",
+      "Variable can be of any length ?",
+    ],
+    answer: "Variable names cannot start with a digit",
+  },
+  {
+    language: "C",
+    question: "Which is valid C expression?",
+    options: [
+      "int my_num = 100,000",
+      "int my_num = 100000",
+      "int my num = 1000",
+      "int $my_num = 10000",
+    ],
+    answer: "int my_num = 100000",
+  },
+  {
+    language: "C",
+    question: " Which of the following cannot be a variable name in C ?",
+    options: ["volatile", "truw", "friend", "export"],
+    answer: "volatile",
+  },
+  {
+    language: "C",
+    question: "What is short int in C programming?",
+    options: [
+      "The basic data type of C",
+      "Qualifier",
+      "Short is the qualifier and int is the basic data type",
+      "All of the mentioned ? ",
+    ],
+    answer: "Short is the qualifier and int is the basic data type",
+  },
+  {
+    language: "C",
+    question:
+      "Which of the following declaration is not supported by C language?",
+    options: [
+      "String str",
+      "char *str",
+      "float str = 3e2",
+      "Both “String str;” and “float str = 3e2 ",
+    ],
+    answer: "String str",
+  },
+  {
+    language: "C",
+    question:
+      "Which keyword is used to prevent any changes in the variable within a C program?",
+    options: ["immutable", "mutable", "const", "volatile"],
+    answer: "const",
+  },
+  {
+    language: "C",
+    question: "What is the result of logical or relational expression in C?",
+    options: [
+      "True or Fase",
+      "0 or 1",
+      "0 if an expression is false and any positive number if an expression is true",
+      "None of the mentioned",
+    ],
+    answer: "0 or 1",
+  },
+  {
+    language: "C",
+    question: " Which of the following typecasting is accepted by C langua?",
+    options: [
+      "Widening conversions",
+      "Narrowing conversions",
+      "Widening & Narrowing conversions",
+      "None of the mentioned",
+    ],
+    answer: "Widening & Narrowing conversions",
+  },
+  {
+    language: "C",
+    question: "Where in C the order of precedence of operators do not exist?",
+    options: [
+      "Within conditional statements 'if' 'else'",
+      "Within 'while' 'do-while'",
+      "Within a macro definition",
+      "None of the mentioned",
+    ],
+    answer: "None of the mentioned",
+  },
+  {
+    language: "C",
+    question:
+      "Which of the following is NOT possible with any 2 operators in C?",
+    options: [
+      "Different precedence, same associativity",
+      "Different precedence, different associativity",
+      "Same precedence, different associativity",
+      "All of the mentioned",
+    ],
+    answer: "Same precedence, different associativity",
+  },
+  {
+    language: "C",
+    question: "What is an example of iteration in C?",
+    options: ["for", "while", "do-while", "all of the mentioned"],
+    answer: "all of the mentioned",
+  },
+  {
+    language: "C",
+    question: "Functions can return enumeration constants in C?",
+    options: [
+      "true",
+      "false",
+      "depends on the compiler",
+      "depends on the standard",
+    ],
+    answer: "true",
+  },
+  {
+    language: "C",
+    question: "Functions in C Language are always _________",
+    options: [
+      "Internal",
+      "External",
+      "both internaal and external",
+      "External and Internal are not valid terms for functions",
+    ],
+    answer: "External",
+  },
+  {
+    language: "C",
+    question: "Which of following is not accepted in C?",
+    options: [
+      "static a = 10; //static as",
+      "static int func (int); //parameter as static",
+      "static static int a; //a static variable prefixed with static",
+      "all of the mentioned",
+    ],
+    answer: "static static int a; //a static variable prefixed with static",
+  },
+  {
+    language: "C",
+    question:
+      "Property which allows to produce different executable for different platforms in C is called?",
+    options: [
+      "File inclusion",
+      "Selective inclusion",
+      "Conditional compilation",
+      "Recursive macros",
+    ],
+    answer: "Conditional compilation",
+  },
+  {
+    language: "C",
+    question: "What is #include <stdio.h>?",
+    options: [
+      "Preprocessor directive",
+      "Inclusion directive",
+      "File inclusion directive",
+      "None of the mentioned",
+    ],
+    answer: "Preprocessor directive",
+  },
+  {
+    language: "C",
+    question: "C preprocessors can have compiler specific features.",
+    options: [
+      "True",
+      "False",
+      "Depends on the standard",
+      "Depends on the platform",
+    ],
+    answer: "True",
+  },
+  {
+    language: "C",
+    question: "Which of the following are C preprocessors?",
+    options: [" #ifdef", "#define", "#endif", "all of the mentioned"],
+    answer: "all of the mentioned",
+  },
+  {
+    language: "C",
+    question: "The C-preprocessors are specified with _________ symbol.",
+    options: ["#", "$", "*", "&"],
+    answer: "#",
+  },
+  {
+    language: "C",
+    question:
+      "How many number of pointer (*) does C have against a pointer variable declaration?",
+    options: ["7", "127", "255", "No Limits"],
+    answer: "No Limits",
+  },
+  {
+    language: "C",
+    question:
+      "How is search done in #include and #include “somelibrary.h” according to C standard?",
+    options: [
+      "When former is used, current directory is searched and when latter is used, standard directory is searched",
+      "When former is used, standard directory is searched and when latter is used, current directory is searched",
+      "When former is used, search is done in implementation defined manner and when latter is used, current directory is searched",
+      "When former is used, search is done in implementation defined manner and when latter is used, current directory is searched",
+    ],
+    answer:
+      "When former is used, standard directory is searched and when latter is used, current directory is searched",
+  },
+  {
+    language: "C",
+    question:
+      " Which of the following is not possible statically in C language?",
+    options: [
+      "Jagged Array",
+      "Rectangular Array",
+      "Cuboidal Array",
+      "Multidimensional Array",
+    ],
+    answer: "Jagged Array",
+  },
+  {
+    language: "C",
+    question:
+      "Which of the following return-type cannot be used for a function in C?",
+    options: ["char *", "struct", "void", "none of the mentioned"],
+    answer: "none of the mentioned",
+  },
+  {
+    language: "C",
+    question:
+      " The standard header _______ is used for variable list arguments (…) in C",
+    options: ["<stdio.h >", "<stdlib.h>", "<math.h>", "<stdarg.h>"],
+    answer: "<stdarg.h>",
+  },
+  {
+    language: "C",
+    question:
+      " When a C program is started, O.S environment is responsible for opening file and providing pointer for that file?",
+    options: [
+      "Standard input",
+      "Standard output",
+      "Standard error",
+      "All of the mentioned",
+    ],
+    answer: "All of the mentioned",
+  },
+  {
+    language: "C",
+    question: " In C language, FILE is of which data type?",
+    options: ["int", "char *", "struct", "None of the mentioned"],
+    answer: "struct",
+  },
+  {
+    language: "C",
+    question: "What is the sizeof(char) in a 32-bit C compiler?",
+    options: ["1 bit", "2 bits", "1 Byte", "2 Bytes"],
+    answer: "1 Byte",
+  },
+  {
+    language: "C",
+    question: "Which of the following is not an operator in C?",
+    options: [",", "sizeof()", "~", "None of the mentioned"],
+    answer: "sizeof()",
+  },
+  {
+    language: "C",
+    question: "scanf() is a predefined function in______header file.",
+    options: ["stdlib.h", "ctype.h", "stdio.h", "stdarg.h"],
+    answer: "stdio.h",
+  },
+  {
+    language: "C",
+    question: "Which of the following is not a logical operator?",
+    options: ["&&", "!", "||", "|"],
+    answer: "|",
+  },
+  {
+    language: "C",
+    question:
+      "Given that x = 7.5, j = -1.0, n = 1.0, m = 2.0 the value of - - x + j == x>n> = m is?",
+    options: ["0", "1", "2", "3"],
+    answer: "0",
+  },
+  {
+    language: "C",
+    question: "Which data structure is used to handle recursion in C?",
+    options: ["Stack", "Queue", "Deque", "Trees"],
+    answer: "Stack",
+  },
+  {
+    language: "C",
+    question: "Which of the following are correct file opening modes in C?",
+    options: ["r", "rb", "w", "All of the Above"],
+    answer: "All of the Above",
+  },
+  {
+    language: "C",
+    question:
+      "The translator which performs macro calls expansion is called?",
+    options: [
+      "Macro processor",
+      "Micro pre - processor",
+      "Macro pre - processor",
+      "Dynamic Linker",
+    ],
+    answer: "Macro pre - processor",
+  },
+  {
+    language: "C",
+    question: "What is the use of #pragma once?",
+    options: [
+      "Used in a header file to avoid its inclusion more than once",
+      "Used to avoid multiple declarations of same variable. ",
+      "Used in a c file to include a header file at least once. ",
+      "Used to avoid assertions",
+    ],
+    answer: "Used in a header file to avoid its inclusion more than once",
+  },
+  {
+    language: "C",
+    question: "Which file is generated after pre-processing of a C program?",
+    options: [".p", ".i", ".o", ".m"],
+    answer: ".i",
+  },
+  {
+    language: "C",
+    question:
+      "A one dimensional array A has indices 1....75. Each element is a string and takes up three memory words. The array is stored at location 1120 decimal. The starting address of A[49] is?",
+    options: ["1267", "1164", "1264", "1169"],
+    answer: "1264",
+  },
+  {
+    language: "C",
+    question: "Which of the following is true about arrays in C?",
+    options: [
+      "For every type T, there can be an array of T.",
+      "For every type T except void and function type, there can be an array of T.",
+      "When an array is passed to a function, C compiler creates a copy of array.",
+      "2D arrays are stored in column major form ",
+    ],
+    answer:
+      "For every type T except void and function type, there can be an array of T.",
+  },
+  {
+    language: "C",
+    question: "The following statement in ‘C’ int (*f())[ ]; declares",
+    options: [
+      "a function returning a pointer to an array of integers.",
+      "a function returning an array of pointers to integers.",
+      "array of functions returning pointers to integers.",
+      "an illegal statement.",
+    ],
+    answer: "a function returning a pointer to an array of integers.",
+  },
+  {
+    language: "C",
+    question: "In C, parameters are always ?",
+    options: [
+      "Passed by value",
+      "Passed by reference",
+      "Non-pointer variables are passed by value and pointers are passed by reference",
+      "Passed by value result",
+    ],
+    answer: "Passed by value",
+  },
+  {
+    language: "C",
+    question:
+      "Which of the following is true about return type of functions in C?",
+    options: [
+      "Functions can return any type",
+      "Functions can return any type except array and functions",
+      "Functions can return any type except array. functions and union",
+      "Functions can return any type except array. functions. function pointer and union",
+    ],
+    answer: "Functions can return any type except array and functions",
+  },
+  {
+    language: "C",
+    question: "Which of the following is not a storage class specifier in C?",
+    options: ["auto", "register", "static", "volatile"],
+    answer: "volatile",
+  },
+  {
+    language: "C",
+    question:
+      "f only one memory location is to be reserved for a class variable, no matter how many objects are instantiated, then the variable should be declared as ?",
+    options: ["extern", "static", "volatile", "const"],
+    answer: "static",
+  },
+  {
+    language: "C",
+    question: "In C, static storage class cannot be used with:?",
+    options: [
+      "Global varoble",
+      "Function parameter",
+      "Function name",
+      "Local variable",
+    ],
+    answer: "Function parameter",
+  },
+  {
+    language: "C",
+    question:
+      "In the context of C data types, which of the followings is correct?",
+    options: [
+      "“unsigned long long int” is a valid data type",
+      "“long long double” is a valid data type.",
+      "“unsigned long double” is a valid data type.",
+      "A). B) and C) all are valid data types.",
+      "A). B) and C) all are invalid data types.",
+    ],
+    answer: "“unsigned long long int” is a valid data type",
+  },
+  {
+    language: "C",
+    question:
+      "Suppose a C program has floating constant 1.414, what's the best way to convert this as float data type?",
+    options: [
+      "(float)1.414",
+      "float(1.414)",
+      "1.414f or 1.414F",
+      "1.414 itself of float data type i.e. nothing else required",
+    ],
+    answer: "1.414f or 1.414F",
+  },
+  {
+    language: "C",
+    question:
+      "For a given integer, which of the following operators can be used to “set” and “reset” a particular bit respectively?",
+    options: ["| and &", "&& and ||", "& and |", "|| and &&"],
+    answer: "| and &",
+  },
+  {
+    language: "C",
+    question:
+      "Why is the & (address-of) operator used with scanf() when reading integer values?",
+    options: [
+      "To specify the format of the input.",
+      "To store the input at the variable’s memory address.",
+      "To perform pointer arithmetic. ",
+      "It is optional and does not affect the function’s behavior.",
+    ],
+    answer: "To store the input at the variable’s memory address.",
+  },
+  {
+    language: "C",
+    question:
+      "As per C language standard, which of the followings is/are not keyword(s)? Pick the best statement. auto make main sizeof elseif?",
+    options: [
+      "sizeof elseif make",
+      "make main elseif",
+      "make main",
+      "auto make",
+    ],
+    answer: "make main elseif",
+  },
+  {
+    language: "C",
+    question:
+      "Which of the following statement is correct for switch controlling expression?",
+    options: [
+      "Only int can be used in “switch” control expression",
+      "Both int and char can be used in “switch” control expression",
+      "All types i.e. int",
+      "char and float can be used in “switch” control expression ",
+      "“switch” control expression can be empty as well",
+    ],
+    answer: "Both int and char can be used in “switch” control expression",
+  },
+  {
+    language: "C",
+    question:
+      "Which of the following is correct with respect to “Jump Statements” in C?",
+    options: ["goto", "continue", "break", "retrun", "All of the above"],
+    answer: "All of the above",
+  },
+  {
+    language: "C",
+    question:
+      "“typedef” in C basically works as an alias. Which of the following is correct for “typedef”?",
+    options: [
+      "typedef can be used to alias compound data types such as struct and union.",
+      "typedef can be used to alias both compound data types and pointer to these compound types. ",
+      "typedef can be used to alias a function pointer. ",
+      "typedef can be used to alias an array. ",
+      "All of the above.",
+    ],
+    answer: "All of the above.",
+  },
+  {
+    language: "C",
+    question:
+      "Which of the followings is correct for a function definition along with storage-class specifier in C language?",
+    options: [
+      "int fun(auto int arg)",
+      "int fun(static int arg)",
+      "int fun(register int arg)",
+      "int fun(extern int arg)",
+      "All of the above are correct.",
+    ],
+    answer: "int fun(register int arg)",
+  },
+  {
+    language: "C",
+    question: "Pick the correct statement for const and volatile.?",
+    options: [
+      "const and volatile can’t be used for struct and union.",
+      "const and volatile can’t be used for enum. ",
+      "const and volatile can’t be used for typedef. ",
+      "const is the opposite of volatile and vice versa. ",
+      "const and volatile are independent i.e. it’s possible that a variable is defined as both const and volatile.",
+    ],
+    answer:
+      "const and volatile are independent i.e. it’s possible that a variable is defined as both const and volatile.",
+  },
+  {
+    language: "C",
+    question:
+      "What are the elements present in the array of the following C code? int array[5] = {5};?",
+    options: [
+      "5, 5, 5, 5, 5 ",
+      "5, 0, 0, 0, 0",
+      "5, (garbage), (garbage), (garbage), (garbage)",
+      "(garbage), (garbage), (garbage), (garbage), 5",
+    ],
+    answer: "5, 0, 0, 0, 0",
+  },
+  {
+    language: "C",
+    question:
+      "C language is available for which of the following Operting system?",
+    options: ["DOs", "Windows", "Unix", "All of the above"],
+    answer: "All of the above",
+  },
+  {
+    language: "C",
+    question: "Which of the following ia Scalar data type?",
+    options: ["Float", "Union", "Array", "Pointer"],
+    answer: "Float",
+  },
+  {
+    language: "C",
+    question: "Which of the following statement about functions of false?",
+    options: [
+      "A function can call itself.",
+      "A function can call another function.",
+      "Constants can appear in the formal argument list. ",
+      "More than one function is allowed in a program unit",
+    ],
+    answer: "Constants can appear in the formal argument list. ",
+  },
+  {
+    language: "C",
+    question: "Almost every C program begins with the statement?",
+    options: ["#include <stdio.h>", "Print f( )", "SCAN( )", "Main( )"],
+    answer: "#include <stdio.h>",
+  },
+  {
+    language: "C",
+    question: "The two operators && and || are?",
+    options: [
+      "Relational operators",
+      "Equality operators",
+      "Arithmetic operators",
+      "Logical operators",
+    ],
+    answer: "Logical operators",
+  },
+  {
+    language: "C",
+    question:
+      "A variable that holds the memory address of another object is called?",
+    options: ["Memory variable", "Constant", "Pointer", "Integer"],
+    answer: "Pointer",
+  },
+  {
+    language: "C",
+    question: "Enumeration is a?",
+    options: [
+      "Set of legal values possible for a variable",
+      "List of operators",
+      "List of strings",
+      "Set of numbers",
+    ],
+    answer: "Set of legal values possible for a variable",
+  },
+  {
+    language: "C",
+    question: "In C, square brackets [ ] are used in?",
+    options: ["Statements", "Functions", "Arrays", "Pointer"],
+    answer: "Arrays",
+  },
+  {
+    language: "C",
+    question: "Main( ) is an example of?",
+    options: [
+      "Header",
+      "Statement",
+      "User defined function",
+      "Library function",
+    ],
+    answer: "User defined function",
+  },
+  {
+    language: "C",
+    question: "By default, any real number in ‘C’ is treated as?",
+    options: [
+      "depends upon memory model that you are using",
+      "a long double",
+      "a double",
+      "a float",
+    ],
+    answer: "a double",
+  },
+  {
+    language: "C",
+    question:
+      "Which of the following operators in ‘C’ programming language takes only integer operands?",
+    options: ["+", "*", "/", "%"],
+    answer: "%",
+  },
+  {
+    language: "C",
+    question: "An identifier in C?",
+    options: [
+      "can obtain both upper case and lower case",
+      "is made up of letters numerals and the underscore",
+      "is a name of thing such as variable and function",
+      "all of these",
+    ],
+    answer: "all of these",
+  },
+  {
+    language: "C",
+    question: "Which of the following is a storage class specification in C?",
+    options: ["static", "automatic", "external", "all of these"],
+    answer: "all of these",
+  },
+  {
+    language: "C",
+    question: "Each block of a C program is referred as?",
+    options: ["Integer", "Event", "Varibles", "Function"],
+    answer: "Function",
+  },
+  {
+    language: "C",
+    question: "Whenever a C program is executed, execution starts from?",
+    options: [
+      "Scanf function",
+      "Void function",
+      "Any function",
+      "Main function",
+    ],
+    answer: "Main function",
+  },
+  {
+    language: "C",
+    question: "C allows the user to use?",
+    options: [
+      "One-dimensional array",
+      "Two-dimensional array",
+      "Three dimensional array",
+      "Multi dimensional arrays",
+    ],
+    answer: "Multi dimensional arrays",
+  },
+  {
+    language: "C",
+    question:
+      "____ groups a number of program statements into a single unit.",
+    options: ["Array", "Structure", "Varible", "Function"],
+    answer: "Function",
+  },
+  {
+    language: "C",
+    question:
+      "When one loop is constructed within another loop it is called a?",
+    options: ["For loop", " Do loop", "Do-while loop", "Nested loop"],
+    answer: "Nested loop",
+  },
+  {
+    language: "C",
+    question:
+      "By pressing ___ key, the user can exit the turbo C environment.",
+    options: ["Ctrl + X", "Alt + X", "Ctrl + A", "Enter"],
+    answer: "Alt + X",
+  },
+  {
+    language: "C",
+    question: "In programming, repeating some code is usually called ___",
+    options: ["Looping", "Compiling", "Structure", "Control structure"],
+    answer: "Looping",
+  },
+  {
+    language: "C",
+    question: "The first character of the variable name ?",
+    options: [
+      "May be a number",
+      "Must be an alphabet",
+      "Must be an underscore",
+      "Must be an alphabet or underscore",
+    ],
+    answer: "Must be an alphabet or underscore",
+  },
+  {
+    language: "C",
+    question:
+      "In which header file are the library functions used for I/O purpose kept?",
+    options: ["stdio.h", "math.h", "stdio.h or math.h", "none of these"],
+    answer: "stdio.h",
+  },
+  {
+    language: "C",
+    question: "The method of checking the pseudo codes is called ___",
+    options: ["Sequencing", "Walk through", "Branching", "Iteration"],
+    answer: "Walk through",
+  },
+  {
+    language: "C",
+    question: "Keywords cannot be used as ____",
+    options: [
+      "Variables",
+      "Variables or constant names",
+      "Constant names",
+      "None of the above",
+    ],
+    answer: "Variables or constant names",
+  },
+  {
+    language: "C",
+    question: "Which of the following are called white space characters?",
+    options: [
+      "The blank space",
+      "New line character",
+      "Blank space & new line character",
+      "None of the above",
+    ],
+    answer: "Blank space & new line character",
+  },
+  {
+    language: "C",
+    question: "____ are declared within the body of a function.?",
+    options: [" Variables", "Local variables", "Main functions", "Arrays"],
+    answer: "Local variables",
+  },
+  {
+    language: "C",
+    question:
+      "____ is an effective tool for programming scientific, mathematical and engineering computations?",
+    options: ["Parameter", "Main function", "Recursion", "Local variable"],
+    answer: "Recursion",
+  },
+  {
+    language: "C",
+    question:
+      "The functions that are defined according to our requirements are called ____",
+    options: [
+      "Good functions",
+      "Modules",
+      "User defined functions",
+      "Library functions",
+    ],
+    answer: "User defined functions",
+  },
+  {
+    language: "C",
+    question:
+      "In the for loop structure, the clauses namely ___ are optional?",
+    options: [
+      "Assign and logic",
+      "Assign and alter",
+      "Logic and alter",
+      "Assign, logic and alter",
+    ],
+    answer: "Assign, logic and alter",
+  },
+  {
+    language: "C",
+    question: "Subscripted variable is any type such as?",
+    options: ["Int", "Float", "Int float or char", "Char"],
+    answer: "Int float or char",
+  },
+  {
+    language: "C",
+    question:
+      "In which of the following it is convenient to group related data items as one entry?",
+    options: ["Array", "Matrix", "Token", "Determinant"],
+    answer: "Array",
+  },
+  {
+    language: "C",
+    question: "The formatting character should be preceded by a ____ symbol?",
+    options: ["+", "/", "%", "-"],
+    answer: "%",
+  },
+  {
+    language: "C",
+    question: "An unary operator! represents?",
+    options: [
+      "Unary minus",
+      "Logical not operator",
+      "Decrement operator",
+      "Increment operator",
+    ],
+    answer: "Logical not operator",
+  },
+  {
+    language: "C",
+    question: "The single character input/output functions are?",
+    options: [
+      "scan f ( ) and print f ( )",
+      "get char ( ) and print f ( )",
+      "scan f ( ) and put char ( )",
+      "get char ( ) and put char ( )",
+    ],
+    answer: "get char ( ) and put char ( )",
+  },
+  {
+    language: "C",
+    question: "The general form of the condition expression is?",
+    options: [
+      "Expression ? expression 2 : expression 3",
+      "Expression 3? Expression 2: expression 1",
+      "Expression 2? expression 3? Expression 1",
+      "None of these",
+    ],
+    answer: "Expression ? expression 2 : expression 3",
+  },
+  {
+    language: "C",
+    question: "The break statement is used to exit from a?",
+    options: ["Do loop", "For loop", "Switch statement", "All of these"],
+    answer: "All of these",
+  },
+  {
+    language: "C",
+    question: "Which is not necessary when using bar codes in supermarkets?",
+    options: [
+      "Price on the shelf",
+      "Price on the goods",
+      "Point-of sale (POS) terminal",
+      "Check digit on the bar code",
+    ],
+    answer: "Price on the shelf",
+  },
+  {
+    language: "C",
+    question: "Price on the shelf?",
+    options: ["Function", "Dummy parameter", "Parameter", "Operator"],
+    answer: "Parameter",
+  },
+  {
+    language: "C",
+    question: "A function can return?",
+    options: ["Two values", "No values", "Only one values", "Many values"],
+    answer: "Only one values",
+  },
+  {
+    language: "C",
+    question: "____ have no meaning outside the body of a function?",
+    options: [
+      "Variables",
+      "Main functions",
+      "Global variables",
+      "Local variables",
+    ],
+    answer: "Local variables",
+  },
+  {
+    language: "C",
+    question: "The most popular loop for array manipulation is the ___ loop?",
+    options: ["for", "while", "do while", "any"],
+    answer: "for",
+  },
+  {
+    language: "C",
+    question: "Which of the following statements is correct?",
+    options: [
+      "Provides no features to manipulate composite objects",
+      "C provides no file access features",
+      "C provides no input-output features",
+      "All of these",
+    ],
+    answer: "All of these",
+  },
+  {
+    language: "C",
+    question: "The most common use of the one dimensional array in C is?",
+    options: ["Function", "Data", "Character", "String"],
+    answer: "String",
+  },
+  {
+    language: "C",
+    question:
+      "Which header file should be included if it is required to develop a function that can accept variable number of arguments?",
+    options: ["Stdarg.h", "Stdio.h", "Stdlib.h", "Vardar.h"],
+    answer: "Stdarg.h",
+  },
+  {
+    language: "C",
+    question:
+      "A single character input from the keyboard can be obtained by using the function?",
+    options: ["Scan f( )", "Put char( )", "Get char( )", "Print f( )"],
+    answer: "Get char( )",
+  },
+  {
+    language: "C",
+    question: "The operator << and >> are?",
+    options: [
+      "Assignment operators",
+      "Bitwise logical operators",
+      "Logical operators",
+      "Relational operators",
+    ],
+    answer: "Bitwise logical operators",
+  },
+  {
+    language: "C",
+    question: "An error in the program is called?",
+    options: ["A function", "A bug", "A varible", "An error only"],
+    answer: "A bug",
+  },
+  {
+    language: "C",
+    question: "Ready made library functions are used for?",
+    options: [
+      "Input",
+      "Output",
+      "Neither input nor output",
+      "Input and Output",
+    ],
+    answer: "Input and Output",
+  },
+  {
+    language: "C",
+    question: "The maximum length of the variable is ___ characters?",
+    options: ["22", "32", "52", "62"],
+    answer: "32",
+  },
+  {
+    language: "C",
+    question: "Which one of the following indicates the solution method?",
+    options: ["Algorithm", "Program", "Flow chart", "All of the above"],
+    answer: "All of the above",
+  },
+  {
+    language: "C",
+    question: "Which of the following is an intermediate language?",
+    options: ["Pseudo code", "Basic", "FORTRAN", "Computer language"],
+    answer: "Pseudo code",
+  },
+  {
+    language: "C",
+    question: "Each element in a structure has a?",
+    options: ["Unique variable", "Unique name", "Name", " Space"],
+    answer: "Unique name",
+  },
+  {
+    language: "C",
+    question: "For two-dimensional arrays data are usually entered?",
+    options: ["Array wise", "Element wise", "Row-wise", "Column-wise"],
+    answer: "Row-wise",
+  },
+  {
+    language: "C",
+    question:
+      "The __ is a program that links the object code of the program with the library function code that is necessary for the program to run?",
+    options: ["C linker", "Compiler", "C compiler", "Editing"],
+    answer: "C linker",
+  },
+  {
+    language: "C",
+    question:
+      "Which of the following statement is used to skip a part of the loop?",
+    options: ["Break", "Continue", "Both", "None of the above"],
+    answer: "Continue",
+  },
+  {
+    language: "C",
+    question:
+      "The method in which a problem has been divided into many smaller problems is called ___",
+    options: [
+      "Problem approach",
+      "Top Down approach",
+      "New approach",
+      "None of these",
+    ],
+    answer: "Top Down approach",
+  },
+  {
+    language: "C",
+    question:
+      "C contains which of the following two special pointer operators?",
+    options: ["% and &", "& and &&", "* and &&", "* and &"],
+    answer: "* and &",
+  },
+  {
+    language: "C",
+    question: "The header file `setjmp.hâ€™ can be used for providing ?",
+    options: [
+      "Character type identification and translation",
+      "Support for string handling functions",
+      "Diagnostic and debugging assistance",
+      "Links to assembly language for calls",
+    ],
+    answer: "Links to assembly language for calls",
+  },
+  {
+    language: "C",
+    question: "The general form of do while statements is?",
+    options: [
+      "Do while expression",
+      "Do statement while (expression);",
+      "Do statement while statement",
+      "Do expression while statement",
+    ],
+    answer: "Do statement while (expression);",
+  },
+  {
+    language: "C",
+    question: "A library files that come with C are?",
+    options: [
+      "Program examples",
+      "Files that contain function which carry out various commonly used operations and calculations",
+      "The compiler and liner",
+      "Text editor for program development",
+    ],
+    answer:
+      "Files that contain function which carry out various commonly used operations and calculations",
+  },
+  {
+    language: "C",
+    question: "The math library is set up for the user by the file?",
+    options: ["Time.h", "Math.h", "Limits.h", "Float.h"],
+    answer: "Math.h",
+  },
+  {
+    language: "C",
+    question: "Running any C program involves?",
+    options: [
+      "Creating/ editing",
+      "Compiling and linking",
+      "Executing",
+      "All the above steps",
+    ],
+    answer: "All the above steps",
+  },
+  {
+    language: "C",
+    question: "In do-while structure, the condition is checked at ___",
+    options: [
+      "the beginning of the loop",
+      "the end of the loop only",
+      "the centre of the loop",
+      "any statement of the loop",
+    ],
+    answer: "the end of the loop only",
+  },
+  {
+    language: "C",
+    question:
+      "____ is in between English and the high level computer language?",
+    options: ["Mnemonic code", "Binary code", "Pseudo code", "Flow chart"],
+    answer: "Pseudo code",
+  },
+  {
+    language: "C",
+    question: "The functions scan f( ) reads?",
+    options: [
+      "any possible variable type",
+      "any possible number",
+      "character strings",
+      "a single character",
+    ],
+    answer: "any possible variable type",
+  },
+  {
+    language: "C",
+    question: "An expression?",
+    options: [
+      "is a name that substitutes for a sequence of characters",
+      "causes the computer to carry out some action",
+      "is a collection of data objects and operations that can be evaluated to a single value",
+      "all of these",
+    ],
+    answer:
+      "is a collection of data objects and operations that can be evaluated to a single value",
+  },
+  {
+    language: "C",
+    question:
+      "For accessing a structure element using a pointer, which of the following must be used?",
+    options: [
+      "Arrow operator (→)",
+      "Separate the codes code from the constant",
+      "Delimit a section of",
+      "Show what code goes in a particular function",
+    ],
+    answer: "Arrow operator (→)",
+  },
+  {
+    language: "C",
+    question:
+      "Variable that ate both alive and active throughout the entire program are called?",
+    options: [
+      "Automatic variables",
+      "Global variables",
+      "Private variables",
+      "Local variables",
+    ],
+    answer: "Global variables",
+  },
+  {
+    language: "C",
+    question:
+      "The main difference in operation between an if statement and a while statement is that the",
+    options: [
+      "Conditional expression following the key board is evaluated differently",
+      "While loop body is executed",
+      "Body of the while statement may be executed many times. the body of the if statement only once",
+      "All of these",
+    ],
+    answer:
+      "Body of the while statement may be executed many times. the body of the if statement only once",
+  },
+  {
+    language: "C",
+    question: "Declaring variables is advantageous because it?",
+    options: [
+      "Simplifies the writing of very short programs",
+      "Helps the liner work efficiently",
+      "Avoids error from misspelled variable names",
+      "All of these",
+    ],
+    answer: "Simplifies the writing of very short programs",
+  },
+  {
+    language: "C",
+    question: "Integer division in a â€˜Câ€™ program results in",
+    options: ["Overflow", "Rounding", "Transaction", "None of these"],
+    answer: "Transaction",
+  },
+  {
+    language: "C",
+    question: "Which of the following statement about functions of false?",
+    options: [
+      "A function can call itself.",
+      "A function can call another function.",
+      "Constants can appear in the formal argument list.",
+      "More than one function is allowed in a program unit.",
+    ],
+    answer: "Constants can appear in the formal argument list.",
+  },
+  {
+    language: "C",
+    question: "The Turbo C implementation of C Language supports?",
+    options: [
+      "High level file I/O",
+      "System level file I/O",
+      "Both a and b",
+      "Executable files only",
+    ],
+    answer: "Both a and b",
+  },
+  {
+    language: "C",
+    question: "What is the maximum resolution supported by VGA adapter?",
+    options: ["450 x 300", "640 x 200", "640 x 480", "1024 x 768"],
+    answer: "640 x 480",
+  },
+  {
+    language: "C",
+    question:
+      "The address of a variable can be obtained using _____ operator?",
+    options: ["*", "&", "?", ";"],
+    answer: "&",
+  },
+  {
+    language: "C",
+    question:
+      "If one or more structure are other structures, then the structure is known as?",
+    options: [
+      "Nested structure",
+      "Structured structure",
+      "Invalid structure",
+      "Self referential structure",
+    ],
+    answer: "Nested structure",
+  },
+  {
+    language: "C",
+    question: "The C language allow arguments to be passed?",
+    options: [
+      "Only call by value",
+      "Only call by reference",
+      "Both call by value as well as call by reference",
+      "None of the above",
+    ],
+    answer: "Both call by value as well as call by reference",
+  },
+  {
+    language: "C",
+    question: "Scope of the variable refers to?",
+    options: [
+      "Duration for which the variable retains a given value during program execution.",
+      "Part of a program in which the variable can be recognized.",
+      "Value of the variable.",
+      "Data type of the variable.",
+    ],
+    answer: "Part of a program in which the variable can be recognized.",
+  },
+  {
+    language: "C",
+    question: "A bit field is a?",
+    options: [
+      "One or more adjacent bits within a word.",
+      "Member of a structure can be passed as an argument.",
+      "Pointer variable in a structure.",
+      "None of above",
+    ],
+    answer: "One or more adjacent bits within a word.",
+  },
+  {
+    language: "C",
+    question:
+      "Which of the following header file must be included in your property if you want to use graphics property?",
+    options: ["screen.h", "graphics.h", "graph.h", "stdio.h"],
+    answer: "graphics.h",
+  },
+  {
+    language: "C",
+    question: "Every string must be terminated by?",
+    options: [
+      "Linefeed character",
+      "Null character",
+      "Newline character",
+      "Carriage return character",
+    ],
+    answer: "Null character",
+  },
+  {
+    language: "C",
+    question:
+      "A single character input from the keyboard can be obtained by using the function?",
+    options: ["printf()", "scanf()", "getchar()", "putchar()"],
+    answer: "getchar()",
+  },
+  {
+    language: "C",
+    question:
+      "A program can be terminated at any time by calling the function?",
+    options: ["clearer()", "exit()", "fflush()", "ferror()"],
+    answer: "exit()",
+  },
+  {
+    language: "C",
+    question: "The math library is set up for the used by the file?",
+    options: ["math.h", "time.h", "limits.h", "float.h"],
+    answer: "math.h",
+  },
+  {
+    language: "C",
+    question: "A pointer is a variable to which?",
+    options: [
+      "the address of another variable is assigned",
+      "the point type of data is assigned",
+      "an integer is assigned",
+      "all of these",
+    ],
+    answer: "the address of another variable is assigned",
+  },
+  {
+    language: "C",
+    question: "The flag is used in the conversion specification to print?",
+    options: [
+      "a number with right justification in a field",
+      "a number with left justification in a field",
+      "a number in the hexadecimal system",
+      "an integer with a sign",
+    ],
+    answer: "an integer with a sign",
+  },
+  {
+    language: "C",
+    question: "The main() function is always?",
+    options: [
+      "used at the end of the program",
+      "recursive function",
+      "a called function",
+      "a calling function",
+    ],
+    answer: "a calling function",
+  },
+  {
+    language: "C",
+    question: "The first digit of a decimal constant must be?",
+    options: [
+      "a zero",
+      "a non-zero number",
+      "a negative number",
+      "an integer",
+    ],
+    answer: "a non-zero number",
+  },
+  {
+    language: "C",
+    question: "The typedef statement is used to?",
+    options: [
+      "define new type of data",
+      "define new names for the already existing type of data",
+      "to define new types of functions",
+      "both a and b",
+    ],
+    answer: "define new names for the already existing type of data",
+  },
+  {
+    language: "C",
+    question:
+      "The string containing certain required formatting information is called?",
+    options: [
+      "control string",
+      "character string",
+      "character array",
+      "argument",
+    ],
+    answer: "control string",
+  },
+  {
+    language: "C",
+    question: "The name of the function always ends with?",
+    options: ["semicolon", "parentheses()", "pair of braces", "$"],
+    answer: "parentheses()",
+  },
+  {
+    language: "C",
+    question: "What is the correct syntax to include a header file in C?",
+    options: [
+      "#include <header.h>",
+      "#include 'header.h'",
+      "Both A and B",
+      "None of the above",
+    ],
+    answer: "Both A and B",
+  },
+  {
+    language: "C",
+    question: "What is the size of an int in C on a 32-bit system?",
+    options: ["2 bytes", "4 bytes", "8 bytes", "Depends on the compiler"],
+    answer: "4 bytes",
+  },
+  {
+    language: "C",
+    question:
+      "Which of the following operators is used to access a member of a structure?",
+    options: [".", "->", "Both A and B", "&"],
+    answer: "Both A and B",
+  },
+  {
+    language: "C",
+    question: "Which of the following is not a valid data type in C?",
+    options: ["int", "float", "string", "char"],
+    answer: "string",
+  },
+  {
+    language: "C",
+    question: "What is the purpose of the return statement in a function?",
+    options: [
+      "To terminate the program",
+      "To return a value from a function",
+      "To declare a function",
+      "To call another function",
+    ],
+    answer: "To return a value from a function",
+  },
+  {
+    language: "C",
+    question:
+      "Which of the following loops will always execute at least once?",
+    options: ["for loop", "while loop", "do-while loop", "None of the above"],
+    answer: "do-while loop",
+  },
+  {
+    language: "C",
+    question: "Which function is used to allocate memory dynamically in ",
+    options: ["mallo()", "calloc()", "realloc()", "All of the above"],
+    answer: "All of the above",
+  },
+  {
+    language: "C",
+    question:
+      "Which of the following is a correct way to declare a pointer in C?",
+    options: ["int *ptr", "int ptr*", "ptr int*", "int &ptr"],
+    answer: "int *ptr",
+  },
 ]
