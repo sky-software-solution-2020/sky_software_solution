@@ -78,19 +78,7 @@ export const questions = [
     "level": "Easy",
     "id": 4023
   },
-  {
-    "language": "HTML5",
-    "question": "What does HTML stand for?",
-    "options": [
-      "Hyper Trainer Marking Language",
-      "Hyper Text Markup Language",
-      "Hyper Text Marketing Language",
-      "None of these"
-    ],
-    "answer": "Hyper Text Markup Language",
-    "level": "Hard",
-    "id": 1312
-  },
+  
   {
     "language": "Java Fullstack",
     "question": "Which framework is commonly used in Java Fullstack for backend?",
@@ -104,19 +92,7 @@ export const questions = [
     "level": "Easy",
     "id": 4753
   },
-  {
-    "language": "HTML5",
-    "question": "What does HTML stand for?",
-    "options": [
-      "Hyper Trainer Marking Language",
-      "Hyper Text Markup Language",
-      "Hyper Text Marketing Language",
-      "None of these"
-    ],
-    "answer": "Hyper Text Markup Language",
-    "level": "Medium",
-    "id": 6149
-  },
+  
   {
     "language": "DSA C++",
     "question": "Which data structure uses FIFO?",
@@ -287,19 +263,7 @@ export const questions = [
     "level": "Easy",
     "id": 7735
   },
-  {
-    "language": "HTML5",
-    "question": "Which tag is used to create a hyperlink in HTML?",
-    "options": [
-      "<link>",
-      "<a>",
-      "<href>",
-      "<hyperlink>"
-    ],
-    "answer": "<a>",
-    "level": "Medium",
-    "id": 6049
-  },
+
   {
     "language": "Python Fullstack",
     "question": "Which template engine is used with Flask?",
@@ -563,19 +527,7 @@ export const questions = [
     "level": "Easy",
     "id": 9046
   },
-  {
-    "language": "HTML5",
-    "question": "What does HTML stand for?",
-    "options": [
-      "Hyper Trainer Marking Language",
-      "Hyper Text Markup Language",
-      "Hyper Text Marketing Language",
-      "None of these"
-    ],
-    "answer": "Hyper Text Markup Language",
-    "level": "Hard",
-    "id": 9870
-  },
+  
   {
     "language": "Java Fullstack",
     "question": "Which framework is commonly used in Java Fullstack for backend?",
@@ -668,19 +620,7 @@ export const questions = [
     "id": 3403
   },
 
-  {
-    "language": "HTML5",
-    "question": "What does HTML stand for?",
-    "options": [
-      "Hyper Trainer Marking Language",
-      "Hyper Text Markup Language",
-      "Hyper Text Marketing Language",
-      "None of these"
-    ],
-    "answer": "Hyper Text Markup Language",
-    "level": "Hard",
-    "id": 5847
-  },
+  
   {
     "language": "JavaScript",
     "question": "Which symbol is used for comments in JavaScript?",
@@ -799,19 +739,7 @@ export const questions = [
     "level": "Easy",
     "id": 6403
   },
-  {
-    "language": "HTML5",
-    "question": "Which tag is used to create a hyperlink in HTML?",
-    "options": [
-      "<link>",
-      "<a>",
-      "<href>",
-      "<hyperlink>"
-    ],
-    "answer": "<a>",
-    "level": "Easy",
-    "id": 4442
-  },
+
   {
     "language": "RDBMS with Excel",
     "question": "Which function in Excel is used to lookup values?",
@@ -825,19 +753,7 @@ export const questions = [
     "level": "Medium",
     "id": 4646
   },
-  {
-    "language": "HTML5",
-    "question": "Which tag is used to create a hyperlink in HTML?",
-    "options": [
-      "<link>",
-      "<a>",
-      "<href>",
-      "<hyperlink>"
-    ],
-    "answer": "<a>",
-    "level": "Easy",
-    "id": 7928
-  },
+
   {
     "language": "DSA C++",
     "question": "Which sorting algorithm is fastest on average?",
@@ -1033,19 +949,7 @@ export const questions = [
     "level": "Medium",
     "id": 7782
   },
-  {
-    "language": "HTML5",
-    "question": "What does HTML stand for?",
-    "options": [
-      "Hyper Trainer Marking Language",
-      "Hyper Text Markup Language",
-      "Hyper Text Marketing Language",
-      "None of these"
-    ],
-    "answer": "Hyper Text Markup Language",
-    "level": "Medium",
-    "id": 8050
-  },
+  
   {
     "language": "Data Science",
     "question": "Which term refers to drawing insights from data?",
@@ -1098,19 +1002,7 @@ export const questions = [
     "level": "Hard",
     "id": 5373
   },
-  {
-    "language": "HTML5",
-    "question": "What does HTML stand for?",
-    "options": [
-      "Hyper Trainer Marking Language",
-      "Hyper Text Markup Language",
-      "Hyper Text Marketing Language",
-      "None of these"
-    ],
-    "answer": "Hyper Text Markup Language",
-    "level": "Medium",
-    "id": 9778
-  },
+  
   {
     "language": "Data Science",
     "question": "Which term refers to drawing insights from data?",
@@ -1124,19 +1016,7 @@ export const questions = [
     "level": "Easy",
     "id": 4323
   },
-  {
-    "language": "HTML5",
-    "question": "Which tag is used to create a hyperlink in HTML?",
-    "options": [
-      "<link>",
-      "<a>",
-      "<href>",
-      "<hyperlink>"
-    ],
-    "answer": "<a>",
-    "level": "Easy",
-    "id": 2288
-  },
+
   {
     "language": "RDBMS with Excel",
     "question": "Which SQL clause is used to filter rows?",
@@ -1176,19 +1056,7 @@ export const questions = [
     "level": "Easy",
     "id": 3549
   },
-  {
-    "language": "HTML5",
-    "question": "Which tag is used to create a hyperlink in HTML?",
-    "options": [
-      "<link>",
-      "<a>",
-      "<href>",
-      "<hyperlink>"
-    ],
-    "answer": "<a>",
-    "level": "Medium",
-    "id": 3511
-  },
+
   {
     "language": "Java",
     "question": "Which method is the entry point for a Java program?",
@@ -1387,19 +1255,7 @@ export const questions = [
     "level": "Hard",
     "id": 2344
   },
-  {
-    "language": "HTML5",
-    "question": "Which tag is used to create a hyperlink in HTML?",
-    "options": [
-      "<link>",
-      "<a>",
-      "<href>",
-      "<hyperlink>"
-    ],
-    "answer": "<a>",
-    "level": "Medium",
-    "id": 1785
-  },
+
   {
     "language": "Python Fullstack",
     "question": "Which Python web framework is used in Fullstack?",
@@ -1413,19 +1269,7 @@ export const questions = [
     "level": "Hard",
     "id": 4972
   },
-  {
-    "language": "HTML5",
-    "question": "What does HTML stand for?",
-    "options": [
-      "Hyper Trainer Marking Language",
-      "Hyper Text Markup Language",
-      "Hyper Text Marketing Language",
-      "None of these"
-    ],
-    "answer": "Hyper Text Markup Language",
-    "level": "Easy",
-    "id": 1708
-  },
+  
   {
     "language": "Java Fullstack",
     "question": "Which framework is commonly used in Java Fullstack for backend?",
@@ -1805,19 +1649,7 @@ export const questions = [
     "level": "Medium",
     "id": 6745
   },
-  {
-    "language": "HTML5",
-    "question": "What does HTML stand for?",
-    "options": [
-      "Hyper Trainer Marking Language",
-      "Hyper Text Markup Language",
-      "Hyper Text Marketing Language",
-      "None of these"
-    ],
-    "answer": "Hyper Text Markup Language",
-    "level": "Easy",
-    "id": 4254
-  },
+  
   {
     "language": "MERN Fullstack",
     "question": "What does MERN stand for?",
@@ -1844,32 +1676,8 @@ export const questions = [
     "level": "Hard",
     "id": 9280
   },
-  {
-    "language": "HTML5",
-    "question": "Which tag is used to create a hyperlink in HTML?",
-    "options": [
-      "<link>",
-      "<a>",
-      "<href>",
-      "<hyperlink>"
-    ],
-    "answer": "<a>",
-    "level": "Medium",
-    "id": 8422
-  },
-  {
-    "language": "HTML5",
-    "question": "Which tag is used to create a hyperlink in HTML?",
-    "options": [
-      "<link>",
-      "<a>",
-      "<href>",
-      "<hyperlink>"
-    ],
-    "answer": "<a>",
-    "level": "Hard",
-    "id": 6208
-  },
+
+
   {
     "language": "DSA C++",
     "question": "Which sorting algorithm is fastest on average?",
@@ -1897,19 +1705,7 @@ export const questions = [
     "level": "Hard",
     "id": 2189
   },
-  {
-    "language": "HTML5",
-    "question": "Which tag is used to create a hyperlink in HTML?",
-    "options": [
-      "<link>",
-      "<a>",
-      "<href>",
-      "<hyperlink>"
-    ],
-    "answer": "<a>",
-    "level": "Easy",
-    "id": 3669
-  },
+
   {
     "language": "RDBMS with Excel",
     "question": "Which function in Excel is used to lookup values?",
@@ -2106,19 +1902,7 @@ export const questions = [
     "level": "Easy",
     "id": 6501
   },
-  {
-    "language": "HTML5",
-    "question": "What does HTML stand for?",
-    "options": [
-      "Hyper Trainer Marking Language",
-      "Hyper Text Markup Language",
-      "Hyper Text Marketing Language",
-      "None of these"
-    ],
-    "answer": "Hyper Text Markup Language",
-    "level": "Medium",
-    "id": 5387
-  },
+  
   {
     "language": "RDBMS with Excel",
     "question": "Which function in Excel is used to lookup values?",
@@ -2367,19 +2151,7 @@ export const questions = [
     "level": "Medium",
     "id": 8939
   },
-  {
-    "language": "HTML5",
-    "question": "What does HTML stand for?",
-    "options": [
-      "Hyper Trainer Marking Language",
-      "Hyper Text Markup Language",
-      "Hyper Text Marketing Language",
-      "None of these"
-    ],
-    "answer": "Hyper Text Markup Language",
-    "level": "Easy",
-    "id": 5023
-  },
+  
   {
     "language": "Bootstrap 4",
     "question": "What class is used for a button in Bootstrap?",
@@ -2485,19 +2257,7 @@ export const questions = [
     "level": "Easy",
     "id": 5065
   },
-  {
-    "language": "HTML5",
-    "question": "What does HTML stand for?",
-    "options": [
-      "Hyper Trainer Marking Language",
-      "Hyper Text Markup Language",
-      "Hyper Text Marketing Language",
-      "None of these"
-    ],
-    "answer": "Hyper Text Markup Language",
-    "level": "Medium",
-    "id": 9533
-  },
+  
   {
     "language": "Bootstrap 4",
     "question": "What class is used for a button in Bootstrap?",
@@ -2537,19 +2297,7 @@ export const questions = [
     "level": "Hard",
     "id": 4756
   },
-  {
-    "language": "HTML5",
-    "question": "What does HTML stand for?",
-    "options": [
-      "Hyper Trainer Marking Language",
-      "Hyper Text Markup Language",
-      "Hyper Text Marketing Language",
-      "None of these"
-    ],
-    "answer": "Hyper Text Markup Language",
-    "level": "Easy",
-    "id": 1591
-  },
+  
   {
     "language": "Java Fullstack",
     "question": "Which database is often used with Java Fullstack?",
@@ -2617,19 +2365,7 @@ export const questions = [
     "id": 5701
   },
 
-  {
-    "language": "HTML5",
-    "question": "Which tag is used to create a hyperlink in HTML?",
-    "options": [
-      "<link>",
-      "<a>",
-      "<href>",
-      "<hyperlink>"
-    ],
-    "answer": "<a>",
-    "level": "Easy",
-    "id": 3738
-  },
+
   {
     "language": "DSA C++",
     "question": "Which data structure uses FIFO?",
@@ -2643,32 +2379,8 @@ export const questions = [
     "level": "Medium",
     "id": 1838
   },
-  {
-    "language": "HTML5",
-    "question": "What does HTML stand for?",
-    "options": [
-      "Hyper Trainer Marking Language",
-      "Hyper Text Markup Language",
-      "Hyper Text Marketing Language",
-      "None of these"
-    ],
-    "answer": "Hyper Text Markup Language",
-    "level": "Hard",
-    "id": 2593
-  },
-  {
-    "language": "HTML5",
-    "question": "What does HTML stand for?",
-    "options": [
-      "Hyper Trainer Marking Language",
-      "Hyper Text Markup Language",
-      "Hyper Text Marketing Language",
-      "None of these"
-    ],
-    "answer": "Hyper Text Markup Language",
-    "level": "Hard",
-    "id": 7029
-  },
+  
+  
   {
     "language": "Tailwind",
     "question": "What is Tailwind CSS?",
@@ -2852,19 +2564,7 @@ export const questions = [
     "id": 9299
   },
 
-  {
-    "language": "HTML5",
-    "question": "Which tag is used to create a hyperlink in HTML?",
-    "options": [
-      "<link>",
-      "<a>",
-      "<href>",
-      "<hyperlink>"
-    ],
-    "answer": "<a>",
-    "level": "Medium",
-    "id": 7191
-  },
+
   {
     "language": "RDBMS with Excel",
     "question": "Which SQL clause is used to filter rows?",
@@ -3048,19 +2748,7 @@ export const questions = [
     "level": "Easy",
     "id": 3034
   },
-  {
-    "language": "HTML5",
-    "question": "Which tag is used to create a hyperlink in HTML?",
-    "options": [
-      "<link>",
-      "<a>",
-      "<href>",
-      "<hyperlink>"
-    ],
-    "answer": "<a>",
-    "level": "Medium",
-    "id": 8812
-  },
+
   {
     "language": "RDBMS with Excel",
     "question": "Which SQL clause is used to filter rows?",
@@ -3923,32 +3611,8 @@ export const questions = [
     "level": "Hard",
     "id": 3609
   },
-  {
-    "language": "HTML5",
-    "question": "What does HTML stand for?",
-    "options": [
-      "Hyper Trainer Marking Language",
-      "Hyper Text Markup Language",
-      "Hyper Text Marketing Language",
-      "None of these"
-    ],
-    "answer": "Hyper Text Markup Language",
-    "level": "Easy",
-    "id": 6814
-  },
-  {
-    "language": "HTML5",
-    "question": "Which tag is used to create a hyperlink in HTML?",
-    "options": [
-      "<link>",
-      "<a>",
-      "<href>",
-      "<hyperlink>"
-    ],
-    "answer": "<a>",
-    "level": "Easy",
-    "id": 9147
-  },
+  
+
   {
     "language": "RDBMS with Excel",
     "question": "Which SQL clause is used to filter rows?",
@@ -4014,19 +3678,7 @@ export const questions = [
     "level": "Easy",
     "id": 2693
   },
-  {
-    "language": "HTML5",
-    "question": "What does HTML stand for?",
-    "options": [
-      "Hyper Trainer Marking Language",
-      "Hyper Text Markup Language",
-      "Hyper Text Marketing Language",
-      "None of these"
-    ],
-    "answer": "Hyper Text Markup Language",
-    "level": "Medium",
-    "id": 8525
-  },
+  
   {
     "language": "CSS3",
     "question": "What does CSS stand for?",
@@ -4119,19 +3771,7 @@ export const questions = [
     "level": "Easy",
     "id": 8178
   },
-  {
-    "language": "HTML5",
-    "question": "Which tag is used to create a hyperlink in HTML?",
-    "options": [
-      "<link>",
-      "<a>",
-      "<href>",
-      "<hyperlink>"
-    ],
-    "answer": "<a>",
-    "level": "Hard",
-    "id": 1170
-  },
+
   {
     "language": "CSS3",
     "question": "What does CSS stand for?",
@@ -4223,32 +3863,8 @@ export const questions = [
     "level": "Hard",
     "id": 7772
   },
-  {
-    "language": "HTML5",
-    "question": "What does HTML stand for?",
-    "options": [
-      "Hyper Trainer Marking Language",
-      "Hyper Text Markup Language",
-      "Hyper Text Marketing Language",
-      "None of these"
-    ],
-    "answer": "Hyper Text Markup Language",
-    "level": "Easy",
-    "id": 3548
-  },
-  {
-    "language": "HTML5",
-    "question": "Which tag is used to create a hyperlink in HTML?",
-    "options": [
-      "<link>",
-      "<a>",
-      "<href>",
-      "<hyperlink>"
-    ],
-    "answer": "<a>",
-    "level": "Medium",
-    "id": 2682
-  },
+  
+
   {
     "language": "C++",
     "question": "Which concept allows function or operator to act differently on different data types in C++?",
@@ -4327,19 +3943,7 @@ export const questions = [
     "level": "Hard",
     "id": 2337
   },
-  {
-    "language": "HTML5",
-    "question": "Which tag is used to create a hyperlink in HTML?",
-    "options": [
-      "<link>",
-      "<a>",
-      "<href>",
-      "<hyperlink>"
-    ],
-    "answer": "<a>",
-    "level": "Hard",
-    "id": 3736
-  },
+
   {
     "language": "Bootstrap 4",
     "question": "Which Bootstrap class makes an element responsive?",
@@ -4640,19 +4244,7 @@ export const questions = [
     "level": "Hard",
     "id": 2287
   },
-  {
-    "language": "HTML5",
-    "question": "Which tag is used to create a hyperlink in HTML?",
-    "options": [
-      "<link>",
-      "<a>",
-      "<href>",
-      "<hyperlink>"
-    ],
-    "answer": "<a>",
-    "level": "Hard",
-    "id": 9796
-  },
+
   {
     "language": "DSA C++",
     "question": "Which data structure uses FIFO?",
@@ -5396,19 +4988,7 @@ export const questions = [
     "level": "Hard",
     "id": 3510
   },
-  {
-    "language": "HTML5",
-    "question": "Which tag is used to create a hyperlink in HTML?",
-    "options": [
-      "<link>",
-      "<a>",
-      "<href>",
-      "<hyperlink>"
-    ],
-    "answer": "<a>",
-    "level": "Easy",
-    "id": 9938
-  },
+
   {
     "language": "Java Fullstack",
     "question": "Which framework is commonly used in Java Fullstack for backend?",
@@ -5566,32 +5146,8 @@ export const questions = [
     "level": "Medium",
     "id": 4830
   },
-  {
-    "language": "HTML5",
-    "question": "What does HTML stand for?",
-    "options": [
-      "Hyper Trainer Marking Language",
-      "Hyper Text Markup Language",
-      "Hyper Text Marketing Language",
-      "None of these"
-    ],
-    "answer": "Hyper Text Markup Language",
-    "level": "Hard",
-    "id": 8371
-  },
-  {
-    "language": "HTML5",
-    "question": "What does HTML stand for?",
-    "options": [
-      "Hyper Trainer Marking Language",
-      "Hyper Text Markup Language",
-      "Hyper Text Marketing Language",
-      "None of these"
-    ],
-    "answer": "Hyper Text Markup Language",
-    "level": "Medium",
-    "id": 9373
-  },
+  
+  
   {
     "language": "Java",
     "question": "Which of these is not a Java keyword?",
@@ -5788,19 +5344,7 @@ export const questions = [
     "level": "Medium",
     "id": 2154
   },
-  {
-    "language": "HTML5",
-    "question": "What does HTML stand for?",
-    "options": [
-      "Hyper Trainer Marking Language",
-      "Hyper Text Markup Language",
-      "Hyper Text Marketing Language",
-      "None of these"
-    ],
-    "answer": "Hyper Text Markup Language",
-    "level": "Medium",
-    "id": 8697
-  },
+  
 
   {
     "language": "Java Fullstack",
@@ -5854,32 +5398,8 @@ export const questions = [
     "level": "Hard",
     "id": 1466
   },
-  {
-    "language": "HTML5",
-    "question": "What does HTML stand for?",
-    "options": [
-      "Hyper Trainer Marking Language",
-      "Hyper Text Markup Language",
-      "Hyper Text Marketing Language",
-      "None of these"
-    ],
-    "answer": "Hyper Text Markup Language",
-    "level": "Hard",
-    "id": 5370
-  },
-  {
-    "language": "HTML5",
-    "question": "What does HTML stand for?",
-    "options": [
-      "Hyper Trainer Marking Language",
-      "Hyper Text Markup Language",
-      "Hyper Text Marketing Language",
-      "None of these"
-    ],
-    "answer": "Hyper Text Markup Language",
-    "level": "Medium",
-    "id": 8732
-  },
+  
+  
   {
     "language": "Java Fullstack",
     "question": "Which framework is commonly used in Java Fullstack for backend?",
@@ -5932,19 +5452,7 @@ export const questions = [
     "level": "Medium",
     "id": 9089
   },
-  {
-    "language": "HTML5",
-    "question": "Which tag is used to create a hyperlink in HTML?",
-    "options": [
-      "<link>",
-      "<a>",
-      "<href>",
-      "<hyperlink>"
-    ],
-    "answer": "<a>",
-    "level": "Medium",
-    "id": 9460
-  },
+
   {
     "language": "Bootstrap 4",
     "question": "What class is used for a button in Bootstrap?",
@@ -5958,19 +5466,7 @@ export const questions = [
     "level": "Hard",
     "id": 6086
   },
-  {
-    "language": "HTML5",
-    "question": "Which tag is used to create a hyperlink in HTML?",
-    "options": [
-      "<link>",
-      "<a>",
-      "<href>",
-      "<hyperlink>"
-    ],
-    "answer": "<a>",
-    "level": "Medium",
-    "id": 7665
-  },
+
   {
     "language": "Tailwind",
     "question": "What is Tailwind CSS?",
@@ -6010,19 +5506,7 @@ export const questions = [
     "level": "Medium",
     "id": 6852
   },
-  {
-    "language": "HTML5",
-    "question": "Which tag is used to create a hyperlink in HTML?",
-    "options": [
-      "<link>",
-      "<a>",
-      "<href>",
-      "<hyperlink>"
-    ],
-    "answer": "<a>",
-    "level": "Easy",
-    "id": 9786
-  },
+
   {
     "language": "DSA C++",
     "question": "Which data structure uses FIFO?",
@@ -6036,19 +5520,7 @@ export const questions = [
     "level": "Easy",
     "id": 3039
   },
-  {
-    "language": "HTML5",
-    "question": "What does HTML stand for?",
-    "options": [
-      "Hyper Trainer Marking Language",
-      "Hyper Text Markup Language",
-      "Hyper Text Marketing Language",
-      "None of these"
-    ],
-    "answer": "Hyper Text Markup Language",
-    "level": "Hard",
-    "id": 8795
-  },
+  
   {
     "language": "Java",
     "question": "Which method is the entry point for a Java program?",
@@ -6310,19 +5782,7 @@ export const questions = [
     "level": "Hard",
     "id": 8385
   },
-  {
-    "language": "HTML5",
-    "question": "What does HTML stand for?",
-    "options": [
-      "Hyper Trainer Marking Language",
-      "Hyper Text Markup Language",
-      "Hyper Text Marketing Language",
-      "None of these"
-    ],
-    "answer": "Hyper Text Markup Language",
-    "level": "Medium",
-    "id": 3368
-  },
+  
   {
     "language": "C++",
     "question": "Which concept allows function or operator to act differently on different data types in C++?",
@@ -6440,19 +5900,7 @@ export const questions = [
     "level": "Hard",
     "id": 6145
   },
-  {
-    "language": "HTML5",
-    "question": "What does HTML stand for?",
-    "options": [
-      "Hyper Trainer Marking Language",
-      "Hyper Text Markup Language",
-      "Hyper Text Marketing Language",
-      "None of these"
-    ],
-    "answer": "Hyper Text Markup Language",
-    "level": "Easy",
-    "id": 7365
-  },
+  
   {
     "language": "MERN Fullstack",
     "question": "Which part of MERN stack handles the frontend?",
@@ -6648,19 +6096,7 @@ export const questions = [
     "level": "Medium",
     "id": 1274
   },
-  {
-    "language": "HTML5",
-    "question": "Which tag is used to create a hyperlink in HTML?",
-    "options": [
-      "<link>",
-      "<a>",
-      "<href>",
-      "<hyperlink>"
-    ],
-    "answer": "<a>",
-    "level": "Easy",
-    "id": 3773
-  },
+
   {
     "language": "MERN Fullstack",
     "question": "Which part of MERN stack handles the frontend?",
@@ -7160,19 +6596,7 @@ export const questions = [
     "level": "Easy",
     "id": 4484
   },
-  {
-    "language": "HTML5",
-    "question": "What does HTML stand for?",
-    "options": [
-      "Hyper Trainer Marking Language",
-      "Hyper Text Markup Language",
-      "Hyper Text Marketing Language",
-      "None of these"
-    ],
-    "answer": "Hyper Text Markup Language",
-    "level": "Hard",
-    "id": 5722
-  },
+  
   {
     "language": "Python Fullstack",
     "question": "Which template engine is used with Flask?",
@@ -7186,19 +6610,7 @@ export const questions = [
     "level": "Hard",
     "id": 2141
   },
-  {
-    "language": "HTML5",
-    "question": "Which tag is used to create a hyperlink in HTML?",
-    "options": [
-      "<link>",
-      "<a>",
-      "<href>",
-      "<hyperlink>"
-    ],
-    "answer": "<a>",
-    "level": "Medium",
-    "id": 1507
-  },
+
   {
     "language": "Python Fullstack",
     "question": "Which Python web framework is used in Fullstack?",
@@ -7447,19 +6859,7 @@ export const questions = [
     "level": "Easy",
     "id": 3318
   },
-  {
-    "language": "HTML5",
-    "question": "What does HTML stand for?",
-    "options": [
-      "Hyper Trainer Marking Language",
-      "Hyper Text Markup Language",
-      "Hyper Text Marketing Language",
-      "None of these"
-    ],
-    "answer": "Hyper Text Markup Language",
-    "level": "Easy",
-    "id": 1716
-  },
+  
   {
     "language": "Tailwind",
     "question": "What is Tailwind CSS?",
@@ -7788,19 +7188,7 @@ export const questions = [
     "level": "Hard",
     "id": 4643
   },
-  {
-    "language": "HTML5",
-    "question": "Which tag is used to create a hyperlink in HTML?",
-    "options": [
-      "<link>",
-      "<a>",
-      "<href>",
-      "<hyperlink>"
-    ],
-    "answer": "<a>",
-    "level": "Easy",
-    "id": 7322
-  },
+
   {
     "language": "Data Science",
     "question": "Which library is used for data analysis in Python?",
@@ -7958,19 +7346,7 @@ export const questions = [
     "level": "Hard",
     "id": 1297
   },
-  {
-    "language": "HTML5",
-    "question": "Which tag is used to create a hyperlink in HTML?",
-    "options": [
-      "<link>",
-      "<a>",
-      "<href>",
-      "<hyperlink>"
-    ],
-    "answer": "<a>",
-    "level": "Medium",
-    "id": 5254
-  },
+
   {
     "language": "Python",
     "question": "What does the len() function do in Python?",
@@ -8037,19 +7413,7 @@ export const questions = [
     "level": "Medium",
     "id": 6478
   },
-  {
-    "language": "HTML5",
-    "question": "What does HTML stand for?",
-    "options": [
-      "Hyper Trainer Marking Language",
-      "Hyper Text Markup Language",
-      "Hyper Text Marketing Language",
-      "None of these"
-    ],
-    "answer": "Hyper Text Markup Language",
-    "level": "Easy",
-    "id": 8710
-  },
+  
   {
     "language": "Java Fullstack",
     "question": "Which framework is commonly used in Java Fullstack for backend?",
@@ -8362,19 +7726,7 @@ export const questions = [
     "level": "Easy",
     "id": 1764
   },
-  {
-    "language": "HTML5",
-    "question": "What does HTML stand for?",
-    "options": [
-      "Hyper Trainer Marking Language",
-      "Hyper Text Markup Language",
-      "Hyper Text Marketing Language",
-      "None of these"
-    ],
-    "answer": "Hyper Text Markup Language",
-    "level": "Hard",
-    "id": 6593
-  },
+  
   {
     "language": "Python",
     "question": "What does the len() function do in Python?",
@@ -8690,19 +8042,7 @@ export const questions = [
     "id": 5296
   },
 
-  {
-    "language": "HTML5",
-    "question": "Which tag is used to create a hyperlink in HTML?",
-    "options": [
-      "<link>",
-      "<a>",
-      "<href>",
-      "<hyperlink>"
-    ],
-    "answer": "<a>",
-    "level": "Easy",
-    "id": 8314
-  },
+
   {
     "language": "C++",
     "question": "Which concept allows function or operator to act differently on different data types in C++?",
@@ -8885,19 +8225,7 @@ export const questions = [
     "level": "Medium",
     "id": 9186
   },
-  {
-    "language": "HTML5",
-    "question": "Which tag is used to create a hyperlink in HTML?",
-    "options": [
-      "<link>",
-      "<a>",
-      "<href>",
-      "<hyperlink>"
-    ],
-    "answer": "<a>",
-    "level": "Easy",
-    "id": 5395
-  },
+
   {
     "language": "MERN Fullstack",
     "question": "Which part of MERN stack handles the frontend?",
@@ -8912,19 +8240,7 @@ export const questions = [
     "id": 2572
   },
 
-  {
-    "language": "HTML5",
-    "question": "Which tag is used to create a hyperlink in HTML?",
-    "options": [
-      "<link>",
-      "<a>",
-      "<href>",
-      "<hyperlink>"
-    ],
-    "answer": "<a>",
-    "level": "Medium",
-    "id": 5326
-  },
+
   {
     "language": "Java",
     "question": "Which method is the entry point for a Java program?",
@@ -9304,19 +8620,7 @@ export const questions = [
     "level": "Hard",
     "id": 2840
   },
-  {
-    "language": "HTML5",
-    "question": "Which tag is used to create a hyperlink in HTML?",
-    "options": [
-      "<link>",
-      "<a>",
-      "<href>",
-      "<hyperlink>"
-    ],
-    "answer": "<a>",
-    "level": "Hard",
-    "id": 5535
-  },
+
   {
     "language": "RDBMS with Excel",
     "question": "Which SQL clause is used to filter rows?",
@@ -9448,19 +8752,7 @@ export const questions = [
     "id": 8275
   },
 
-  {
-    "language": "HTML5",
-    "question": "Which tag is used to create a hyperlink in HTML?",
-    "options": [
-      "<link>",
-      "<a>",
-      "<href>",
-      "<hyperlink>"
-    ],
-    "answer": "<a>",
-    "level": "Medium",
-    "id": 3452
-  },
+
   {
     "language": "Tailwind",
     "question": "What is Tailwind CSS?",
@@ -9788,19 +9080,7 @@ export const questions = [
     "level": "Medium",
     "id": 3629
   },
-  {
-    "language": "HTML5",
-    "question": "Which tag is used to create a hyperlink in HTML?",
-    "options": [
-      "<link>",
-      "<a>",
-      "<href>",
-      "<hyperlink>"
-    ],
-    "answer": "<a>",
-    "level": "Medium",
-    "id": 3984
-  },
+
   {
     "language": "Bootstrap 4",
     "question": "What class is used for a button in Bootstrap?",
@@ -10569,19 +9849,7 @@ export const questions = [
     "level": "Easy",
     "id": 3626
   },
-  {
-    "language": "HTML5",
-    "question": "Which tag is used to create a hyperlink in HTML?",
-    "options": [
-      "<link>",
-      "<a>",
-      "<href>",
-      "<hyperlink>"
-    ],
-    "answer": "<a>",
-    "level": "Medium",
-    "id": 6715
-  },
+
   {
     "language": "DSA C++",
     "question": "Which sorting algorithm is fastest on average?",
@@ -10634,19 +9902,7 @@ export const questions = [
     "level": "Medium",
     "id": 1639
   },
-  {
-    "language": "HTML5",
-    "question": "Which tag is used to create a hyperlink in HTML?",
-    "options": [
-      "<link>",
-      "<a>",
-      "<href>",
-      "<hyperlink>"
-    ],
-    "answer": "<a>",
-    "level": "Hard",
-    "id": 9328
-  },
+
   {
     "language": "MERN Fullstack",
     "question": "What does MERN stand for?",
@@ -10751,19 +10007,7 @@ export const questions = [
     "level": "Easy",
     "id": 4155
   },
-  {
-    "language": "HTML5",
-    "question": "Which tag is used to create a hyperlink in HTML?",
-    "options": [
-      "<link>",
-      "<a>",
-      "<href>",
-      "<hyperlink>"
-    ],
-    "answer": "<a>",
-    "level": "Hard",
-    "id": 2729
-  },
+
   {
     "language": "MERN Fullstack",
     "question": "Which part of MERN stack handles the frontend?",
@@ -10972,19 +10216,7 @@ export const questions = [
     "level": "Hard",
     "id": 6251
   },
-  {
-    "language": "HTML5",
-    "question": "Which tag is used to create a hyperlink in HTML?",
-    "options": [
-      "<link>",
-      "<a>",
-      "<href>",
-      "<hyperlink>"
-    ],
-    "answer": "<a>",
-    "level": "Medium",
-    "id": 2737
-  },
+
   {
     "language": "DSA C++",
     "question": "Which sorting algorithm is fastest on average?",
@@ -11234,19 +10466,7 @@ export const questions = [
     "level": "Easy",
     "id": 4206
   },
-  {
-    "language": "HTML5",
-    "question": "What does HTML stand for?",
-    "options": [
-      "Hyper Trainer Marking Language",
-      "Hyper Text Markup Language",
-      "Hyper Text Marketing Language",
-      "None of these"
-    ],
-    "answer": "Hyper Text Markup Language",
-    "level": "Hard",
-    "id": 8305
-  },
+  
   {
     "language": "MERN Fullstack",
     "question": "Which part of MERN stack handles the frontend?",
@@ -11538,19 +10758,7 @@ export const questions = [
     "id": 8140
   },
 
-  {
-    "language": "HTML5",
-    "question": "Which tag is used to create a hyperlink in HTML?",
-    "options": [
-      "<link>",
-      "<a>",
-      "<href>",
-      "<hyperlink>"
-    ],
-    "answer": "<a>",
-    "level": "Hard",
-    "id": 8797
-  },
+
   {
     "language": "Python Fullstack",
     "question": "Which template engine is used with Flask?",
@@ -11590,32 +10798,8 @@ export const questions = [
     "level": "Medium",
     "id": 5174
   },
-  {
-    "language": "HTML5",
-    "question": "What does HTML stand for?",
-    "options": [
-      "Hyper Trainer Marking Language",
-      "Hyper Text Markup Language",
-      "Hyper Text Marketing Language",
-      "None of these"
-    ],
-    "answer": "Hyper Text Markup Language",
-    "level": "Medium",
-    "id": 6531
-  },
-  {
-    "language": "HTML5",
-    "question": "Which tag is used to create a hyperlink in HTML?",
-    "options": [
-      "<link>",
-      "<a>",
-      "<href>",
-      "<hyperlink>"
-    ],
-    "answer": "<a>",
-    "level": "Medium",
-    "id": 1545
-  },
+  
+
   {
     "language": "C++",
     "question": "Which of the following is not a C++ access specifier?",
@@ -11721,19 +10905,7 @@ export const questions = [
     "level": "Medium",
     "id": 7397
   },
-  {
-    "language": "HTML5",
-    "question": "What does HTML stand for?",
-    "options": [
-      "Hyper Trainer Marking Language",
-      "Hyper Text Markup Language",
-      "Hyper Text Marketing Language",
-      "None of these"
-    ],
-    "answer": "Hyper Text Markup Language",
-    "level": "Easy",
-    "id": 4814
-  },
+  
 
   {
     "language": "C++",
@@ -11917,19 +11089,7 @@ export const questions = [
     "level": "Medium",
     "id": 3630
   },
-  {
-    "language": "HTML5",
-    "question": "What does HTML stand for?",
-    "options": [
-      "Hyper Trainer Marking Language",
-      "Hyper Text Markup Language",
-      "Hyper Text Marketing Language",
-      "None of these"
-    ],
-    "answer": "Hyper Text Markup Language",
-    "level": "Hard",
-    "id": 2447
-  },
+  
   {
     "language": "DSA C++",
     "question": "Which sorting algorithm is fastest on average?",
@@ -12543,19 +11703,7 @@ export const questions = [
     "level": "Easy",
     "id": 4277
   },
-  {
-    "language": "HTML5",
-    "question": "What does HTML stand for?",
-    "options": [
-      "Hyper Trainer Marking Language",
-      "Hyper Text Markup Language",
-      "Hyper Text Marketing Language",
-      "None of these"
-    ],
-    "answer": "Hyper Text Markup Language",
-    "level": "Easy",
-    "id": 1103
-  },
+  
   {
     "language": "Python Fullstack",
     "question": "Which Python web framework is used in Fullstack?",
@@ -13628,19 +12776,7 @@ export const questions = [
     "level": "Medium",
     "id": 9255
   },
-  {
-    "language": "HTML5",
-    "question": "Which tag is used to create a hyperlink in HTML?",
-    "options": [
-      "<link>",
-      "<a>",
-      "<href>",
-      "<hyperlink>"
-    ],
-    "answer": "<a>",
-    "level": "Easy",
-    "id": 7294
-  },
+
   {
     "language": "JavaScript",
     "question": "Which symbol is used for comments in JavaScript?",
@@ -13863,19 +12999,7 @@ export const questions = [
     "level": "Medium",
     "id": 9730
   },
-  {
-    "language": "HTML5",
-    "question": "What does HTML stand for?",
-    "options": [
-      "Hyper Trainer Marking Language",
-      "Hyper Text Markup Language",
-      "Hyper Text Marketing Language",
-      "None of these"
-    ],
-    "answer": "Hyper Text Markup Language",
-    "level": "Medium",
-    "id": 7809
-  },
+  
   {
     "language": "C++",
     "question": "Which concept allows function or operator to act differently on different data types in C++?",
@@ -14552,19 +13676,7 @@ export const questions = [
     "level": "Easy",
     "id": 8512
   },
-  {
-    "language": "HTML5",
-    "question": "Which tag is used to create a hyperlink in HTML?",
-    "options": [
-      "<link>",
-      "<a>",
-      "<href>",
-      "<hyperlink>"
-    ],
-    "answer": "<a>",
-    "level": "Easy",
-    "id": 3352
-  },
+
   {
     "language": "DSA C++",
     "question": "Which sorting algorithm is fastest on average?",
@@ -15559,19 +14671,7 @@ export const questions = [
     "level": "Medium",
     "id": 4658
   },
-  {
-    "language": "HTML5",
-    "question": "What does HTML stand for?",
-    "options": [
-      "Hyper Trainer Marking Language",
-      "Hyper Text Markup Language",
-      "Hyper Text Marketing Language",
-      "None of these"
-    ],
-    "answer": "Hyper Text Markup Language",
-    "level": "Easy",
-    "id": 9276
-  },
+  
   {
     "language": "C++",
     "question": "Which of the following is not a C++ access specifier?",
@@ -15677,32 +14777,8 @@ export const questions = [
     "level": "Medium",
     "id": 6741
   },
-  {
-    "language": "HTML5",
-    "question": "What does HTML stand for?",
-    "options": [
-      "Hyper Trainer Marking Language",
-      "Hyper Text Markup Language",
-      "Hyper Text Marketing Language",
-      "None of these"
-    ],
-    "answer": "Hyper Text Markup Language",
-    "level": "Medium",
-    "id": 9823
-  },
-  {
-    "language": "HTML5",
-    "question": "Which tag is used to create a hyperlink in HTML?",
-    "options": [
-      "<link>",
-      "<a>",
-      "<href>",
-      "<hyperlink>"
-    ],
-    "answer": "<a>",
-    "level": "Medium",
-    "id": 1158
-  },
+  
+
   {
     "language": "Python",
     "question": "Which of the following is used to define a function in Python?",
@@ -15846,19 +14922,7 @@ export const questions = [
     "level": "Medium",
     "id": 7821
   },
-  {
-    "language": "HTML5",
-    "question": "Which tag is used to create a hyperlink in HTML?",
-    "options": [
-      "<link>",
-      "<a>",
-      "<href>",
-      "<hyperlink>"
-    ],
-    "answer": "<a>",
-    "level": "Hard",
-    "id": 7724
-  },
+
   {
     "language": "Data Science",
     "question": "Which library is used for data analysis in Python?",
@@ -15924,19 +14988,7 @@ export const questions = [
     "level": "Medium",
     "id": 1526
   },
-  {
-    "language": "HTML5",
-    "question": "What does HTML stand for?",
-    "options": [
-      "Hyper Trainer Marking Language",
-      "Hyper Text Markup Language",
-      "Hyper Text Marketing Language",
-      "None of these"
-    ],
-    "answer": "Hyper Text Markup Language",
-    "level": "Medium",
-    "id": 1375
-  },
+  
   {
     "language": "Data Science",
     "question": "Which term refers to drawing insights from data?",
@@ -15976,19 +15028,7 @@ export const questions = [
     "level": "Medium",
     "id": 6268
   },
-  {
-    "language": "HTML5",
-    "question": "What does HTML stand for?",
-    "options": [
-      "Hyper Trainer Marking Language",
-      "Hyper Text Markup Language",
-      "Hyper Text Marketing Language",
-      "None of these"
-    ],
-    "answer": "Hyper Text Markup Language",
-    "level": "Easy",
-    "id": 4604
-  },
+  
   {
     "language": "MERN Fullstack",
     "question": "Which part of MERN stack handles the frontend?",
@@ -16212,19 +15252,7 @@ export const questions = [
     "level": "Hard",
     "id": 7765
   },
-  {
-    "language": "HTML5",
-    "question": "What does HTML stand for?",
-    "options": [
-      "Hyper Trainer Marking Language",
-      "Hyper Text Markup Language",
-      "Hyper Text Marketing Language",
-      "None of these"
-    ],
-    "answer": "Hyper Text Markup Language",
-    "level": "Hard",
-    "id": 6826
-  },
+  
   {
     "language": "Python",
     "question": "Which of the following is used to define a function in Python?",
@@ -16422,19 +15450,7 @@ export const questions = [
     "id": 7909
   },
 
-  {
-    "language": "HTML5",
-    "question": "Which tag is used to create a hyperlink in HTML?",
-    "options": [
-      "<link>",
-      "<a>",
-      "<href>",
-      "<hyperlink>"
-    ],
-    "answer": "<a>",
-    "level": "Hard",
-    "id": 9866
-  },
+
   {
     "language": "Data Science",
     "question": "Which library is used for data analysis in Python?",
@@ -16513,19 +15529,7 @@ export const questions = [
     "level": "Hard",
     "id": 8254
   },
-  {
-    "language": "HTML5",
-    "question": "What does HTML stand for?",
-    "options": [
-      "Hyper Trainer Marking Language",
-      "Hyper Text Markup Language",
-      "Hyper Text Marketing Language",
-      "None of these"
-    ],
-    "answer": "Hyper Text Markup Language",
-    "level": "Hard",
-    "id": 8434
-  },
+  
   {
     "language": "Java",
     "question": "Which of these is not a Java keyword?",
@@ -16695,19 +15699,7 @@ export const questions = [
     "level": "Medium",
     "id": 1278
   },
-  {
-    "language": "HTML5",
-    "question": "What does HTML stand for?",
-    "options": [
-      "Hyper Trainer Marking Language",
-      "Hyper Text Markup Language",
-      "Hyper Text Marketing Language",
-      "None of these"
-    ],
-    "answer": "Hyper Text Markup Language",
-    "level": "Easy",
-    "id": 9306
-  },
+  
   {
     "language": "Tailwind",
     "question": "What is Tailwind CSS?",
@@ -16799,19 +15791,7 @@ export const questions = [
     "level": "Easy",
     "id": 6656
   },
-  {
-    "language": "HTML5",
-    "question": "Which tag is used to create a hyperlink in HTML?",
-    "options": [
-      "<link>",
-      "<a>",
-      "<href>",
-      "<hyperlink>"
-    ],
-    "answer": "<a>",
-    "level": "Medium",
-    "id": 3481
-  },
+
   {
     "language": "Bootstrap 4",
     "question": "What class is used for a button in Bootstrap?",
@@ -16891,19 +15871,7 @@ export const questions = [
     "level": "Hard",
     "id": 8402
   },
-  {
-    "language": "HTML5",
-    "question": "What does HTML stand for?",
-    "options": [
-      "Hyper Trainer Marking Language",
-      "Hyper Text Markup Language",
-      "Hyper Text Marketing Language",
-      "None of these"
-    ],
-    "answer": "Hyper Text Markup Language",
-    "level": "Easy",
-    "id": 1730
-  },
+  
   {
     "language": "CSS3",
     "question": "What does CSS stand for?",
@@ -17450,19 +16418,7 @@ export const questions = [
     "level": "Hard",
     "id": 9548
   },
-  {
-    "language": "HTML5",
-    "question": "What does HTML stand for?",
-    "options": [
-      "Hyper Trainer Marking Language",
-      "Hyper Text Markup Language",
-      "Hyper Text Marketing Language",
-      "None of these"
-    ],
-    "answer": "Hyper Text Markup Language",
-    "level": "Medium",
-    "id": 6785
-  },
+  
   {
     "language": "DSA C++",
     "question": "Which sorting algorithm is fastest on average?",
@@ -18468,19 +17424,7 @@ export const questions = [
     "level": "Medium",
     "id": 5654
   },
-  {
-    "language": "HTML5",
-    "question": "What does HTML stand for?",
-    "options": [
-      "Hyper Trainer Marking Language",
-      "Hyper Text Markup Language",
-      "Hyper Text Marketing Language",
-      "None of these"
-    ],
-    "answer": "Hyper Text Markup Language",
-    "level": "Medium",
-    "id": 9088
-  },
+  
   {
     "language": "Python",
     "question": "Which of the following is used to define a function in Python?",
@@ -18494,19 +17438,7 @@ export const questions = [
     "level": "Easy",
     "id": 1133
   },
-  {
-    "language": "HTML5",
-    "question": "Which tag is used to create a hyperlink in HTML?",
-    "options": [
-      "<link>",
-      "<a>",
-      "<href>",
-      "<hyperlink>"
-    ],
-    "answer": "<a>",
-    "level": "Hard",
-    "id": 5078
-  },
+
   {
     "language": "Python Fullstack",
     "question": "Which Python web framework is used in Fullstack?",
@@ -18768,19 +17700,7 @@ export const questions = [
     "level": "Medium",
     "id": 1174
   },
-  {
-    "language": "HTML5",
-    "question": "Which tag is used to create a hyperlink in HTML?",
-    "options": [
-      "<link>",
-      "<a>",
-      "<href>",
-      "<hyperlink>"
-    ],
-    "answer": "<a>",
-    "level": "Hard",
-    "id": 1701
-  },
+
   {
     "language": "Java",
     "question": "Which method is the entry point for a Java program?",
@@ -19383,19 +18303,7 @@ export const questions = [
     "level": "Easy",
     "id": 9611
   },
-  {
-    "language": "HTML5",
-    "question": "Which tag is used to create a hyperlink in HTML?",
-    "options": [
-      "<link>",
-      "<a>",
-      "<href>",
-      "<hyperlink>"
-    ],
-    "answer": "<a>",
-    "level": "Medium",
-    "id": 2170
-  },
+
   {
     "language": "Python Fullstack",
     "question": "Which Python web framework is used in Fullstack?",
@@ -19644,19 +18552,7 @@ export const questions = [
     "level": "Hard",
     "id": 9906
   },
-  {
-    "language": "HTML5",
-    "question": "What does HTML stand for?",
-    "options": [
-      "Hyper Trainer Marking Language",
-      "Hyper Text Markup Language",
-      "Hyper Text Marketing Language",
-      "None of these"
-    ],
-    "answer": "Hyper Text Markup Language",
-    "level": "Hard",
-    "id": 5152
-  },
+  
   {
     "language": "C++",
     "question": "Which of the following is not a C++ access specifier?",
@@ -19972,19 +18868,7 @@ export const questions = [
     "level": "Hard",
     "id": 7567
   },
-  {
-    "language": "HTML5",
-    "question": "What does HTML stand for?",
-    "options": [
-      "Hyper Trainer Marking Language",
-      "Hyper Text Markup Language",
-      "Hyper Text Marketing Language",
-      "None of these"
-    ],
-    "answer": "Hyper Text Markup Language",
-    "level": "Easy",
-    "id": 5115
-  },
+  
   {
     "language": "Java Fullstack",
     "question": "Which framework is commonly used in Java Fullstack for backend?",
@@ -20011,19 +18895,7 @@ export const questions = [
     "level": "Easy",
     "id": 6475
   },
-  {
-    "language": "HTML5",
-    "question": "Which tag is used to create a hyperlink in HTML?",
-    "options": [
-      "<link>",
-      "<a>",
-      "<href>",
-      "<hyperlink>"
-    ],
-    "answer": "<a>",
-    "level": "Medium",
-    "id": 7251
-  },
+
   {
     "language": "Java",
     "question": "Which method is the entry point for a Java program?",
@@ -20168,19 +19040,7 @@ export const questions = [
     "id": 8792
   },
 
-  {
-    "language": "HTML5",
-    "question": "What does HTML stand for?",
-    "options": [
-      "Hyper Trainer Marking Language",
-      "Hyper Text Markup Language",
-      "Hyper Text Marketing Language",
-      "None of these"
-    ],
-    "answer": "Hyper Text Markup Language",
-    "level": "Easy",
-    "id": 8284
-  },
+  
   {
     "language": "Bootstrap 4",
     "question": "What class is used for a button in Bootstrap?",
@@ -20207,19 +19067,7 @@ export const questions = [
     "level": "Hard",
     "id": 5555
   },
-  {
-    "language": "HTML5",
-    "question": "Which tag is used to create a hyperlink in HTML?",
-    "options": [
-      "<link>",
-      "<a>",
-      "<href>",
-      "<hyperlink>"
-    ],
-    "answer": "<a>",
-    "level": "Easy",
-    "id": 4491
-  },
+
 
   {
     "language": "Java",
@@ -20379,32 +19227,8 @@ export const questions = [
     "level": "Hard",
     "id": 5708
   },
-  {
-    "language": "HTML5",
-    "question": "Which tag is used to create a hyperlink in HTML?",
-    "options": [
-      "<link>",
-      "<a>",
-      "<href>",
-      "<hyperlink>"
-    ],
-    "answer": "<a>",
-    "level": "Easy",
-    "id": 9831
-  },
-  {
-    "language": "HTML5",
-    "question": "Which tag is used to create a hyperlink in HTML?",
-    "options": [
-      "<link>",
-      "<a>",
-      "<href>",
-      "<hyperlink>"
-    ],
-    "answer": "<a>",
-    "level": "Easy",
-    "id": 9163
-  },
+
+
   {
     "language": "Java Fullstack",
     "question": "Which database is often used with Java Fullstack?",
@@ -20549,19 +19373,7 @@ export const questions = [
     "level": "Easy",
     "id": 3771
   },
-  {
-    "language": "HTML5",
-    "question": "Which tag is used to create a hyperlink in HTML?",
-    "options": [
-      "<link>",
-      "<a>",
-      "<href>",
-      "<hyperlink>"
-    ],
-    "answer": "<a>",
-    "level": "Medium",
-    "id": 3510
-  },
+
 
   {
     "language": "MERN Fullstack",
@@ -20668,32 +19480,8 @@ export const questions = [
     "level": "Easy",
     "id": 9248
   },
-  {
-    "language": "HTML5",
-    "question": "What does HTML stand for?",
-    "options": [
-      "Hyper Trainer Marking Language",
-      "Hyper Text Markup Language",
-      "Hyper Text Marketing Language",
-      "None of these"
-    ],
-    "answer": "Hyper Text Markup Language",
-    "level": "Easy",
-    "id": 9421
-  },
-  {
-    "language": "HTML5",
-    "question": "Which tag is used to create a hyperlink in HTML?",
-    "options": [
-      "<link>",
-      "<a>",
-      "<href>",
-      "<hyperlink>"
-    ],
-    "answer": "<a>",
-    "level": "Hard",
-    "id": 9141
-  },
+  
+
   {
     "language": "C++",
     "question": "Which concept allows function or operator to act differently on different data types in C++?",
@@ -20902,19 +19690,7 @@ export const questions = [
     "level": "Hard",
     "id": 6228
   },
-  {
-    "language": "HTML5",
-    "question": "Which tag is used to create a hyperlink in HTML?",
-    "options": [
-      "<link>",
-      "<a>",
-      "<href>",
-      "<hyperlink>"
-    ],
-    "answer": "<a>",
-    "level": "Easy",
-    "id": 8501
-  },
+
 
   {
     "language": "MERN Fullstack",
@@ -21323,19 +20099,7 @@ export const questions = [
     "level": "Medium",
     "id": 6512
   },
-  {
-    "language": "HTML5",
-    "question": "What does HTML stand for?",
-    "options": [
-      "Hyper Trainer Marking Language",
-      "Hyper Text Markup Language",
-      "Hyper Text Marketing Language",
-      "None of these"
-    ],
-    "answer": "Hyper Text Markup Language",
-    "level": "Easy",
-    "id": 3413
-  },
+  
   {
     "language": "Data Science",
     "question": "Which library is used for data analysis in Python?",
@@ -21427,19 +20191,7 @@ export const questions = [
     "level": "Easy",
     "id": 3572
   },
-  {
-    "language": "HTML5",
-    "question": "What does HTML stand for?",
-    "options": [
-      "Hyper Trainer Marking Language",
-      "Hyper Text Markup Language",
-      "Hyper Text Marketing Language",
-      "None of these"
-    ],
-    "answer": "Hyper Text Markup Language",
-    "level": "Easy",
-    "id": 8695
-  },
+  
   {
     "language": "JavaScript",
     "question": "Which company developed JavaScript?",
@@ -21908,19 +20660,7 @@ export const questions = [
     "level": "Medium",
     "id": 1240
   },
-  {
-    "language": "HTML5",
-    "question": "Which tag is used to create a hyperlink in HTML?",
-    "options": [
-      "<link>",
-      "<a>",
-      "<href>",
-      "<hyperlink>"
-    ],
-    "answer": "<a>",
-    "level": "Hard",
-    "id": 8100
-  },
+
   {
     "language": "Data Science",
     "question": "Which term refers to drawing insights from data?",
@@ -22090,19 +20830,7 @@ export const questions = [
     "level": "Hard",
     "id": 9726
   },
-  {
-    "language": "HTML5",
-    "question": "What does HTML stand for?",
-    "options": [
-      "Hyper Trainer Marking Language",
-      "Hyper Text Markup Language",
-      "Hyper Text Marketing Language",
-      "None of these"
-    ],
-    "answer": "Hyper Text Markup Language",
-    "level": "Hard",
-    "id": 5025
-  },
+  
   {
     "language": "C++",
     "question": "Which of the following is not a C++ access specifier?",
@@ -22312,19 +21040,7 @@ export const questions = [
     "id": 5258
   },
 
-  {
-    "language": "HTML5",
-    "question": "What does HTML stand for?",
-    "options": [
-      "Hyper Trainer Marking Language",
-      "Hyper Text Markup Language",
-      "Hyper Text Marketing Language",
-      "None of these"
-    ],
-    "answer": "Hyper Text Markup Language",
-    "level": "Medium",
-    "id": 6610
-  },
+  
   {
     "language": "DSA C++",
     "question": "Which data structure uses FIFO?",
@@ -22364,19 +21080,7 @@ export const questions = [
     "level": "Hard",
     "id": 8028
   },
-  {
-    "language": "HTML5",
-    "question": "Which tag is used to create a hyperlink in HTML?",
-    "options": [
-      "<link>",
-      "<a>",
-      "<href>",
-      "<hyperlink>"
-    ],
-    "answer": "<a>",
-    "level": "Easy",
-    "id": 3064
-  },
+
   {
     "language": "Java",
     "question": "Which method is the entry point for a Java program?",
@@ -23016,19 +21720,7 @@ export const questions = [
     "level": "Easy",
     "id": 2596
   },
-  {
-    "language": "HTML5",
-    "question": "What does HTML stand for?",
-    "options": [
-      "Hyper Trainer Marking Language",
-      "Hyper Text Markup Language",
-      "Hyper Text Marketing Language",
-      "None of these"
-    ],
-    "answer": "Hyper Text Markup Language",
-    "level": "Hard",
-    "id": 7579
-  },
+  
   {
     "language": "Java",
     "question": "Which method is the entry point for a Java program?",
@@ -23525,19 +22217,7 @@ export const questions = [
     "level": "Hard",
     "id": 4683
   },
-  {
-    "language": "HTML5",
-    "question": "What does HTML stand for?",
-    "options": [
-      "Hyper Trainer Marking Language",
-      "Hyper Text Markup Language",
-      "Hyper Text Marketing Language",
-      "None of these"
-    ],
-    "answer": "Hyper Text Markup Language",
-    "level": "Hard",
-    "id": 4830
-  },
+  
   {
     "language": "Python Fullstack",
     "question": "Which Python web framework is used in Fullstack?",
@@ -23956,19 +22636,7 @@ export const questions = [
     "level": "Medium",
     "id": 6172
   },
-  {
-    "language": "HTML5",
-    "question": "Which tag is used to create a hyperlink in HTML?",
-    "options": [
-      "<link>",
-      "<a>",
-      "<href>",
-      "<hyperlink>"
-    ],
-    "answer": "<a>",
-    "level": "Medium",
-    "id": 3683
-  },
+
   {
     "language": "JavaScript",
     "question": "Which company developed JavaScript?",
@@ -24229,19 +22897,7 @@ export const questions = [
     "level": "Medium",
     "id": 2033
   },
-  {
-    "language": "HTML5",
-    "question": "Which tag is used to create a hyperlink in HTML?",
-    "options": [
-      "<link>",
-      "<a>",
-      "<href>",
-      "<hyperlink>"
-    ],
-    "answer": "<a>",
-    "level": "Hard",
-    "id": 2554
-  },
+
   {
     "language": "MERN Fullstack",
     "question": "What does MERN stand for?",
@@ -24307,19 +22963,7 @@ export const questions = [
     "level": "Hard",
     "id": 2722
   },
-  {
-    "language": "HTML5",
-    "question": "Which tag is used to create a hyperlink in HTML?",
-    "options": [
-      "<link>",
-      "<a>",
-      "<href>",
-      "<hyperlink>"
-    ],
-    "answer": "<a>",
-    "level": "Hard",
-    "id": 5046
-  },
+
   {
     "language": "DSA C++",
     "question": "Which data structure uses FIFO?",
@@ -24515,19 +23159,7 @@ export const questions = [
     "level": "Easy",
     "id": 5024
   },
-  {
-    "language": "HTML5",
-    "question": "What does HTML stand for?",
-    "options": [
-      "Hyper Trainer Marking Language",
-      "Hyper Text Markup Language",
-      "Hyper Text Marketing Language",
-      "None of these"
-    ],
-    "answer": "Hyper Text Markup Language",
-    "level": "Easy",
-    "id": 1886
-  },
+  
   {
     "language": "Tailwind",
     "question": "Which utility class sets margin in Tailwind?",
@@ -24672,19 +23304,7 @@ export const questions = [
     "level": "Easy",
     "id": 2492
   },
-  {
-    "language": "HTML5",
-    "question": "Which tag is used to create a hyperlink in HTML?",
-    "options": [
-      "<link>",
-      "<a>",
-      "<href>",
-      "<hyperlink>"
-    ],
-    "answer": "<a>",
-    "level": "Easy",
-    "id": 6774
-  },
+
   {
     "language": "CSS3",
     "question": "Which property is used to change the text color in CSS?",
@@ -24790,19 +23410,7 @@ export const questions = [
     "level": "Easy",
     "id": 1965
   },
-  {
-    "language": "HTML5",
-    "question": "Which tag is used to create a hyperlink in HTML?",
-    "options": [
-      "<link>",
-      "<a>",
-      "<href>",
-      "<hyperlink>"
-    ],
-    "answer": "<a>",
-    "level": "Medium",
-    "id": 6255
-  },
+
   {
     "language": "C++",
     "question": "Which of the following is not a C++ access specifier?",
@@ -24868,19 +23476,7 @@ export const questions = [
     "level": "Hard",
     "id": 5810
   },
-  {
-    "language": "HTML5",
-    "question": "Which tag is used to create a hyperlink in HTML?",
-    "options": [
-      "<link>",
-      "<a>",
-      "<href>",
-      "<hyperlink>"
-    ],
-    "answer": "<a>",
-    "level": "Medium",
-    "id": 6687
-  },
+
   {
     "language": "Python Fullstack",
     "question": "Which Python web framework is used in Fullstack?",
@@ -25078,19 +23674,7 @@ export const questions = [
     "id": 5106
   },
 
-  {
-    "language": "HTML5",
-    "question": "What does HTML stand for?",
-    "options": [
-      "Hyper Trainer Marking Language",
-      "Hyper Text Markup Language",
-      "Hyper Text Marketing Language",
-      "None of these"
-    ],
-    "answer": "Hyper Text Markup Language",
-    "level": "Medium",
-    "id": 5347
-  },
+  
   {
     "language": "CSS3",
     "question": "What does CSS stand for?",
@@ -25915,19 +24499,7 @@ export const questions = [
     "level": "Easy",
     "id": 7669
   },
-  {
-    "language": "HTML5",
-    "question": "Which tag is used to create a hyperlink in HTML?",
-    "options": [
-      "<link>",
-      "<a>",
-      "<href>",
-      "<hyperlink>"
-    ],
-    "answer": "<a>",
-    "level": "Easy",
-    "id": 4659
-  },
+
   {
     "language": "Tailwind",
     "question": "What is Tailwind CSS?",
@@ -26074,19 +24646,7 @@ export const questions = [
     "level": "Medium",
     "id": 4869
   },
-  {
-    "language": "HTML5",
-    "question": "Which tag is used to create a hyperlink in HTML?",
-    "options": [
-      "<link>",
-      "<a>",
-      "<href>",
-      "<hyperlink>"
-    ],
-    "answer": "<a>",
-    "level": "Hard",
-    "id": 8435
-  },
+
   {
     "language": "Java Fullstack",
     "question": "Which database is often used with Java Fullstack?",
@@ -26100,19 +24660,7 @@ export const questions = [
     "level": "Hard",
     "id": 5141
   },
-  {
-    "language": "HTML5",
-    "question": "Which tag is used to create a hyperlink in HTML?",
-    "options": [
-      "<link>",
-      "<a>",
-      "<href>",
-      "<hyperlink>"
-    ],
-    "answer": "<a>",
-    "level": "Medium",
-    "id": 3531
-  },
+
   {
     "language": "DSA C++",
     "question": "Which data structure uses FIFO?",
@@ -26165,19 +24713,7 @@ export const questions = [
     "level": "Easy",
     "id": 4740
   },
-  {
-    "language": "HTML5",
-    "question": "Which tag is used to create a hyperlink in HTML?",
-    "options": [
-      "<link>",
-      "<a>",
-      "<href>",
-      "<hyperlink>"
-    ],
-    "answer": "<a>",
-    "level": "Medium",
-    "id": 1347
-  },
+
   {
     "language": "C++",
     "question": "Which of the following is not a C++ access specifier?",
@@ -26597,19 +25133,7 @@ export const questions = [
     "level": "Easy",
     "id": 1714
   },
-  {
-    "language": "HTML5",
-    "question": "What does HTML stand for?",
-    "options": [
-      "Hyper Trainer Marking Language",
-      "Hyper Text Markup Language",
-      "Hyper Text Marketing Language",
-      "None of these"
-    ],
-    "answer": "Hyper Text Markup Language",
-    "level": "Medium",
-    "id": 1617
-  },
+  
   {
     "language": "Java",
     "question": "Which method is the entry point for a Java program?",
@@ -26871,19 +25395,7 @@ export const questions = [
     "level": "Easy",
     "id": 1007
   },
-  {
-    "language": "HTML5",
-    "question": "What does HTML stand for?",
-    "options": [
-      "Hyper Trainer Marking Language",
-      "Hyper Text Markup Language",
-      "Hyper Text Marketing Language",
-      "None of these"
-    ],
-    "answer": "Hyper Text Markup Language",
-    "level": "Easy",
-    "id": 7924
-  },
+  
   {
     "language": "JavaScript",
     "question": "Which symbol is used for comments in JavaScript?",
@@ -26910,19 +25422,7 @@ export const questions = [
     "level": "Hard",
     "id": 6710
   },
-  {
-    "language": "HTML5",
-    "question": "Which tag is used to create a hyperlink in HTML?",
-    "options": [
-      "<link>",
-      "<a>",
-      "<href>",
-      "<hyperlink>"
-    ],
-    "answer": "<a>",
-    "level": "Hard",
-    "id": 7829
-  },
+
   {
     "language": "Python Fullstack",
     "question": "Which Python web framework is used in Fullstack?",
@@ -26988,19 +25488,7 @@ export const questions = [
     "level": "Medium",
     "id": 6940
   },
-  {
-    "language": "HTML5",
-    "question": "Which tag is used to create a hyperlink in HTML?",
-    "options": [
-      "<link>",
-      "<a>",
-      "<href>",
-      "<hyperlink>"
-    ],
-    "answer": "<a>",
-    "level": "Hard",
-    "id": 6904
-  },
+
   {
     "language": "Bootstrap 4",
     "question": "Which Bootstrap class makes an element responsive?",
@@ -27237,19 +25725,7 @@ export const questions = [
     "level": "Medium",
     "id": 6160
   },
-  {
-    "language": "HTML5",
-    "question": "What does HTML stand for?",
-    "options": [
-      "Hyper Trainer Marking Language",
-      "Hyper Text Markup Language",
-      "Hyper Text Marketing Language",
-      "None of these"
-    ],
-    "answer": "Hyper Text Markup Language",
-    "level": "Medium",
-    "id": 1060
-  },
+  
   {
     "language": "C++",
     "question": "Which of the following is not a C++ access specifier?",
@@ -27263,19 +25739,7 @@ export const questions = [
     "level": "Easy",
     "id": 2062
   },
-  {
-    "language": "HTML5",
-    "question": "Which tag is used to create a hyperlink in HTML?",
-    "options": [
-      "<link>",
-      "<a>",
-      "<href>",
-      "<hyperlink>"
-    ],
-    "answer": "<a>",
-    "level": "Easy",
-    "id": 7717
-  },
+
   {
     "language": "Python Fullstack",
     "question": "Which Python web framework is used in Fullstack?",
@@ -27485,19 +25949,7 @@ export const questions = [
     "level": "Medium",
     "id": 4838
   },
-  {
-    "language": "HTML5",
-    "question": "What does HTML stand for?",
-    "options": [
-      "Hyper Trainer Marking Language",
-      "Hyper Text Markup Language",
-      "Hyper Text Marketing Language",
-      "None of these"
-    ],
-    "answer": "Hyper Text Markup Language",
-    "level": "Medium",
-    "id": 2581
-  },
+  
   {
     "language": "Java",
     "question": "Which method is the entry point for a Java program?",
@@ -27590,32 +26042,8 @@ export const questions = [
     "level": "Medium",
     "id": 2069
   },
-  {
-    "language": "HTML5",
-    "question": "What does HTML stand for?",
-    "options": [
-      "Hyper Trainer Marking Language",
-      "Hyper Text Markup Language",
-      "Hyper Text Marketing Language",
-      "None of these"
-    ],
-    "answer": "Hyper Text Markup Language",
-    "level": "Hard",
-    "id": 6108
-  },
-  {
-    "language": "HTML5",
-    "question": "Which tag is used to create a hyperlink in HTML?",
-    "options": [
-      "<link>",
-      "<a>",
-      "<href>",
-      "<hyperlink>"
-    ],
-    "answer": "<a>",
-    "level": "Hard",
-    "id": 5204
-  },
+  
+
   {
     "language": "CSS3",
     "question": "What does CSS stand for?",
@@ -27800,19 +26228,7 @@ export const questions = [
     "level": "Hard",
     "id": 8954
   },
-  {
-    "language": "HTML5",
-    "question": "What does HTML stand for?",
-    "options": [
-      "Hyper Trainer Marking Language",
-      "Hyper Text Markup Language",
-      "Hyper Text Marketing Language",
-      "None of these"
-    ],
-    "answer": "Hyper Text Markup Language",
-    "level": "Medium",
-    "id": 4671
-  },
+  
   {
     "language": "Bootstrap 4",
     "question": "Which Bootstrap class makes an element responsive?",
@@ -27891,19 +26307,7 @@ export const questions = [
     "level": "Medium",
     "id": 5696
   },
-  {
-    "language": "HTML5",
-    "question": "Which tag is used to create a hyperlink in HTML?",
-    "options": [
-      "<link>",
-      "<a>",
-      "<href>",
-      "<hyperlink>"
-    ],
-    "answer": "<a>",
-    "level": "Easy",
-    "id": 9916
-  },
+
   {
     "language": "JavaScript",
     "question": "Which symbol is used for comments in JavaScript?",
@@ -28204,19 +26608,7 @@ export const questions = [
     "level": "Medium",
     "id": 1430
   },
-  {
-    "language": "HTML5",
-    "question": "What does HTML stand for?",
-    "options": [
-      "Hyper Trainer Marking Language",
-      "Hyper Text Markup Language",
-      "Hyper Text Marketing Language",
-      "None of these"
-    ],
-    "answer": "Hyper Text Markup Language",
-    "level": "Easy",
-    "id": 4400
-  },
+  
 
   {
     "language": "CSS3",
@@ -28349,19 +26741,7 @@ export const questions = [
     "level": "Hard",
     "id": 1480
   },
-  {
-    "language": "HTML5",
-    "question": "Which tag is used to create a hyperlink in HTML?",
-    "options": [
-      "<link>",
-      "<a>",
-      "<href>",
-      "<hyperlink>"
-    ],
-    "answer": "<a>",
-    "level": "Easy",
-    "id": 3525
-  },
+
   {
     "language": "MERN Fullstack",
     "question": "Which part of MERN stack handles the frontend?",
@@ -28674,19 +27054,7 @@ export const questions = [
     "level": "Easy",
     "id": 4407
   },
-  {
-    "language": "HTML5",
-    "question": "What does HTML stand for?",
-    "options": [
-      "Hyper Trainer Marking Language",
-      "Hyper Text Markup Language",
-      "Hyper Text Marketing Language",
-      "None of these"
-    ],
-    "answer": "Hyper Text Markup Language",
-    "level": "Medium",
-    "id": 4237
-  },
+  
   {
     "language": "Java",
     "question": "Which of these is not a Java keyword?",
@@ -29209,19 +27577,7 @@ export const questions = [
     "level": "Hard",
     "id": 2325
   },
-  {
-    "language": "HTML5",
-    "question": "Which tag is used to create a hyperlink in HTML?",
-    "options": [
-      "<link>",
-      "<a>",
-      "<href>",
-      "<hyperlink>"
-    ],
-    "answer": "<a>",
-    "level": "Hard",
-    "id": 7368
-  },
+
   {
     "language": "C++",
     "question": "Which concept allows function or operator to act differently on different data types in C++?",
@@ -29613,19 +27969,7 @@ export const questions = [
     "level": "Medium",
     "id": 4049
   },
-  {
-    "language": "HTML5",
-    "question": "Which tag is used to create a hyperlink in HTML?",
-    "options": [
-      "<link>",
-      "<a>",
-      "<href>",
-      "<hyperlink>"
-    ],
-    "answer": "<a>",
-    "level": "Medium",
-    "id": 7100
-  },
+
   {
     "language": "Java",
     "question": "Which method is the entry point for a Java program?",
@@ -29899,19 +28243,7 @@ export const questions = [
     "level": "Easy",
     "id": 8448
   },
-  {
-    "language": "HTML5",
-    "question": "Which tag is used to create a hyperlink in HTML?",
-    "options": [
-      "<link>",
-      "<a>",
-      "<href>",
-      "<hyperlink>"
-    ],
-    "answer": "<a>",
-    "level": "Medium",
-    "id": 7492
-  },
+
   {
     "language": "RDBMS with Excel",
     "question": "Which function in Excel is used to lookup values?",
@@ -30016,19 +28348,7 @@ export const questions = [
     "level": "Hard",
     "id": 6278
   },
-  {
-    "language": "HTML5",
-    "question": "What does HTML stand for?",
-    "options": [
-      "Hyper Trainer Marking Language",
-      "Hyper Text Markup Language",
-      "Hyper Text Marketing Language",
-      "None of these"
-    ],
-    "answer": "Hyper Text Markup Language",
-    "level": "Hard",
-    "id": 4921
-  },
+  
   {
     "language": "JavaScript",
     "question": "Which symbol is used for comments in JavaScript?",
@@ -30188,19 +28508,7 @@ export const questions = [
     "level": "Easy",
     "id": 8226
   },
-  {
-    "language": "HTML5",
-    "question": "What does HTML stand for?",
-    "options": [
-      "Hyper Trainer Marking Language",
-      "Hyper Text Markup Language",
-      "Hyper Text Marketing Language",
-      "None of these"
-    ],
-    "answer": "Hyper Text Markup Language",
-    "level": "Easy",
-    "id": 2276
-  },
+  
   {
     "language": "Java Fullstack",
     "question": "Which framework is commonly used in Java Fullstack for backend?",
@@ -30318,19 +28626,7 @@ export const questions = [
     "level": "Easy",
     "id": 2520
   },
-  {
-    "language": "HTML5",
-    "question": "What does HTML stand for?",
-    "options": [
-      "Hyper Trainer Marking Language",
-      "Hyper Text Markup Language",
-      "Hyper Text Marketing Language",
-      "None of these"
-    ],
-    "answer": "Hyper Text Markup Language",
-    "level": "Easy",
-    "id": 4869
-  },
+  
   {
     "language": "JavaScript",
     "question": "Which company developed JavaScript?",
@@ -30357,19 +28653,7 @@ export const questions = [
     "level": "Medium",
     "id": 6939
   },
-  {
-    "language": "HTML5",
-    "question": "What does HTML stand for?",
-    "options": [
-      "Hyper Trainer Marking Language",
-      "Hyper Text Markup Language",
-      "Hyper Text Marketing Language",
-      "None of these"
-    ],
-    "answer": "Hyper Text Markup Language",
-    "level": "Easy",
-    "id": 4050
-  },
+  
   {
     "language": "Python",
     "question": "What does the len() function do in Python?",
@@ -30578,19 +28862,7 @@ export const questions = [
     "level": "Hard",
     "id": 5296
   },
-  {
-    "language": "HTML5",
-    "question": "Which tag is used to create a hyperlink in HTML?",
-    "options": [
-      "<link>",
-      "<a>",
-      "<href>",
-      "<hyperlink>"
-    ],
-    "answer": "<a>",
-    "level": "Easy",
-    "id": 2394
-  },
+
   {
     "language": "Data Science",
     "question": "Which library is used for data analysis in Python?",
@@ -30695,32 +28967,8 @@ export const questions = [
     "level": "Medium",
     "id": 7911
   },
-  {
-    "language": "HTML5",
-    "question": "What does HTML stand for?",
-    "options": [
-      "Hyper Trainer Marking Language",
-      "Hyper Text Markup Language",
-      "Hyper Text Marketing Language",
-      "None of these"
-    ],
-    "answer": "Hyper Text Markup Language",
-    "level": "Medium",
-    "id": 4506
-  },
-  {
-    "language": "HTML5",
-    "question": "What does HTML stand for?",
-    "options": [
-      "Hyper Trainer Marking Language",
-      "Hyper Text Markup Language",
-      "Hyper Text Marketing Language",
-      "None of these"
-    ],
-    "answer": "Hyper Text Markup Language",
-    "level": "Hard",
-    "id": 7487
-  },
+  
+  
   {
     "language": "Java Fullstack",
     "question": "Which database is often used with Java Fullstack?",
@@ -30813,19 +29061,7 @@ export const questions = [
     "level": "Medium",
     "id": 4224
   },
-  {
-    "language": "HTML5",
-    "question": "What does HTML stand for?",
-    "options": [
-      "Hyper Trainer Marking Language",
-      "Hyper Text Markup Language",
-      "Hyper Text Marketing Language",
-      "None of these"
-    ],
-    "answer": "Hyper Text Markup Language",
-    "level": "Easy",
-    "id": 1261
-  },
+  
   {
     "language": "DSA C++",
     "question": "Which data structure uses FIFO?",
@@ -30996,19 +29232,7 @@ export const questions = [
     "level": "Easy",
     "id": 2811
   },
-  {
-    "language": "HTML5",
-    "question": "Which tag is used to create a hyperlink in HTML?",
-    "options": [
-      "<link>",
-      "<a>",
-      "<href>",
-      "<hyperlink>"
-    ],
-    "answer": "<a>",
-    "level": "Hard",
-    "id": 5291
-  },
+
   {
     "language": "Data Science",
     "question": "Which library is used for data analysis in Python?",
@@ -31324,19 +29548,7 @@ export const questions = [
     "level": "Medium",
     "id": 1826
   },
-  {
-    "language": "HTML5",
-    "question": "Which tag is used to create a hyperlink in HTML?",
-    "options": [
-      "<link>",
-      "<a>",
-      "<href>",
-      "<hyperlink>"
-    ],
-    "answer": "<a>",
-    "level": "Medium",
-    "id": 7724
-  },
+
   {
     "language": "MERN Fullstack",
     "question": "Which part of MERN stack handles the frontend?",
@@ -31377,19 +29589,7 @@ export const questions = [
     "level": "Easy",
     "id": 1115
   },
-  {
-    "language": "HTML5",
-    "question": "What does HTML stand for?",
-    "options": [
-      "Hyper Trainer Marking Language",
-      "Hyper Text Markup Language",
-      "Hyper Text Marketing Language",
-      "None of these"
-    ],
-    "answer": "Hyper Text Markup Language",
-    "level": "Medium",
-    "id": 8607
-  },
+  
   {
     "language": "C++",
     "question": "Which concept allows function or operator to act differently on different data types in C++?",
@@ -31534,19 +29734,7 @@ export const questions = [
     "level": "Hard",
     "id": 4950
   },
-  {
-    "language": "HTML5",
-    "question": "What does HTML stand for?",
-    "options": [
-      "Hyper Trainer Marking Language",
-      "Hyper Text Markup Language",
-      "Hyper Text Marketing Language",
-      "None of these"
-    ],
-    "answer": "Hyper Text Markup Language",
-    "level": "Easy",
-    "id": 8546
-  },
+  
   {
     "language": "Python Fullstack",
     "question": "Which Python web framework is used in Fullstack?",
@@ -31859,19 +30047,7 @@ export const questions = [
     "level": "Medium",
     "id": 5404
   },
-  {
-    "language": "HTML5",
-    "question": "Which tag is used to create a hyperlink in HTML?",
-    "options": [
-      "<link>",
-      "<a>",
-      "<href>",
-      "<hyperlink>"
-    ],
-    "answer": "<a>",
-    "level": "Medium",
-    "id": 6721
-  },
+
   {
     "language": "Java Fullstack",
     "question": "Which framework is commonly used in Java Fullstack for backend?",
@@ -31911,19 +30087,7 @@ export const questions = [
     "level": "Medium",
     "id": 2986
   },
-  {
-    "language": "HTML5",
-    "question": "Which tag is used to create a hyperlink in HTML?",
-    "options": [
-      "<link>",
-      "<a>",
-      "<href>",
-      "<hyperlink>"
-    ],
-    "answer": "<a>",
-    "level": "Hard",
-    "id": 1729
-  },
+
   {
     "language": "Python Fullstack",
     "question": "Which Python web framework is used in Fullstack?",
@@ -31950,19 +30114,7 @@ export const questions = [
     "level": "Medium",
     "id": 4166
   },
-  {
-    "language": "HTML5",
-    "question": "What does HTML stand for?",
-    "options": [
-      "Hyper Trainer Marking Language",
-      "Hyper Text Markup Language",
-      "Hyper Text Marketing Language",
-      "None of these"
-    ],
-    "answer": "Hyper Text Markup Language",
-    "level": "Medium",
-    "id": 2515
-  },
+  
   {
     "language": "Python",
     "question": "What does the len() function do in Python?",
@@ -32015,19 +30167,7 @@ export const questions = [
     "level": "Easy",
     "id": 8960
   },
-  {
-    "language": "HTML5",
-    "question": "Which tag is used to create a hyperlink in HTML?",
-    "options": [
-      "<link>",
-      "<a>",
-      "<href>",
-      "<hyperlink>"
-    ],
-    "answer": "<a>",
-    "level": "Easy",
-    "id": 5347
-  },
+
   {
     "language": "Python",
     "question": "Which of the following is used to define a function in Python?",
@@ -32497,19 +30637,7 @@ export const questions = [
     "level": "Hard",
     "id": 7393
   },
-  {
-    "language": "HTML5",
-    "question": "What does HTML stand for?",
-    "options": [
-      "Hyper Trainer Marking Language",
-      "Hyper Text Markup Language",
-      "Hyper Text Marketing Language",
-      "None of these"
-    ],
-    "answer": "Hyper Text Markup Language",
-    "level": "Hard",
-    "id": 3575
-  },
+  
   {
     "language": "RDBMS with Excel",
     "question": "Which function in Excel is used to lookup values?",
@@ -32627,19 +30755,7 @@ export const questions = [
     "level": "Hard",
     "id": 2847
   },
-  {
-    "language": "HTML5",
-    "question": "Which tag is used to create a hyperlink in HTML?",
-    "options": [
-      "<link>",
-      "<a>",
-      "<href>",
-      "<hyperlink>"
-    ],
-    "answer": "<a>",
-    "level": "Medium",
-    "id": 2069
-  },
+
 
   {
     "language": "Java Fullstack",
@@ -32785,19 +30901,7 @@ export const questions = [
     "level": "Medium",
     "id": 4590
   },
-  {
-    "language": "HTML5",
-    "question": "What does HTML stand for?",
-    "options": [
-      "Hyper Trainer Marking Language",
-      "Hyper Text Markup Language",
-      "Hyper Text Marketing Language",
-      "None of these"
-    ],
-    "answer": "Hyper Text Markup Language",
-    "level": "Hard",
-    "id": 7874
-  },
+  
   {
     "language": "RDBMS with Excel",
     "question": "Which SQL clause is used to filter rows?",
@@ -32811,19 +30915,7 @@ export const questions = [
     "level": "Medium",
     "id": 3901
   },
-  {
-    "language": "HTML5",
-    "question": "What does HTML stand for?",
-    "options": [
-      "Hyper Trainer Marking Language",
-      "Hyper Text Markup Language",
-      "Hyper Text Marketing Language",
-      "None of these"
-    ],
-    "answer": "Hyper Text Markup Language",
-    "level": "Easy",
-    "id": 4239
-  },
+  
   {
     "language": "RDBMS with Excel",
     "question": "Which function in Excel is used to lookup values?",
@@ -32928,19 +31020,7 @@ export const questions = [
     "level": "Medium",
     "id": 3882
   },
-  {
-    "language": "HTML5",
-    "question": "Which tag is used to create a hyperlink in HTML?",
-    "options": [
-      "<link>",
-      "<a>",
-      "<href>",
-      "<hyperlink>"
-    ],
-    "answer": "<a>",
-    "level": "Medium",
-    "id": 6814
-  },
+
 
   {
     "language": "RDBMS with Excel",
@@ -33150,19 +31230,7 @@ export const questions = [
     "level": "Hard",
     "id": 5888
   },
-  {
-    "language": "HTML5",
-    "question": "What does HTML stand for?",
-    "options": [
-      "Hyper Trainer Marking Language",
-      "Hyper Text Markup Language",
-      "Hyper Text Marketing Language",
-      "None of these"
-    ],
-    "answer": "Hyper Text Markup Language",
-    "level": "Easy",
-    "id": 7733
-  },
+  
   {
     "language": "C++",
     "question": "Which concept allows function or operator to act differently on different data types in C++?",
@@ -33268,19 +31336,7 @@ export const questions = [
     "level": "Medium",
     "id": 6081
   },
-  {
-    "language": "HTML5",
-    "question": "Which tag is used to create a hyperlink in HTML?",
-    "options": [
-      "<link>",
-      "<a>",
-      "<href>",
-      "<hyperlink>"
-    ],
-    "answer": "<a>",
-    "level": "Hard",
-    "id": 4408
-  },
+
   {
     "language": "Python",
     "question": "What does the len() function do in Python?",
@@ -33346,19 +31402,7 @@ export const questions = [
     "level": "Easy",
     "id": 7447
   },
-  {
-    "language": "HTML5",
-    "question": "Which tag is used to create a hyperlink in HTML?",
-    "options": [
-      "<link>",
-      "<a>",
-      "<href>",
-      "<hyperlink>"
-    ],
-    "answer": "<a>",
-    "level": "Easy",
-    "id": 5129
-  },
+
   {
     "language": "Java Fullstack",
     "question": "Which framework is commonly used in Java Fullstack for backend?",
@@ -33411,19 +31455,7 @@ export const questions = [
     "level": "Hard",
     "id": 8086
   },
-  {
-    "language": "HTML5",
-    "question": "Which tag is used to create a hyperlink in HTML?",
-    "options": [
-      "<link>",
-      "<a>",
-      "<href>",
-      "<hyperlink>"
-    ],
-    "answer": "<a>",
-    "level": "Medium",
-    "id": 3016
-  },
+
   {
     "language": "Python Fullstack",
     "question": "Which Python web framework is used in Fullstack?",
@@ -33672,19 +31704,7 @@ export const questions = [
     "level": "Hard",
     "id": 3654
   },
-  {
-    "language": "HTML5",
-    "question": "What does HTML stand for?",
-    "options": [
-      "Hyper Trainer Marking Language",
-      "Hyper Text Markup Language",
-      "Hyper Text Marketing Language",
-      "None of these"
-    ],
-    "answer": "Hyper Text Markup Language",
-    "level": "Hard",
-    "id": 6091
-  },
+  
 
   {
     "language": "MERN Fullstack",
@@ -33738,19 +31758,7 @@ export const questions = [
     "level": "Hard",
     "id": 1449
   },
-  {
-    "language": "HTML5",
-    "question": "What does HTML stand for?",
-    "options": [
-      "Hyper Trainer Marking Language",
-      "Hyper Text Markup Language",
-      "Hyper Text Marketing Language",
-      "None of these"
-    ],
-    "answer": "Hyper Text Markup Language",
-    "level": "Medium",
-    "id": 5952
-  },
+  
   {
     "language": "MERN Fullstack",
     "question": "What does MERN stand for?",
@@ -33804,19 +31812,7 @@ export const questions = [
     "level": "Easy",
     "id": 5637
   },
-  {
-    "language": "HTML5",
-    "question": "Which tag is used to create a hyperlink in HTML?",
-    "options": [
-      "<link>",
-      "<a>",
-      "<href>",
-      "<hyperlink>"
-    ],
-    "answer": "<a>",
-    "level": "Hard",
-    "id": 4522
-  },
+
   {
     "language": "RDBMS with Excel",
     "question": "Which SQL clause is used to filter rows?",
@@ -34103,19 +32099,7 @@ export const questions = [
     "level": "Hard",
     "id": 1204
   },
-  {
-    "language": "HTML5",
-    "question": "What does HTML stand for?",
-    "options": [
-      "Hyper Trainer Marking Language",
-      "Hyper Text Markup Language",
-      "Hyper Text Marketing Language",
-      "None of these"
-    ],
-    "answer": "Hyper Text Markup Language",
-    "level": "Hard",
-    "id": 5720
-  },
+  
   {
     "language": "C++",
     "question": "Which of the following is not a C++ access specifier?",
@@ -34389,19 +32373,7 @@ export const questions = [
     "level": "Hard",
     "id": 6520
   },
-  {
-    "language": "HTML5",
-    "question": "Which tag is used to create a hyperlink in HTML?",
-    "options": [
-      "<link>",
-      "<a>",
-      "<href>",
-      "<hyperlink>"
-    ],
-    "answer": "<a>",
-    "level": "Medium",
-    "id": 5058
-  },
+
   {
     "language": "Bootstrap 4",
     "question": "Which Bootstrap class makes an element responsive?",
@@ -34613,19 +32585,7 @@ export const questions = [
     "id": 5958
   },
 
-  {
-    "language": "HTML5",
-    "question": "Which tag is used to create a hyperlink in HTML?",
-    "options": [
-      "<link>",
-      "<a>",
-      "<href>",
-      "<hyperlink>"
-    ],
-    "answer": "<a>",
-    "level": "Hard",
-    "id": 1102
-  },
+
 
   {
     "language": "C++",
@@ -34967,19 +32927,7 @@ export const questions = [
     "level": "Medium",
     "id": 1848
   },
-  {
-    "language": "HTML5",
-    "question": "What does HTML stand for?",
-    "options": [
-      "Hyper Trainer Marking Language",
-      "Hyper Text Markup Language",
-      "Hyper Text Marketing Language",
-      "None of these"
-    ],
-    "answer": "Hyper Text Markup Language",
-    "level": "Hard",
-    "id": 8410
-  },
+  
 
   {
     "language": "MERN Fullstack",
@@ -35099,19 +33047,7 @@ export const questions = [
     "level": "Medium",
     "id": 6977
   },
-  {
-    "language": "HTML5",
-    "question": "What does HTML stand for?",
-    "options": [
-      "Hyper Trainer Marking Language",
-      "Hyper Text Markup Language",
-      "Hyper Text Marketing Language",
-      "None of these"
-    ],
-    "answer": "Hyper Text Markup Language",
-    "level": "Hard",
-    "id": 4955
-  },
+  
   {
     "language": "Data Science",
     "question": "Which library is used for data analysis in Python?",
@@ -35203,19 +33139,7 @@ export const questions = [
     "level": "Medium",
     "id": 2626
   },
-  {
-    "language": "HTML5",
-    "question": "Which tag is used to create a hyperlink in HTML?",
-    "options": [
-      "<link>",
-      "<a>",
-      "<href>",
-      "<hyperlink>"
-    ],
-    "answer": "<a>",
-    "level": "Easy",
-    "id": 3610
-  },
+
   {
     "language": "JavaScript",
     "question": "Which symbol is used for comments in JavaScript?",
@@ -35268,19 +33192,7 @@ export const questions = [
     "level": "Medium",
     "id": 7387
   },
-  {
-    "language": "HTML5",
-    "question": "Which tag is used to create a hyperlink in HTML?",
-    "options": [
-      "<link>",
-      "<a>",
-      "<href>",
-      "<hyperlink>"
-    ],
-    "answer": "<a>",
-    "level": "Medium",
-    "id": 5816
-  },
+
   {
     "language": "Java",
     "question": "Which of these is not a Java keyword?",
@@ -35346,19 +33258,7 @@ export const questions = [
     "level": "Hard",
     "id": 5954
   },
-  {
-    "language": "HTML5",
-    "question": "What does HTML stand for?",
-    "options": [
-      "Hyper Trainer Marking Language",
-      "Hyper Text Markup Language",
-      "Hyper Text Marketing Language",
-      "None of these"
-    ],
-    "answer": "Hyper Text Markup Language",
-    "level": "Hard",
-    "id": 7590
-  },
+  
   {
     "language": "Python",
     "question": "What does the len() function do in Python?",
@@ -35437,19 +33337,7 @@ export const questions = [
     "level": "Medium",
     "id": 5844
   },
-  {
-    "language": "HTML5",
-    "question": "Which tag is used to create a hyperlink in HTML?",
-    "options": [
-      "<link>",
-      "<a>",
-      "<href>",
-      "<hyperlink>"
-    ],
-    "answer": "<a>",
-    "level": "Hard",
-    "id": 3703
-  },
+
   {
     "language": "Java Fullstack",
     "question": "Which database is often used with Java Fullstack?",
@@ -35529,19 +33417,7 @@ export const questions = [
     "level": "Hard",
     "id": 8398
   },
-  {
-    "language": "HTML5",
-    "question": "Which tag is used to create a hyperlink in HTML?",
-    "options": [
-      "<link>",
-      "<a>",
-      "<href>",
-      "<hyperlink>"
-    ],
-    "answer": "<a>",
-    "level": "Easy",
-    "id": 1890
-  },
+
   {
     "language": "Java",
     "question": "Which method is the entry point for a Java program?",
@@ -35649,19 +33525,7 @@ export const questions = [
     "level": "Easy",
     "id": 1001
   },
-  {
-    "language": "HTML5",
-    "question": "What does HTML stand for?",
-    "options": [
-      "Hyper Trainer Marking Language",
-      "Hyper Text Markup Language",
-      "Hyper Text Marketing Language",
-      "None of these"
-    ],
-    "answer": "Hyper Text Markup Language",
-    "level": "Medium",
-    "id": 1624
-  },
+  
   {
     "language": "Python Fullstack",
     "question": "Which template engine is used with Flask?",
@@ -35871,19 +33735,7 @@ export const questions = [
     "level": "Medium",
     "id": 8885
   },
-  {
-    "language": "HTML5",
-    "question": "What does HTML stand for?",
-    "options": [
-      "Hyper Trainer Marking Language",
-      "Hyper Text Markup Language",
-      "Hyper Text Marketing Language",
-      "None of these"
-    ],
-    "answer": "Hyper Text Markup Language",
-    "level": "Hard",
-    "id": 5375
-  },
+  
   {
     "language": "Python Fullstack",
     "question": "Which Python web framework is used in Fullstack?",
@@ -36326,19 +34178,7 @@ export const questions = [
     "level": "Medium",
     "id": 8467
   },
-  {
-    "language": "HTML5",
-    "question": "Which tag is used to create a hyperlink in HTML?",
-    "options": [
-      "<link>",
-      "<a>",
-      "<href>",
-      "<hyperlink>"
-    ],
-    "answer": "<a>",
-    "level": "Medium",
-    "id": 8765
-  },
+
   {
     "language": "Bootstrap 4",
     "question": "Which Bootstrap class makes an element responsive?",
@@ -36352,19 +34192,7 @@ export const questions = [
     "level": "Hard",
     "id": 1306
   },
-  {
-    "language": "HTML5",
-    "question": "What does HTML stand for?",
-    "options": [
-      "Hyper Trainer Marking Language",
-      "Hyper Text Markup Language",
-      "Hyper Text Marketing Language",
-      "None of these"
-    ],
-    "answer": "Hyper Text Markup Language",
-    "level": "Easy",
-    "id": 5580
-  },
+  
   {
     "language": "RDBMS with Excel",
     "question": "Which SQL clause is used to filter rows?",
@@ -36613,19 +34441,7 @@ export const questions = [
     "level": "Medium",
     "id": 1267
   },
-  {
-    "language": "HTML5",
-    "question": "Which tag is used to create a hyperlink in HTML?",
-    "options": [
-      "<link>",
-      "<a>",
-      "<href>",
-      "<hyperlink>"
-    ],
-    "answer": "<a>",
-    "level": "Easy",
-    "id": 8857
-  },
+
   {
     "language": "RDBMS with Excel",
     "question": "Which function in Excel is used to lookup values?",
@@ -36887,19 +34703,7 @@ export const questions = [
     "level": "Easy",
     "id": 6224
   },
-  {
-    "language": "HTML5",
-    "question": "What does HTML stand for?",
-    "options": [
-      "Hyper Trainer Marking Language",
-      "Hyper Text Markup Language",
-      "Hyper Text Marketing Language",
-      "None of these"
-    ],
-    "answer": "Hyper Text Markup Language",
-    "level": "Medium",
-    "id": 3393
-  },
+  
   {
     "language": "DSA C++",
     "question": "Which data structure uses FIFO?",
@@ -37178,19 +34982,7 @@ export const questions = [
     "level": "Medium",
     "id": 9063
   },
-  {
-    "language": "HTML5",
-    "question": "Which tag is used to create a hyperlink in HTML?",
-    "options": [
-      "<link>",
-      "<a>",
-      "<href>",
-      "<hyperlink>"
-    ],
-    "answer": "<a>",
-    "level": "Easy",
-    "id": 6878
-  },
+
   {
     "language": "MERN Fullstack",
     "question": "Which part of MERN stack handles the frontend?",
@@ -37912,19 +35704,7 @@ export const questions = [
     "level": "Easy",
     "id": 2136
   },
-  {
-    "language": "HTML5",
-    "question": "What does HTML stand for?",
-    "options": [
-      "Hyper Trainer Marking Language",
-      "Hyper Text Markup Language",
-      "Hyper Text Marketing Language",
-      "None of these"
-    ],
-    "answer": "Hyper Text Markup Language",
-    "level": "Hard",
-    "id": 2745
-  },
+  
   {
     "language": "C++",
     "question": "Which of the following is not a C++ access specifier?",
@@ -37990,19 +35770,7 @@ export const questions = [
     "level": "Easy",
     "id": 7323
   },
-  {
-    "language": "HTML5",
-    "question": "Which tag is used to create a hyperlink in HTML?",
-    "options": [
-      "<link>",
-      "<a>",
-      "<href>",
-      "<hyperlink>"
-    ],
-    "answer": "<a>",
-    "level": "Hard",
-    "id": 7276
-  },
+
   {
     "language": "Java",
     "question": "Which of these is not a Java keyword?",
@@ -38253,19 +36021,7 @@ export const questions = [
     "level": "Hard",
     "id": 8267
   },
-  {
-    "language": "HTML5",
-    "question": "Which tag is used to create a hyperlink in HTML?",
-    "options": [
-      "<link>",
-      "<a>",
-      "<href>",
-      "<hyperlink>"
-    ],
-    "answer": "<a>",
-    "level": "Easy",
-    "id": 1144
-  },
+
   {
     "language": "Java",
     "question": "Which method is the entry point for a Java program?",
@@ -38332,19 +36088,7 @@ export const questions = [
     "level": "Easy",
     "id": 5627
   },
-  {
-    "language": "HTML5",
-    "question": "What does HTML stand for?",
-    "options": [
-      "Hyper Trainer Marking Language",
-      "Hyper Text Markup Language",
-      "Hyper Text Marketing Language",
-      "None of these"
-    ],
-    "answer": "Hyper Text Markup Language",
-    "level": "Hard",
-    "id": 8699
-  },
+  
   {
     "language": "Java Fullstack",
     "question": "Which framework is commonly used in Java Fullstack for backend?",
@@ -38579,19 +36323,7 @@ export const questions = [
     "level": "Medium",
     "id": 9904
   },
-  {
-    "language": "HTML5",
-    "question": "What does HTML stand for?",
-    "options": [
-      "Hyper Trainer Marking Language",
-      "Hyper Text Markup Language",
-      "Hyper Text Marketing Language",
-      "None of these"
-    ],
-    "answer": "Hyper Text Markup Language",
-    "level": "Easy",
-    "id": 7399
-  },
+  
   {
     "language": "CSS3",
     "question": "Which property is used to change the text color in CSS?",
@@ -38670,32 +36402,8 @@ export const questions = [
     "level": "Hard",
     "id": 6491
   },
-  {
-    "language": "HTML5",
-    "question": "What does HTML stand for?",
-    "options": [
-      "Hyper Trainer Marking Language",
-      "Hyper Text Markup Language",
-      "Hyper Text Marketing Language",
-      "None of these"
-    ],
-    "answer": "Hyper Text Markup Language",
-    "level": "Hard",
-    "id": 2070
-  },
-  {
-    "language": "HTML5",
-    "question": "Which tag is used to create a hyperlink in HTML?",
-    "options": [
-      "<link>",
-      "<a>",
-      "<href>",
-      "<hyperlink>"
-    ],
-    "answer": "<a>",
-    "level": "Medium",
-    "id": 4097
-  },
+  
+
 
   {
     "language": "Tailwind",
@@ -38736,32 +36444,8 @@ export const questions = [
     "level": "Easy",
     "id": 8222
   },
-  {
-    "language": "HTML5",
-    "question": "What does HTML stand for?",
-    "options": [
-      "Hyper Trainer Marking Language",
-      "Hyper Text Markup Language",
-      "Hyper Text Marketing Language",
-      "None of these"
-    ],
-    "answer": "Hyper Text Markup Language",
-    "level": "Easy",
-    "id": 9582
-  },
-  {
-    "language": "HTML5",
-    "question": "Which tag is used to create a hyperlink in HTML?",
-    "options": [
-      "<link>",
-      "<a>",
-      "<href>",
-      "<hyperlink>"
-    ],
-    "answer": "<a>",
-    "level": "Medium",
-    "id": 7771
-  },
+  
+
   {
     "language": "CSS3",
     "question": "Which property is used to change the text color in CSS?",
@@ -39115,19 +36799,7 @@ export const questions = [
     "level": "Easy",
     "id": 5065
   },
-  {
-    "language": "HTML5",
-    "question": "What does HTML stand for?",
-    "options": [
-      "Hyper Trainer Marking Language",
-      "Hyper Text Markup Language",
-      "Hyper Text Marketing Language",
-      "None of these"
-    ],
-    "answer": "Hyper Text Markup Language",
-    "level": "Easy",
-    "id": 4920
-  },
+  
   {
     "language": "JavaScript",
     "question": "Which company developed JavaScript?",
@@ -39194,32 +36866,8 @@ export const questions = [
     "id": 4411
   },
 
-  {
-    "language": "HTML5",
-    "question": "What does HTML stand for?",
-    "options": [
-      "Hyper Trainer Marking Language",
-      "Hyper Text Markup Language",
-      "Hyper Text Marketing Language",
-      "None of these"
-    ],
-    "answer": "Hyper Text Markup Language",
-    "level": "Medium",
-    "id": 1203
-  },
-  {
-    "language": "HTML5",
-    "question": "What does HTML stand for?",
-    "options": [
-      "Hyper Trainer Marking Language",
-      "Hyper Text Markup Language",
-      "Hyper Text Marketing Language",
-      "None of these"
-    ],
-    "answer": "Hyper Text Markup Language",
-    "level": "Hard",
-    "id": 5142
-  },
+  
+  
   {
     "language": "Tailwind",
     "question": "What is Tailwind CSS?",
@@ -39454,19 +37102,7 @@ export const questions = [
     "level": "Hard",
     "id": 6480
   },
-  {
-    "language": "HTML5",
-    "question": "Which tag is used to create a hyperlink in HTML?",
-    "options": [
-      "<link>",
-      "<a>",
-      "<href>",
-      "<hyperlink>"
-    ],
-    "answer": "<a>",
-    "level": "Medium",
-    "id": 5058
-  },
+
   {
     "language": "RDBMS with Excel",
     "question": "Which function in Excel is used to lookup values?",
@@ -39532,45 +37168,9 @@ export const questions = [
     "level": "Hard",
     "id": 2535
   },
-  {
-    "language": "HTML5",
-    "question": "Which tag is used to create a hyperlink in HTML?",
-    "options": [
-      "<link>",
-      "<a>",
-      "<href>",
-      "<hyperlink>"
-    ],
-    "answer": "<a>",
-    "level": "Medium",
-    "id": 1608
-  },
-  {
-    "language": "HTML5",
-    "question": "Which tag is used to create a hyperlink in HTML?",
-    "options": [
-      "<link>",
-      "<a>",
-      "<href>",
-      "<hyperlink>"
-    ],
-    "answer": "<a>",
-    "level": "Easy",
-    "id": 1086
-  },
-  {
-    "language": "HTML5",
-    "question": "What does HTML stand for?",
-    "options": [
-      "Hyper Trainer Marking Language",
-      "Hyper Text Markup Language",
-      "Hyper Text Marketing Language",
-      "None of these"
-    ],
-    "answer": "Hyper Text Markup Language",
-    "level": "Easy",
-    "id": 3124
-  },
+
+
+  
   {
     "language": "JavaScript",
     "question": "Which company developed JavaScript?",
@@ -39740,19 +37340,7 @@ export const questions = [
     "level": "Easy",
     "id": 3334
   },
-  {
-    "language": "HTML5",
-    "question": "What does HTML stand for?",
-    "options": [
-      "Hyper Trainer Marking Language",
-      "Hyper Text Markup Language",
-      "Hyper Text Marketing Language",
-      "None of these"
-    ],
-    "answer": "Hyper Text Markup Language",
-    "level": "Easy",
-    "id": 9219
-  },
+  
   {
     "language": "DSA C++",
     "question": "Which sorting algorithm is fastest on average?",
@@ -40028,19 +37616,7 @@ export const questions = [
     "id": 2232
   },
 
-  {
-    "language": "HTML5",
-    "question": "What does HTML stand for?",
-    "options": [
-      "Hyper Trainer Marking Language",
-      "Hyper Text Markup Language",
-      "Hyper Text Marketing Language",
-      "None of these"
-    ],
-    "answer": "Hyper Text Markup Language",
-    "level": "Hard",
-    "id": 9962
-  },
+  
 
   {
     "language": "Bootstrap 4",
@@ -40107,32 +37683,8 @@ export const questions = [
     "level": "Medium",
     "id": 1407
   },
-  {
-    "language": "HTML5",
-    "question": "Which tag is used to create a hyperlink in HTML?",
-    "options": [
-      "<link>",
-      "<a>",
-      "<href>",
-      "<hyperlink>"
-    ],
-    "answer": "<a>",
-    "level": "Medium",
-    "id": 8092
-  },
-  {
-    "language": "HTML5",
-    "question": "What does HTML stand for?",
-    "options": [
-      "Hyper Trainer Marking Language",
-      "Hyper Text Markup Language",
-      "Hyper Text Marketing Language",
-      "None of these"
-    ],
-    "answer": "Hyper Text Markup Language",
-    "level": "Medium",
-    "id": 8433
-  },
+
+  
   {
     "language": "JavaScript",
     "question": "Which symbol is used for comments in JavaScript?",
@@ -40198,19 +37750,7 @@ export const questions = [
     "level": "Medium",
     "id": 8683
   },
-  {
-    "language": "HTML5",
-    "question": "Which tag is used to create a hyperlink in HTML?",
-    "options": [
-      "<link>",
-      "<a>",
-      "<href>",
-      "<hyperlink>"
-    ],
-    "answer": "<a>",
-    "level": "Easy",
-    "id": 3221
-  },
+
   {
     "language": "Data Science",
     "question": "Which term refers to drawing insights from data?",
@@ -40368,19 +37908,7 @@ export const questions = [
     "level": "Easy",
     "id": 2336
   },
-  {
-    "language": "HTML5",
-    "question": "Which tag is used to create a hyperlink in HTML?",
-    "options": [
-      "<link>",
-      "<a>",
-      "<href>",
-      "<hyperlink>"
-    ],
-    "answer": "<a>",
-    "level": "Easy",
-    "id": 4836
-  },
+
   {
     "language": "JavaScript",
     "question": "Which symbol is used for comments in JavaScript?",
@@ -40420,19 +37948,7 @@ export const questions = [
     "level": "Medium",
     "id": 2117
   },
-  {
-    "language": "HTML5",
-    "question": "What does HTML stand for?",
-    "options": [
-      "Hyper Trainer Marking Language",
-      "Hyper Text Markup Language",
-      "Hyper Text Marketing Language",
-      "None of these"
-    ],
-    "answer": "Hyper Text Markup Language",
-    "level": "Hard",
-    "id": 9271
-  },
+  
   {
     "language": "Python Fullstack",
     "question": "Which Python web framework is used in Fullstack?",
@@ -40485,19 +38001,7 @@ export const questions = [
     "level": "Hard",
     "id": 1091
   },
-  {
-    "language": "HTML5",
-    "question": "Which tag is used to create a hyperlink in HTML?",
-    "options": [
-      "<link>",
-      "<a>",
-      "<href>",
-      "<hyperlink>"
-    ],
-    "answer": "<a>",
-    "level": "Easy",
-    "id": 4553
-  },
+
   {
     "language": "C++",
     "question": "Which of the following is not a C++ access specifier?",
@@ -40589,19 +38093,7 @@ export const questions = [
     "level": "Medium",
     "id": 4011
   },
-  {
-    "language": "HTML5",
-    "question": "Which tag is used to create a hyperlink in HTML?",
-    "options": [
-      "<link>",
-      "<a>",
-      "<href>",
-      "<hyperlink>"
-    ],
-    "answer": "<a>",
-    "level": "Easy",
-    "id": 6042
-  },
+
   {
     "language": "MERN Fullstack",
     "question": "What does MERN stand for?",
@@ -40837,19 +38329,7 @@ export const questions = [
     "level": "Easy",
     "id": 4288
   },
-  {
-    "language": "HTML5",
-    "question": "Which tag is used to create a hyperlink in HTML?",
-    "options": [
-      "<link>",
-      "<a>",
-      "<href>",
-      "<hyperlink>"
-    ],
-    "answer": "<a>",
-    "level": "Easy",
-    "id": 3183
-  },
+
   {
     "language": "C++",
     "question": "Which of the following is not a C++ access specifier?",
@@ -41032,19 +38512,7 @@ export const questions = [
     "level": "Medium",
     "id": 2888
   },
-  {
-    "language": "HTML5",
-    "question": "Which tag is used to create a hyperlink in HTML?",
-    "options": [
-      "<link>",
-      "<a>",
-      "<href>",
-      "<hyperlink>"
-    ],
-    "answer": "<a>",
-    "level": "Easy",
-    "id": 5623
-  },
+
 
   {
     "language": "DSA C++",
@@ -41073,19 +38541,7 @@ export const questions = [
     "id": 7692
   },
 
-  {
-    "language": "HTML5",
-    "question": "What does HTML stand for?",
-    "options": [
-      "Hyper Trainer Marking Language",
-      "Hyper Text Markup Language",
-      "Hyper Text Marketing Language",
-      "None of these"
-    ],
-    "answer": "Hyper Text Markup Language",
-    "level": "Hard",
-    "id": 7221
-  },
+  
   {
     "language": "RDBMS with Excel",
     "question": "Which function in Excel is used to lookup values?",
@@ -41268,19 +38724,7 @@ export const questions = [
     "level": "Easy",
     "id": 8408
   },
-  {
-    "language": "HTML5",
-    "question": "What does HTML stand for?",
-    "options": [
-      "Hyper Trainer Marking Language",
-      "Hyper Text Markup Language",
-      "Hyper Text Marketing Language",
-      "None of these"
-    ],
-    "answer": "Hyper Text Markup Language",
-    "level": "Easy",
-    "id": 2787
-  },
+  
   {
     "language": "Bootstrap 4",
     "question": "What class is used for a button in Bootstrap?",
@@ -41515,19 +38959,7 @@ export const questions = [
     "level": "Hard",
     "id": 6176
   },
-  {
-    "language": "HTML5",
-    "question": "Which tag is used to create a hyperlink in HTML?",
-    "options": [
-      "<link>",
-      "<a>",
-      "<href>",
-      "<hyperlink>"
-    ],
-    "answer": "<a>",
-    "level": "Hard",
-    "id": 4899
-  },
+
   {
     "language": "Python",
     "question": "What does the len() function do in Python?",
@@ -42193,19 +39625,7 @@ export const questions = [
     "level": "Hard",
     "id": 9049
   },
-  {
-    "language": "HTML5",
-    "question": "Which tag is used to create a hyperlink in HTML?",
-    "options": [
-      "<link>",
-      "<a>",
-      "<href>",
-      "<hyperlink>"
-    ],
-    "answer": "<a>",
-    "level": "Medium",
-    "id": 2431
-  },
+
   {
     "language": "DSA C++",
     "question": "Which data structure uses FIFO?",
@@ -42310,19 +39730,7 @@ export const questions = [
     "level": "Hard",
     "id": 4817
   },
-  {
-    "language": "HTML5",
-    "question": "Which tag is used to create a hyperlink in HTML?",
-    "options": [
-      "<link>",
-      "<a>",
-      "<href>",
-      "<hyperlink>"
-    ],
-    "answer": "<a>",
-    "level": "Medium",
-    "id": 6248
-  },
+
   {
     "language": "DSA C++",
     "question": "Which sorting algorithm is fastest on average?",
@@ -42416,19 +39824,7 @@ export const questions = [
     "level": "Medium",
     "id": 5480
   },
-  {
-    "language": "HTML5",
-    "question": "What does HTML stand for?",
-    "options": [
-      "Hyper Trainer Marking Language",
-      "Hyper Text Markup Language",
-      "Hyper Text Marketing Language",
-      "None of these"
-    ],
-    "answer": "Hyper Text Markup Language",
-    "level": "Hard",
-    "id": 5798
-  },
+  
   {
     "language": "Tailwind",
     "question": "What is Tailwind CSS?",
@@ -42769,19 +40165,7 @@ export const questions = [
     "level": "Medium",
     "id": 4538
   },
-  {
-    "language": "HTML5",
-    "question": "What does HTML stand for?",
-    "options": [
-      "Hyper Trainer Marking Language",
-      "Hyper Text Markup Language",
-      "Hyper Text Marketing Language",
-      "None of these"
-    ],
-    "answer": "Hyper Text Markup Language",
-    "level": "Hard",
-    "id": 7419
-  },
+  
   {
     "language": "Python",
     "question": "What does the len() function do in Python?",
@@ -42928,19 +40312,7 @@ export const questions = [
     "level": "Hard",
     "id": 2030
   },
-  {
-    "language": "HTML5",
-    "question": "Which tag is used to create a hyperlink in HTML?",
-    "options": [
-      "<link>",
-      "<a>",
-      "<href>",
-      "<hyperlink>"
-    ],
-    "answer": "<a>",
-    "level": "Medium",
-    "id": 7592
-  },
+
   {
     "language": "JavaScript",
     "question": "Which company developed JavaScript?",
@@ -43124,19 +40496,7 @@ export const questions = [
     "level": "Easy",
     "id": 9459
   },
-  {
-    "language": "HTML5",
-    "question": "Which tag is used to create a hyperlink in HTML?",
-    "options": [
-      "<link>",
-      "<a>",
-      "<href>",
-      "<hyperlink>"
-    ],
-    "answer": "<a>",
-    "level": "Easy",
-    "id": 4795
-  },
+
   {
     "language": "DSA C++",
     "question": "Which data structure uses FIFO?",
@@ -43163,19 +40523,7 @@ export const questions = [
     "level": "Easy",
     "id": 4626
   },
-  {
-    "language": "HTML5",
-    "question": "What does HTML stand for?",
-    "options": [
-      "Hyper Trainer Marking Language",
-      "Hyper Text Markup Language",
-      "Hyper Text Marketing Language",
-      "None of these"
-    ],
-    "answer": "Hyper Text Markup Language",
-    "level": "Medium",
-    "id": 9001
-  },
+  
   {
     "language": "Java",
     "question": "Which of these is not a Java keyword?",
@@ -43294,19 +40642,7 @@ export const questions = [
     "level": "Hard",
     "id": 8854
   },
-  {
-    "language": "HTML5",
-    "question": "What does HTML stand for?",
-    "options": [
-      "Hyper Trainer Marking Language",
-      "Hyper Text Markup Language",
-      "Hyper Text Marketing Language",
-      "None of these"
-    ],
-    "answer": "Hyper Text Markup Language",
-    "level": "Medium",
-    "id": 5936
-  },
+  
   {
     "language": "JavaScript",
     "question": "Which company developed JavaScript?",
@@ -43451,32 +40787,8 @@ export const questions = [
     "level": "Medium",
     "id": 1104
   },
-  {
-    "language": "HTML5",
-    "question": "Which tag is used to create a hyperlink in HTML?",
-    "options": [
-      "<link>",
-      "<a>",
-      "<href>",
-      "<hyperlink>"
-    ],
-    "answer": "<a>",
-    "level": "Easy",
-    "id": 7534
-  },
-  {
-    "language": "HTML5",
-    "question": "What does HTML stand for?",
-    "options": [
-      "Hyper Trainer Marking Language",
-      "Hyper Text Markup Language",
-      "Hyper Text Marketing Language",
-      "None of these"
-    ],
-    "answer": "Hyper Text Markup Language",
-    "level": "Hard",
-    "id": 5677
-  },
+
+  
   {
     "language": "Java Fullstack",
     "question": "Which database is often used with Java Fullstack?",
@@ -43908,19 +41220,7 @@ export const questions = [
     "level": "Hard",
     "id": 5355
   },
-  {
-    "language": "HTML5",
-    "question": "Which tag is used to create a hyperlink in HTML?",
-    "options": [
-      "<link>",
-      "<a>",
-      "<href>",
-      "<hyperlink>"
-    ],
-    "answer": "<a>",
-    "level": "Easy",
-    "id": 9791
-  },
+
 
   {
     "language": "Tailwind",
@@ -44251,19 +41551,7 @@ export const questions = [
     "id": 8447
   },
 
-  {
-    "language": "HTML5",
-    "question": "What does HTML stand for?",
-    "options": [
-      "Hyper Trainer Marking Language",
-      "Hyper Text Markup Language",
-      "Hyper Text Marketing Language",
-      "None of these"
-    ],
-    "answer": "Hyper Text Markup Language",
-    "level": "Hard",
-    "id": 1642
-  },
+  
   {
     "language": "Java",
     "question": "Which of these is not a Java keyword?",
@@ -44355,19 +41643,7 @@ export const questions = [
     "level": "Easy",
     "id": 1726
   },
-  {
-    "language": "HTML5",
-    "question": "What does HTML stand for?",
-    "options": [
-      "Hyper Trainer Marking Language",
-      "Hyper Text Markup Language",
-      "Hyper Text Marketing Language",
-      "None of these"
-    ],
-    "answer": "Hyper Text Markup Language",
-    "level": "Medium",
-    "id": 3500
-  },
+  
   {
     "language": "RDBMS with Excel",
     "question": "Which SQL clause is used to filter rows?",
@@ -44460,19 +41736,7 @@ export const questions = [
     "level": "Medium",
     "id": 8873
   },
-  {
-    "language": "HTML5",
-    "question": "Which tag is used to create a hyperlink in HTML?",
-    "options": [
-      "<link>",
-      "<a>",
-      "<href>",
-      "<hyperlink>"
-    ],
-    "answer": "<a>",
-    "level": "Medium",
-    "id": 9223
-  },
+
   {
     "language": "Java",
     "question": "Which of these is not a Java keyword?",
@@ -44486,19 +41750,7 @@ export const questions = [
     "level": "Hard",
     "id": 3405
   },
-  {
-    "language": "HTML5",
-    "question": "Which tag is used to create a hyperlink in HTML?",
-    "options": [
-      "<link>",
-      "<a>",
-      "<href>",
-      "<hyperlink>"
-    ],
-    "answer": "<a>",
-    "level": "Hard",
-    "id": 5660
-  },
+
   {
     "language": "Bootstrap 4",
     "question": "What class is used for a button in Bootstrap?",
@@ -44552,19 +41804,7 @@ export const questions = [
     "id": 6161
   },
 
-  {
-    "language": "HTML5",
-    "question": "Which tag is used to create a hyperlink in HTML?",
-    "options": [
-      "<link>",
-      "<a>",
-      "<href>",
-      "<hyperlink>"
-    ],
-    "answer": "<a>",
-    "level": "Easy",
-    "id": 6426
-  },
+
   {
     "language": "Tailwind",
     "question": "What is Tailwind CSS?",
@@ -44722,19 +41962,7 @@ export const questions = [
     "level": "Medium",
     "id": 2019
   },
-  {
-    "language": "HTML5",
-    "question": "What does HTML stand for?",
-    "options": [
-      "Hyper Trainer Marking Language",
-      "Hyper Text Markup Language",
-      "Hyper Text Marketing Language",
-      "None of these"
-    ],
-    "answer": "Hyper Text Markup Language",
-    "level": "Medium",
-    "id": 7021
-  },
+  
   {
     "language": "Java Fullstack",
     "question": "Which framework is commonly used in Java Fullstack for backend?",
@@ -45270,32 +42498,8 @@ export const questions = [
     "level": "Medium",
     "id": 3485
   },
-  {
-    "language": "HTML5",
-    "question": "What does HTML stand for?",
-    "options": [
-      "Hyper Trainer Marking Language",
-      "Hyper Text Markup Language",
-      "Hyper Text Marketing Language",
-      "None of these"
-    ],
-    "answer": "Hyper Text Markup Language",
-    "level": "Hard",
-    "id": 3034
-  },
-  {
-    "language": "HTML5",
-    "question": "What does HTML stand for?",
-    "options": [
-      "Hyper Trainer Marking Language",
-      "Hyper Text Markup Language",
-      "Hyper Text Marketing Language",
-      "None of these"
-    ],
-    "answer": "Hyper Text Markup Language",
-    "level": "Medium",
-    "id": 8457
-  },
+  
+  
   {
     "language": "JavaScript",
     "question": "Which company developed JavaScript?",
@@ -45467,19 +42671,7 @@ export const questions = [
     "id": 6625
   },
 
-  {
-    "language": "HTML5",
-    "question": "Which tag is used to create a hyperlink in HTML?",
-    "options": [
-      "<link>",
-      "<a>",
-      "<href>",
-      "<hyperlink>"
-    ],
-    "answer": "<a>",
-    "level": "Hard",
-    "id": 2516
-  },
+
   {
     "language": "RDBMS with Excel",
     "question": "Which function in Excel is used to lookup values?",
@@ -45623,19 +42815,7 @@ export const questions = [
     "level": "Easy",
     "id": 5958
   },
-  {
-    "language": "HTML5",
-    "question": "Which tag is used to create a hyperlink in HTML?",
-    "options": [
-      "<link>",
-      "<a>",
-      "<href>",
-      "<hyperlink>"
-    ],
-    "answer": "<a>",
-    "level": "Hard",
-    "id": 6229
-  },
+
   {
     "language": "Python Fullstack",
     "question": "Which template engine is used with Flask?",
@@ -45727,19 +42907,7 @@ export const questions = [
     "level": "Easy",
     "id": 7080
   },
-  {
-    "language": "HTML5",
-    "question": "Which tag is used to create a hyperlink in HTML?",
-    "options": [
-      "<link>",
-      "<a>",
-      "<href>",
-      "<hyperlink>"
-    ],
-    "answer": "<a>",
-    "level": "Medium",
-    "id": 7350
-  },
+
   {
     "language": "Bootstrap 4",
     "question": "What class is used for a button in Bootstrap?",
@@ -45792,19 +42960,7 @@ export const questions = [
     "level": "Medium",
     "id": 4773
   },
-  {
-    "language": "HTML5",
-    "question": "What does HTML stand for?",
-    "options": [
-      "Hyper Trainer Marking Language",
-      "Hyper Text Markup Language",
-      "Hyper Text Marketing Language",
-      "None of these"
-    ],
-    "answer": "Hyper Text Markup Language",
-    "level": "Medium",
-    "id": 4557
-  },
+  
   {
     "language": "Java",
     "question": "Which method is the entry point for a Java program?",
@@ -46262,19 +43418,7 @@ export const questions = [
     "level": "Hard",
     "id": 8235
   },
-  {
-    "language": "HTML5",
-    "question": "Which tag is used to create a hyperlink in HTML?",
-    "options": [
-      "<link>",
-      "<a>",
-      "<href>",
-      "<hyperlink>"
-    ],
-    "answer": "<a>",
-    "level": "Hard",
-    "id": 1894
-  },
+
   {
     "language": "Python",
     "question": "What does the len() function do in Python?",
@@ -46789,19 +43933,7 @@ export const questions = [
     "level": "Easy",
     "id": 9978
   },
-  {
-    "language": "HTML5",
-    "question": "Which tag is used to create a hyperlink in HTML?",
-    "options": [
-      "<link>",
-      "<a>",
-      "<href>",
-      "<hyperlink>"
-    ],
-    "answer": "<a>",
-    "level": "Medium",
-    "id": 4171
-  },
+
   {
     "language": "DSA C++",
     "question": "Which sorting algorithm is fastest on average?",
@@ -47315,19 +44447,7 @@ export const questions = [
     "level": "Hard",
     "id": 9257
   },
-  {
-    "language": "HTML5",
-    "question": "Which tag is used to create a hyperlink in HTML?",
-    "options": [
-      "<link>",
-      "<a>",
-      "<href>",
-      "<hyperlink>"
-    ],
-    "answer": "<a>",
-    "level": "Easy",
-    "id": 9976
-  },
+
   {
     "language": "Python",
     "question": "What does the len() function do in Python?",
@@ -47655,19 +44775,7 @@ export const questions = [
     "level": "Easy",
     "id": 3946
   },
-  {
-    "language": "HTML5",
-    "question": "What does HTML stand for?",
-    "options": [
-      "Hyper Trainer Marking Language",
-      "Hyper Text Markup Language",
-      "Hyper Text Marketing Language",
-      "None of these"
-    ],
-    "answer": "Hyper Text Markup Language",
-    "level": "Hard",
-    "id": 7576
-  },
+  
   {
     "language": "MERN Fullstack",
     "question": "What does MERN stand for?",
@@ -47852,19 +44960,7 @@ export const questions = [
     "level": "Easy",
     "id": 5714
   },
-  {
-    "language": "HTML5",
-    "question": "Which tag is used to create a hyperlink in HTML?",
-    "options": [
-      "<link>",
-      "<a>",
-      "<href>",
-      "<hyperlink>"
-    ],
-    "answer": "<a>",
-    "level": "Hard",
-    "id": 1359
-  },
+
   {
     "language": "RDBMS with Excel",
     "question": "Which function in Excel is used to lookup values?",
@@ -48116,19 +45212,7 @@ export const questions = [
     "level": "Medium",
     "id": 6674
   },
-  {
-    "language": "HTML5",
-    "question": "What does HTML stand for?",
-    "options": [
-      "Hyper Trainer Marking Language",
-      "Hyper Text Markup Language",
-      "Hyper Text Marketing Language",
-      "None of these"
-    ],
-    "answer": "Hyper Text Markup Language",
-    "level": "Medium",
-    "id": 3836
-  },
+  
   {
     "language": "Java Fullstack",
     "question": "Which database is often used with Java Fullstack?",
@@ -48326,19 +45410,7 @@ export const questions = [
     "level": "Medium",
     "id": 4291
   },
-  {
-    "language": "HTML5",
-    "question": "What does HTML stand for?",
-    "options": [
-      "Hyper Trainer Marking Language",
-      "Hyper Text Markup Language",
-      "Hyper Text Marketing Language",
-      "None of these"
-    ],
-    "answer": "Hyper Text Markup Language",
-    "level": "Easy",
-    "id": 1523
-  },
+  
   {
     "language": "CSS3",
     "question": "What does CSS stand for?",
@@ -48641,19 +45713,7 @@ export const questions = [
     "level": "Easy",
     "id": 6391
   },
-  {
-    "language": "HTML5",
-    "question": "Which tag is used to create a hyperlink in HTML?",
-    "options": [
-      "<link>",
-      "<a>",
-      "<href>",
-      "<hyperlink>"
-    ],
-    "answer": "<a>",
-    "level": "Hard",
-    "id": 8074
-  },
+
   {
     "language": "RDBMS with Excel",
     "question": "Which function in Excel is used to lookup values?",
@@ -48693,19 +45753,7 @@ export const questions = [
     "level": "Medium",
     "id": 6435
   },
-  {
-    "language": "HTML5",
-    "question": "Which tag is used to create a hyperlink in HTML?",
-    "options": [
-      "<link>",
-      "<a>",
-      "<href>",
-      "<hyperlink>"
-    ],
-    "answer": "<a>",
-    "level": "Hard",
-    "id": 5252
-  },
+
   {
     "language": "Python Fullstack",
     "question": "Which template engine is used with Flask?",
@@ -48798,19 +45846,7 @@ export const questions = [
     "id": 2480
   },
 
-  {
-    "language": "HTML5",
-    "question": "Which tag is used to create a hyperlink in HTML?",
-    "options": [
-      "<link>",
-      "<a>",
-      "<href>",
-      "<hyperlink>"
-    ],
-    "answer": "<a>",
-    "level": "Easy",
-    "id": 9434
-  },
+
   {
     "language": "Java",
     "question": "Which method is the entry point for a Java program?",
@@ -49032,19 +46068,7 @@ export const questions = [
     "level": "Easy",
     "id": 6533
   },
-  {
-    "language": "HTML5",
-    "question": "What does HTML stand for?",
-    "options": [
-      "Hyper Trainer Marking Language",
-      "Hyper Text Markup Language",
-      "Hyper Text Marketing Language",
-      "None of these"
-    ],
-    "answer": "Hyper Text Markup Language",
-    "level": "Medium",
-    "id": 7098
-  },
+  
   {
     "language": "Java Fullstack",
     "question": "Which framework is commonly used in Java Fullstack for backend?",
@@ -49085,19 +46109,7 @@ export const questions = [
     "id": 9963
   },
 
-  {
-    "language": "HTML5",
-    "question": "Which tag is used to create a hyperlink in HTML?",
-    "options": [
-      "<link>",
-      "<a>",
-      "<href>",
-      "<hyperlink>"
-    ],
-    "answer": "<a>",
-    "level": "Hard",
-    "id": 7635
-  },
+
   {
     "language": "Tailwind",
     "question": "Which utility class sets margin in Tailwind?",
@@ -49229,19 +46241,7 @@ export const questions = [
     "id": 3432
   },
 
-  {
-    "language": "HTML5",
-    "question": "What does HTML stand for?",
-    "options": [
-      "Hyper Trainer Marking Language",
-      "Hyper Text Markup Language",
-      "Hyper Text Marketing Language",
-      "None of these"
-    ],
-    "answer": "Hyper Text Markup Language",
-    "level": "Medium",
-    "id": 8652
-  },
+  
   {
     "language": "Data Science",
     "question": "Which library is used for data analysis in Python?",
@@ -49360,19 +46360,7 @@ export const questions = [
     "level": "Easy",
     "id": 4549
   },
-  {
-    "language": "HTML5",
-    "question": "Which tag is used to create a hyperlink in HTML?",
-    "options": [
-      "<link>",
-      "<a>",
-      "<href>",
-      "<hyperlink>"
-    ],
-    "answer": "<a>",
-    "level": "Medium",
-    "id": 8261
-  },
+
   {
     "language": "Java Fullstack",
     "question": "Which database is often used with Java Fullstack?",
@@ -49413,19 +46401,7 @@ export const questions = [
     "level": "Easy",
     "id": 5556
   },
-  {
-    "language": "HTML5",
-    "question": "Which tag is used to create a hyperlink in HTML?",
-    "options": [
-      "<link>",
-      "<a>",
-      "<href>",
-      "<hyperlink>"
-    ],
-    "answer": "<a>",
-    "level": "Hard",
-    "id": 5748
-  },
+
   {
     "language": "C++",
     "question": "Which concept allows function or operator to act differently on different data types in C++?",
@@ -49439,19 +46415,7 @@ export const questions = [
     "level": "Medium",
     "id": 6696
   },
-  {
-    "language": "HTML5",
-    "question": "What does HTML stand for?",
-    "options": [
-      "Hyper Trainer Marking Language",
-      "Hyper Text Markup Language",
-      "Hyper Text Marketing Language",
-      "None of these"
-    ],
-    "answer": "Hyper Text Markup Language",
-    "level": "Medium",
-    "id": 5521
-  },
+  
   {
     "language": "RDBMS with Excel",
     "question": "Which function in Excel is used to lookup values?",
@@ -49882,19 +46846,7 @@ export const questions = [
     "level": "Hard",
     "id": 2642
   },
-  {
-    "language": "HTML5",
-    "question": "What does HTML stand for?",
-    "options": [
-      "Hyper Trainer Marking Language",
-      "Hyper Text Markup Language",
-      "Hyper Text Marketing Language",
-      "None of these"
-    ],
-    "answer": "Hyper Text Markup Language",
-    "level": "Hard",
-    "id": 4406
-  },
+  
 
   {
     "language": "C++",
@@ -50300,19 +47252,7 @@ export const questions = [
     "level": "Easy",
     "id": 7425
   },
-  {
-    "language": "HTML5",
-    "question": "What does HTML stand for?",
-    "options": [
-      "Hyper Trainer Marking Language",
-      "Hyper Text Markup Language",
-      "Hyper Text Marketing Language",
-      "None of these"
-    ],
-    "answer": "Hyper Text Markup Language",
-    "level": "Easy",
-    "id": 3895
-  },
+  
   {
     "language": "Java Fullstack",
     "question": "Which database is often used with Java Fullstack?",
@@ -50326,19 +47266,7 @@ export const questions = [
     "level": "Easy",
     "id": 4441
   },
-  {
-    "language": "HTML5",
-    "question": "Which tag is used to create a hyperlink in HTML?",
-    "options": [
-      "<link>",
-      "<a>",
-      "<href>",
-      "<hyperlink>"
-    ],
-    "answer": "<a>",
-    "level": "Medium",
-    "id": 5244
-  },
+
   {
     "language": "Python Fullstack",
     "question": "Which Python web framework is used in Fullstack?",
@@ -50418,19 +47346,7 @@ export const questions = [
     "level": "Hard",
     "id": 5783
   },
-  {
-    "language": "HTML5",
-    "question": "What does HTML stand for?",
-    "options": [
-      "Hyper Trainer Marking Language",
-      "Hyper Text Markup Language",
-      "Hyper Text Marketing Language",
-      "None of these"
-    ],
-    "answer": "Hyper Text Markup Language",
-    "level": "Medium",
-    "id": 1658
-  },
+  
   {
     "language": "Data Science",
     "question": "Which term refers to drawing insights from data?",
@@ -50444,19 +47360,7 @@ export const questions = [
     "level": "Medium",
     "id": 2857
   },
-  {
-    "language": "HTML5",
-    "question": "Which tag is used to create a hyperlink in HTML?",
-    "options": [
-      "<link>",
-      "<a>",
-      "<href>",
-      "<hyperlink>"
-    ],
-    "answer": "<a>",
-    "level": "Medium",
-    "id": 3473
-  },
+
   {
     "language": "DSA C++",
     "question": "Which data structure uses FIFO?",
@@ -50509,19 +47413,7 @@ export const questions = [
     "level": "Easy",
     "id": 5860
   },
-  {
-    "language": "HTML5",
-    "question": "What does HTML stand for?",
-    "options": [
-      "Hyper Trainer Marking Language",
-      "Hyper Text Markup Language",
-      "Hyper Text Marketing Language",
-      "None of these"
-    ],
-    "answer": "Hyper Text Markup Language",
-    "level": "Medium",
-    "id": 5174
-  },
+  
   {
     "language": "RDBMS with Excel",
     "question": "Which SQL clause is used to filter rows?",
@@ -50719,19 +47611,7 @@ export const questions = [
     "level": "Easy",
     "id": 7187
   },
-  {
-    "language": "HTML5",
-    "question": "Which tag is used to create a hyperlink in HTML?",
-    "options": [
-      "<link>",
-      "<a>",
-      "<href>",
-      "<hyperlink>"
-    ],
-    "answer": "<a>",
-    "level": "Easy",
-    "id": 6050
-  },
+
   {
     "language": "Python Fullstack",
     "question": "Which template engine is used with Flask?",
@@ -50849,19 +47729,7 @@ export const questions = [
     "level": "Medium",
     "id": 5460
   },
-  {
-    "language": "HTML5",
-    "question": "What does HTML stand for?",
-    "options": [
-      "Hyper Trainer Marking Language",
-      "Hyper Text Markup Language",
-      "Hyper Text Marketing Language",
-      "None of these"
-    ],
-    "answer": "Hyper Text Markup Language",
-    "level": "Hard",
-    "id": 5538
-  },
+  
   {
     "language": "Data Science",
     "question": "Which term refers to drawing insights from data?",
@@ -50940,19 +47808,7 @@ export const questions = [
     "level": "Hard",
     "id": 9326
   },
-  {
-    "language": "HTML5",
-    "question": "What does HTML stand for?",
-    "options": [
-      "Hyper Trainer Marking Language",
-      "Hyper Text Markup Language",
-      "Hyper Text Marketing Language",
-      "None of these"
-    ],
-    "answer": "Hyper Text Markup Language",
-    "level": "Medium",
-    "id": 6343
-  },
+  
   {
     "language": "Tailwind",
     "question": "Which utility class sets margin in Tailwind?",
@@ -51175,32 +48031,8 @@ export const questions = [
     "level": "Easy",
     "id": 7455
   },
-  {
-    "language": "HTML5",
-    "question": "Which tag is used to create a hyperlink in HTML?",
-    "options": [
-      "<link>",
-      "<a>",
-      "<href>",
-      "<hyperlink>"
-    ],
-    "answer": "<a>",
-    "level": "Hard",
-    "id": 3675
-  },
-  {
-    "language": "HTML5",
-    "question": "What does HTML stand for?",
-    "options": [
-      "Hyper Trainer Marking Language",
-      "Hyper Text Markup Language",
-      "Hyper Text Marketing Language",
-      "None of these"
-    ],
-    "answer": "Hyper Text Markup Language",
-    "level": "Medium",
-    "id": 7183
-  },
+
+  
   {
     "language": "MERN Fullstack",
     "question": "Which part of MERN stack handles the frontend?",
@@ -51227,19 +48059,7 @@ export const questions = [
     "level": "Easy",
     "id": 8448
   },
-  {
-    "language": "HTML5",
-    "question": "Which tag is used to create a hyperlink in HTML?",
-    "options": [
-      "<link>",
-      "<a>",
-      "<href>",
-      "<hyperlink>"
-    ],
-    "answer": "<a>",
-    "level": "Medium",
-    "id": 7363
-  },
+
   {
     "language": "C++",
     "question": "Which concept allows function or operator to act differently on different data types in C++?",
@@ -51451,19 +48271,7 @@ export const questions = [
     "level": "Medium",
     "id": 2900
   },
-  {
-    "language": "HTML5",
-    "question": "What does HTML stand for?",
-    "options": [
-      "Hyper Trainer Marking Language",
-      "Hyper Text Markup Language",
-      "Hyper Text Marketing Language",
-      "None of these"
-    ],
-    "answer": "Hyper Text Markup Language",
-    "level": "Easy",
-    "id": 1744
-  },
+  
   {
     "language": "JavaScript",
     "question": "Which company developed JavaScript?",
@@ -51491,19 +48299,7 @@ export const questions = [
     "id": 7153
   },
 
-  {
-    "language": "HTML5",
-    "question": "Which tag is used to create a hyperlink in HTML?",
-    "options": [
-      "<link>",
-      "<a>",
-      "<href>",
-      "<hyperlink>"
-    ],
-    "answer": "<a>",
-    "level": "Easy",
-    "id": 8066
-  },
+
   {
     "language": "Java Fullstack",
     "question": "Which framework is commonly used in Java Fullstack for backend?",
@@ -51569,19 +48365,7 @@ export const questions = [
     "level": "Medium",
     "id": 1021
   },
-  {
-    "language": "HTML5",
-    "question": "Which tag is used to create a hyperlink in HTML?",
-    "options": [
-      "<link>",
-      "<a>",
-      "<href>",
-      "<hyperlink>"
-    ],
-    "answer": "<a>",
-    "level": "Medium",
-    "id": 2863
-  },
+
   {
     "language": "Bootstrap 4",
     "question": "What class is used for a button in Bootstrap?",
@@ -51608,19 +48392,7 @@ export const questions = [
     "level": "Hard",
     "id": 8247
   },
-  {
-    "language": "HTML5",
-    "question": "What does HTML stand for?",
-    "options": [
-      "Hyper Trainer Marking Language",
-      "Hyper Text Markup Language",
-      "Hyper Text Marketing Language",
-      "None of these"
-    ],
-    "answer": "Hyper Text Markup Language",
-    "level": "Easy",
-    "id": 7076
-  },
+  
   {
     "language": "JavaScript",
     "question": "Which company developed JavaScript?",
@@ -51699,19 +48471,7 @@ export const questions = [
     "level": "Easy",
     "id": 7119
   },
-  {
-    "language": "HTML5",
-    "question": "What does HTML stand for?",
-    "options": [
-      "Hyper Trainer Marking Language",
-      "Hyper Text Markup Language",
-      "Hyper Text Marketing Language",
-      "None of these"
-    ],
-    "answer": "Hyper Text Markup Language",
-    "level": "Medium",
-    "id": 1448
-  },
+  
   {
     "language": "Python Fullstack",
     "question": "Which Python web framework is used in Fullstack?",
@@ -52285,19 +49045,7 @@ export const questions = [
     "level": "Hard",
     "id": 4018
   },
-  {
-    "language": "HTML5",
-    "question": "Which tag is used to create a hyperlink in HTML?",
-    "options": [
-      "<link>",
-      "<a>",
-      "<href>",
-      "<hyperlink>"
-    ],
-    "answer": "<a>",
-    "level": "Medium",
-    "id": 2791
-  },
+
   {
     "language": "JavaScript",
     "question": "Which company developed JavaScript?",
@@ -52598,32 +49346,8 @@ export const questions = [
     "level": "Medium",
     "id": 8355
   },
-  {
-    "language": "HTML5",
-    "question": "What does HTML stand for?",
-    "options": [
-      "Hyper Trainer Marking Language",
-      "Hyper Text Markup Language",
-      "Hyper Text Marketing Language",
-      "None of these"
-    ],
-    "answer": "Hyper Text Markup Language",
-    "level": "Easy",
-    "id": 3918
-  },
-  {
-    "language": "HTML5",
-    "question": "What does HTML stand for?",
-    "options": [
-      "Hyper Trainer Marking Language",
-      "Hyper Text Markup Language",
-      "Hyper Text Marketing Language",
-      "None of these"
-    ],
-    "answer": "Hyper Text Markup Language",
-    "level": "Medium",
-    "id": 9247
-  },
+  
+  
   {
     "language": "Tailwind",
     "question": "What is Tailwind CSS?",
@@ -52899,19 +49623,7 @@ export const questions = [
     "level": "Hard",
     "id": 3924
   },
-  {
-    "language": "HTML5",
-    "question": "Which tag is used to create a hyperlink in HTML?",
-    "options": [
-      "<link>",
-      "<a>",
-      "<href>",
-      "<hyperlink>"
-    ],
-    "answer": "<a>",
-    "level": "Hard",
-    "id": 9084
-  },
+
   {
     "language": "Tailwind",
     "question": "What is Tailwind CSS?",
@@ -53108,19 +49820,7 @@ export const questions = [
     "level": "Hard",
     "id": 1084
   },
-  {
-    "language": "HTML5",
-    "question": "What does HTML stand for?",
-    "options": [
-      "Hyper Trainer Marking Language",
-      "Hyper Text Markup Language",
-      "Hyper Text Marketing Language",
-      "None of these"
-    ],
-    "answer": "Hyper Text Markup Language",
-    "level": "Medium",
-    "id": 9029
-  },
+  
   {
     "language": "Python Fullstack",
     "question": "Which template engine is used with Flask?",
@@ -53564,19 +50264,7 @@ export const questions = [
     "level": "Easy",
     "id": 9500
   },
-  {
-    "language": "HTML5",
-    "question": "What does HTML stand for?",
-    "options": [
-      "Hyper Trainer Marking Language",
-      "Hyper Text Markup Language",
-      "Hyper Text Marketing Language",
-      "None of these"
-    ],
-    "answer": "Hyper Text Markup Language",
-    "level": "Hard",
-    "id": 4848
-  },
+  
   {
     "language": "Tailwind",
     "question": "What is Tailwind CSS?",
@@ -53734,19 +50422,7 @@ export const questions = [
     "level": "Hard",
     "id": 4593
   },
-  {
-    "language": "HTML5",
-    "question": "Which tag is used to create a hyperlink in HTML?",
-    "options": [
-      "<link>",
-      "<a>",
-      "<href>",
-      "<hyperlink>"
-    ],
-    "answer": "<a>",
-    "level": "Hard",
-    "id": 7982
-  },
+
   {
     "language": "Tailwind",
     "question": "Which utility class sets margin in Tailwind?",
@@ -53760,19 +50436,7 @@ export const questions = [
     "level": "Medium",
     "id": 1224
   },
-  {
-    "language": "HTML5",
-    "question": "What does HTML stand for?",
-    "options": [
-      "Hyper Trainer Marking Language",
-      "Hyper Text Markup Language",
-      "Hyper Text Marketing Language",
-      "None of these"
-    ],
-    "answer": "Hyper Text Markup Language",
-    "level": "Easy",
-    "id": 9045
-  },
+  
   {
     "language": "RDBMS with Excel",
     "question": "Which SQL clause is used to filter rows?",
@@ -53812,19 +50476,7 @@ export const questions = [
     "level": "Hard",
     "id": 9699
   },
-  {
-    "language": "HTML5",
-    "question": "Which tag is used to create a hyperlink in HTML?",
-    "options": [
-      "<link>",
-      "<a>",
-      "<href>",
-      "<hyperlink>"
-    ],
-    "answer": "<a>",
-    "level": "Medium",
-    "id": 9675
-  },
+
   {
     "language": "Python",
     "question": "Which of the following is used to define a function in Python?",
@@ -53853,19 +50505,7 @@ export const questions = [
     "level": "Medium",
     "id": 3992
   },
-  {
-    "language": "HTML5",
-    "question": "Which tag is used to create a hyperlink in HTML?",
-    "options": [
-      "<link>",
-      "<a>",
-      "<href>",
-      "<hyperlink>"
-    ],
-    "answer": "<a>",
-    "level": "Easy",
-    "id": 7643
-  },
+
   {
     "language": "Java Fullstack",
     "question": "Which framework is commonly used in Java Fullstack for backend?",
@@ -53959,32 +50599,8 @@ export const questions = [
     "level": "Medium",
     "id": 1965
   },
-  {
-    "language": "HTML5",
-    "question": "Which tag is used to create a hyperlink in HTML?",
-    "options": [
-      "<link>",
-      "<a>",
-      "<href>",
-      "<hyperlink>"
-    ],
-    "answer": "<a>",
-    "level": "Easy",
-    "id": 8777
-  },
-  {
-    "language": "HTML5",
-    "question": "Which tag is used to create a hyperlink in HTML?",
-    "options": [
-      "<link>",
-      "<a>",
-      "<href>",
-      "<hyperlink>"
-    ],
-    "answer": "<a>",
-    "level": "Hard",
-    "id": 9042
-  },
+
+
   {
     "language": "Data Science",
     "question": "Which term refers to drawing insights from data?",
@@ -54129,19 +50745,7 @@ export const questions = [
     "id": 2021
   },
 
-  {
-    "language": "HTML5",
-    "question": "What does HTML stand for?",
-    "options": [
-      "Hyper Trainer Marking Language",
-      "Hyper Text Markup Language",
-      "Hyper Text Marketing Language",
-      "None of these"
-    ],
-    "answer": "Hyper Text Markup Language",
-    "level": "Hard",
-    "id": 7950
-  },
+  
   {
     "language": "Python Fullstack",
     "question": "Which Python web framework is used in Fullstack?",
@@ -54833,19 +51437,7 @@ export const questions = [
     "level": "Hard",
     "id": 4838
   },
-  {
-    "language": "HTML5",
-    "question": "Which tag is used to create a hyperlink in HTML?",
-    "options": [
-      "<link>",
-      "<a>",
-      "<href>",
-      "<hyperlink>"
-    ],
-    "answer": "<a>",
-    "level": "Easy",
-    "id": 5577
-  },
+
   {
     "language": "Bootstrap 4",
     "question": "What class is used for a button in Bootstrap?",
@@ -55041,19 +51633,7 @@ export const questions = [
     "level": "Medium",
     "id": 9009
   },
-  {
-    "language": "HTML5",
-    "question": "Which tag is used to create a hyperlink in HTML?",
-    "options": [
-      "<link>",
-      "<a>",
-      "<href>",
-      "<hyperlink>"
-    ],
-    "answer": "<a>",
-    "level": "Hard",
-    "id": 3116
-  },
+
   {
     "language": "MERN Fullstack",
     "question": "Which part of MERN stack handles the frontend?",
@@ -55539,19 +52119,7 @@ export const questions = [
     "level": "Hard",
     "id": 2696
   },
-  {
-    "language": "HTML5",
-    "question": "Which tag is used to create a hyperlink in HTML?",
-    "options": [
-      "<link>",
-      "<a>",
-      "<href>",
-      "<hyperlink>"
-    ],
-    "answer": "<a>",
-    "level": "Hard",
-    "id": 5197
-  },
+
   {
     "language": "Java Fullstack",
     "question": "Which database is often used with Java Fullstack?",
@@ -55656,19 +52224,7 @@ export const questions = [
     "level": "Easy",
     "id": 5876
   },
-  {
-    "language": "HTML5",
-    "question": "What does HTML stand for?",
-    "options": [
-      "Hyper Trainer Marking Language",
-      "Hyper Text Markup Language",
-      "Hyper Text Marketing Language",
-      "None of these"
-    ],
-    "answer": "Hyper Text Markup Language",
-    "level": "Easy",
-    "id": 5414
-  },
+  
   {
     "language": "Java Fullstack",
     "question": "Which framework is commonly used in Java Fullstack for backend?",
@@ -55864,19 +52420,7 @@ export const questions = [
     "level": "Medium",
     "id": 2821
   },
-  {
-    "language": "HTML5",
-    "question": "Which tag is used to create a hyperlink in HTML?",
-    "options": [
-      "<link>",
-      "<a>",
-      "<href>",
-      "<hyperlink>"
-    ],
-    "answer": "<a>",
-    "level": "Easy",
-    "id": 7054
-  },
+
 
   {
     "language": "RDBMS with Excel",
@@ -56009,19 +52553,7 @@ export const questions = [
     "level": "Hard",
     "id": 6552
   },
-  {
-    "language": "HTML5",
-    "question": "What does HTML stand for?",
-    "options": [
-      "Hyper Trainer Marking Language",
-      "Hyper Text Markup Language",
-      "Hyper Text Marketing Language",
-      "None of these"
-    ],
-    "answer": "Hyper Text Markup Language",
-    "level": "Easy",
-    "id": 6945
-  },
+  
   {
     "language": "Java",
     "question": "Which method is the entry point for a Java program?",
@@ -56348,19 +52880,7 @@ export const questions = [
     "level": "Hard",
     "id": 8884
   },
-  {
-    "language": "HTML5",
-    "question": "What does HTML stand for?",
-    "options": [
-      "Hyper Trainer Marking Language",
-      "Hyper Text Markup Language",
-      "Hyper Text Marketing Language",
-      "None of these"
-    ],
-    "answer": "Hyper Text Markup Language",
-    "level": "Medium",
-    "id": 2059
-  },
+  
   {
     "language": "Data Science",
     "question": "Which library is used for data analysis in Python?",
@@ -56413,19 +52933,7 @@ export const questions = [
     "level": "Easy",
     "id": 4133
   },
-  {
-    "language": "HTML5",
-    "question": "Which tag is used to create a hyperlink in HTML?",
-    "options": [
-      "<link>",
-      "<a>",
-      "<href>",
-      "<hyperlink>"
-    ],
-    "answer": "<a>",
-    "level": "Medium",
-    "id": 7969
-  },
+
   {
     "language": "MERN Fullstack",
     "question": "Which part of MERN stack handles the frontend?",
@@ -56518,19 +53026,7 @@ export const questions = [
     "level": "Easy",
     "id": 2262
   },
-  {
-    "language": "HTML5",
-    "question": "Which tag is used to create a hyperlink in HTML?",
-    "options": [
-      "<link>",
-      "<a>",
-      "<href>",
-      "<hyperlink>"
-    ],
-    "answer": "<a>",
-    "level": "Easy",
-    "id": 4147
-  },
+
   {
     "language": "CSS3",
     "question": "What does CSS stand for?",
@@ -56676,19 +53172,7 @@ export const questions = [
     "level": "Hard",
     "id": 8863
   },
-  {
-    "language": "HTML5",
-    "question": "Which tag is used to create a hyperlink in HTML?",
-    "options": [
-      "<link>",
-      "<a>",
-      "<href>",
-      "<hyperlink>"
-    ],
-    "answer": "<a>",
-    "level": "Hard",
-    "id": 9847
-  },
+
   {
     "language": "Python Fullstack",
     "question": "Which template engine is used with Flask?",
@@ -56937,19 +53421,7 @@ export const questions = [
     "level": "Medium",
     "id": 6965
   },
-  {
-    "language": "HTML5",
-    "question": "What does HTML stand for?",
-    "options": [
-      "Hyper Trainer Marking Language",
-      "Hyper Text Markup Language",
-      "Hyper Text Marketing Language",
-      "None of these"
-    ],
-    "answer": "Hyper Text Markup Language",
-    "level": "Medium",
-    "id": 5954
-  },
+  
   {
     "language": "Java",
     "question": "Which of these is not a Java keyword?",
@@ -57447,19 +53919,7 @@ export const questions = [
     "level": "Easy",
     "id": 5719
   },
-  {
-    "language": "HTML5",
-    "question": "Which tag is used to create a hyperlink in HTML?",
-    "options": [
-      "<link>",
-      "<a>",
-      "<href>",
-      "<hyperlink>"
-    ],
-    "answer": "<a>",
-    "level": "Hard",
-    "id": 5126
-  },
+
   {
     "language": "DSA C++",
     "question": "Which sorting algorithm is fastest on average?",
@@ -57500,19 +53960,7 @@ export const questions = [
     "id": 7745
   },
 
-  {
-    "language": "HTML5",
-    "question": "What does HTML stand for?",
-    "options": [
-      "Hyper Trainer Marking Language",
-      "Hyper Text Markup Language",
-      "Hyper Text Marketing Language",
-      "None of these"
-    ],
-    "answer": "Hyper Text Markup Language",
-    "level": "Easy",
-    "id": 1731
-  },
+  
   {
     "language": "DSA C++",
     "question": "Which data structure uses FIFO?",
@@ -57656,19 +54104,7 @@ export const questions = [
     "level": "Medium",
     "id": 1894
   },
-  {
-    "language": "HTML5",
-    "question": "What does HTML stand for?",
-    "options": [
-      "Hyper Trainer Marking Language",
-      "Hyper Text Markup Language",
-      "Hyper Text Marketing Language",
-      "None of these"
-    ],
-    "answer": "Hyper Text Markup Language",
-    "level": "Easy",
-    "id": 1796
-  },
+  
   {
     "language": "Python",
     "question": "What does the len() function do in Python?",
@@ -57827,19 +54263,7 @@ export const questions = [
     "level": "Medium",
     "id": 5592
   },
-  {
-    "language": "HTML5",
-    "question": "What does HTML stand for?",
-    "options": [
-      "Hyper Trainer Marking Language",
-      "Hyper Text Markup Language",
-      "Hyper Text Marketing Language",
-      "None of these"
-    ],
-    "answer": "Hyper Text Markup Language",
-    "level": "Medium",
-    "id": 2026
-  },
+  
   {
     "language": "RDBMS with Excel",
     "question": "Which function in Excel is used to lookup values?",
@@ -57892,19 +54316,7 @@ export const questions = [
     "level": "Medium",
     "id": 7261
   },
-  {
-    "language": "HTML5",
-    "question": "What does HTML stand for?",
-    "options": [
-      "Hyper Trainer Marking Language",
-      "Hyper Text Markup Language",
-      "Hyper Text Marketing Language",
-      "None of these"
-    ],
-    "answer": "Hyper Text Markup Language",
-    "level": "Easy",
-    "id": 5008
-  },
+  
   {
     "language": "Tailwind",
     "question": "What is Tailwind CSS?",
@@ -58035,19 +54447,7 @@ export const questions = [
     "level": "Hard",
     "id": 5713
   },
-  {
-    "language": "HTML5",
-    "question": "Which tag is used to create a hyperlink in HTML?",
-    "options": [
-      "<link>",
-      "<a>",
-      "<href>",
-      "<hyperlink>"
-    ],
-    "answer": "<a>",
-    "level": "Hard",
-    "id": 2612
-  },
+
   {
     "language": "Java Fullstack",
     "question": "Which database is often used with Java Fullstack?",
@@ -58335,32 +54735,8 @@ export const questions = [
     "level": "Easy",
     "id": 6752
   },
-  {
-    "language": "HTML5",
-    "question": "Which tag is used to create a hyperlink in HTML?",
-    "options": [
-      "<link>",
-      "<a>",
-      "<href>",
-      "<hyperlink>"
-    ],
-    "answer": "<a>",
-    "level": "Hard",
-    "id": 6396
-  },
-  {
-    "language": "HTML5",
-    "question": "Which tag is used to create a hyperlink in HTML?",
-    "options": [
-      "<link>",
-      "<a>",
-      "<href>",
-      "<hyperlink>"
-    ],
-    "answer": "<a>",
-    "level": "Medium",
-    "id": 8439
-  },
+
+
   {
     "language": "Java Fullstack",
     "question": "Which framework is commonly used in Java Fullstack for backend?",
@@ -58844,19 +55220,7 @@ export const questions = [
     "level": "Medium",
     "id": 8026
   },
-  {
-    "language": "HTML5",
-    "question": "Which tag is used to create a hyperlink in HTML?",
-    "options": [
-      "<link>",
-      "<a>",
-      "<href>",
-      "<hyperlink>"
-    ],
-    "answer": "<a>",
-    "level": "Easy",
-    "id": 2325
-  },
+
   {
     "language": "CSS3",
     "question": "What does CSS stand for?",
@@ -58922,19 +55286,7 @@ export const questions = [
     "level": "Easy",
     "id": 5780
   },
-  {
-    "language": "HTML5",
-    "question": "Which tag is used to create a hyperlink in HTML?",
-    "options": [
-      "<link>",
-      "<a>",
-      "<href>",
-      "<hyperlink>"
-    ],
-    "answer": "<a>",
-    "level": "Medium",
-    "id": 9332
-  },
+
   {
     "language": "JavaScript",
     "question": "Which symbol is used for comments in JavaScript?",
@@ -59000,19 +55352,7 @@ export const questions = [
     "level": "Hard",
     "id": 1902
   },
-  {
-    "language": "HTML5",
-    "question": "Which tag is used to create a hyperlink in HTML?",
-    "options": [
-      "<link>",
-      "<a>",
-      "<href>",
-      "<hyperlink>"
-    ],
-    "answer": "<a>",
-    "level": "Easy",
-    "id": 8152
-  },
+
   {
     "language": "RDBMS with Excel",
     "question": "Which function in Excel is used to lookup values?",
@@ -59183,19 +55523,7 @@ export const questions = [
     "level": "Hard",
     "id": 8847
   },
-  {
-    "language": "HTML5",
-    "question": "Which tag is used to create a hyperlink in HTML?",
-    "options": [
-      "<link>",
-      "<a>",
-      "<href>",
-      "<hyperlink>"
-    ],
-    "answer": "<a>",
-    "level": "Easy",
-    "id": 8218
-  },
+
   {
     "language": "JavaScript",
     "question": "Which symbol is used for comments in JavaScript?",
@@ -59274,19 +55602,7 @@ export const questions = [
     "level": "Hard",
     "id": 6629
   },
-  {
-    "language": "HTML5",
-    "question": "What does HTML stand for?",
-    "options": [
-      "Hyper Trainer Marking Language",
-      "Hyper Text Markup Language",
-      "Hyper Text Marketing Language",
-      "None of these"
-    ],
-    "answer": "Hyper Text Markup Language",
-    "level": "Medium",
-    "id": 6068
-  },
+  
   {
     "language": "Python",
     "question": "What does the len() function do in Python?",
@@ -59404,19 +55720,7 @@ export const questions = [
     "level": "Medium",
     "id": 3615
   },
-  {
-    "language": "HTML5",
-    "question": "What does HTML stand for?",
-    "options": [
-      "Hyper Trainer Marking Language",
-      "Hyper Text Markup Language",
-      "Hyper Text Marketing Language",
-      "None of these"
-    ],
-    "answer": "Hyper Text Markup Language",
-    "level": "Medium",
-    "id": 1894
-  },
+  
   {
     "language": "DSA C++",
     "question": "Which data structure uses FIFO?",
@@ -59703,19 +56007,7 @@ export const questions = [
     "level": "Easy",
     "id": 6363
   },
-  {
-    "language": "HTML5",
-    "question": "What does HTML stand for?",
-    "options": [
-      "Hyper Trainer Marking Language",
-      "Hyper Text Markup Language",
-      "Hyper Text Marketing Language",
-      "None of these"
-    ],
-    "answer": "Hyper Text Markup Language",
-    "level": "Hard",
-    "id": 6804
-  },
+  
   {
     "language": "C++",
     "question": "Which of the following is not a C++ access specifier?",
@@ -59873,19 +56165,7 @@ export const questions = [
     "level": "Hard",
     "id": 5135
   },
-  {
-    "language": "HTML5",
-    "question": "Which tag is used to create a hyperlink in HTML?",
-    "options": [
-      "<link>",
-      "<a>",
-      "<href>",
-      "<hyperlink>"
-    ],
-    "answer": "<a>",
-    "level": "Hard",
-    "id": 2858
-  },
+
   {
     "language": "Data Science",
     "question": "Which library is used for data analysis in Python?",
@@ -60162,32 +56442,8 @@ export const questions = [
     "level": "Easy",
     "id": 6169
   },
-  {
-    "language": "HTML5",
-    "question": "What does HTML stand for?",
-    "options": [
-      "Hyper Trainer Marking Language",
-      "Hyper Text Markup Language",
-      "Hyper Text Marketing Language",
-      "None of these"
-    ],
-    "answer": "Hyper Text Markup Language",
-    "level": "Medium",
-    "id": 8012
-  },
-  {
-    "language": "HTML5",
-    "question": "What does HTML stand for?",
-    "options": [
-      "Hyper Trainer Marking Language",
-      "Hyper Text Markup Language",
-      "Hyper Text Marketing Language",
-      "None of these"
-    ],
-    "answer": "Hyper Text Markup Language",
-    "level": "Easy",
-    "id": 7596
-  },
+  
+  
   {
     "language": "RDBMS with Excel",
     "question": "Which SQL clause is used to filter rows?",
@@ -60253,19 +56509,7 @@ export const questions = [
     "level": "Easy",
     "id": 1333
   },
-  {
-    "language": "HTML5",
-    "question": "What does HTML stand for?",
-    "options": [
-      "Hyper Trainer Marking Language",
-      "Hyper Text Markup Language",
-      "Hyper Text Marketing Language",
-      "None of these"
-    ],
-    "answer": "Hyper Text Markup Language",
-    "level": "Easy",
-    "id": 6090
-  },
+  
   {
     "language": "CSS3",
     "question": "What does CSS stand for?",
@@ -60765,46 +57009,10 @@ export const questions = [
     "level": "Medium",
     "id": 7126
   },
-  {
-    "language": "HTML5",
-    "question": "What does HTML stand for?",
-    "options": [
-      "Hyper Trainer Marking Language",
-      "Hyper Text Markup Language",
-      "Hyper Text Marketing Language",
-      "None of these"
-    ],
-    "answer": "Hyper Text Markup Language",
-    "level": "Hard",
-    "id": 4087
-  },
+  
 
-  {
-    "language": "HTML5",
-    "question": "What does HTML stand for?",
-    "options": [
-      "Hyper Trainer Marking Language",
-      "Hyper Text Markup Language",
-      "Hyper Text Marketing Language",
-      "None of these"
-    ],
-    "answer": "Hyper Text Markup Language",
-    "level": "Easy",
-    "id": 3578
-  },
-  {
-    "language": "HTML5",
-    "question": "What does HTML stand for?",
-    "options": [
-      "Hyper Trainer Marking Language",
-      "Hyper Text Markup Language",
-      "Hyper Text Marketing Language",
-      "None of these"
-    ],
-    "answer": "Hyper Text Markup Language",
-    "level": "Easy",
-    "id": 3080
-  },
+  
+  
   {
     "language": "Java",
     "question": "Which method is the entry point for a Java program?",
@@ -60818,19 +57026,7 @@ export const questions = [
     "level": "Medium",
     "id": 3770
   },
-  {
-    "language": "HTML5",
-    "question": "Which tag is used to create a hyperlink in HTML?",
-    "options": [
-      "<link>",
-      "<a>",
-      "<href>",
-      "<hyperlink>"
-    ],
-    "answer": "<a>",
-    "level": "Medium",
-    "id": 8942
-  },
+
   {
     "language": "DSA C++",
     "question": "Which data structure uses FIFO?",
@@ -62655,4 +58851,345 @@ export const questions = [
     options: ["int *ptr", "int ptr*", "ptr int*", "int &ptr"],
     answer: "int *ptr",
   },
+
+  {
+        "language": "HTML5",
+        "question": "There are ___ levels of heading in HTML",
+        "options": [
+            "Three",
+            "four",
+            "five",
+            "six"
+        ],
+        "answer": "six"
+    },
+    {
+        "language": "HTML5",
+        "question": "What does HTML stand for?",
+        "options": [
+            "Home Tool Markup Language",
+            "Hyper text markup language",
+            "Hyperlink and text language",
+            "Hide text markup language"
+        ],
+        "answer": "Hyper text markup language"
+    },
+    {
+        "language": "HTML5",
+        "question": "Who is the father of HTML?",
+        "options": [
+            "Rasmus Lerdorf",
+            "Tim Berners-Lee",
+            "Brendan Eich",
+            "Sergey Brin"
+        ],
+        "answer": "Tim Berners-Lee"
+    },
+    {
+        "language": "HTML5",
+        "question": "What is the correct syntax of doctype in HTML5?",
+        "options": [
+            "</doctype html>",
+            "<doctype html>",
+            "<doctype html!>",
+            "<!doctype html>"
+        ],
+        "answer": "<!doctype html>"
+    },
+    {
+        "language": "HTML5",
+        "question": "Which of the following is used to read an HTML page and render it?",
+        "options": [
+            "Web server",
+            "Web network",
+            "Web browser",
+            "Web matrix"
+        ],
+        "answer": "Web browser"
+    },
+    {
+        "language": "HTML5",
+        "question": "Which of the following is not a difference between HTML and XHTML?",
+        "options": [
+            "Charset in both html and xhtml is “text/html”",
+            "Tags and attributes are case-insensitive in HTML but not in XHTML",
+            "Special characters must be escaped using character entities in XHTML unlike HTML",
+            "Charset in html is “text/html” where as in xhtml it is “application/xml+xhtml”"
+        ],
+        "answer": "Charset in both html and xhtml is “text/html”"
+    },
+    {
+        "language": "HTML5",
+        "question": "Which of the following tag is used for inserting the largest heading in HTML?",
+        "options": [
+            "head",
+            "<h1>",
+            "<h6>",
+            "heading"
+        ],
+        "answer": "<h1>"
+    },
+    {
+        "language": "HTML5",
+        "question": "What is DOM in HTML?",
+        "options": [
+            "Language dependent application programming",
+            "Hierarchy of objects in ASP.NET",
+            "Application programming interface",
+            "Convention for representing and interacting with objects in html documents"
+        ],
+        "answer": "Convention for representing and interacting with objects in html documents"
+    },
+    {
+        "language": "HTML5",
+        "question": "In which part of the HTML metadata is contained?",
+        "options": [
+            "head tag",
+            "Title tag",
+            "Html tag",
+            "body tag"
+        ],
+        "answer": "head tag"
+    },
+    {
+        "language": "HTML5",
+        "question": "Which element is used to get highlighted text in HTML5?",
+        "options": [
+            "<u>",
+            "<mark>",
+            "<highlight>",
+            "<b>"
+        ],
+        "answer": "<mark>"
+    },
+    {
+        "language": "HTML5",
+        "question": " How do we write comments in HTML?",
+        "options": [
+            "</…….>",
+            "<!……>",
+            "</……/>",
+            "<…….!>"
+        ],
+        "answer": " <!……>"
+    },
+    {
+        "language": "HTML5",
+        "question": "  Which of the following elements in HTML5 defines video or movie content?",
+        "options": [
+            "<video>",
+            "<movie>",
+            "<audio>",
+            "<media>"
+        ],
+        "answer": "<video>"
+    },
+    {
+        "language": "HTML5",
+        "question": "  Which element is used for or styling HTML5 layout?",
+        "options": [
+            "CSS",
+            "jQuery",
+            "JavaScript",
+            "PHP"
+        ],
+        "answer": "CSS"
+    },
+    {
+        "language": "HTML5",
+        "question": "  Which HTML tag is used for making character appearance bold?",
+        "options": [
+            "<u>content</u>",
+            "<b>content</b>",
+            "<br>content</br>",
+            "<i>content</i>"
+        ],
+        "answer": "<b>content</b>"
+    },
+    {
+        "language": "HTML5",
+        "question": "  Which HTML tag is used to insert an image?",
+        "options": [
+            "<img url=”htmllogo.jpg” />",
+            "<img alt=”htmllogo.jpg” />",
+            "<img src=”htmllogo.jpg” />",
+            "<img link=”htmllogo.jpg” />"
+        ],
+        "answer": "<img src=”htmllogo.jpg” />"
+    },
+    {
+        "language": "HTML5",
+        "question": " What is the correct HTML element for inserting a line break?",
+        "options": [
+            "<lb>",
+            "<break>",
+            "<br>",
+            "<bre>"
+        ],
+        "answer": "<br>"
+    },
+    {
+        "language": "HTML5",
+        "question": "What is the correct HTML for adding a background color?",
+        "options": [
+            "<body bg=\"yellow\">",
+            "<background>yellow</background>",
+            "<body style=\"background-color:yellow;\">",
+            "<color=\"green\">"
+        ],
+        "answer": "<body style=\"background-color:yellow;\">"
+    },
+    {
+        "language": "HTML5",
+        "question": "Choose the correct HTML element to define important text?",
+        "options": [
+            "<strong>",
+            "<b>",
+            "<important>",
+            "<i>"
+        ],
+        "answer": "<strong>"
+    },
+    {
+        "language": "HTML5",
+        "question": "What is the correct HTML for creating a hyperlink?",
+        "options": [
+            "<a url=\"http://www.skysoftwaresoltion.in\">skysoftwaresoltion</a>",
+            "<a href=\"http://skysoftwaresoltion.in\">skysoftwaresoltion</a>",
+            "<a>http: //www.skysoftwaresoltion.in</a>",
+            "<a name=\"http://skysoftwaresoltion.in\">skysoftwaresoltion.in</a>"
+        ],
+        "answer": "<a href=\"http://skysoftwaresoltion.in\">skysoftwaresoltion</a>"
+    },
+    {
+        "language": "HTML5",
+        "question": "Which character is used to indicate an end tag?",
+        "options": [
+            "^",
+            "<",
+            "*",
+            "/"
+        ],
+        "answer": "/"
+    },
+    {
+        "language": "HTML5",
+        "question": "How can you open a link in a new tab/browser window?",
+        "options": [
+            "<a href=\"url\" new>",
+            "<a href=\"url\" target=\"_blank\">",
+            "<a href=\"url\" target=\"new\">"
+        ],
+        "answer": "<a href=\"url\" target=\"_blank\">"
+    },
+    {
+        "language": "HTML5",
+        "question": "Which of these elements are all <table> elements?",
+        "options": [
+            "<table><head><tfoot>",
+            "<table><tr><td>",
+            "<table><tr><tt>",
+            "<thead><body><tr>"
+        ],
+        "answer": "<table><tr><td>"
+    },
+    {
+        "language": "HTML5",
+        "question": "How can you make a numbered list?",
+        "options": [
+            "<ul>",
+            "<dl>",
+            "<ol>",
+            "<list>"
+        ],
+        "answer": "<ol>"
+    },
+    {
+        "language": "HTML5",
+        "question": ". How can you make a bulleted list?",
+        "options": [
+            "<ul>",
+            "<dl>",
+            "<ol>",
+            "<ul>"
+        ],
+        "answer": "<ul>"
+    },
+    {
+        "language": "HTML5",
+        "question": ". What is the correct HTML for making a checkbox?",
+        "options": [
+            "<input type=\"check\">",
+            "<check>",
+            "<checkbox>",
+            "<input type=\"checkbox\">"
+        ],
+        "answer": "<input type=\"checkbox\">"
+    },
+    {
+        "language": "HTML5",
+        "question": "Which of the following HTML code will make an image clickable?",
+        "options": [
+            "<a href=\"https://www.skysotwaresolution.in/\">Sky Software Home Page</a>",
+            "<img src=\"https://www.skysotwaresolution.in/skysoftware-logo\"><a href=\"https://www.skysotwaresolution.in/\">Skysoftware  Home Page</a></img>",
+            "<a href=\"https://www.skysotwaresolution.in/\">Skysoftware Home Page</a><img src=\"https://www.skysotwaresolution.in/skysoftware-logo\" />",
+            "<a href=\"https://www.skysotwaresolution.in/\"><img src=\"https://www.skysotwaresolution.in/skysoftware-logo\" /></a>"
+        ],
+        "answer": "<a href=\"https://www.skysotwaresolution.in/\"><img src=\"https://www.skysotwaresolution.in/skysoftware-logo\" /></a>"
+    },
+    {
+        "language": "HTML5",
+        "question": " Which is the correct CSS syntax?",
+        "options": [
+            "body:color=black;",
+            "body {color: black;}",
+            "{body:color=black;}",
+            "{body;color:black;}"
+        ],
+        "answer": "body {color: black;}"
+    },
+    {
+        "language": "HTML5",
+        "question": " How do you insert a comment in a CSS file?",
+        "options": [
+            "' this is a comment",
+            "/* this is a comment */",
+            "// this is a comment",
+            "// this is a comment //"
+        ],
+        "answer": "/* this is a comment */"
+    },
+    {
+        "language": "HTML5",
+        "question": "How do you select an element with id \"demo\"?",
+        "options": [
+            "demo",
+            "*demo",
+            "#demo",
+            ".demo"
+        ],
+        "answer": "#demo"
+    },
+    {
+        "language": "HTML5",
+        "question": " How do you select elements with class name \"test\"?",
+        "options": [
+            "demo",
+            "*demo",
+            "#demo",
+            ".demo"
+        ],
+        "answer": ".demo"
+    },
+    {
+        "language": "HTML5",
+        "question": "How do you select all p elements inside a div element?",
+        "options": [
+            "div.p",
+            "div p",
+            "div + p",
+            "div,p"
+        ],
+        "answer": "div p"
+    }
 ]
