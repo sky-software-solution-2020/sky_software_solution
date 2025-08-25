@@ -24,7 +24,7 @@ export default function Questions() {
    const [isSubmitted, setIsSubmitted] = useState(false);
    const [score, setScore] = useState(0);
 
-      useEffect(() => {
+   useEffect(() => {
       if (isSubmitted) {
          document.body.style.overflow = "hidden"
       } else {
@@ -180,7 +180,7 @@ export default function Questions() {
 
                               {
                                  activeQuestion.options.map((option, idx) => (
-                                    <label key={idx} className="flex items-center capitalize gap-3 border border-gray-400 p-2 text-[18px] rounded-xl">
+                                    <label key={idx} className="flex items-center gap-3 border border-gray-400 p-2 text-[18px] rounded-xl">
                                        <input type="radio" value={option} checked={questionList[activeQuestion.index].answered === option} onChange={(e) => handleSelectOption(e, activeQuestion.index)} />
                                        {option}
                                     </label>
@@ -248,15 +248,15 @@ export default function Questions() {
                         <div className="flex flex-col gap-5">
                            <ul className="flex flex-col sm:flex-row xl:flex-col gap-3 text-[18px]">
                               <li className="flex items-center gap-3">
-                                 <span className="border border-gray-700 p-2 rounded-full h-8 w-8 text-sm flex items-center justify-center font-bold">15</span>
+                                 <span className="border border-gray-700 p-2 rounded-full h-8 w-8 text-sm flex items-center justify-center font-bold">{questionList.filter(q => !q.answered && !q.view).length}</span>
                                  <b>Not Visited</b>
                               </li>
                               <li className="flex items-center gap-3">
-                                 <span className="border border-gray-700 p-2 rounded-full h-8 w-8 text-sm flex items-center justify-center bg-yellow-300 text-white font-bold">15</span>
+                                 <span className="border border-gray-700 p-2 rounded-full h-8 w-8 text-sm flex items-center justify-center bg-yellow-300 text-white font-bold">{questionList.filter(q => !q.answered && q.view).length}</span>
                                  <b>Not Answered</b>
                               </li>
                               <li className="flex items-center gap-3">
-                                 <span className="border border-gray-700 p-2 rounded-full h-8 w-8 text-sm flex items-center justify-center bg-green-500 text-white font-bold">15</span>
+                                 <span className="border border-gray-700 p-2 rounded-full h-8 w-8 text-sm flex items-center justify-center bg-green-500 text-white font-bold">{questionList.filter(q => q.answered).length}</span>
                                  <b>Answered</b>
                               </li>
                            </ul>
