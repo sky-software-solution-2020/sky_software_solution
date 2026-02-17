@@ -59555,7 +59555,7 @@ export const questions = [
   },
 {
   "language": "Adv Excel",
-    "question": "Q29. What is the shortcut to open Format Cells?",
+    "question": "What is the shortcut to open Format Cells?",
       "options": [
         "A) Ctrl + F",
         "B) Ctrl + 1",
