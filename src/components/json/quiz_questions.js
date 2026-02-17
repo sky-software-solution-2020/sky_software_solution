@@ -78,7 +78,7 @@ export const questions = [
     "level": "Easy",
     "id": 4023
   },
-  
+
   {
     "language": "Java Fullstack",
     "question": "Which framework is commonly used in Java Fullstack for backend?",
@@ -92,7 +92,7 @@ export const questions = [
     "level": "Easy",
     "id": 4753
   },
-  
+
   {
     "language": "DSA C++",
     "question": "Which data structure uses FIFO?",
@@ -527,7 +527,7 @@ export const questions = [
     "level": "Easy",
     "id": 9046
   },
-  
+
   {
     "language": "Java Fullstack",
     "question": "Which framework is commonly used in Java Fullstack for backend?",
@@ -620,7 +620,7 @@ export const questions = [
     "id": 3403
   },
 
-  
+
   {
     "language": "JavaScript",
     "question": "Which symbol is used for comments in JavaScript?",
@@ -949,7 +949,7 @@ export const questions = [
     "level": "Medium",
     "id": 7782
   },
-  
+
   {
     "language": "Data Science",
     "question": "Which term refers to drawing insights from data?",
@@ -1002,7 +1002,7 @@ export const questions = [
     "level": "Hard",
     "id": 5373
   },
-  
+
   {
     "language": "Data Science",
     "question": "Which term refers to drawing insights from data?",
@@ -1269,7 +1269,7 @@ export const questions = [
     "level": "Hard",
     "id": 4972
   },
-  
+
   {
     "language": "Java Fullstack",
     "question": "Which framework is commonly used in Java Fullstack for backend?",
@@ -1649,7 +1649,7 @@ export const questions = [
     "level": "Medium",
     "id": 6745
   },
-  
+
   {
     "language": "MERN Fullstack",
     "question": "What does MERN stand for?",
@@ -1902,7 +1902,7 @@ export const questions = [
     "level": "Easy",
     "id": 6501
   },
-  
+
   {
     "language": "RDBMS with Excel",
     "question": "Which function in Excel is used to lookup values?",
@@ -2151,7 +2151,7 @@ export const questions = [
     "level": "Medium",
     "id": 8939
   },
-  
+
   {
     "language": "Bootstrap 4",
     "question": "What class is used for a button in Bootstrap?",
@@ -2257,7 +2257,7 @@ export const questions = [
     "level": "Easy",
     "id": 5065
   },
-  
+
   {
     "language": "Bootstrap 4",
     "question": "What class is used for a button in Bootstrap?",
@@ -2297,7 +2297,7 @@ export const questions = [
     "level": "Hard",
     "id": 4756
   },
-  
+
   {
     "language": "Java Fullstack",
     "question": "Which database is often used with Java Fullstack?",
@@ -2379,8 +2379,8 @@ export const questions = [
     "level": "Medium",
     "id": 1838
   },
-  
-  
+
+
   {
     "language": "Tailwind",
     "question": "What is Tailwind CSS?",
@@ -3611,7 +3611,7 @@ export const questions = [
     "level": "Hard",
     "id": 3609
   },
-  
+
 
   {
     "language": "RDBMS with Excel",
@@ -3678,7 +3678,7 @@ export const questions = [
     "level": "Easy",
     "id": 2693
   },
-  
+
   {
     "language": "CSS3",
     "question": "What does CSS stand for?",
@@ -3863,7 +3863,7 @@ export const questions = [
     "level": "Hard",
     "id": 7772
   },
-  
+
 
   {
     "language": "C++",
@@ -5146,8 +5146,8 @@ export const questions = [
     "level": "Medium",
     "id": 4830
   },
-  
-  
+
+
   {
     "language": "Java",
     "question": "Which of these is not a Java keyword?",
@@ -5344,7 +5344,7 @@ export const questions = [
     "level": "Medium",
     "id": 2154
   },
-  
+
 
   {
     "language": "Java Fullstack",
@@ -5398,8 +5398,8 @@ export const questions = [
     "level": "Hard",
     "id": 1466
   },
-  
-  
+
+
   {
     "language": "Java Fullstack",
     "question": "Which framework is commonly used in Java Fullstack for backend?",
@@ -5520,7 +5520,7 @@ export const questions = [
     "level": "Easy",
     "id": 3039
   },
-  
+
   {
     "language": "Java",
     "question": "Which method is the entry point for a Java program?",
@@ -5782,7 +5782,7 @@ export const questions = [
     "level": "Hard",
     "id": 8385
   },
-  
+
   {
     "language": "C++",
     "question": "Which concept allows function or operator to act differently on different data types in C++?",
@@ -5900,7 +5900,7 @@ export const questions = [
     "level": "Hard",
     "id": 6145
   },
-  
+
   {
     "language": "MERN Fullstack",
     "question": "Which part of MERN stack handles the frontend?",
@@ -6596,7 +6596,7 @@ export const questions = [
     "level": "Easy",
     "id": 4484
   },
-  
+
   {
     "language": "Python Fullstack",
     "question": "Which template engine is used with Flask?",
@@ -6859,7 +6859,7 @@ export const questions = [
     "level": "Easy",
     "id": 3318
   },
-  
+
   {
     "language": "Tailwind",
     "question": "What is Tailwind CSS?",
@@ -7413,7 +7413,7 @@ export const questions = [
     "level": "Medium",
     "id": 6478
   },
-  
+
   {
     "language": "Java Fullstack",
     "question": "Which framework is commonly used in Java Fullstack for backend?",
@@ -7726,7 +7726,7 @@ export const questions = [
     "level": "Easy",
     "id": 1764
   },
-  
+
   {
     "language": "Python",
     "question": "What does the len() function do in Python?",
@@ -10466,7 +10466,7 @@ export const questions = [
     "level": "Easy",
     "id": 4206
   },
-  
+
   {
     "language": "MERN Fullstack",
     "question": "Which part of MERN stack handles the frontend?",
@@ -10798,7 +10798,7 @@ export const questions = [
     "level": "Medium",
     "id": 5174
   },
-  
+
 
   {
     "language": "C++",
@@ -10905,7 +10905,7 @@ export const questions = [
     "level": "Medium",
     "id": 7397
   },
-  
+
 
   {
     "language": "C++",
@@ -11089,7 +11089,7 @@ export const questions = [
     "level": "Medium",
     "id": 3630
   },
-  
+
   {
     "language": "DSA C++",
     "question": "Which sorting algorithm is fastest on average?",
@@ -11703,7 +11703,7 @@ export const questions = [
     "level": "Easy",
     "id": 4277
   },
-  
+
   {
     "language": "Python Fullstack",
     "question": "Which Python web framework is used in Fullstack?",
@@ -12999,7 +12999,7 @@ export const questions = [
     "level": "Medium",
     "id": 9730
   },
-  
+
   {
     "language": "C++",
     "question": "Which concept allows function or operator to act differently on different data types in C++?",
@@ -14671,7 +14671,7 @@ export const questions = [
     "level": "Medium",
     "id": 4658
   },
-  
+
   {
     "language": "C++",
     "question": "Which of the following is not a C++ access specifier?",
@@ -14777,7 +14777,7 @@ export const questions = [
     "level": "Medium",
     "id": 6741
   },
-  
+
 
   {
     "language": "Python",
@@ -14988,7 +14988,7 @@ export const questions = [
     "level": "Medium",
     "id": 1526
   },
-  
+
   {
     "language": "Data Science",
     "question": "Which term refers to drawing insights from data?",
@@ -15028,7 +15028,7 @@ export const questions = [
     "level": "Medium",
     "id": 6268
   },
-  
+
   {
     "language": "MERN Fullstack",
     "question": "Which part of MERN stack handles the frontend?",
@@ -15252,7 +15252,7 @@ export const questions = [
     "level": "Hard",
     "id": 7765
   },
-  
+
   {
     "language": "Python",
     "question": "Which of the following is used to define a function in Python?",
@@ -15529,7 +15529,7 @@ export const questions = [
     "level": "Hard",
     "id": 8254
   },
-  
+
   {
     "language": "Java",
     "question": "Which of these is not a Java keyword?",
@@ -15699,7 +15699,7 @@ export const questions = [
     "level": "Medium",
     "id": 1278
   },
-  
+
   {
     "language": "Tailwind",
     "question": "What is Tailwind CSS?",
@@ -15871,7 +15871,7 @@ export const questions = [
     "level": "Hard",
     "id": 8402
   },
-  
+
   {
     "language": "CSS3",
     "question": "What does CSS stand for?",
@@ -16418,7 +16418,7 @@ export const questions = [
     "level": "Hard",
     "id": 9548
   },
-  
+
   {
     "language": "DSA C++",
     "question": "Which sorting algorithm is fastest on average?",
@@ -17424,7 +17424,7 @@ export const questions = [
     "level": "Medium",
     "id": 5654
   },
-  
+
   {
     "language": "Python",
     "question": "Which of the following is used to define a function in Python?",
@@ -18552,7 +18552,7 @@ export const questions = [
     "level": "Hard",
     "id": 9906
   },
-  
+
   {
     "language": "C++",
     "question": "Which of the following is not a C++ access specifier?",
@@ -18868,7 +18868,7 @@ export const questions = [
     "level": "Hard",
     "id": 7567
   },
-  
+
   {
     "language": "Java Fullstack",
     "question": "Which framework is commonly used in Java Fullstack for backend?",
@@ -19040,7 +19040,7 @@ export const questions = [
     "id": 8792
   },
 
-  
+
   {
     "language": "Bootstrap 4",
     "question": "What class is used for a button in Bootstrap?",
@@ -19480,7 +19480,7 @@ export const questions = [
     "level": "Easy",
     "id": 9248
   },
-  
+
 
   {
     "language": "C++",
@@ -20099,7 +20099,7 @@ export const questions = [
     "level": "Medium",
     "id": 6512
   },
-  
+
   {
     "language": "Data Science",
     "question": "Which library is used for data analysis in Python?",
@@ -20191,7 +20191,7 @@ export const questions = [
     "level": "Easy",
     "id": 3572
   },
-  
+
   {
     "language": "JavaScript",
     "question": "Which company developed JavaScript?",
@@ -20830,7 +20830,7 @@ export const questions = [
     "level": "Hard",
     "id": 9726
   },
-  
+
   {
     "language": "C++",
     "question": "Which of the following is not a C++ access specifier?",
@@ -21040,7 +21040,7 @@ export const questions = [
     "id": 5258
   },
 
-  
+
   {
     "language": "DSA C++",
     "question": "Which data structure uses FIFO?",
@@ -21720,7 +21720,7 @@ export const questions = [
     "level": "Easy",
     "id": 2596
   },
-  
+
   {
     "language": "Java",
     "question": "Which method is the entry point for a Java program?",
@@ -22217,7 +22217,7 @@ export const questions = [
     "level": "Hard",
     "id": 4683
   },
-  
+
   {
     "language": "Python Fullstack",
     "question": "Which Python web framework is used in Fullstack?",
@@ -23159,7 +23159,7 @@ export const questions = [
     "level": "Easy",
     "id": 5024
   },
-  
+
   {
     "language": "Tailwind",
     "question": "Which utility class sets margin in Tailwind?",
@@ -23674,7 +23674,7 @@ export const questions = [
     "id": 5106
   },
 
-  
+
   {
     "language": "CSS3",
     "question": "What does CSS stand for?",
@@ -25133,7 +25133,7 @@ export const questions = [
     "level": "Easy",
     "id": 1714
   },
-  
+
   {
     "language": "Java",
     "question": "Which method is the entry point for a Java program?",
@@ -25395,7 +25395,7 @@ export const questions = [
     "level": "Easy",
     "id": 1007
   },
-  
+
   {
     "language": "JavaScript",
     "question": "Which symbol is used for comments in JavaScript?",
@@ -25725,7 +25725,7 @@ export const questions = [
     "level": "Medium",
     "id": 6160
   },
-  
+
   {
     "language": "C++",
     "question": "Which of the following is not a C++ access specifier?",
@@ -25949,7 +25949,7 @@ export const questions = [
     "level": "Medium",
     "id": 4838
   },
-  
+
   {
     "language": "Java",
     "question": "Which method is the entry point for a Java program?",
@@ -26042,7 +26042,7 @@ export const questions = [
     "level": "Medium",
     "id": 2069
   },
-  
+
 
   {
     "language": "CSS3",
@@ -26228,7 +26228,7 @@ export const questions = [
     "level": "Hard",
     "id": 8954
   },
-  
+
   {
     "language": "Bootstrap 4",
     "question": "Which Bootstrap class makes an element responsive?",
@@ -26608,7 +26608,7 @@ export const questions = [
     "level": "Medium",
     "id": 1430
   },
-  
+
 
   {
     "language": "CSS3",
@@ -27054,7 +27054,7 @@ export const questions = [
     "level": "Easy",
     "id": 4407
   },
-  
+
   {
     "language": "Java",
     "question": "Which of these is not a Java keyword?",
@@ -28348,7 +28348,7 @@ export const questions = [
     "level": "Hard",
     "id": 6278
   },
-  
+
   {
     "language": "JavaScript",
     "question": "Which symbol is used for comments in JavaScript?",
@@ -28508,7 +28508,7 @@ export const questions = [
     "level": "Easy",
     "id": 8226
   },
-  
+
   {
     "language": "Java Fullstack",
     "question": "Which framework is commonly used in Java Fullstack for backend?",
@@ -28626,7 +28626,7 @@ export const questions = [
     "level": "Easy",
     "id": 2520
   },
-  
+
   {
     "language": "JavaScript",
     "question": "Which company developed JavaScript?",
@@ -28653,7 +28653,7 @@ export const questions = [
     "level": "Medium",
     "id": 6939
   },
-  
+
   {
     "language": "Python",
     "question": "What does the len() function do in Python?",
@@ -28967,8 +28967,8 @@ export const questions = [
     "level": "Medium",
     "id": 7911
   },
-  
-  
+
+
   {
     "language": "Java Fullstack",
     "question": "Which database is often used with Java Fullstack?",
@@ -29061,7 +29061,7 @@ export const questions = [
     "level": "Medium",
     "id": 4224
   },
-  
+
   {
     "language": "DSA C++",
     "question": "Which data structure uses FIFO?",
@@ -29589,7 +29589,7 @@ export const questions = [
     "level": "Easy",
     "id": 1115
   },
-  
+
   {
     "language": "C++",
     "question": "Which concept allows function or operator to act differently on different data types in C++?",
@@ -29734,7 +29734,7 @@ export const questions = [
     "level": "Hard",
     "id": 4950
   },
-  
+
   {
     "language": "Python Fullstack",
     "question": "Which Python web framework is used in Fullstack?",
@@ -30114,7 +30114,7 @@ export const questions = [
     "level": "Medium",
     "id": 4166
   },
-  
+
   {
     "language": "Python",
     "question": "What does the len() function do in Python?",
@@ -30637,7 +30637,7 @@ export const questions = [
     "level": "Hard",
     "id": 7393
   },
-  
+
   {
     "language": "RDBMS with Excel",
     "question": "Which function in Excel is used to lookup values?",
@@ -30901,7 +30901,7 @@ export const questions = [
     "level": "Medium",
     "id": 4590
   },
-  
+
   {
     "language": "RDBMS with Excel",
     "question": "Which SQL clause is used to filter rows?",
@@ -30915,7 +30915,7 @@ export const questions = [
     "level": "Medium",
     "id": 3901
   },
-  
+
   {
     "language": "RDBMS with Excel",
     "question": "Which function in Excel is used to lookup values?",
@@ -31230,7 +31230,7 @@ export const questions = [
     "level": "Hard",
     "id": 5888
   },
-  
+
   {
     "language": "C++",
     "question": "Which concept allows function or operator to act differently on different data types in C++?",
@@ -31704,7 +31704,7 @@ export const questions = [
     "level": "Hard",
     "id": 3654
   },
-  
+
 
   {
     "language": "MERN Fullstack",
@@ -31758,7 +31758,7 @@ export const questions = [
     "level": "Hard",
     "id": 1449
   },
-  
+
   {
     "language": "MERN Fullstack",
     "question": "What does MERN stand for?",
@@ -32099,7 +32099,7 @@ export const questions = [
     "level": "Hard",
     "id": 1204
   },
-  
+
   {
     "language": "C++",
     "question": "Which of the following is not a C++ access specifier?",
@@ -32927,7 +32927,7 @@ export const questions = [
     "level": "Medium",
     "id": 1848
   },
-  
+
 
   {
     "language": "MERN Fullstack",
@@ -33047,7 +33047,7 @@ export const questions = [
     "level": "Medium",
     "id": 6977
   },
-  
+
   {
     "language": "Data Science",
     "question": "Which library is used for data analysis in Python?",
@@ -33258,7 +33258,7 @@ export const questions = [
     "level": "Hard",
     "id": 5954
   },
-  
+
   {
     "language": "Python",
     "question": "What does the len() function do in Python?",
@@ -33525,7 +33525,7 @@ export const questions = [
     "level": "Easy",
     "id": 1001
   },
-  
+
   {
     "language": "Python Fullstack",
     "question": "Which template engine is used with Flask?",
@@ -33735,7 +33735,7 @@ export const questions = [
     "level": "Medium",
     "id": 8885
   },
-  
+
   {
     "language": "Python Fullstack",
     "question": "Which Python web framework is used in Fullstack?",
@@ -34192,7 +34192,7 @@ export const questions = [
     "level": "Hard",
     "id": 1306
   },
-  
+
   {
     "language": "RDBMS with Excel",
     "question": "Which SQL clause is used to filter rows?",
@@ -34703,7 +34703,7 @@ export const questions = [
     "level": "Easy",
     "id": 6224
   },
-  
+
   {
     "language": "DSA C++",
     "question": "Which data structure uses FIFO?",
@@ -35704,7 +35704,7 @@ export const questions = [
     "level": "Easy",
     "id": 2136
   },
-  
+
   {
     "language": "C++",
     "question": "Which of the following is not a C++ access specifier?",
@@ -36088,7 +36088,7 @@ export const questions = [
     "level": "Easy",
     "id": 5627
   },
-  
+
   {
     "language": "Java Fullstack",
     "question": "Which framework is commonly used in Java Fullstack for backend?",
@@ -36323,7 +36323,7 @@ export const questions = [
     "level": "Medium",
     "id": 9904
   },
-  
+
   {
     "language": "CSS3",
     "question": "Which property is used to change the text color in CSS?",
@@ -36402,7 +36402,7 @@ export const questions = [
     "level": "Hard",
     "id": 6491
   },
-  
+
 
 
   {
@@ -36444,7 +36444,7 @@ export const questions = [
     "level": "Easy",
     "id": 8222
   },
-  
+
 
   {
     "language": "CSS3",
@@ -36799,7 +36799,7 @@ export const questions = [
     "level": "Easy",
     "id": 5065
   },
-  
+
   {
     "language": "JavaScript",
     "question": "Which company developed JavaScript?",
@@ -36866,8 +36866,8 @@ export const questions = [
     "id": 4411
   },
 
-  
-  
+
+
   {
     "language": "Tailwind",
     "question": "What is Tailwind CSS?",
@@ -37170,7 +37170,7 @@ export const questions = [
   },
 
 
-  
+
   {
     "language": "JavaScript",
     "question": "Which company developed JavaScript?",
@@ -37340,7 +37340,7 @@ export const questions = [
     "level": "Easy",
     "id": 3334
   },
-  
+
   {
     "language": "DSA C++",
     "question": "Which sorting algorithm is fastest on average?",
@@ -37616,7 +37616,7 @@ export const questions = [
     "id": 2232
   },
 
-  
+
 
   {
     "language": "Bootstrap 4",
@@ -37684,7 +37684,7 @@ export const questions = [
     "id": 1407
   },
 
-  
+
   {
     "language": "JavaScript",
     "question": "Which symbol is used for comments in JavaScript?",
@@ -37948,7 +37948,7 @@ export const questions = [
     "level": "Medium",
     "id": 2117
   },
-  
+
   {
     "language": "Python Fullstack",
     "question": "Which Python web framework is used in Fullstack?",
@@ -38541,7 +38541,7 @@ export const questions = [
     "id": 7692
   },
 
-  
+
   {
     "language": "RDBMS with Excel",
     "question": "Which function in Excel is used to lookup values?",
@@ -38724,7 +38724,7 @@ export const questions = [
     "level": "Easy",
     "id": 8408
   },
-  
+
   {
     "language": "Bootstrap 4",
     "question": "What class is used for a button in Bootstrap?",
@@ -39824,7 +39824,7 @@ export const questions = [
     "level": "Medium",
     "id": 5480
   },
-  
+
   {
     "language": "Tailwind",
     "question": "What is Tailwind CSS?",
@@ -40165,7 +40165,7 @@ export const questions = [
     "level": "Medium",
     "id": 4538
   },
-  
+
   {
     "language": "Python",
     "question": "What does the len() function do in Python?",
@@ -40523,7 +40523,7 @@ export const questions = [
     "level": "Easy",
     "id": 4626
   },
-  
+
   {
     "language": "Java",
     "question": "Which of these is not a Java keyword?",
@@ -40642,7 +40642,7 @@ export const questions = [
     "level": "Hard",
     "id": 8854
   },
-  
+
   {
     "language": "JavaScript",
     "question": "Which company developed JavaScript?",
@@ -40788,7 +40788,7 @@ export const questions = [
     "id": 1104
   },
 
-  
+
   {
     "language": "Java Fullstack",
     "question": "Which database is often used with Java Fullstack?",
@@ -41551,7 +41551,7 @@ export const questions = [
     "id": 8447
   },
 
-  
+
   {
     "language": "Java",
     "question": "Which of these is not a Java keyword?",
@@ -41643,7 +41643,7 @@ export const questions = [
     "level": "Easy",
     "id": 1726
   },
-  
+
   {
     "language": "RDBMS with Excel",
     "question": "Which SQL clause is used to filter rows?",
@@ -41962,7 +41962,7 @@ export const questions = [
     "level": "Medium",
     "id": 2019
   },
-  
+
   {
     "language": "Java Fullstack",
     "question": "Which framework is commonly used in Java Fullstack for backend?",
@@ -42498,8 +42498,8 @@ export const questions = [
     "level": "Medium",
     "id": 3485
   },
-  
-  
+
+
   {
     "language": "JavaScript",
     "question": "Which company developed JavaScript?",
@@ -42960,7 +42960,7 @@ export const questions = [
     "level": "Medium",
     "id": 4773
   },
-  
+
   {
     "language": "Java",
     "question": "Which method is the entry point for a Java program?",
@@ -44775,7 +44775,7 @@ export const questions = [
     "level": "Easy",
     "id": 3946
   },
-  
+
   {
     "language": "MERN Fullstack",
     "question": "What does MERN stand for?",
@@ -45212,7 +45212,7 @@ export const questions = [
     "level": "Medium",
     "id": 6674
   },
-  
+
   {
     "language": "Java Fullstack",
     "question": "Which database is often used with Java Fullstack?",
@@ -45410,7 +45410,7 @@ export const questions = [
     "level": "Medium",
     "id": 4291
   },
-  
+
   {
     "language": "CSS3",
     "question": "What does CSS stand for?",
@@ -46068,7 +46068,7 @@ export const questions = [
     "level": "Easy",
     "id": 6533
   },
-  
+
   {
     "language": "Java Fullstack",
     "question": "Which framework is commonly used in Java Fullstack for backend?",
@@ -46241,7 +46241,7 @@ export const questions = [
     "id": 3432
   },
 
-  
+
   {
     "language": "Data Science",
     "question": "Which library is used for data analysis in Python?",
@@ -46415,7 +46415,7 @@ export const questions = [
     "level": "Medium",
     "id": 6696
   },
-  
+
   {
     "language": "RDBMS with Excel",
     "question": "Which function in Excel is used to lookup values?",
@@ -46846,7 +46846,7 @@ export const questions = [
     "level": "Hard",
     "id": 2642
   },
-  
+
 
   {
     "language": "C++",
@@ -47252,7 +47252,7 @@ export const questions = [
     "level": "Easy",
     "id": 7425
   },
-  
+
   {
     "language": "Java Fullstack",
     "question": "Which database is often used with Java Fullstack?",
@@ -47346,7 +47346,7 @@ export const questions = [
     "level": "Hard",
     "id": 5783
   },
-  
+
   {
     "language": "Data Science",
     "question": "Which term refers to drawing insights from data?",
@@ -47413,7 +47413,7 @@ export const questions = [
     "level": "Easy",
     "id": 5860
   },
-  
+
   {
     "language": "RDBMS with Excel",
     "question": "Which SQL clause is used to filter rows?",
@@ -47729,7 +47729,7 @@ export const questions = [
     "level": "Medium",
     "id": 5460
   },
-  
+
   {
     "language": "Data Science",
     "question": "Which term refers to drawing insights from data?",
@@ -47808,7 +47808,7 @@ export const questions = [
     "level": "Hard",
     "id": 9326
   },
-  
+
   {
     "language": "Tailwind",
     "question": "Which utility class sets margin in Tailwind?",
@@ -48032,7 +48032,7 @@ export const questions = [
     "id": 7455
   },
 
-  
+
   {
     "language": "MERN Fullstack",
     "question": "Which part of MERN stack handles the frontend?",
@@ -48271,7 +48271,7 @@ export const questions = [
     "level": "Medium",
     "id": 2900
   },
-  
+
   {
     "language": "JavaScript",
     "question": "Which company developed JavaScript?",
@@ -48392,7 +48392,7 @@ export const questions = [
     "level": "Hard",
     "id": 8247
   },
-  
+
   {
     "language": "JavaScript",
     "question": "Which company developed JavaScript?",
@@ -48471,7 +48471,7 @@ export const questions = [
     "level": "Easy",
     "id": 7119
   },
-  
+
   {
     "language": "Python Fullstack",
     "question": "Which Python web framework is used in Fullstack?",
@@ -49346,8 +49346,8 @@ export const questions = [
     "level": "Medium",
     "id": 8355
   },
-  
-  
+
+
   {
     "language": "Tailwind",
     "question": "What is Tailwind CSS?",
@@ -49820,7 +49820,7 @@ export const questions = [
     "level": "Hard",
     "id": 1084
   },
-  
+
   {
     "language": "Python Fullstack",
     "question": "Which template engine is used with Flask?",
@@ -50264,7 +50264,7 @@ export const questions = [
     "level": "Easy",
     "id": 9500
   },
-  
+
   {
     "language": "Tailwind",
     "question": "What is Tailwind CSS?",
@@ -50436,7 +50436,7 @@ export const questions = [
     "level": "Medium",
     "id": 1224
   },
-  
+
   {
     "language": "RDBMS with Excel",
     "question": "Which SQL clause is used to filter rows?",
@@ -50745,7 +50745,7 @@ export const questions = [
     "id": 2021
   },
 
-  
+
   {
     "language": "Python Fullstack",
     "question": "Which Python web framework is used in Fullstack?",
@@ -52224,7 +52224,7 @@ export const questions = [
     "level": "Easy",
     "id": 5876
   },
-  
+
   {
     "language": "Java Fullstack",
     "question": "Which framework is commonly used in Java Fullstack for backend?",
@@ -52553,7 +52553,7 @@ export const questions = [
     "level": "Hard",
     "id": 6552
   },
-  
+
   {
     "language": "Java",
     "question": "Which method is the entry point for a Java program?",
@@ -52880,7 +52880,7 @@ export const questions = [
     "level": "Hard",
     "id": 8884
   },
-  
+
   {
     "language": "Data Science",
     "question": "Which library is used for data analysis in Python?",
@@ -53421,7 +53421,7 @@ export const questions = [
     "level": "Medium",
     "id": 6965
   },
-  
+
   {
     "language": "Java",
     "question": "Which of these is not a Java keyword?",
@@ -53960,7 +53960,7 @@ export const questions = [
     "id": 7745
   },
 
-  
+
   {
     "language": "DSA C++",
     "question": "Which data structure uses FIFO?",
@@ -54104,7 +54104,7 @@ export const questions = [
     "level": "Medium",
     "id": 1894
   },
-  
+
   {
     "language": "Python",
     "question": "What does the len() function do in Python?",
@@ -54263,7 +54263,7 @@ export const questions = [
     "level": "Medium",
     "id": 5592
   },
-  
+
   {
     "language": "RDBMS with Excel",
     "question": "Which function in Excel is used to lookup values?",
@@ -54316,7 +54316,7 @@ export const questions = [
     "level": "Medium",
     "id": 7261
   },
-  
+
   {
     "language": "Tailwind",
     "question": "What is Tailwind CSS?",
@@ -55602,7 +55602,7 @@ export const questions = [
     "level": "Hard",
     "id": 6629
   },
-  
+
   {
     "language": "Python",
     "question": "What does the len() function do in Python?",
@@ -55720,7 +55720,7 @@ export const questions = [
     "level": "Medium",
     "id": 3615
   },
-  
+
   {
     "language": "DSA C++",
     "question": "Which data structure uses FIFO?",
@@ -56007,7 +56007,7 @@ export const questions = [
     "level": "Easy",
     "id": 6363
   },
-  
+
   {
     "language": "C++",
     "question": "Which of the following is not a C++ access specifier?",
@@ -56442,8 +56442,8 @@ export const questions = [
     "level": "Easy",
     "id": 6169
   },
-  
-  
+
+
   {
     "language": "RDBMS with Excel",
     "question": "Which SQL clause is used to filter rows?",
@@ -56509,7 +56509,7 @@ export const questions = [
     "level": "Easy",
     "id": 1333
   },
-  
+
   {
     "language": "CSS3",
     "question": "What does CSS stand for?",
@@ -57009,10 +57009,10 @@ export const questions = [
     "level": "Medium",
     "id": 7126
   },
-  
 
-  
-  
+
+
+
   {
     "language": "Java",
     "question": "Which method is the entry point for a Java program?",
@@ -58853,343 +58853,734 @@ export const questions = [
   },
 
   {
-        "language": "HTML5",
-        "question": "There are ___ levels of heading in HTML",
-        "options": [
-            "Three",
-            "four",
-            "five",
-            "six"
-        ],
-        "answer": "six"
-    },
-    {
-        "language": "HTML5",
-        "question": "What does HTML stand for?",
-        "options": [
-            "Home Tool Markup Language",
-            "Hyper text markup language",
-            "Hyperlink and text language",
-            "Hide text markup language"
-        ],
-        "answer": "Hyper text markup language"
-    },
-    {
-        "language": "HTML5",
-        "question": "Who is the father of HTML?",
-        "options": [
-            "Rasmus Lerdorf",
-            "Tim Berners-Lee",
-            "Brendan Eich",
-            "Sergey Brin"
-        ],
-        "answer": "Tim Berners-Lee"
-    },
-    {
-        "language": "HTML5",
-        "question": "What is the correct syntax of doctype in HTML5?",
-        "options": [
-            "</doctype html>",
-            "<doctype html>",
-            "<doctype html!>",
-            "<!doctype html>"
-        ],
-        "answer": "<!doctype html>"
-    },
-    {
-        "language": "HTML5",
-        "question": "Which of the following is used to read an HTML page and render it?",
-        "options": [
-            "Web server",
-            "Web network",
-            "Web browser",
-            "Web matrix"
-        ],
-        "answer": "Web browser"
-    },
-    {
-        "language": "HTML5",
-        "question": "Which of the following is not a difference between HTML and XHTML?",
-        "options": [
-            "Charset in both html and xhtml is “text/html”",
-            "Tags and attributes are case-insensitive in HTML but not in XHTML",
-            "Special characters must be escaped using character entities in XHTML unlike HTML",
-            "Charset in html is “text/html” where as in xhtml it is “application/xml+xhtml”"
-        ],
-        "answer": "Charset in both html and xhtml is “text/html”"
-    },
-    {
-        "language": "HTML5",
-        "question": "Which of the following tag is used for inserting the largest heading in HTML?",
-        "options": [
-            "head",
-            "<h1>",
-            "<h6>",
-            "heading"
-        ],
-        "answer": "<h1>"
-    },
-    {
-        "language": "HTML5",
-        "question": "What is DOM in HTML?",
-        "options": [
-            "Language dependent application programming",
-            "Hierarchy of objects in ASP.NET",
-            "Application programming interface",
-            "Convention for representing and interacting with objects in html documents"
-        ],
-        "answer": "Convention for representing and interacting with objects in html documents"
-    },
-    {
-        "language": "HTML5",
-        "question": "In which part of the HTML metadata is contained?",
-        "options": [
-            "head tag",
-            "Title tag",
-            "Html tag",
-            "body tag"
-        ],
-        "answer": "head tag"
-    },
-    {
-        "language": "HTML5",
-        "question": "Which element is used to get highlighted text in HTML5?",
-        "options": [
-            "<u>",
-            "<mark>",
-            "<highlight>",
-            "<b>"
-        ],
-        "answer": "<mark>"
-    },
-    {
-        "language": "HTML5",
-        "question": " How do we write comments in HTML?",
-        "options": [
-            "</…….>",
-            "<!……>",
-            "</……/>",
-            "<…….!>"
-        ],
-        "answer": " <!……>"
-    },
-    {
-        "language": "HTML5",
-        "question": "  Which of the following elements in HTML5 defines video or movie content?",
-        "options": [
-            "<video>",
-            "<movie>",
-            "<audio>",
-            "<media>"
-        ],
-        "answer": "<video>"
-    },
-    {
-        "language": "HTML5",
-        "question": "  Which element is used for or styling HTML5 layout?",
-        "options": [
-            "CSS",
-            "jQuery",
-            "JavaScript",
-            "PHP"
-        ],
-        "answer": "CSS"
-    },
-    {
-        "language": "HTML5",
-        "question": "  Which HTML tag is used for making character appearance bold?",
-        "options": [
-            "<u>content</u>",
-            "<b>content</b>",
-            "<br>content</br>",
-            "<i>content</i>"
-        ],
-        "answer": "<b>content</b>"
-    },
-    {
-        "language": "HTML5",
-        "question": "  Which HTML tag is used to insert an image?",
-        "options": [
-            "<img url=”htmllogo.jpg” />",
-            "<img alt=”htmllogo.jpg” />",
-            "<img src=”htmllogo.jpg” />",
-            "<img link=”htmllogo.jpg” />"
-        ],
-        "answer": "<img src=”htmllogo.jpg” />"
-    },
-    {
-        "language": "HTML5",
-        "question": " What is the correct HTML element for inserting a line break?",
-        "options": [
-            "<lb>",
-            "<break>",
-            "<br>",
-            "<bre>"
-        ],
-        "answer": "<br>"
-    },
-    {
-        "language": "HTML5",
-        "question": "What is the correct HTML for adding a background color?",
-        "options": [
-            "<body bg=\"yellow\">",
-            "<background>yellow</background>",
-            "<body style=\"background-color:yellow;\">",
-            "<color=\"green\">"
-        ],
-        "answer": "<body style=\"background-color:yellow;\">"
-    },
-    {
-        "language": "HTML5",
-        "question": "Choose the correct HTML element to define important text?",
-        "options": [
-            "<strong>",
-            "<b>",
-            "<important>",
-            "<i>"
-        ],
-        "answer": "<strong>"
-    },
-    {
-        "language": "HTML5",
-        "question": "What is the correct HTML for creating a hyperlink?",
-        "options": [
-            "<a url=\"http://www.skysoftwaresoltion.in\">skysoftwaresoltion</a>",
-            "<a href=\"http://skysoftwaresoltion.in\">skysoftwaresoltion</a>",
-            "<a>http: //www.skysoftwaresoltion.in</a>",
-            "<a name=\"http://skysoftwaresoltion.in\">skysoftwaresoltion.in</a>"
-        ],
-        "answer": "<a href=\"http://skysoftwaresoltion.in\">skysoftwaresoltion</a>"
-    },
-    {
-        "language": "HTML5",
-        "question": "Which character is used to indicate an end tag?",
-        "options": [
-            "^",
-            "<",
-            "*",
-            "/"
-        ],
-        "answer": "/"
-    },
-    {
-        "language": "HTML5",
-        "question": "How can you open a link in a new tab/browser window?",
-        "options": [
-            "<a href=\"url\" new>",
-            "<a href=\"url\" target=\"_blank\">",
-            "<a href=\"url\" target=\"new\">"
-        ],
-        "answer": "<a href=\"url\" target=\"_blank\">"
-    },
-    {
-        "language": "HTML5",
-        "question": "Which of these elements are all <table> elements?",
-        "options": [
-            "<table><head><tfoot>",
-            "<table><tr><td>",
-            "<table><tr><tt>",
-            "<thead><body><tr>"
-        ],
-        "answer": "<table><tr><td>"
-    },
-    {
-        "language": "HTML5",
-        "question": "How can you make a numbered list?",
-        "options": [
-            "<ul>",
-            "<dl>",
-            "<ol>",
-            "<list>"
-        ],
-        "answer": "<ol>"
-    },
-    {
-        "language": "HTML5",
-        "question": ". How can you make a bulleted list?",
-        "options": [
-            "<ul>",
-            "<dl>",
-            "<ol>",
-            "<ul>"
-        ],
-        "answer": "<ul>"
-    },
-    {
-        "language": "HTML5",
-        "question": ". What is the correct HTML for making a checkbox?",
-        "options": [
-            "<input type=\"check\">",
-            "<check>",
-            "<checkbox>",
-            "<input type=\"checkbox\">"
-        ],
-        "answer": "<input type=\"checkbox\">"
-    },
-    {
-        "language": "HTML5",
-        "question": "Which of the following HTML code will make an image clickable?",
-        "options": [
-            "<a href=\"https://www.skysotwaresolution.in/\">Sky Software Home Page</a>",
-            "<img src=\"https://www.skysotwaresolution.in/skysoftware-logo\"><a href=\"https://www.skysotwaresolution.in/\">Skysoftware  Home Page</a></img>",
-            "<a href=\"https://www.skysotwaresolution.in/\">Skysoftware Home Page</a><img src=\"https://www.skysotwaresolution.in/skysoftware-logo\" />",
-            "<a href=\"https://www.skysotwaresolution.in/\"><img src=\"https://www.skysotwaresolution.in/skysoftware-logo\" /></a>"
-        ],
-        "answer": "<a href=\"https://www.skysotwaresolution.in/\"><img src=\"https://www.skysotwaresolution.in/skysoftware-logo\" /></a>"
-    },
-    {
-        "language": "HTML5",
-        "question": " Which is the correct CSS syntax?",
-        "options": [
-            "body:color=black;",
-            "body {color: black;}",
-            "{body:color=black;}",
-            "{body;color:black;}"
-        ],
-        "answer": "body {color: black;}"
-    },
-    {
-        "language": "HTML5",
-        "question": " How do you insert a comment in a CSS file?",
-        "options": [
-            "' this is a comment",
-            "/* this is a comment */",
-            "// this is a comment",
-            "// this is a comment //"
-        ],
-        "answer": "/* this is a comment */"
-    },
-    {
-        "language": "HTML5",
-        "question": "How do you select an element with id \"demo\"?",
-        "options": [
-            "demo",
-            "*demo",
-            "#demo",
-            ".demo"
-        ],
-        "answer": "#demo"
-    },
-    {
-        "language": "HTML5",
-        "question": " How do you select elements with class name \"test\"?",
-        "options": [
-            "demo",
-            "*demo",
-            "#demo",
-            ".demo"
-        ],
-        "answer": ".demo"
-    },
-    {
-        "language": "HTML5",
-        "question": "How do you select all p elements inside a div element?",
-        "options": [
-            "div.p",
-            "div p",
-            "div + p",
-            "div,p"
-        ],
-        "answer": "div p"
-    }
+    "language": "HTML5",
+    "question": "There are ___ levels of heading in HTML",
+    "options": [
+      "Three",
+      "four",
+      "five",
+      "six"
+    ],
+    "answer": "six"
+  },
+  {
+    "language": "HTML5",
+    "question": "What does HTML stand for?",
+    "options": [
+      "Home Tool Markup Language",
+      "Hyper text markup language",
+      "Hyperlink and text language",
+      "Hide text markup language"
+    ],
+    "answer": "Hyper text markup language"
+  },
+  {
+    "language": "HTML5",
+    "question": "Who is the father of HTML?",
+    "options": [
+      "Rasmus Lerdorf",
+      "Tim Berners-Lee",
+      "Brendan Eich",
+      "Sergey Brin"
+    ],
+    "answer": "Tim Berners-Lee"
+  },
+  {
+    "language": "HTML5",
+    "question": "What is the correct syntax of doctype in HTML5?",
+    "options": [
+      "</doctype html>",
+      "<doctype html>",
+      "<doctype html!>",
+      "<!doctype html>"
+    ],
+    "answer": "<!doctype html>"
+  },
+  {
+    "language": "HTML5",
+    "question": "Which of the following is used to read an HTML page and render it?",
+    "options": [
+      "Web server",
+      "Web network",
+      "Web browser",
+      "Web matrix"
+    ],
+    "answer": "Web browser"
+  },
+  {
+    "language": "HTML5",
+    "question": "Which of the following is not a difference between HTML and XHTML?",
+    "options": [
+      "Charset in both html and xhtml is “text/html”",
+      "Tags and attributes are case-insensitive in HTML but not in XHTML",
+      "Special characters must be escaped using character entities in XHTML unlike HTML",
+      "Charset in html is “text/html” where as in xhtml it is “application/xml+xhtml”"
+    ],
+    "answer": "Charset in both html and xhtml is “text/html”"
+  },
+  {
+    "language": "HTML5",
+    "question": "Which of the following tag is used for inserting the largest heading in HTML?",
+    "options": [
+      "head",
+      "<h1>",
+      "<h6>",
+      "heading"
+    ],
+    "answer": "<h1>"
+  },
+  {
+    "language": "HTML5",
+    "question": "What is DOM in HTML?",
+    "options": [
+      "Language dependent application programming",
+      "Hierarchy of objects in ASP.NET",
+      "Application programming interface",
+      "Convention for representing and interacting with objects in html documents"
+    ],
+    "answer": "Convention for representing and interacting with objects in html documents"
+  },
+  {
+    "language": "HTML5",
+    "question": "In which part of the HTML metadata is contained?",
+    "options": [
+      "head tag",
+      "Title tag",
+      "Html tag",
+      "body tag"
+    ],
+    "answer": "head tag"
+  },
+  {
+    "language": "HTML5",
+    "question": "Which element is used to get highlighted text in HTML5?",
+    "options": [
+      "<u>",
+      "<mark>",
+      "<highlight>",
+      "<b>"
+    ],
+    "answer": "<mark>"
+  },
+  {
+    "language": "HTML5",
+    "question": " How do we write comments in HTML?",
+    "options": [
+      "</…….>",
+      "<!……>",
+      "</……/>",
+      "<…….!>"
+    ],
+    "answer": " <!……>"
+  },
+  {
+    "language": "HTML5",
+    "question": "  Which of the following elements in HTML5 defines video or movie content?",
+    "options": [
+      "<video>",
+      "<movie>",
+      "<audio>",
+      "<media>"
+    ],
+    "answer": "<video>"
+  },
+  {
+    "language": "HTML5",
+    "question": "  Which element is used for or styling HTML5 layout?",
+    "options": [
+      "CSS",
+      "jQuery",
+      "JavaScript",
+      "PHP"
+    ],
+    "answer": "CSS"
+  },
+  {
+    "language": "HTML5",
+    "question": "  Which HTML tag is used for making character appearance bold?",
+    "options": [
+      "<u>content</u>",
+      "<b>content</b>",
+      "<br>content</br>",
+      "<i>content</i>"
+    ],
+    "answer": "<b>content</b>"
+  },
+  {
+    "language": "HTML5",
+    "question": "  Which HTML tag is used to insert an image?",
+    "options": [
+      "<img url=”htmllogo.jpg” />",
+      "<img alt=”htmllogo.jpg” />",
+      "<img src=”htmllogo.jpg” />",
+      "<img link=”htmllogo.jpg” />"
+    ],
+    "answer": "<img src=”htmllogo.jpg” />"
+  },
+  {
+    "language": "HTML5",
+    "question": " What is the correct HTML element for inserting a line break?",
+    "options": [
+      "<lb>",
+      "<break>",
+      "<br>",
+      "<bre>"
+    ],
+    "answer": "<br>"
+  },
+  {
+    "language": "HTML5",
+    "question": "What is the correct HTML for adding a background color?",
+    "options": [
+      "<body bg=\"yellow\">",
+      "<background>yellow</background>",
+      "<body style=\"background-color:yellow;\">",
+      "<color=\"green\">"
+    ],
+    "answer": "<body style=\"background-color:yellow;\">"
+  },
+  {
+    "language": "HTML5",
+    "question": "Choose the correct HTML element to define important text?",
+    "options": [
+      "<strong>",
+      "<b>",
+      "<important>",
+      "<i>"
+    ],
+    "answer": "<strong>"
+  },
+  {
+    "language": "HTML5",
+    "question": "What is the correct HTML for creating a hyperlink?",
+    "options": [
+      "<a url=\"http://www.skysoftwaresoltion.in\">skysoftwaresoltion</a>",
+      "<a href=\"http://skysoftwaresoltion.in\">skysoftwaresoltion</a>",
+      "<a>http: //www.skysoftwaresoltion.in</a>",
+      "<a name=\"http://skysoftwaresoltion.in\">skysoftwaresoltion.in</a>"
+    ],
+    "answer": "<a href=\"http://skysoftwaresoltion.in\">skysoftwaresoltion</a>"
+  },
+  {
+    "language": "HTML5",
+    "question": "Which character is used to indicate an end tag?",
+    "options": [
+      "^",
+      "<",
+      "*",
+      "/"
+    ],
+    "answer": "/"
+  },
+  {
+    "language": "HTML5",
+    "question": "How can you open a link in a new tab/browser window?",
+    "options": [
+      "<a href=\"url\" new>",
+      "<a href=\"url\" target=\"_blank\">",
+      "<a href=\"url\" target=\"new\">"
+    ],
+    "answer": "<a href=\"url\" target=\"_blank\">"
+  },
+  {
+    "language": "HTML5",
+    "question": "Which of these elements are all <table> elements?",
+    "options": [
+      "<table><head><tfoot>",
+      "<table><tr><td>",
+      "<table><tr><tt>",
+      "<thead><body><tr>"
+    ],
+    "answer": "<table><tr><td>"
+  },
+  {
+    "language": "HTML5",
+    "question": "How can you make a numbered list?",
+    "options": [
+      "<ul>",
+      "<dl>",
+      "<ol>",
+      "<list>"
+    ],
+    "answer": "<ol>"
+  },
+  {
+    "language": "HTML5",
+    "question": ". How can you make a bulleted list?",
+    "options": [
+      "<ul>",
+      "<dl>",
+      "<ol>",
+      "<ul>"
+    ],
+    "answer": "<ul>"
+  },
+  {
+    "language": "HTML5",
+    "question": ". What is the correct HTML for making a checkbox?",
+    "options": [
+      "<input type=\"check\">",
+      "<check>",
+      "<checkbox>",
+      "<input type=\"checkbox\">"
+    ],
+    "answer": "<input type=\"checkbox\">"
+  },
+  {
+    "language": "HTML5",
+    "question": "Which of the following HTML code will make an image clickable?",
+    "options": [
+      "<a href=\"https://www.skysotwaresolution.in/\">Sky Software Home Page</a>",
+      "<img src=\"https://www.skysotwaresolution.in/skysoftware-logo\"><a href=\"https://www.skysotwaresolution.in/\">Skysoftware  Home Page</a></img>",
+      "<a href=\"https://www.skysotwaresolution.in/\">Skysoftware Home Page</a><img src=\"https://www.skysotwaresolution.in/skysoftware-logo\" />",
+      "<a href=\"https://www.skysotwaresolution.in/\"><img src=\"https://www.skysotwaresolution.in/skysoftware-logo\" /></a>"
+    ],
+    "answer": "<a href=\"https://www.skysotwaresolution.in/\"><img src=\"https://www.skysotwaresolution.in/skysoftware-logo\" /></a>"
+  },
+  {
+    "language": "HTML5",
+    "question": " Which is the correct CSS syntax?",
+    "options": [
+      "body:color=black;",
+      "body {color: black;}",
+      "{body:color=black;}",
+      "{body;color:black;}"
+    ],
+    "answer": "body {color: black;}"
+  },
+  {
+    "language": "HTML5",
+    "question": " How do you insert a comment in a CSS file?",
+    "options": [
+      "' this is a comment",
+      "/* this is a comment */",
+      "// this is a comment",
+      "// this is a comment //"
+    ],
+    "answer": "/* this is a comment */"
+  },
+  {
+    "language": "HTML5",
+    "question": "How do you select an element with id \"demo\"?",
+    "options": [
+      "demo",
+      "*demo",
+      "#demo",
+      ".demo"
+    ],
+    "answer": "#demo"
+  },
+  {
+    "language": "HTML5",
+    "question": " How do you select elements with class name \"test\"?",
+    "options": [
+      "demo",
+      "*demo",
+      "#demo",
+      ".demo"
+    ],
+    "answer": ".demo"
+  },
+  {
+    "language": "HTML5",
+    "question": "How do you select all p elements inside a div element?",
+    "options": [
+      "div.p",
+      "div p",
+      "div + p",
+      "div,p"
+    ],
+    "answer": "div p"
+  },
+
+  {
+    "language": "Adv Excel",
+    "question": "Q1. Which formula is used to add numbers in Excel?",
+    "options": [
+      "=ADD(A1:A5)",
+      "=PLUS(A1:A5)",
+      "=SUM(A1:A5)",
+      "=TOTAL(A1:A5)"
+    ],
+    "answer": "=SUM(A1:A5)",
+    "level": "Medium",
+
+  },
+  {
+    "language": "Adv Excel",
+    "question": "Q2. Which function is used to find a value vertically in a table?",
+    "options": [
+      "A) HLOOKUP",
+      "B) VLOOKUP",
+      "C) LOOKUP",
+      "D) MATCH"
+    ],
+    "answer": "B) VLOOKUP",
+    "level": "Medium",
+
+  },
+  {
+    "language": "Adv Excel",
+    "question": "Q3. Which formula is used to count cells with a specific condition?",
+    "options": [
+      "A) COUNT",
+      "B) COUNTA",
+      "C) COUNTIF",
+      "D) SUMIF"
+    ],
+    "answer": "C) COUNTIF",
+    "level": "Medium",
+
+  },
+  {
+    "language": "Adv Excel",
+    "question": "Q4. Which function is used to return a value from a table using row and column numbers?",
+    "options": [
+      "A) VLOOKUP",
+      "B) HLOOKUP",
+      "C) INDEX",
+      "D) FIND"
+    ],
+    "answer": "C) INDEX",
+    "level": "Medium",
+
+  },
+  {
+    "language": "Adv Excel",
+    "question": "Q5. What does Pivot Table help in?",
+    "options": [
+      "A) Data Entry",
+      "B) Data Formatting",
+      "C) Data Analysis & Summary",
+      "D) Printing"
+    ],
+    "answer": "C) Data Analysis & Summary",
+    "level": "Medium",
+
+  },
+  {
+    "language": "Adv Excel",
+    "question": "Q6. Which function is used to combine text from multiple cells?",
+    "options": [
+      "A) CONCAT",
+      "B) MERGE",
+      "C) JOIN",
+      "D) TEXTJOIN"
+    ],
+    "answer": "A) CONCAT",
+    "level": "Medium",
+
+  },
+  {
+    "language": "Adv Excel",
+    "question": "Q7. Which function is used to remove extra spaces from text?",
+    "options": [
+      "A) CLEAN",
+      "B) TRIM",
+      "C) REMOVE",
+      "D) SPACE"
+    ],
+    "answer": "B) TRIM",
+    "level": "Medium",
+
+  },
+  {
+    "language": "Adv Excel",
+    "question": "Q8. Which feature is used to restrict data entry in a cell?",
+    "options": [
+      "A) Filter",
+      "B) Conditional Formatting",
+      "C) Data Validation",
+      "D) Protect Sheet"
+    ],
+    "answer": "C) Data Validation",
+    "level": "Medium",
+
+  },
+  {
+    "language": "Adv Excel",
+    "question": "Q9. Which function is used to find position of a value in a range?",
+    "options": [
+      "A) FIND",
+      "B) SEARCH",
+      "C) MATCH",
+      "D) LOCATE"
+    ],
+    "answer": "C) MATCH",
+    "level": "Medium",
+  },
+  {
+    "language": "Adv Excel",
+    "question": "Q10. Complete the formula to sum values greater than 100? =________(A1:A10,\" > 100\")",
+    "options": [
+      "A) SUM",
+      "B) SUMIF",
+      "C) COUNTIF",
+      "D) AVERAGEIF"
+    ],
+    "answer": "B) SUMIF",
+    "level": "Medium",
+  },
+  {
+    "language": "Adv Excel",
+    "question": "Q11. Complete the formula to remove extra spaces ? =________(A1)",
+    "options": [
+      "A) CLEAN",
+      "B) REMOVE",
+      "C) TRIM",
+      "D) SPACE"
+    ],
+    "answer": "C) TRIM",
+    "level": "Medium",
+  },
+  {
+    "language": "Adv Excel",
+    "question": "Q12. Complete the formula to count non-empty cells? =________(A1:A20)",
+    "options": [
+      "A) COUNT",
+      "B) COUNTA",
+      "C) COUNTBLANK",
+      "D) COUNTIF"
+    ],
+    "answer": "B) COUNTA)",
+    "level": "Medium",
+
+  },
+  {
+    "language": "Adv Excel",
+    "question": "Q13. Extract first 4 characters? =________(A1,4)",
+    "options": [
+      "A) MID",
+      "B) RIGHT",
+      "C) LEFT",
+      "D) LEN"
+    ],
+    "answer": "C) LEFT",
+    "level": "Medium",
+
+  },
+  {
+    "language": "Adv Excel",
+    "question": "Q14. Which function handles multiple conditions?",
+    "options": [
+      "A) IF",
+      "B) AND",
+      "C) OR",
+      "D) IF with AND"
+    ],
+    "answer": "D) IF with AND",
+    "level": "Medium",
+
+  },
+  {
+    "language": "Adv Excel",
+    "question": "Q15. Which symbol is used for absolute reference?",
+    "options": [
+      "A) @",
+      "B) #",
+      "C) $",
+      "D) %"
+    ],
+    "answer": "C) $",
+    "level": "Medium",
+
+  },
+  {
+    "language": "Adv Excel",
+    "question": "Q16. Which Excel feature summarizes large data quickly?",
+    "options": [
+      "A) Filter",
+      "B) Table",
+      "C) Pivot Table",
+      "D) Chart"
+    ],
+    "answer": "C) Pivot Table",
+    "level": "Medium",
+
+  },
+  {
+    "language": "Adv Excel",
+    "question": "Q17. Calculate average only if value > 50?",
+    "options": [
+      "A) =AVERAGE(A1:A10,\" > 50\")",
+      "B) =AVERAGEIF(A1:A10,\" > 50\")",
+      "C) =AVGIF(A1:A10,\" > 50\")",
+      "D) =IFAVERAGE(A1:A10,\" > 50\")"
+    ],
+    "answer": "B) =AVERAGEIF(A1:A10,\" > 50\")",
+    "level": "Medium",
+
+  },
+  {
+    "language": "Adv Excel",
+    "question": "Q18. Which error occurs when value is not found?",
+    "options": [
+      "A) #REF!",
+      "B) #VALUE!",
+      "C) #N/A",
+      "D) #DIV/0!"
+    ],
+    "answer": "C) #N/A",
+    "level": "Medium",
+
+  },
+  {
+    "language": "Adv Excel",
+    "question": "Q19. Which error shows division by zero?",
+    "options": [
+      "A) #NUM!",
+      "B) #DIV/0!",
+      "C) #NULL!",
+      "D) #NAME?"
+    ],
+    "answer": "B) #DIV/0!",
+    "level": "Medium",
+
+  },
+  {
+    "language": "Adv Excel",
+    "question": "Q20. Loan = ₹5,00,000 Interest = 10% yearly Time = 5 years Monthly EMI formula?",
+    "options": [
+      "A) =PMT(10%,5,500000)",
+      "B) =PMT(10%/12,5*12,-500000)",
+      "C) =PMT(10%,5*12,500000)",
+      "D) =PMT(10%/12,5,500000)"
+    ],
+    "answer": "B) =PMT(10%/12,5*12,-500000)",
+    "level": "Medium",
+
+  },
+  {
+    "language": "Adv Excel",
+    "question": "Q21. If EMI is coming negative, why?",
+    "options": [
+      "A) Wrong rate",
+      "B) Loan must be negative value",
+      "C) Excel error",
+      "D) Missing argument"
+    ],
+    "answer": "B) Loan must be negative value",
+    "level": "Medium",
+
+  },
+  {
+    "language": "Adv Excel",
+    "question": "Q22. Which is correct?",
+    "options": [
+      "A) =IF(A1>90,\"A\",IF(A1>75,\"B\",IF(A1>50,\"C\",\"Fail\")))",
+      "B) =IF(A1>90,\"A\",\"B\",\"C\")"
+
+    ],
+    "answer": "A) =IF(A1>90,\"A\",IF(A1>75,\"B\",IF(A1>50,\"C\",\"Fail\")))",
+    "level": "Medium",
+
+  },
+  {
+    "language": "Adv Excel",
+    "question": "Q23. Which function calculates Principal amount in EMI?",
+    "options": [
+      "A) PMT",
+      "B) IPMT",
+      "C) PPMT",
+      "D) FV"
+    ],
+    "answer": "C) PPMT",
+    "level": "Medium",
+
+  },
+  {
+    "language": "Adv Excel",
+    "question": "Q24. Consolidate option is available under which tab?",
+    "options": [
+      "A) Home",
+      "B) Insert",
+      "C) Data",
+      "D) View"
+    ],
+    "answer": "C) Data",
+    "level": "Medium",
+
+  },
+  {
+    "language": "Adv Excel",
+    "question": "Q25. Which validation type allows selecting from a dropdown list?",
+    "options": [
+      "A) Whole Number",
+      "B) List",
+      "C) Date",
+      "D) Text Length"
+    ],
+    "answer": "B) List",
+    "level": "Medium",
+
+  },
+  {
+    "language": "Adv Excel",
+    "question": "Q26. Which formula allows only email format (contains @)?",
+    "options": [
+      "A) =ISNUMBER(A1)",
+      "B) =FIND(\"@\",A1)",
+      "C) =COUNT(A1)",
+      "D) =LEN(A1)"
+    ],
+    "answer": "B) =FIND(\"@\",A1) (Advanced answer: =ISNUMBER(FIND(\"@\",A1)))",
+  "level": "Medium",
+    
+  },
+{
+  "language": "Adv Excel",
+    "question": "Q27. Which formula counts cells with condition \"Sales\"?",
+      "options": [
+        "A) =COUNT(A1:A10,\"Sales\")",
+        "B) =COUNTIF(A1:A10,\"Sales\")",
+        "C) =COUNTA(A1:A10,\"Sales\")",
+        "D) =IFCOUNT(A1:A10,\"Sales\")"
+      ],
+        "answer": "B) =COUNTIF(A1:A10,\"Sales\")",
+          "level": "Medium",
+   
+  },
+{
+  "language": "Adv Excel",
+    "question": "Q28. What does this formula return? =LEFT(A1,3)",
+      "options": [
+        "A) Last 3 characters",
+        "B) First 3 characters",
+        "C) Middle text",
+        "D) Length of text"
+      ],
+        "answer": "B) First 3 characters",
+          "level": "Medium",
+
+  },
+{
+  "language": "Adv Excel",
+    "question": "Q29. What is the shortcut to open Format Cells?",
+      "options": [
+        "A) Ctrl + F",
+        "B) Ctrl + 1",
+        "C) Ctrl + Shift + 1",
+        "D) Alt + F1"
+      ],
+        "answer": "B) Ctrl + 1",
+          "level": "Medium",
+    
+  },
+{
+  "language": "Adv Excel",
+    "question": "Q30. Which formula returns current date?",
+      "options": [
+        "A) =DATE()",
+        "B) =NOW()",
+        "C) =TODAY()",
+        "D) =TIME()"
+      ],
+        "answer": "C) =TODAY()",
+          "level": "Medium",
+    
+  }
+
+
+
+    
 ]
